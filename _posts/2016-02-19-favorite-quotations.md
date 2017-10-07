@@ -63,3 +63,5 @@ First, say to yourself what you would be; then do what you have to do. --Epictet
 The future is already here - it's just not very evenly distributed. --William Gibson, Fiction Writer
 
 The past is never dead. It's not even past. --William Faulkner, Writer
+
+Live as you die; ask not why. --Eric Litak, Software Developer
