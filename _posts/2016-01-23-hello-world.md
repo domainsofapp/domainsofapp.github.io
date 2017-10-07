@@ -16,8 +16,8 @@ domainsofapplicability at gee male
 
 If you would like to contribute to the site, I am also open to that. Here are some items on my to-do list:
 
-*Add Google Analytics
-*Add commenting features to the posts (e.g., Disqus)
-*Add advertisements so I can earn some income from this (?)
+* Add Google Analytics
+* Add commenting features to the posts (e.g., Disqus)
+* Add advertisements so I can earn some income from this (?)
 
 That's all for now -- thanks for reading!
