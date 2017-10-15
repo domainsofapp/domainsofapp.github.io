@@ -14,7 +14,7 @@ If you would like to provide comments/feedback/suggestions, you may reach me at:
 
 domainsofapplicability at gee male
 
-If you would like to contribute to the site, I am also open to that. Here are some items on my to-do list:
+If you would like to contribute to the site, I am open to that. Here are some items on my to-do list:
 
 * Add Google Analytics
 * Add commenting features to the posts (e.g., Disqus)
