@@ -62,8 +62,12 @@ First, say to yourself what you would be; then do what you have to do. --Epictet
 
 The future is already here - it's just not very evenly distributed. --William Gibson, Fiction Writer
 
-I have never met a scientist who didn't play music. --Thomas Eisner, Entomologist
+I've never met a scientist who didn't play music. --Thomas Eisner, Entomologist
 
 The past is never dead. It's not even past. --William Faulkner, Writer
 
 Live as you die; ask not why. --Eric Litak, Software Developer
+
+Solidarity not charity. --Organizing philosophy, Common Ground Collective, New Orleans
+
+Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the world sucks. --JoeJoe, Grid Operator, Greentech Media Poster via Disqus @disqus_f1ChKs4sTj
