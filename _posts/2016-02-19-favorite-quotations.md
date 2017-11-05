@@ -72,4 +72,4 @@ Solidarity not charity. --Organizing philosophy, Common Ground Collective, New O
 
 Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the world sucks. --JoeJoe, Grid Operator, Greentech Media Poster via Disqus @disqus_f1ChKs4sTj
 
-In order to determine what to write, ask yourself: What is the one book that you most badly want to read? --Courtesy of AML
+To figure out what to write, ask yourself: What is the one book that you most badly want to read? --Courtesy of AML
