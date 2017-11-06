@@ -2,23 +2,25 @@
 
 This code repository hosts the data for my personal experimental filter blog: Domains of Applicability
 
-Domains of Applicability can be found at: domainsofapp.github.io
+Domains of Applicability can be found at: http://www.domainsofapplicability.com
 
-The design of this repository is modeled after Ref. [1].
+Domains of Applicability can also be found at: http://www.domainsofapp.github.io
+
+The design of this README and repository is modeled after Ref. [1].
 
 Whenever I push changes to this repository on my local computer to GitHub, the data herein is automatically transformed by Jekyll [2] into the static site that you see at the above URL.
 
 I am using Markdown to write the posts.
 
-## Licensing
+## License
 
 This section was also inspired by Ref. [1].
 
-The following directories and their contents are "Copyright 2016-2017 Kenneth J. Sauer", i.e., they consist of original content (All Rights Reserved):
+The following directories and their contents are "Copyright Kenneth J. Sauer", i.e., they consist of original content (all rights reserved):
 
-* _posts/
+* \_posts/
 
-Therefore, please request my permission before reproducing the original content therein. All other directories and files are MIT Licensed. Feel free to use the HTML and CSS files as you please.
+Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Feel free to use the HTML and CSS files as you please. If you do use them, a link back to Ref. [2] would be appreciated, but is not required.
 
 ## References
 
