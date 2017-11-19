@@ -54,7 +54,7 @@ by Ellen Bass
 from Like a Beggar  
 Copper Canyon Press, 2014  
 
-Source: http://www.3quarksdaily.com/3quarksdaily/2017/11/saturday-poem-1.html
+Source: <http://www.3quarksdaily.com/3quarksdaily/2017/11/saturday-poem-1.html/>
 
 ## The Interrogation of the Good -- by Bertolt Brecht
 

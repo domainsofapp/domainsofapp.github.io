@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorite TV
+title: Favorite Television
 ---
 
 {{ page.title }}
