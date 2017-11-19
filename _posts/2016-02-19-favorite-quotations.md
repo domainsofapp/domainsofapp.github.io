@@ -72,4 +72,6 @@ Solidarity not charity. --Organizing philosophy, Common Ground Collective, New O
 
 Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the world sucks. --JoeJoe, Grid Operator, Greentech Media Poster via Disqus @disqus_f1ChKs4sTj
 
-To figure out what to write, ask yourself: What is the one book that you most badly want to read? --Courtesy of AML
+To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Courtesy of AML
+
+Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time. --Winston S. Churchill, Former British Prime Minister
