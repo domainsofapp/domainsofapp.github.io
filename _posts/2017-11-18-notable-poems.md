@@ -59,10 +59,10 @@ Source: <http://www.3quarksdaily.com/3quarksdaily/2017/11/saturday-poem-1.html/>
 ## The Interrogation of the Good -- by Bertolt Brecht
 
 Step forward: we hear  
-That you are a good man.  
+that you are a good man.  
 You cannot be bought, but the lightning  
-Which strikes the house, also  
-Cannot be bought.  
+which strikes the house, also  
+cannot be bought.  
 You hold to what you said.  
 But what did you say?  
 You are honest, you say your opinion.  
@@ -77,10 +77,10 @@ You are a good friend.
 Are you also a good friend of the good people?  
 Hear us then: we know.  
 You are our enemy. This is why we shall  
-Now put you in front of a wall. But in consideration  
+now put you in front of a wall. But in consideration  
 of your merits and good qualities  
 We shall put you in front of a good wall and shoot you  
-With a good bullet from a good gun and bury you  
-With a good shovel in the good earth.
+with a good bullet from a good gun and bury you  
+with a good shovel in the good earth.
 
 Discovered in: Slavoj Zizek's "Violence"
