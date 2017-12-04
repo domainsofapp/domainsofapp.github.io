@@ -75,3 +75,7 @@ Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the 
 To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Courtesy of AML
 
 Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time. --Winston S. Churchill, Former British Prime Minister
+
+When you see a good move, look for a better one. --Emanuel Lasker, German Chess Player
+
+He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you. --Friedrich Nietzsche, Philosopher

@@ -8,32 +8,26 @@ title: Favorite Television
 
 <p class="meta">14 Oct 2017 - Berkeley, CA</p>
 
-Below is a list of some of my all-time favorite TV shows.
+Below is a list of some of my favorite TV shows:
 
-## Best
+Anthony Bourdain: A Cook's Tour, No Reservations, The Layover, Parts Unknown
 
 Black Mirror
 
+Breaking Bad
+
+Chappelle's Show
+
 Halt and Catch Fire
+
+Mr. Robot
+
+Silicon Valley
+
+The Simpsons
 
 The Sopranos
 
 True Detective: Season One
 
 The Wire
-
-## Comedy
-
-Chappelle's Show
-
-Silicon Valley
-
-The Simpsons
-
-## Entertaining
-
-Breaking Bad
-
-## Travel
-
-Anthony Bourdain: A Cook's Tour, No Reservations, The Layover, Parts Unknown

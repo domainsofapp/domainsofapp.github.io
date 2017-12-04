@@ -52,7 +52,7 @@ crunch between your teeth.
 
 by Ellen Bass  
 from Like a Beggar  
-Copper Canyon Press, 2014  
+Copper Canyon Press, 2014
 
 Source: <http://www.3quarksdaily.com/3quarksdaily/2017/11/saturday-poem-1.html/>
 
@@ -84,3 +84,11 @@ with a good bullet from a good gun and bury you
 with a good shovel in the good earth.
 
 Discovered in: Slavoj Zizek's "Violence"
+
+## I Walk Into Every Room and Yell Where the Mexicans At?
+
+i know we exist because of what we make. my dad works at a steel mill. he worked at a steel mill my whole life. at the party, the liberal white woman tells me she voted for hillary & wishes bernie won the nomination. i stare in the mirror if i get too lonely. thirsty to see myself i once walked into the lake until i almost drowned. the white woman at the party who might be liberal but might have voted for trump smiles when she tells me how lucky i am. how many automotive components do you think my dad has made. you might drive a car that goes and stops because of something my dad makes. when i watch the news i hear my name, but never see my face. every other commercial is for taco bell. all my people fold into a $2 crunchwrap supreme. the white woman means lucky to be here and not mexico. my dad sings por tu maldito amor & i’m sure he sings to america. y yo caí en tu trampa ilusionado. the white woman at the party who may or may not have voted for trump tells me she doesn’t meet too many mexicans in this part of new york city. my mouth makes an oh, but i don’t make a sound. a waiter pushes his brown self through the kitchen door carrying hors d’oeuvres. a song escapes through the swinging door. selena sings pero ay como me duele & the good white woman waits for me to thank her.
+
+by José Olivarez  
+from the Academy of American Poets  
+October 2017
