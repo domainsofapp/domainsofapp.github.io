@@ -13,9 +13,8 @@ This is my sample table:
 <style>
 .tablelines table, .tablelines td, .tablelines th {
 	border: 1px solid black;
-	}
-.tablelines table {
 	border-collapse: collapse;
+	border-spacing:0;
 	}
 </style>
 
