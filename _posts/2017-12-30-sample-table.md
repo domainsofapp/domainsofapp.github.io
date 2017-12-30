@@ -16,8 +16,9 @@ This is my sample table:
         }
 </style>
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Command | Description | Other |
+| --- | --- | --- |
+| git status | List all new or modified files | Other stuff|
+| git diff | Show file differences that haven't been staged | Other stuff |
+| more stuff | Does more stuff | Other stuff |
 {: .tablelines}
