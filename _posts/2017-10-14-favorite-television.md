@@ -24,8 +24,6 @@ Mr. Robot
 
 Silicon Valley
 
-The Simpsons
-
 The Sopranos
 
 True Detective: Season One
