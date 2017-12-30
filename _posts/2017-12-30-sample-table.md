@@ -10,17 +10,8 @@ title: Sample Table
 
 This is my sample table:
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-	border: 1px solid black;
-	border-collapse: collapse;
-	border-spacing:0;
-	}
-</style>
-
 | Command | Description | Other |
 | --- | --- | --- |
 | git status | List all new or modified files | Other stuff|
 | git diff | Show file differences that haven't been staged | Other stuff |
 | more stuff | Does more stuff | Other stuff |
-{: .tablelines}
