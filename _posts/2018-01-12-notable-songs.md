@@ -44,6 +44,8 @@ Toots and the Maytals
 
 0 to 100 / The Catch Up by Drake
 
+1 Train (ft. Kendrick Lamar, Joey Badass, Yelawolf, Big Krit and more) by A$AP Rocky
+
 All Me by Drake
 
 Blessings by Big Sean
@@ -51,6 +53,8 @@ Blessings by Big Sean
 Bodak Yellow by Cardi B
 
 Coke Hyena by Nacho Picasso
+
+Congratulations ft. Quavo by Post Malone
 
 Dirty Girl by Felt
 
@@ -83,6 +87,10 @@ Plain Jane by A$AP Ferg
 Rack City (Explicit) by Tyga
 
 Recognize by partynextdoor and Drake
+
+Rockstar ft. 21 Savage by Post Malone
+
+Sneakin' ft. 21 Savage by Drake
 
 Swang by Rae Sremmurd
 
