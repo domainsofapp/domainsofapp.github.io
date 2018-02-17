@@ -26,7 +26,7 @@ September by Earth, Wind & Fire
 
 ​On the Nature of Daylight by Max Richter
 
-Partita No. 1 for Solo Cello, "Songs & Poems": Movement VII by Philip Glass and Matt Haimovitz
+Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI by Philip Glass and Matt Haimovitz
 
 ## Dance
 
@@ -78,7 +78,11 @@ I'm Goin In by Drake, Lil Wayne, and Jeezy
 
 Kyoto by Yung Lean
 
+Long Live A$AP by A$AP Rocky
+
 Love$ick by Mura Masa and A$AP Rocky
+
+Nacho Picasso
 
 Niggas in Paris by Kanye West and Jay-Z
 
