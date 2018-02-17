@@ -28,6 +28,12 @@ September by Earth, Wind & Fire
 
 Partita No. 1 for Solo Cello, "Songs & Poems": Movement VII by Philip Glass and Matt Haimovitz
 
+## Dance
+
+Hot by Ravi Shavi
+
+Poison Lips by Vitalic
+
 ## Happy
 
 Alagassira by Youssou N'dour
@@ -79,6 +85,8 @@ Niggas in Paris by Kanye West and Jay-Z
 No Frauds by Nicki Minaj, Drake, and Lil Wayne
 
 No Type by Rae Sremmurd
+
+OG Kush Diet by 2 Chainz
 
 Over by Drake
 

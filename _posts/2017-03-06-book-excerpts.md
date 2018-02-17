@@ -8,6 +8,54 @@ title: Book Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
+## House of Leaves - Mark Z. Danielewski
+
+...la verdad, cuya madre es la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir. (...truth, whose mother is history, who is the rival of time, depository of deeds, witness of the past, example and lesson to the present, and warning to the future.) --Miguel de Cervantes, Writer [from Don Quixote, Part One, Chapter Nine, according to Page 42 of the remastered full-color edition of House of Leaves by Mark Z. Danielewski, copyright 2000]
+
+...the habit of photographic seeing -- of looking at reality as an array of potential photographs -- creates estrangement from, rather than union with, nature. --Susan Sontag, On Photography from House of Leaves by Mark Z. Danielewski
+
+Truth transcends the telling. --Ino from House of Leaves by Mark Z. Danielewski
+
+Passion has little to do with euphoria and everything to do with patience. It is not about feeling good. It is about endurance. Like patience, passion comes from the same Latin root: *pati*. It does not mean to flow with exuberance. It means to suffer. --The Courage to Withstand by Daphne Kaplan from House of Leaves by Mark Z. Danielewski
+
+Who has never killed an hour? Not casually or without thought, but carefully: a premeditated murder of minutes. The violence comes from a combination of giving up, not caring, and a resignation that getting past it is all you can hope to accomplish. So you kill the hour. You do not work, you do not read, you do not daydream. If you sleep it is not because you need to sleep. And when at last it is over, there is no evidence: no weapon, no blood, and no body. The only clue might be the shadows beneath your eyes or a terribly thin line near the corner of your mouth indicating something has been suffered, that in the privacy of your life you have lost something and the loss is too empty to share. --March 14, 1969 entry
+
+Is it possible to love something so much, you imagine it wnats to destroy you only because it has denied you? --February 11, 1984 entry
+
+Stars to live by. Stars to steer by. Stars to die by. --May 3, 1991 entry
+
+Make no mistake, those who write long books have nothing to say. Of course those who write short books have even less to say. --July 27, 1991 entry
+
+Explanation is not half as strong as experience but experience is not half as strong as experience and understanding. --December 21, 1996 entry
+
+I took my morning walk, I took my evening walk, I ate something, I thought about something, I wrote something, I napped and dreamt something too, and with all that something, I still have nothing because so much of sum'things has always been and always will be you. I miss you. --December 23, 1996
+
+Seeing's believing but feeling's probably best. --September 17, 1978 entry
+
+Little solace comes  
+to those who grieve  
+when thoughts keep drifting  
+as walls keep shifting  
+and this great blue world of ours  
+seems a house of leaves  
+moments before the wind. --(Untitled Fragment)
+
+You shall be my roots and  
+I will be your shade,  
+though the sun burns my leaves.  
+You shall quench my thirst and  
+I will feed you fruit,  
+though time takes my seed.  
+And when I'm lost and can tell nothing of this earth,  
+you will give me hope.  
+And my voice you will always hear.  
+And my hand you will always have.  
+For I will shelter you.  
+And I will comfort you.  
+And even when we are nothing left,  
+not even in death,  
+I will remember you. --You Shall Be My Roots
+
 ## The Laws of Thermodynamics - Peter Atkins
 
 Re Boltzmann's expression: At a given temperature - in the bulk sense - a collection of atoms consists of some in their lowest energy state (their "ground state"), some in the next higher energy state, and so on, with populations that diminish in progressively higher energy states. When the populations of the states have settled down into their "equilibrium" populations, although atoms continue to jump between energy levels, there is no net change in the populations [and] it turns out that these populations can be calculated from a knowledge of the energies of the states and a single parameter, beta.

@@ -56,8 +56,6 @@ One [wo]man can make you fly like an eagle, another can give you the strength of
 
 It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the universe can be said to be zero. From this it follows that the population of the whole universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination. --Douglas Adams, The Restaurant at the End of the Universe
 
-...la verdad, cuya madre es la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir. (...truth, whose mother is history, who is the rival of time, depository of deeds, witness of the past, example and lesson to the present, and warning to the future.) --Miguel de Cervantes, Writer [from Don Quixote, Part One, Chapter Nine, according to Page 42 of the remastered full-color edition of House of Leaves by Mark Z. Danielewski, copyright 2000]
-
 First, say to yourself what you would be; then do what you have to do. --Epictetus, Philosopher [as transcribed by his student Lucius Flavius Arrianus aka Arrian in the Discoures of Epictetus, Book III, Chapter 23]
 
 The future is already here - it's just not very evenly distributed. --William Gibson, Fiction Writer
@@ -83,3 +81,23 @@ He who fights with monsters should look to it that he himself does not become a 
 When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us. --Alexander Graham Bell, Scientist
 
 Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world. --Fredric Jameson, American Literary Critic
+
+...there is nothing either good or bad, but thinking makes it so. --Hamlet in Hamlet by Shakespeare
+
+Mono no aware. (The pathos of things.) --Japanese Term
+
+Most products fail. --Robert McMath, Marketing Professional
+
+To love at all is to be vulnerable. Love anything and your heart will be wrung, and possibly broken. If you want to make sure of keeping it intact, you must give your heart to no-one, not even an animal. Wrap it carefully round with your hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket -- safe, dark, motionless, airless -- it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. --C.S. Lewis
+
+A good traveler has no fixed plans. --Lao Tzu, Chinese Philosopher
+
+A journey of a thousand miles begins with a single step. --Lao Tzu, Chinese Philosopher
+
+Skate to where the puck is going, not where it has been. --Walter Gretzky
+
+Memento mori. (Remember death.) --Medieval Latin Christian Theory
+
+Tempus edax rerum. (Time, devourer of all things.) --Ovid, Metamorphoses, 15, 234-236
+
+Sic semper tyrannis. (Thus always to tyrants.) --Latin Phrase
