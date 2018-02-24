@@ -18,6 +18,8 @@ If you would like to contribute to the site, I am open to that. Here are some it
 
 * Add Google Analytics
 * Add commenting features to the posts (e.g., Disqus)
-* Add advertisements so I can earn some income from this (?)
+* Add advertisements so I can earn some income from this and make it my job ;--)
 
-That's all for now -- thanks for reading!
+Finally, as the Internet is a fickle beast, please point out any broken links to me.
+
+O-K, that's all folks -- thanks for reading!

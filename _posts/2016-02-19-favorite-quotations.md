@@ -101,3 +101,5 @@ Memento mori. (Remember death.) --Medieval Latin Christian Theory
 Tempus edax rerum. (Time, devourer of all things.) --Ovid, Metamorphoses, 15, 234-236
 
 Sic semper tyrannis. (Thus always to tyrants.) --Latin Phrase
+
+The electricity grid works in practice, but not in theory. --Dr. Alexandra von Meier, Adjunct Professor at UC Berkeley
