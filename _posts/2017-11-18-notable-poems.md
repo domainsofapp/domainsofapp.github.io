@@ -12,11 +12,13 @@ title: Notable Poems
 
 Nothing speaks volumes  
 imprisoned dreams jailed forever  
-forgiveness weeps no tears are released  
+forgiveness weeps  
+no tears are released  
 silence begs for ease  
 anger has no hope  
-indifference rejoices while nothing holds court with jesters of time  
-Nothing waits, and waits
+indifference rejoices  
+while nothing holds court with jesters of time  
+Nothing waits, and waits.
 
 by Heidi Sweets
 
