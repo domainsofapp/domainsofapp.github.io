@@ -60,7 +60,7 @@ First, say to yourself what you would be; then do what you have to do. --Epictet
 
 The future is already here - it's just not very evenly distributed. --William Gibson, Fiction Writer
 
-I've never met a scientist who didn't play music. --Thomas Eisner, Entomologist
+I've never met a scientist who didn't play music. --Thomas Eisner, Entomologist (personal conversation, Risley Dining Room, Cornell University, 2008-10 time frame)
 
 The past is never dead. It's not even past. --William Faulkner, Writer
 
@@ -104,6 +104,4 @@ Sic semper tyrannis. (Thus always to tyrants.) --Latin Phrase
 
 The electricity grid works in practice, but not in theory. --Dr. Alexandra von Meier, Adjunct Professor at UC Berkeley
 
-Many who drive their own lives to help others often realize that they do not change what causes the need for their help. --David S. Buckel, American Lawyer
-
-Donating to organizations is not enough to make any real difference. --David S. Buckel, American Lawyer
+Many who drive their own lives to help others often realize that they do not change what causes the need for their help...and donating to organizations is not enough to make any real difference. --David S. Buckel, American Lawyer
