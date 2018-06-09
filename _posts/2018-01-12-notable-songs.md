@@ -48,6 +48,10 @@ Poison Lips by Vitalic
 101 by Portico  
 Where You Are by Portico (Featured in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
 
+## Folk
+
+
+
 ## Happy
 Alagassira by Youssou N'dour  
 Send Me On My Way by Rusted Root  
@@ -133,8 +137,10 @@ Time (Original Mix) by Pachanga Boys
 Touch by LUCASV and Tequisha  
 
 ## Unsorted
+Forever Young -- Grateful Dead feat. Neil Young  
 Friends by Phish  
 ​Horn by Phish  
 Light by Phish  
 Satellite by Phish  
 Sparks (MANDY Remix)  
+The Lonesome Death of Hattie Carroll -- Bob Dylan
