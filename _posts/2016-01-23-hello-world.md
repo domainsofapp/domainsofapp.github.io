@@ -12,7 +12,7 @@ This is a test. This is only...a test.
 
 If you would like to provide comments/feedback/suggestions, you may reach me at:
 
-domainsofapplicability at gee male
+domainsofapp at gee male
 
 If you would like to contribute to the site, I am open to that. Here are some items on my to-do list:
 
