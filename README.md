@@ -4,7 +4,7 @@ This code repository hosts the data for my personal experimental filter blog: Do
 
 Domains of Applicability can be found at: http://www.domainsofapplicability.com
 
-Domains of Applicability can also be found at: http://www.domainsofapp.github.io
+Domains of Applicability can also be found at: https://domainsofapp.github.io
 
 The design of this README and repository is modeled after Ref. [1].
 
