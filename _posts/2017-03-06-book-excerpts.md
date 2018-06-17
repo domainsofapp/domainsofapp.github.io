@@ -8,7 +8,7 @@ title: Book Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
-## House of Leaves - Mark Z. Danielewski
+## House of Leaves - Mark Z. Danielewski (Read During a Memorable Week in Iceland)
 
 ...la verdad, cuya madre es la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir. (...truth, whose mother is history, who is the rival of time, depository of deeds, witness of the past, example and lesson to the present, and warning to the future.) --Miguel de Cervantes, Writer [from Don Quixote, Part One, Chapter Nine, according to Page 42 of the remastered full-color edition of House of Leaves by Mark Z. Danielewski, copyright 2000]
 
@@ -20,7 +20,7 @@ Passion has little to do with euphoria and everything to do with patience. It is
 
 Who has never killed an hour? Not casually or without thought, but carefully: a premeditated murder of minutes. The violence comes from a combination of giving up, not caring, and a resignation that getting past it is all you can hope to accomplish. So you kill the hour. You do not work, you do not read, you do not daydream. If you sleep it is not because you need to sleep. And when at last it is over, there is no evidence: no weapon, no blood, and no body. The only clue might be the shadows beneath your eyes or a terribly thin line near the corner of your mouth indicating something has been suffered, that in the privacy of your life you have lost something and the loss is too empty to share. --March 14, 1969 entry
 
-Is it possible to love something so much, you imagine it wnats to destroy you only because it has denied you? --February 11, 1984 entry
+Is it possible to love something so much, you imagine it wants to destroy you only because it has denied you? --February 11, 1984 entry
 
 Stars to live by. Stars to steer by. Stars to die by. --May 3, 1991 entry
 
