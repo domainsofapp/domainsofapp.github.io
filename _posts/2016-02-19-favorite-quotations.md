@@ -46,7 +46,7 @@ Fear = Thinking + Time. Take either one of those things away, thinking or time, 
 
 Sous les paves, la plage! (Under the cobblestones, the beach.) --May '68 Slogan (see: Wikipedia\May 1968 Events in France\Slogans and Graffiti)
 
-They can be a great people, Kal-El; they wish to be. They only lack the program to show them the way. --Gordon Clark, Fictional Character, Halt and Catch Fire, S2E3
+They can be a great people, Kal-El; they wish to be. They only lack the program to show them the way. --Gordon Clark, Fictional Character, Halt and Catch Fire, S2E3, re Sonaris
 
 In chess, it's called "zugzwang" when the only viable move...is not to move. --Nemo Nobody, Fictional Character, Mr. Nobody (before ellipsis: aged 9; after: aged 118)
 
