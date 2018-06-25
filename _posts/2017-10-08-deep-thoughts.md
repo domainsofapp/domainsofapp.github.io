@@ -20,6 +20,10 @@ When we say internet we are often referring to google.com, i.e., whatever Google
 
 Ketchup, the working wo/man's dressing
 
+When a company is caught cheating (e.g., VW), perhaps the goverment should assume ownership and have oversight and channel future profits into the public sphere
+
+One way to fight AI job loss: Shorten 40-hour work week
+
 To be continued...
 
 Several notebooks to be transcribed??????

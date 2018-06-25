@@ -8,7 +8,13 @@ title: Life Mantras
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
-Follow your inner compulsions (and decide to be good).  
+Follow your compulsions, while deciding to be good.  
 Your compulsions are unique and not the same as others'.  
+
+Publish useful stuff (if compelled to, and within the confines of legality).  
+
+Do not be afraid. Dive right in.  
+
+In any critical task, attempt to do only what is necessary.  
 
 To be continued...

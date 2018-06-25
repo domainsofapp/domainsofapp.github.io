@@ -12,6 +12,8 @@ Courtesy of and curated by MTS.
 
 A bene placito - At one's pleasure
 
+Ad astra: To the stars
+
 Ad augusta per angusta - To high places by narrow roads
 
 Ceteris paribus - All else being equal
