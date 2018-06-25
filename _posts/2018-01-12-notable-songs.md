@@ -19,6 +19,7 @@ A Sky Full of Stars -- Coldplay -- Avicii
 Beautiful Heartbeat -- MORTEN Feat. Frida Sundemo -- Avicii  
 Dancing In My Head -- Eric Turner vs. Avicii  
 Enough Is Enough (Don't Give Up On Us) -- Avicii  
+Even -- Avicii  
 Hang With Me -- Robyn -- Avicii  
 Heaven -- Avicii  
 Hey Brother -- Avicii  
@@ -26,10 +27,12 @@ My Feelings for You -- Avicci & Sebastien Drums
 New New New -- Bob Sinclar -- Avicii  
 Nicktim -- Avicii & Nicky Romero  
 Seek Bromance -- Avicii  
-So Much Better -- Sandro Cavazza -- Avici  
+So Much Better -- Sandro Cavazza -- Avicii  
 Street Dancer -- Avicii  
 Sunshine w Florence and The Machine -- Spectrum (Acappella) -- David Guetta & Avicii  
+Talk to Myself -- Avicii  
 The Nights -- Avicii  
+Without You “Audio” ft. Sandro Cavazza -- Avicii  
 
 ## Classic
 Africa by Toto  
@@ -49,8 +52,7 @@ Poison Lips by Vitalic
 Where You Are by Portico (Featured in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
 
 ## Folk
-
-
+TBD
 
 ## Happy
 Alagassira by Youssou N'dour  
@@ -72,13 +74,13 @@ Get Right Witcha by Migos
 Good Life ft. T-Pain by Kanye West  
 Halloween by Kodak Black  
 Headlines by Drake  
-I Don't Fuck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) by Big Sean  
+I Don't Muck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) by Big Sean  
 I'm Goin In by Drake, Lil Wayne, and Jeezy  
 Kyoto by Yung Lean  
 Long Live A$AP by A$AP Rocky  
 Love$ick by Mura Masa and A$AP Rocky  
 Nacho Picasso  
-Niggas in Paris by Kanye West and Jay-Z  
+Fellas in Paris by Kanye West and Jay-Z  
 No Frauds by Nicki Minaj, Drake, and Lil Wayne  
 No Type by Rae Sremmurd  
 OG Kush Diet by 2 Chainz  
@@ -143,4 +145,4 @@ Friends by Phish
 Light by Phish  
 Satellite by Phish  
 Sparks (MANDY Remix)  
-The Lonesome Death of Hattie Carroll -- Bob Dylan
+The Lonesome Death of Hattie Carroll -- Bob Dylan  

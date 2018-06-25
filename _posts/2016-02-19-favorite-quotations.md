@@ -105,3 +105,5 @@ Sic semper tyrannis. (Thus always to tyrants.) --Latin Phrase
 The electricity grid works in practice, but not in theory. --Dr. Alexandra von Meier, Adjunct Professor at UC Berkeley
 
 Many who drive their own lives to help others often realize that they do not change what causes the need for their help...and donating to organizations is not enough to make any real difference. --David S. Buckel, American Lawyer
+
+The sad truth is that most evil is done by people who never make up their minds to be good or evil. --Hannah Arendt, American-German Philosopher

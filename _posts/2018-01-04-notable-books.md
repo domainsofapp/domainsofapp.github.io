@@ -10,6 +10,5 @@ title: Notable Books
 
 I have read many great books in my past. However, until now I have not kept a record. Below are some of the more notable ones I have recently read:
 
-House of Leaves by Mark Z. Danielewski
-
-Stories of Your Life and Others by Ted Chiang
+House of Leaves by Mark Z. Danielewski  
+Stories of Your Life and Others by Ted Chiang  

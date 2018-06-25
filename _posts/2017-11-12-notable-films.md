@@ -11,22 +11,17 @@ title: Notable Films
 I have watched many great films in my past. However, until now I have not kept a record. Below are some of the more notable ones I have recently watched:
 
 ## Artistic
-
-Hiroshima Mon Amour
+Hiroshima Mon Amour  
 
 ## Documentary
-
-Workingman's Death
+Workingman's Death  
 
 ## Erotica
-
 The Handmaiden  
-Lucia y el Sexo
+Lucia y el Sexo  
 
 ## Indie
-
-Me and Earl and the Dying Girl
+Me and Earl and the Dying Girl  
 
 ## Zombie
-
-Train to Busan
+Train to Busan  

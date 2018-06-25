@@ -18,6 +18,8 @@ What would happen if someone started posting code on GitHub to bring down GitHub
 
 When we say internet we are often referring to google.com, i.e., whatever Google has indexed; "look it up on the internet" is really just to Google it; nice brand position for Google a la Kleenex's equation with tissues ("Hand me a Kleenex, please"), etc.
 
+Ketchup, the working wo/man's dressing
+
 To be continued...
 
-Notebooks to be transcribed??????
+Several notebooks to be transcribed??????

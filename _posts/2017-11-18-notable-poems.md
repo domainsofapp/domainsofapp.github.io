@@ -8,7 +8,7 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
-## Everywhere you go, there you are
+## Everywhere You Go, There You Are
 
 Nothing speaks volumes  
 imprisoned dreams jailed forever  
