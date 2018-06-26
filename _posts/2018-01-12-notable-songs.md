@@ -142,7 +142,12 @@ Touch by LUCASV and Tequisha
 Forever Young -- Grateful Dead feat. Neil Young  
 Friends by Phish  
 ​Horn by Phish  
+Julius by Phish  
 Light by Phish  
 Satellite by Phish  
+Sleeping Monkey by Phish (Recommend Live Phish Boardwalk Atlantic City 2010)  
 Sparks (MANDY Remix)  
+Tela by Phish  
 The Lonesome Death of Hattie Carroll -- Bob Dylan  
+Waiting All Night by Phish  
+Walls of the Cave by Phish  
