@@ -151,3 +151,23 @@ Tela by Phish
 The Lonesome Death of Hattie Carroll -- Bob Dylan  
 Waiting All Night by Phish  
 Walls of the Cave by Phish  
+
+## Unsorted Genres
+Aesthetic  
+Chillwave  
+Chopped and Screwed  
+Cloud  
+Cloud Rap  
+Electronic  
+Electronic Dance Music  
+Hip Hop  
+House  
+Intelligent Dance Music  
+Lo-Fi  
+Sesh  
+Trap  
+Trillwave  
+Trip Hop  
+Vaportrap  
+Vaporwave  
+Witch house  
