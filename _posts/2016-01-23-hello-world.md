@@ -10,16 +10,30 @@ title: Hello World!
 
 This is a test. This is only...a test.
 
-If you would like to provide comments/feedback/suggestions, you may reach me at:
+Just kidding! It is not a test!
+
+Just kidding. It is a test.
+
+This blog is intended to eventually host files (or links to files) of the following types:
+* Audio
+* GIF
+* Image
+* Meme
+* Podcast
+* Radio
+* Text
+* Video
+
+If you would like to provide content/comments/feedback/suggestions, you may reach me at:
 
 domainsofapp at gee male
 
-If you would like to contribute to the site, I am open to that. Here are some items on my to-do list:
+If you would like to contribute logistically to the site, I am open to that. Here are some items on my to-do list:
 
 * Add Google Analytics
 * Add commenting features to the posts (e.g., Disqus)
-* Add advertisements so I can earn some income from this and make it my job ;--)
+* Add advertisements so I can earn some income from this and make it my part-time job ;--)
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me.
 
-O-K, that's all folks -- thanks for reading!
+O-K, that's all folks -- thanks for reading! Loaf and peas.
