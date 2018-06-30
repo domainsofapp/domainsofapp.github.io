@@ -36,4 +36,4 @@ If you would like to contribute logistically to the site, I am open to that. Her
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me.
 
-O-K, that's all folks -- thanks for reading! Loaf and peas.
+O-K, that's all folks -- thanks for reading!

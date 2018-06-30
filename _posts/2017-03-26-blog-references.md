@@ -8,7 +8,7 @@ title: Blog References
 
 <p class="meta">26 Mar 2017 - Berkeley, CA</p>
 
-Many of the links on this blog were discovered via one of the following professional filter blogs:
+Many of the links on this blog were discovered on one of the following professional filter blogs:
 
 * <https://hckrnews.com/>
 * <https://lobste.rs/>

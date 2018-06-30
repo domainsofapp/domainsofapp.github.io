@@ -15,7 +15,7 @@ Black Mirror
 Breaking Bad  
 Chappelle's Show  
 Halt and Catch Fire  
-Mindhunter  
+Mindhunter: Season 1  
 Mr. Robot  
 Silicon Valley  
 The Sopranos  

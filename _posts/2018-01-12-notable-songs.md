@@ -14,7 +14,7 @@ I have listened to many great songs in my past. However, until now I have not ke
 The Pledge (Eternal Sunshine) by Jay Electronica  
 
 ## Avicii -- EDM and House
-Adele -- Someone Like You -- Avicii  
+Adele -- Someone Like You -- Avicii (Live at Pier 94 NYE)  
 A Sky Full of Stars -- Coldplay -- Avicii  
 Beautiful Heartbeat -- MORTEN Feat. Frida Sundemo -- Avicii  
 Dancing In My Head -- Eric Turner vs. Avicii  
