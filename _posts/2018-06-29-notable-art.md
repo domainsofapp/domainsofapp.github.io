@@ -8,14 +8,12 @@ title: Notable Art
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-The Death of Marat -- Jacques-Louis David  
-
-And what I immediately recall is good:
+## Artists
 
 Edvard Munch  
 Frida Kahlo  
 Vincent van Gogh  
 
-Not good (ha):
+## Artworks
 
-Jackson Pollack  
+The Death of Marat -- Jacques-Louis David  
