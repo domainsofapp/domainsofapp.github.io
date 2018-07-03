@@ -12,6 +12,7 @@ title: Notable Art
 
 Edvard Munch  
 Frida Kahlo  
+Salvador Dali  
 Vincent van Gogh  
 
 ## Artworks
