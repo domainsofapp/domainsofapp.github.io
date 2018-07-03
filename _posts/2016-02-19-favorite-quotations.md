@@ -34,11 +34,7 @@ Shut up and calculate. --David Mermin, Physicist
 
 It from bit. --John Archibald Wheeler, Physicist
 
-1 + 1 = 1 (Paraphrased.) --George Boole, Mathematics Educator
-
 Eppur si muove. (And yet it moves.) --Galileo Galilei, Astronomer
-
-This statement cannot be proved. (Paraphrased.) --Kurt Godel, Logician
 
 Veritas est adaequatio rei et intellectus. (Truth is the equation [or adequation] of things and intellect). --Thomas Aquinas, Priest
 
