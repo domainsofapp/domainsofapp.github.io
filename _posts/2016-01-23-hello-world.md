@@ -34,6 +34,4 @@ If you would like to contribute logistically to the site, I am open to that. Her
 * Add commenting features to the posts (e.g., Disqus)
 * Add advertisements so I can earn some income from this and make it my part-time job ;--)
 
-Finally, as the Internet is a fickle beast, please point out any broken links to me.
-
-O-K, that's all folks -- thanks for reading!
+Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading!

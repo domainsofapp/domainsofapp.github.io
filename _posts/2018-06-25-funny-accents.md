@@ -19,5 +19,3 @@ Then we'll hit the bah for a bloo moon and a hahpoon
 Ya gotta have a hahpoon if yoah going to the hahbah  
 I'll pahk the cah in Hahvuhd yahd right aftah  
 Smoke two paw maws, take a dump, usual routine  
-
-Sorry, that's all I have for now...

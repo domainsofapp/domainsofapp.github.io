@@ -107,3 +107,5 @@ The electricity grid works in practice, but not in theory. --Dr. Alexandra von M
 Many who drive their own lives to help others often realize that they do not change what causes the need for their help...and donating to organizations is not enough to make any real difference. --David S. Buckel, American Lawyer
 
 The sad truth is that most evil is done by people who never make up their minds to be good or evil. --Hannah Arendt, American-German Philosopher
+
+The limits of my language mean the limits of my world. --Ludwig Wittgenstein, Philosopher
