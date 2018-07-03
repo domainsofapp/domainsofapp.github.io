@@ -10,9 +10,9 @@ title: Notable Art
 
 ## Artists
 
-Edvard Munch  
-Frida Kahlo  
 Salvador Dali  
+Frida Kahlo  
+Edvard Munch  
 Vincent van Gogh  
 
 ## Artworks
