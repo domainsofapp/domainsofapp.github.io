@@ -24,7 +24,7 @@ Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from n
 
 ## George Boole, Mathematics Educator
 
-1 + 1 = 1
+1 + 1 = 1 (Boolean logic: True + True = True)
 
 ## Jacques Derrida, Algerian-French Philosopher
 
@@ -40,13 +40,13 @@ Truth is to be found in the void. Emptiness is the space that defines the space 
 
 ## Albert Einstein, Theoretical physicist
 
-The laws of physics are the same at constant velocities. -- Einstein
+The laws of physics are the same at constant velocities.
 
 ## Kurt Godel, Logician
 
 This statement cannot be proved.
 
-## John Rawls, American philosopher
+## John Rawls, American Philosopher
 
 How would you want the world to be if before you were born you didn't know your place in it?
 
