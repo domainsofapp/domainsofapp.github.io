@@ -8,8 +8,6 @@ title: Notable Books
 
 <p class="meta">04 Jan 2018 - Berkeley, CA</p>
 
-I have read many great books in my past. However, until now I have not kept a record. Below are some of the more notable ones I have recently read:
-
 House of Leaves -- Mark Z. Danielewski  
 Stories of Your Life and Others -- Ted Chiang  
 Why Does the World Exist? -- Jim Holt  

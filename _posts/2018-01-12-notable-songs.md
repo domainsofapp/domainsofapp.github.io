@@ -8,8 +8,6 @@ title: Notable Songs
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
-I have listened to many great songs in my past. However, until now I have not kept a record. Below are some of the more notable ones I have recently heard. Some of the best are already listed on the front page of this site.
-
 ## Artistic
 The Pledge (Eternal Sunshine) by Jay Electronica  
 

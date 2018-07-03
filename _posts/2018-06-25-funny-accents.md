@@ -8,7 +8,7 @@ title: Funny Accents
 
 <p class="meta">25 Jun 2018 - San Francisco, CA</p>
 
-NB: This is intended to be comedy. If I come to learn it is offensive, I shall delete.
+NB: This is intended to be comedy. If I come to learn it is offensive, I shall certainly delete.
 
 ## Boston
 Oh my gwaad  

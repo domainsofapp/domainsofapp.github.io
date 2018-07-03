@@ -8,7 +8,7 @@ title: Paraphrased Philosophy
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-These are the beginnings of my assorted notes on philosophy. NB: I am not a professional philosopher and offer no guarantees as to the accuracy of these characterizations or whether I correctly attributed ideas to people in the process of transcribing notes. Nonetheless, I hope the ideas herein may be fodder for philosophical thought, debate, and discussion.
+NB: I am not a professional philosopher and offer no guarantees of the accuracy of these characterizations or whether I correctly attributed ideas to people in the process of transcribing notes. Nonetheless, I hope ideas herein may be fodder for philosophical thought, debate, and discussion.
 
 ## Charles Baudelaire, French Poet
 

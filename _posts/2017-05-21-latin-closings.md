@@ -8,7 +8,7 @@ title: Latin Closings
 
 <p class="meta">21 May 2017 - Berkeley, CA</p>
 
-Courtesy of and curated by MTS.
+Courtesy of / curated by MTS.
 
 A bene placito - At one's pleasure  
 Ad astra: To the stars  

@@ -8,7 +8,7 @@ title: Sample Table
 
 <p class="meta">30 Dec 2017 - Berkeley, CA</p>
 
-This is my sample table:
+Sample table:
 
 | Command | Description | Other |
 | --- | --- | --- |

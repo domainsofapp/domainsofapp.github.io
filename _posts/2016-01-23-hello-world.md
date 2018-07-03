@@ -10,10 +10,6 @@ title: Hello World!
 
 This is a test. This is only...a test.
 
-Just kidding! It is not a test!
-
-Just kidding. It is a test.
-
 This blog is intended to eventually host files (or links to files) of the following types:
 * Audio
 * GIF
@@ -32,6 +28,6 @@ If you would like to contribute logistically to the site, I am open to that. Her
 
 * Add Google Analytics
 * Add commenting features to the posts (e.g., Disqus)
-* Add advertisements so I can earn some income from this and make it my part-time job ;--)
+* Add advertisements or donations button so I can earn income from this, make it a part-time job, and spend more time on the site
 
-Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading!
+Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.

@@ -8,8 +8,6 @@ title: Deep Thoughts
 
 <p class="meta">08 Oct 2017 - Berkeley, CA</p>
 
-Or not so deep? That in itself is a deep thought...also quite random!
-
 Why is trainspotting so popular in Europe? Is it as popular elsewhere?
 
 How many times can you ride BART across the Bay without ear protection before you go deaf?
