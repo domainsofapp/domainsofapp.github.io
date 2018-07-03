@@ -8,8 +8,6 @@ title: Paraphrased Philosophy
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-NB: I am not a professional philosopher and offer no guarantees of the accuracy of these characterizations or whether I correctly attributed ideas to people in the process of transcribing notes. Nonetheless, I hope ideas herein may be fodder for philosophical thought, debate, and discussion.
-
 ## Charles Baudelaire, French Poet
 
 Regarded each new innovation, each new promise of an ideal existence within consumer society, as a failed enterprise. Regarded new commodities as already dead things. Our desires for new goods are ultimately self-defeating because soon enough our shiny new purchases will be forgotten junk stored in our attics and garages. All that is left after all those purchases are the debts and desire to feel at home while connecting to something larger than ourselves.
