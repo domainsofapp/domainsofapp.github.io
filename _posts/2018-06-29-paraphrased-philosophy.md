@@ -58,6 +58,16 @@ Knowledge is in part a property of the whole; an organic living member.
 
 The Absolute is realized not in thought but in the unfolding of History (capital "H").
 
+Self-realization is a necessarily social process.
+
+The universal self is a power to realize itself in and through the materials of particular circumstances and opportunities into which an individual may be placed.
+
+Empiricism is inadequate (empiricism, e.g., David Hume, defined below in Kant).
+
+The body as an integrated organism.
+
+Synthesizes: 1.) Subject and object, 2.) Matter and spirit, and 3.) Divine and human.
+
 ## Immanuel Kant, Philosopher
 
 How can we explain what we know except through the senses?
