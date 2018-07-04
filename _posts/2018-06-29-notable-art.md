@@ -11,6 +11,7 @@ title: Notable Art
 ## Artists
 
 Salvador Dali  
+Bob Dylan  
 Frida Kahlo  
 Edvard Munch  
 Vincent van Gogh  

@@ -8,6 +8,10 @@ title: Paraphrased Philosophy
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
+## Anthropic Principle
+
+The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No suprise that the universe is "improbably" tuned for life.
+
 ## Charles Baudelaire, French Poet
 
 Regarded each new innovation, each new promise of an ideal existence within consumer society, as a failed enterprise. Regarded new commodities as already dead things. Our desires for new goods are ultimately self-defeating because soon enough our shiny new purchases will be forgotten junk stored in our attics and garages. All that is left after all those purchases are the debts and desire to feel at home while connecting to something larger than ourselves.
@@ -40,6 +44,16 @@ Truth is to be found in the void. Emptiness is the space that defines the space 
 
 The laws of physics are the same at constant velocities.
 
+Curved spacetime is matter and vice versa.
+
+## Existentialism
+
+Existence precedes essence.
+
+## Michael Faraday, Scientist
+
+Matter can only be recognized by forces acting on it.
+
 ## Georg Wilhelm Friedrich Hegel, Philosopher
 
 We assume the world is unified, but we cannot grasp the unity ourselves.
@@ -68,6 +82,14 @@ The body as an integrated organism.
 
 Synthesizes: 1.) Subject and object, 2.) Matter and spirit, and 3.) Divine and human.
 
+Reality is Mind; the universe is Spirit objectified.
+
+Reality becomes itself retroactively through its symbolic registration (e.g., into language, social story-telling, the stories we call "history").
+
+## Nicholas Fearn, Philosopher
+
+Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
+
 ## Immanuel Kant, Philosopher
 
 How can we explain what we know except through the senses?
@@ -82,13 +104,23 @@ All experience is different discrete phenomena, yet we are a congruent people wi
 
 Mind equipped with "categories" of knowledge outside our sensory conceptualizations.
 
+Space and time are symbolic tools of the human consciousness for relating matter and symbolic meaning.
+
 ## Kurt Godel, Logician
 
 This statement cannot be proved.
 
+## M. Ng, Philosopher Friend
+
+Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
+
 ## John Rawls, American Philosopher
 
 How would you want the world to be if before you were born you didn't know your place in it?
+
+## Ferdinand de Saussure, Swiss Linguist
+
+Language is a purely relational system. Words have no inner essence.
 
 ## Ludwig Wittgenstein, Philosopher
 
@@ -101,3 +133,7 @@ Philosophy is "above" physics in this way. All there is for humans is the "langu
 ## Slavoj Zizek, Slovenian Philosopher  
 
 Climate change as existential crisis for humanity.
+
+A choice is always a meta-choice, a choice of the modality of the choice itelf.
+
+Modality: Mode in which something exists or is experienced or expressed.

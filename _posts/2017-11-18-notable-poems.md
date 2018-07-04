@@ -8,6 +8,18 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Epistemology
+
+I.
+Kick at the rock, Sam Johnson, break your bones:
+But cloudy, cloudy is the stuff of stones.
+
+II.
+We milk the cow of the world, and as we do
+We whisper in her ear, "You are not true."
+
+by Richard Wilbur
+
 ## Everywhere You Go, There You Are
 
 Nothing speaks volumes  

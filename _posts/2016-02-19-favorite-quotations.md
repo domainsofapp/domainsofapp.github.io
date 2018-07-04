@@ -105,3 +105,11 @@ Many who drive their own lives to help others often realize that they do not cha
 The sad truth is that most evil is done by people who never make up their minds to be good or evil. --Hannah Arendt, American-German Philosopher
 
 The limits of my language mean the limits of my world. --Ludwig Wittgenstein, Philosopher
+
+Reality is that which, when you stop believing in it, doesn't go away. --Philip K. Dick, American Writer
+
+It is the possibility of responding to other people emotionally that places humans above the other creatures, and we cannot seek to gain our own happiness if that is at the expense of someone else's sufferings. --Liang Qichao, Chinese Scholar
+
+All the young people today want to talk about the greatness of love; I am also aware that there are a great many other things on this earth, and to take this item as the only one is more than I can accept. --Liang Qichao, Chinese Scholar
+
+The word "cause" is an altar to an unknown god. --William James, American Philosopher
