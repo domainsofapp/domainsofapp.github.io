@@ -48,9 +48,15 @@ Our knowledge is unique to its time and place and is consequently partial and re
 
 There must be a collective "Mind" (capital "M") that grasps this sense of reality; referred to as the "Absolute" (capital "A").
 
-Reality is an idea in the Mind of the Absolute.
+Reality is an Idea (capital "I") in the Mind of the Absolute.
 
-History is that idea's coming into consciousness itself.
+History is that Idea's coming into consciousness itself.
+
+The Idea is always present, but it can realize itself concretely only in the collective consciousness of human beings and through time.
+
+Knowledge is in part a property of the whole; an organic living member.
+
+The Absolute is realized not in thought but in the unfolding of History (capital "H").
 
 ## Immanuel Kant, Philosopher
 
