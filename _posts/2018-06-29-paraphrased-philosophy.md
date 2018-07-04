@@ -40,6 +40,32 @@ Truth is to be found in the void. Emptiness is the space that defines the space 
 
 The laws of physics are the same at constant velocities.
 
+## Georg Wilhelm Friedrich Hegel, Philosopher
+
+We assume the world is unified, but we cannot grasp the unity ourselves.
+
+Our knowledge is unique to its time and place and is consequently partial and relational.
+
+There must be a collective "Mind" (capital "M") that grasps this sense of reality; referred to as the "Absolute" (capital "A").
+
+Reality is an idea in the Mind of the Absolute.
+
+History is that idea's coming into consciousness itself.
+
+## Immanuel Kant, Philosopher
+
+How can we explain what we know except through the senses?
+
+Wants to find a way to marry this question with empiricism (i.e., Newtonian science).
+
+Empiricism: Knowledge derived from observation of sense-experience of discrete phenomena.
+
+Newtonian Science: 1. Causality, 2. Spatiality, 3. Temporality
+
+All experience is different discrete phenomena, yet we are a congruent people with similar interpretations of 1, 2, and 3.
+
+Mind equipped with "categories" of knowledge outside our sensory conceptualizations.
+
 ## Kurt Godel, Logician
 
 This statement cannot be proved.
