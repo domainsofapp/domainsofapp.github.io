@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Notable Poems
 ---
@@ -10,13 +10,13 @@ title: Notable Poems
 
 ## Epistemology
 
-I.
-Kick at the rock, Sam Johnson, break your bones:
-But cloudy, cloudy is the stuff of stones.
+I.  
+Kick at the rock, Sam Johnson, break your bones:  
+But cloudy, cloudy is the stuff of stones.  
 
-II.
-We milk the cow of the world, and as we do
-We whisper in her ear, "You are not true."
+II.  
+We milk the cow of the world, and as we do  
+We whisper in her ear, "You are not true."  
 
 by Richard Wilbur
 

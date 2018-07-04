@@ -134,6 +134,4 @@ Philosophy is "above" physics in this way. All there is for humans is the "langu
 
 Climate change as existential crisis for humanity.
 
-A choice is always a meta-choice, a choice of the modality of the choice itelf.
-
-Modality: Mode in which something exists or is experienced or expressed.
+A choice is always a meta-choice, a choice of the modality of the choice itelf. (Modality: Mode in which something exists or is experienced or expressed.)
