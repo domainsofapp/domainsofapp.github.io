@@ -113,3 +113,5 @@ It is the possibility of responding to other people emotionally that places huma
 All the young people today want to talk about the greatness of love; I am also aware that there are a great many other things on this earth, and to take this item as the only one is more than I can accept. --Liang Qichao, Chinese Scholar
 
 The word "cause" is an altar to an unknown god. --William James, American Philosopher
+
+If you want to destroy my sweater, pull this thread as I walk away. --Weezer, Rock band

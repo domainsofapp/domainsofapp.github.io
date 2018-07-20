@@ -14,4 +14,4 @@ To move abroad is to induce a Cartesian return to the a priori, which in theory 
 
 ## To the First Summit Hearing, 2010-12-20
 
-Arguably the two best parts of traveling are the rush and the need to actively decide to leave truly unnecessary items behind.
+Arguably the two best parts of traveling are the rush and need to actively decide to leave truly unnecessary items behind.
