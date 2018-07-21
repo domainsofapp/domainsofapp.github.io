@@ -115,3 +115,5 @@ All the young people today want to talk about the greatness of love; I am also a
 The word "cause" is an altar to an unknown god. --William James, American Philosopher
 
 If you want to destroy my sweater, pull this thread as I walk away. --Weezer, Rock band
+
+I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail. --Abraham Maslow, American Psychologist
