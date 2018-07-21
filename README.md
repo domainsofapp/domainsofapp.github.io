@@ -4,13 +4,13 @@ This code repository hosts the data for my personal experimental filter blog: Do
 
 Domains of Applicability can be found at: http://www.domainsofapplicability.com
 
-I pay ~$10/year to register and own the above link in the Domain Name System (DNS). I'm not sure why I do it.
+I pay ~$10/year to register and own the above link in the Domain Name System (DNS). I guess I do it bc I like the name.
 
 Domains of Applicability can also be found at: https://domainsofapp.github.io
 
 The above link is free with your free GitHub account and repository :--)
 
-I have this latter link redirect to the former because I pay for the former.
+I have this latter link redirect to the former bc I pay for the former.
 
 The design of this README and repository is modeled after Ref. [1].
 
