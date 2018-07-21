@@ -10,6 +10,7 @@ title: Learnt Words
 
 ## Real
 Anhedonia  
+Concision: The minimization of words while conveying an idea  
 Compunction  
 Duende  
 Echolalia  
@@ -26,10 +27,8 @@ Pietas
 Pituitary  
 Ruddy  
 Subjunctive  
-
-Sudo: a program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser.
-
-Zugzwang: a situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
+Sudo: a program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser.  
+Zugzwang: a situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage  
 
 ## Slang
 
