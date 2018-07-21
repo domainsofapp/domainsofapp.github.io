@@ -24,11 +24,11 @@ If you would like to provide content/comments/feedback/suggestions, you may reac
 
 domainsofapp at gee male
 
-If you would like to contribute logistically to the site, I am open to that. Here are some items on my to-do list:
+If you would like to contribute logistically to the site, here are the items on my to-do list:
 
-* Add Google Analytics
+* Add Google Analytics (I started but did not complete)
 * Add commenting features to the posts (e.g., Disqus)
-* Add advertisements or donations button so I can earn income from this, make it a part-time job, and spend more time on the site
+* Add advertisements or donations button so I can earn income (ha), make it a part-time job, and spend more time on the site
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
