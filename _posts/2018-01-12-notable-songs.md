@@ -137,18 +137,22 @@ Time (Original Mix) by Pachanga Boys
 Touch by LUCASV and Tequisha  
 
 ## Unsorted
-Forever Young -- Grateful Dead feat. Neil Young  
+Althea by Greatful Dead  
+Forever Young by Grateful Dead feat. Neil Young  
 Friends by Phish  
 ​Horn by Phish  
 Julius by Phish  
 Light by Phish  
 Satellite by Phish  
+Scarlet Begonias into Fire on the Mountain by Greatful Dead  
 Sleeping Monkey by Phish (Recommend Live Phish Boardwalk Atlantic City 2010)  
 Sparks (MANDY Remix)  
 Tela by Phish  
+Terrapin Station by Greatful Dead  
 The Lonesome Death of Hattie Carroll -- Bob Dylan  
 Waiting All Night by Phish  
 Walls of the Cave by Phish  
+YEM by Phish  
 
 ## Unsorted Genres
 Aesthetic  
