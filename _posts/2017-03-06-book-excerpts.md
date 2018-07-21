@@ -8,7 +8,7 @@ title: Book Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
-## House of Leaves - Mark Z. Danielewski (Read During a Memorable Week in Iceland)
+## House of Leaves - Mark Z. Danielewski
 
 ...la verdad, cuya madre es la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir. (...truth, whose mother is history, who is the rival of time, depository of deeds, witness of the past, example and lesson to the present, and warning to the future.) --Miguel de Cervantes, Writer [from Don Quixote, Part One, Chapter Nine, according to Page 42 of the remastered full-color edition of House of Leaves by Mark Z. Danielewski, copyright 2000]
 
