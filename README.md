@@ -22,7 +22,7 @@ I am using Markdown to write the posts.
 
 This section was also inspired by Ref. [1].
 
-The following directories and their contents are "Copyright Kenneth J. Sauer", i.e., they consist of original content (all rights reserved):
+The following directories and their contents are "Copyright Kenneth J. Sauer", i.e., they consist of original content (All Rights Reserved):
 
 * \_posts/
 
