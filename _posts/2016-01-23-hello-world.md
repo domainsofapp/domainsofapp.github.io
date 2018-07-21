@@ -32,4 +32,4 @@ If you would like to contribute logistically to the site, I am open to that. Her
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
-P.S. Please click on the "Fork me on GitHub" ribbon in the upper right corner, fork the GitHub repository, replace my content, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this to spread). Thanks again :--)
+P.S. Please click the "Fork me on GitHub" ribbon in the upper right, fork the GitHub repository, replace my content, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this to spread). Thanks again :--)
