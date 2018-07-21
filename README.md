@@ -8,7 +8,7 @@ I have to pay ~$10/year to register and own the above link in the Domain Name Sy
 
 Domains of Applicability can also be found at: https://domainsofapp.github.io
 
-The above link is free with your free GitHub repository :--)
+The above link is free with your free GitHub account and repository :--)
 
 The design of this README and repository is modeled after Ref. [1].
 
