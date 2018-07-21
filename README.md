@@ -24,7 +24,7 @@ The following directories and their contents are "Copyright Kenneth J. Sauer", i
 
 * \_posts/
 
-Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Feel free to use the HTML and CSS files as you please. If you do use them, a link back to Ref. [2] would be appreciated, but is not required.
+Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Feel free to use the HTML and CSS files as you please. If you do use them, a link back to Refs. [1]-[2] would be appreciated, but is not required.
 
 ## References
 
