@@ -116,7 +116,7 @@ Paired with capitalism, new forms of representation (e.g., new identities) = new
 
 ## John Rawls, American Philosopher
 
-How would you want the world to be if before you were born you didn't know your place in it?
+How would you want the world to be if before you were born you did not know your place in it?
 
 ## Ferdinand de Saussure, Swiss Linguist
 
@@ -134,4 +134,4 @@ Philosophy is "above" physics in this way. All there is for humans is the "langu
 
 Climate change as existential crisis for humanity.
 
-A choice is always a meta-choice, a choice of the modality of the choice itelf. (Modality: Mode in which something exists or is experienced or expressed.)
+A choice is always a meta-choice, a choice of the modality of the choice itelf. (Modality: The mode in which something exists or is experienced or expressed.)
