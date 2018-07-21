@@ -12,7 +12,7 @@ App to integrate Uber, Lyft, etc. with Google Transit
 
 Massively overbuild solar and "burn off" the excess (option to use trackers to curtail energy according to modified cosine curve)
 
-App solution for facilitating conversations with nearby strangers  
+App solution for facilitating conversations with nearby strangers (Silicon Valley idea, heh)  
 e.g., those participating want to chat and meet strangers  
 e.g., within certain physical range  
 e.g., anonymous invitation must be accepted  
