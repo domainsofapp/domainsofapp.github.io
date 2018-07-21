@@ -10,5 +10,5 @@ title: Notable Books
 
 House of Leaves -- Mark Z. Danielewski  
 Stories of Your Life and Others -- Ted Chiang  
-Why Does the World Exist? -- Jim Holt  
 The Gate of Heavenly Peace -- Jonathan Spence  
+Why Does the World Exist? -- Jim Holt  
