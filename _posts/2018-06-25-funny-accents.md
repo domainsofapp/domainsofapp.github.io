@@ -11,7 +11,7 @@ title: Funny Accents
 NB: This is intended to be comedy. If I come to learn it is offensive, I shall certainly delete.
 
 ## Boston
-Oh my gwaad  
+Oh...my...gwaad  
 I bet she's wicked smaht, too  
 Anyways, let's get a fahk!n coahfee at Dunks  
 I fahk!n love Dunkin, guy. It'll cheah ya right up  
