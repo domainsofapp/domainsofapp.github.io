@@ -68,6 +68,7 @@ Bodak Yellow by Cardi B
 Coke Hyena by Nacho Picasso  
 Congratulations ft. Quavo by Post Malone  
 Dirty Girl by Felt  
+Drowning (WATER) by A Boogie Wit Da Hoodie feat. Kodak Black  
 Get Right Witcha by Migos  
 Good Life ft. T-Pain by Kanye West  
 Halloween by Kodak Black  
@@ -140,22 +141,31 @@ Touch by LUCASV and Tequisha
 Althea by Greatful Dead  
 Brown Eyed Women by Greatful Dead  
 Forever Young by Grateful Dead feat. Neil Young  
-Friends by Phish  
-​Horn by Phish  
-Julius by Phish  
-Light by Phish  
-Satellite by Phish  
 Scarlet Begonias into Fire on the Mountain by Greatful Dead  
-Sleeping Monkey by Phish (Recommend Live Phish Boardwalk Atlantic City 2010)  
 Sparks (MANDY Remix)  
-Tela by Phish  
 Terrapin Station by Greatful Dead  
 The Lonesome Death of Hattie Carroll -- Bob Dylan  
-Waiting All Night by Phish  
-Walls of the Cave by Phish  
-YEM by Phish  
+
+## Unsorted Phish
+Divided Sky  
+Esther  
+Friends  
+​Horn  
+Julius  
+Light  
+Roses Are Free  
+Satellite  
+Sleeping Monkey (Recommend Live Phish Boardwalk Atlantic City 2010)  
+The Lizards  
+Tela  
+Train Song  
+Waiting All Night  
+Walls of the Cave  
+When the Circus Comes to Town  
+You Enjoy Myself (YEM)  
 
 ## Unsorted Genres
+Avicii  
 Aesthetic  
 Chillwave  
 Chopped and Screwed  
@@ -167,6 +177,8 @@ Hip Hop
 House  
 Intelligent Dance Music  
 Lo-Fi  
+Old School  
+Progressive House  
 Sesh  
 Trap  
 Trillwave  
