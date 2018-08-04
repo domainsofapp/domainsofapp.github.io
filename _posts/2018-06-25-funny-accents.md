@@ -10,7 +10,11 @@ title: Funny Accents
 
 NB: This is intended to be comedy. If I come to learn it is offensive, I shall certainly delete.
 
-## Boston
+Hey yoos!? Yoos gots my infos, eh!?
+
+Allz y'allz gotz mah infah, sahn, amrite?
+
+## Boston w/ Lurv :--)
 Oh...my...gwaad  
 I bet she's wicked smaht, too  
 Anyways, let's get a fahk!n coahfee at Dunks  
@@ -19,3 +23,6 @@ Then we'll hit the bah for a bloo moon and a hahpoon
 Ya gotta have a hahpoon if yoah going to the hahbah  
 I'll pahk the cah in Hahvuhd yahd right aftah  
 Smoke two paw maws, take a dump, usual routine  
+
+## SoCal w/ Lurv :--)
+Eh meh gwaad eh meh gwaad eh meh gwaaAAaad!  
