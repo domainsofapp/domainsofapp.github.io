@@ -120,4 +120,4 @@ I suppose it is tempting, if the only tool you have is a hammer, to treat everyt
 
 Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion. --Albert Einstein, Theoretical Physicist
 
-On the train of the revolution, we will lose the liberals at the first turn. --Anthony Bourdain, American Cook and Storyteller, Paraphrasing Lenin
+On the train of the revolution, we will lose the liberals at the first turn. --Anthony Bourdain, American Cook and Storyteller, Paraphrasing Vladimir Lenin, Revolutionary
