@@ -12,7 +12,7 @@ NB: This is intended to be comedy. If I come to learn it is offensive, I shall c
 
 Hey yoos!? Yoos gots my infos, eh!?
 
-Allz y'allz gotz mah infah, sahn, amrite?
+Allz y'allz gotz mah infah, sahn, amirite?
 
 ## Boston w/ Lurv :--)
 Oh...my...gwaad  

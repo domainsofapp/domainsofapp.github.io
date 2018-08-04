@@ -8,6 +8,32 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Hamlet Act 3 Scene 1 Page 4
+
+For who would bear the whips and scorns of time,  
+Th' oppressor’s wrong, the proud man’s contumely,  
+The pangs of despised love, the law’s delay,  
+The insolence of office, and the spurns  
+That patient merit of th' unworthy takes,  
+When he himself might his quietus make  
+With a bare bodkin? Who would fardels bear,  
+To grunt and sweat under a weary life,  
+But that the dread of something after death,  
+The undiscovered country from whose bourn  
+No traveler returns, puzzles the will  
+And makes us rather bear those ills we have  
+Than fly to others that we know not of?  
+Thus conscience does make cowards of us all,  
+And thus the native hue of resolution  
+Is sicklied o'er with the pale cast of thought,  
+And enterprises of great pith and moment  
+With this regard their currents turn awry,  
+And lose the name of action.—Soft you now,  
+The fair Ophelia!—Nymph, in thy orisons  
+Be all my sins remembered.  
+
+by Shakespeare
+
 ## Epistemology
 
 I.  

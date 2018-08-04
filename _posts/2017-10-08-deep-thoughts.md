@@ -31,3 +31,5 @@ Bankability represents use-value; price represents exchange-value.
 Impressionism is realism with poor vision (heh heh).
 
 Shall the birds of fortuity alight again?
+
+Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. Also it should not go off as if there is a fire when the battery is low especially in the middle of the night.
