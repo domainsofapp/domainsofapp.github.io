@@ -18,7 +18,7 @@ All models are wrong, but some are useful. --George E. P. Box, Statistician
 
 So we beat on, boats against the current, borne back ceaselessly into the past. --F. Scott Fitzgerald, Novelist
 
-A watt saved is better than a watt generated, which is better than a watt generated and then stored. --Ryan A. Desharnais, Engineer
+A watt saved is better than a watt generated, which is better than a watt generated and then stored. --Ryan A. Desharnais, Engineer (personal conversation)
 
 Moral law is an invention of mankind for the disenfranchisement of the powerful in favor of the weak. --Cormac McCarthy, Novelist
 
@@ -56,7 +56,9 @@ First, say to yourself what you would be; then do what you have to do. --Epictet
 
 The future is already here - it's just not very evenly distributed. --William Gibson, Fiction Writer
 
-I've never met a scientist who didn't play music. --Thomas Eisner, Entomologist (personal conversation, Risley Dining Room, Cornell University, 2008-10 time frame)
+I've never met a scientist who didn't play music. --Thomas Eisner, Entomologist (personal conversation, Risley Dining Room, Cornell University, 2008-2010 time frame)
+
+The best fiction is far more true than any journalism. --William Faulkner, Writer
 
 The past is never dead. It's not even past. --William Faulkner, Writer
 
@@ -66,7 +68,7 @@ Solidarity not charity. --Organizing philosophy, Common Ground Collective, New O
 
 Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the world sucks. --JoeJoe, Grid Operator, Greentech Media Poster via Disqus @disqus_f1ChKs4sTj
 
-To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Courtesy of AML
+To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Anne-Marie Litak, Public Art and Immersive Experience Producer (personal conversation)
 
 Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time. --Winston S. Churchill, Former British Prime Minister
 
@@ -121,3 +123,13 @@ I suppose it is tempting, if the only tool you have is a hammer, to treat everyt
 Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion. --Albert Einstein, Theoretical Physicist
 
 On the train of the revolution, we will lose the liberals at the first turn. --Anthony Bourdain, American Cook and Storyteller, Paraphrasing Vladimir Lenin, Revolutionary
+
+There is virtue in struggle. --Seth A. Maxon, Editor and Journalist (personal conversation)
+
+Soon we shall die and all memory of those five will have left earth, and we ourselves shall be loved for a while and forgotten. But the love will have been enough; all those impulses of love return to the love that made them. Even memory is not necessary for love. There is a land of the living and a land of the dead and the bridge is love, the only survival, the only meaning. --Thornton Wilder, American Playwright
+
+Tourism is sin, and travel on foot virtue. --Werner Herzog, German Screenwriter
+
+Some people feel the rain. Others just get wet. --Original Source Unknown
+
+More precisely -- and here we are back to the logic of the madman who knows that he is not a grain of corn, but is worried that the chickens have not realized this fact -- we know we are responsible, but the chicken (the big Other) has not caught on. --Slavoj Zizek, Slovenian Philosopher
