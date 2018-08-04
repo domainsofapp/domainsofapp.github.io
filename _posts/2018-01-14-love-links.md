@@ -13,6 +13,3 @@ title: Love Links
 
 ## MATLAB
 x = -2:.001:2; y=(sqrt(cos(x)).\*cos(200\*x)+sqrt(abs(x))-0.7).\*(4-x.\*x).^0.01; plot(x,y,'r');
-
-## Physics
-<a href="https://imgur.com/SKNl3VR/">Image: Physics Proposal (24 Feb 2013)</a>
