@@ -62,13 +62,13 @@ Re Boltzmann's expression: At a given temperature - in the bulk sense - a collec
 
 ## The Sunset Limited - Cormac McCarthy
 
-Person A:
+White:
 
 The one thing I wont give up is giving up. I expect that to carry me through. I'm depending on it. The things I believed in were very frail. As I said. They wont be around for long and neither will I. But I dont think that's really the reason for my decision. I think it goes deeper. You can acclimate yourself to loss. You have to. You give up the world line by line. Stoically. And then one day you realize that your courage is farcical. It doesnt mean anything. You've become an accomplice in your own annihilation and there is nothing you can do about it. Everything you do closes a door somewhere ahead of you. And finally there is only one door left.
 
 The shadow of the axe hangs over every joy.
 
-Person B:
+Black:
 
 The light is all around you, cept you dont see nothin but shadow. And the shadow is you. You the one makin it.
 

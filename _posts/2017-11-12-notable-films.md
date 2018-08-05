@@ -22,5 +22,9 @@ Lucia y el Sexo
 ## Indie
 Me and Earl and the Dying Girl  
 
+## Philosophy
+The Pervert's Guide to Cinema  
+The Pervert's Guide to Ideology  
+
 ## Zombie
 Train to Busan  

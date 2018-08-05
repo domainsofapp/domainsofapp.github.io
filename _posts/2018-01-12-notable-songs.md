@@ -11,7 +11,7 @@ title: Notable Songs
 ## Artistic
 The Pledge (Eternal Sunshine) by Jay Electronica  
 
-## Avicii -- EDM and House
+## Avicii EDM House
 Adele -- Someone Like You -- Avicii (Live at Pier 94 NYE)  
 A Sky Full of Stars -- Coldplay -- Avicii  
 Beautiful Heartbeat -- MORTEN Feat. Frida Sundemo -- Avicii  
@@ -21,6 +21,7 @@ Even -- Avicii
 Hang With Me -- Robyn -- Avicii  
 Heaven -- Avicii  
 Hey Brother -- Avicii  
+Losing My Grip -- Krosses  
 My Feelings for You -- Avicci & Sebastien Drums  
 New New New -- Bob Sinclar -- Avicii  
 Nicktim -- Avicii & Nicky Romero  

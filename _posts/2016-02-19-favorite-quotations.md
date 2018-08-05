@@ -74,7 +74,7 @@ Many forms of Government have been tried, and will be tried in this world of sin
 
 When you see a good move, look for a better one. --Emanuel Lasker, German Chess Player
 
-He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you. --Friedrich Nietzsche, Philosopher
+He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you. --Friedrich Nietzsche, Philosopher (Paraphrased: When you study the void, the void studies you back.)
 
 When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us. --Alexander Graham Bell, Scientist
 
