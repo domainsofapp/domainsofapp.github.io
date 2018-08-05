@@ -10,14 +10,16 @@ title: Blog References
 
 Many links featured on this blog were discovered on one of the following professional filter blogs:
 
+* <http://thekidshouldseethis.com/>
+* <https://www.3quarksdaily.com/>
+* <https://flowingdata.com/>
 * <https://hckrnews.com/>
+* <https://kottke.org/>
 * <https://lobste.rs/>
+* <https://roughlydaily.com/>
 * <https://slashdot.org/>
-* <http://www.3quarksdaily.com/>
-* <http://www.kottke.org/>
-* <https://flowingdata.com/most-recent/>
-* <http://www.metafilter.com/home/popularfavorites>
+* <https://www.metafilter.com/home/popularfavorites/>
 
 And, yes, admittedly:
 
-https://old.reddit.com/top/
+* <https://old.reddit.com/top/>
