@@ -20,7 +20,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past. 
 
 A watt saved is better than a watt generated, which is better than a watt generated and then stored. --Ryan A. Desharnais, Engineer (personal conversation)
 
-Moral law is an invention of mankind for the disenfranchisement of the powerful in favor of the weak. --Cormac McCarthy, Novelist
+Moral law is an invention of (wo)mankind for the disenfranchisement of the powerful in favor of the weak. --Cormac McCarthy, Novelist
 
 If the company didn't exist, would there be any need to create it? --PhilWright (username), Hacker News
 
@@ -48,7 +48,7 @@ In chess, it's called "zugzwang" when the only viable move...is not to move. --N
 
 Before we assume our respective roles in this enduring drama, just let me say that when these frail shadows we inhabit now have quit the stage, we'll meet and raise a glass again together in Valhalla. --Judge Sternwood, Fictional Character, Twin Peaks
 
-One [wo]man can make you fly like an eagle, another can give you the strength of a lion, but only one in the cycle of life can fill your heart with wonder and the wisdom that you have known a singular joy. --Deputy Hawk Hill, Fictional Character, Twin Peaks
+One (wo)man can make you fly like an eagle, another can give you the strength of a lion, but only one in the cycle of life can fill your heart with wonder and the wisdom that you have known a singular joy. --Deputy Hawk Hill, Fictional Character, Twin Peaks
 
 It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the universe can be said to be zero. From this it follows that the population of the whole universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination. --Douglas Adams, The Restaurant at the End of the Universe
 
@@ -133,3 +133,9 @@ Tourism is sin, and travel on foot virtue. --Werner Herzog, German Screenwriter
 Some people feel the rain. Others just get wet. --Original Source Unknown
 
 More precisely -- and here we are back to the logic of the madman who knows that he is not a grain of corn, but is worried that the chickens have not realized this fact -- we know we are responsible, but the chicken (the big Other) has not caught on. --Slavoj Zizek, Slovenian Philosopher
+
+The word "cause" is, in short, an altar to an unknown god; an empty pedestal still marking the place of a hoped-for statue. --William James, American Philosopher
+
+No (wo)man is an island. --John Donne, Poet
+
+Nothing endures but change. --Heraclitus, Greek Philosopher

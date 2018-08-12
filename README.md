@@ -10,7 +10,7 @@ Domains of Applicability can also be found at: https://domainsofapp.github.io
 
 The above link is free with your free GitHub account and repository :--)
 
-I have this latter link redirect to the former bc I pay for the former.
+I have this latter link redirect to the former because I pay for the former.
 
 The design of this README and repository is modeled after Ref. [1].
 

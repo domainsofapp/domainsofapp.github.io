@@ -16,6 +16,10 @@ The universe had to be such as to allow for observers to evolve within it. A uni
 
 Belief in categories of knowledge as simple givens; irreducible and immanent in the human by virtue of its inherent makeup (as opposed to, say, empiricism).
 
+## Alain Badiou, French Philosopher
+
+Truths that force knowledge may lead to new truths; thus, old truths are ancestors of new truths; thus, old truths are eternalized when conceived (an Evental moment).
+
 ## Charles Baudelaire, French Poet
 
 Regarded each new innovation, each new promise of an ideal existence within consumer society, as a failed enterprise. Regarded new commodities as already dead things. Our desires for new goods are ultimately self-defeating because soon enough our shiny new purchases will be forgotten junk stored in our attics and garages. All that is left after all those purchases are the debts and desire to feel at home while connecting to something larger than ourselves.
@@ -70,6 +74,10 @@ Existence precedes essence.
 
 Matter can only be recognized by forces acting on it.
 
+## Nicholas Fearn, Philosopher
+
+Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
+
 ## Georg Wilhelm Friedrich Hegel, Philosopher
 
 We assume the world is unified, but we cannot grasp the unity ourselves.
@@ -102,9 +110,9 @@ Reality is Mind; the universe is Spirit objectified.
 
 Reality becomes itself retroactively through its symbolic registration (e.g., into language, social story-telling, the stories we call "history").
 
-## Nicholas Fearn, Philosopher
+## Heraclitus, Greek Philosopher
 
-Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
+The only thing constant is change.
 
 ## Immanuel Kant, Philosopher
 
