@@ -12,6 +12,10 @@ title: Paraphrased Philosophy
 
 The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No suprise that the universe is "improbably" tuned for life.
 
+## Apriorism
+
+Belief in categories of knowledge as simple givens; irreducible and immanent in the human by virtue of its inherent makeup (as opposed to, say, empiricism).
+
 ## Charles Baudelaire, French Poet
 
 Regarded each new innovation, each new promise of an ideal existence within consumer society, as a failed enterprise. Regarded new commodities as already dead things. Our desires for new goods are ultimately self-defeating because soon enough our shiny new purchases will be forgotten junk stored in our attics and garages. All that is left after all those purchases are the debts and desire to feel at home while connecting to something larger than ourselves.
@@ -27,6 +31,10 @@ Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from n
 ## George Boole, Mathematics Educator
 
 1 + 1 = 1 (Boolean logic: True + True = True)
+
+## Decadence
+
+Literary movement of late 19th century France and England characterized by refined aestheticism, artiface, and the quest for new sensations.
 
 ## Jacques Derrida, Algerian-French Philosopher
 
@@ -45,6 +53,14 @@ Truth is to be found in the void. Emptiness is the space that defines the space 
 The laws of physics are the same at constant velocities.
 
 Curved spacetime is matter and vice versa.
+
+## Empiricism
+
+All knowledge is derived from sense experience (as opposed to, say, apriorism).
+
+## Epistemology
+
+Investigates the origin, nature, methods, and limits of human knowledge.
 
 ## Existentialism
 
@@ -110,6 +126,10 @@ Space and time are symbolic tools of the human consciousness for relating matter
 
 This statement cannot be proved.
 
+## Jacques Lacan, French Psychoanalyst
+
+The world is a fantasy through which thought sustains itself.
+
 ## M. Ng, Philosopher Friend
 
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
@@ -121,6 +141,10 @@ How would you want the world to be if before you were born you did not know your
 ## Ferdinand de Saussure, Swiss Linguist
 
 Language is a purely relational system. Words have no inner essence.
+
+## Max Weber, Socialogist
+
+The collapse of values proliferates in capitalism.
 
 ## Ludwig Wittgenstein, Philosopher
 

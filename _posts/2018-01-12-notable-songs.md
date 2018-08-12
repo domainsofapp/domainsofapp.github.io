@@ -15,6 +15,7 @@ The Pledge (Eternal Sunshine) by Jay Electronica
 Adele -- Someone Like You -- Avicii (Live at Pier 94 NYE)  
 A Sky Full of Stars -- Coldplay -- Avicii  
 Beautiful Heartbeat -- MORTEN Feat. Frida Sundemo -- Avicii  
+City Lights -- Avicii  
 Dancing In My Head -- Eric Turner vs. Avicii  
 Enough Is Enough (Don't Give Up On Us) -- Avicii  
 Even -- Avicii  
