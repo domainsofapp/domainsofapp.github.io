@@ -18,7 +18,7 @@ Belief in categories of knowledge as simple givens; irreducible and immanent in 
 
 ## Alain Badiou, French Philosopher
 
-Truths that force knowledge may lead to new truths; thus, old truths are ancestors of new truths; thus, old truths are eternalized when conceived (an Evental moment).
+Truths that force knowledge lead to new truths; thus, old truths are ancestors of new truths; thus, old truths are eternalized when conceived (an Evental moment).
 
 ## Charles Baudelaire, French Poet
 
