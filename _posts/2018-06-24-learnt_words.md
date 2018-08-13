@@ -15,8 +15,8 @@ Affect:
 3.) Sensation, disposition  
 
 Effect:  
-1) To bring about, to accomplish  
-2) Result, consequence  
+1.) To bring about, to accomplish  
+2.) Result, consequence  
 
 ## Real
 Anhedonia  

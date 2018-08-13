@@ -71,6 +71,7 @@ Coke Hyena by Nacho Picasso
 Congratulations ft. Quavo by Post Malone  
 Dirty Girl by Felt  
 Drowning (WATER) by A Boogie Wit Da Hoodie feat. Kodak Black  
+Fellas in Paris by Kanye West and Jay-Z  
 Get Right Witcha by Migos  
 Good Life ft. T-Pain by Kanye West  
 Halloween by Kodak Black  
@@ -81,7 +82,7 @@ Kyoto by Yung Lean
 Long Live A$AP by A$AP Rocky  
 Love$ick by Mura Masa and A$AP Rocky  
 Nacho Picasso  
-Fellas in Paris by Kanye West and Jay-Z  
+Nights by Frank Ocean
 No Frauds by Nicki Minaj, Drake, and Lil Wayne  
 No Type by Rae Sremmurd  
 OG Kush Diet by 2 Chainz  
