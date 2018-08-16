@@ -138,6 +138,10 @@ This statement cannot be proved.
 
 The world is a fantasy through which thought sustains itself.
 
+## Friedrich Nietzsche, Philosopher
+
+We manifest our will to power.
+
 ## M. Ng, Philosopher Friend
 
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
