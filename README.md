@@ -4,7 +4,7 @@ This code repository hosts the data for my personal experimental filter blog: Do
 
 Domains of Applicability can be found at: http://www.domainsofapplicability.com
 
-I pay ~$10/year to register and own the above link in the Domain Name System (DNS). I guess I do it bc I like the name.
+I pay ~$10/year to register and own the above link in the Domain Name System (DNS). I guess I do it because I like the name.
 
 Domains of Applicability can also be found at: https://domainsofapp.github.io
 
