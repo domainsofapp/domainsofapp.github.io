@@ -60,6 +60,24 @@ Nothing waits, and waits.
 
 by Heidi Sweets
 
+## Owl
+
+The music it  
+pulsates in my ears like  
+a beating heart induces  
+a beating life;  
+starts screeching like an  
+owl on the hunt who  
+scares and who  
+looks and who  
+sees and who  
+never panics because  
+every action is familiar and  
+every action is  
+for survival.
+
+by me.
+
 ## Relax
 
 --for anxious A.
