@@ -132,7 +132,7 @@ Tourism is sin, and travel on foot virtue. --Werner Herzog, German Screenwriter
 
 Some people feel the rain. Others just get wet. --Original Source Unknown
 
-More precisely -- and here we are back to the logic of the madman who knows that he is not a grain of corn, but is worried that the chickens have not realized this fact -- we know we are responsible, but the chicken (the big Other) has not caught on. --Slavoj Zizek, Slovenian Philosopher
+More precisely -- and here we are back to the logic of the madman who knows that he is not a grain of corn, but is worried that the chickens have not realized this fact -- we know we are responsible, but the chicken (the big Other) has not caught on. --Slavoj Žižek, Slovenian Philosopher, In Defense of Lost Causes
 
 The word "cause" is, in short, an altar to an unknown god; an empty pedestal still marking the place of a hoped-for statue. --William James, American Philosopher
 
@@ -141,3 +141,7 @@ No (wo)man is an island. --John Donne, Poet
 Nothing endures but change. --Heraclitus, Greek Philosopher
 
 It is vain to affirm that which the heart does not confirm. --Aleksandr Solzhenitsyn, Novelist
+
+As easy it was to tell black from white, it was all that easy to tell wrong from right. --Bob Dylan, American Singer-Songwriter
+
+True love is modest, like that of a couple in a Marguerite Duras novel: while the two lovers hold hands, they do not look into each other's eyes; they look together outwards, to some third point, their common Cause. Perhaps there is no greater love than that of a revolutionary couple, where each of the two lovers is ready to abandon the other at any moment should the revolution demand it. They do not love each other less than the amorous couple bent on suspending all their terrestrial links and obligations in order to burn out in a night of unconditional passion - if anything, they love each other more. --Slavoj Žižek, Slovenian philosopher, Living in the End Times
