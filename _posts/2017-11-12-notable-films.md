@@ -11,6 +11,9 @@ title: Notable Films
 ## Artistic
 Hiroshima Mon Amour  
 
+## Comedy
+Real Genius  
+
 ## Documentary
 Sans Soleil  
 Workingman's Death  

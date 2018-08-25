@@ -25,4 +25,4 @@ I'll pahk the cah in Hahvuhd yahd right aftah
 Smoke two paw maws, take a dump, usual routine  
 
 ## SoCal w/ Lurv :--)
-Eh meh gwaad eh meh gwaad eh meh gwaaaaaaaad!
+Eh meh gwaad eh meh gwaad eh meh gwaAad!

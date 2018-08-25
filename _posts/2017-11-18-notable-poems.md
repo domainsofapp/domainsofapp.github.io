@@ -78,6 +78,32 @@ for survival.
 
 by me.
 
+## A Poem About Anxiety
+
+Ms Green didn’t believe her mind  
+was a dark room full of poisons—  
+a room cluttered with rags  
+pills, torn tinsel, perfume  
+in lavender glass. She got stuck sometimes  
+inside her mind like a bit of lint  
+caught in a web meant for a fly.  
+She got stuck sometimes  
+sitting still, almost polite  
+with every limb consumed by fire—  
+she told herself her mind  
+was a buried animal a burning light.  
+But today Ms Green learned to reach inside  
+and touch her own mind, lightly—  
+her mind more like  
+a stalled record player playing  
+one song in deep-grooved vinyl—  
+today she learned to pick up the needle  
+and move it a little to the right—.  
+
+by Amanda Beth Peery
+
+Source: <https://www.3quarksdaily.com/3quarksdaily/2018/08/a-poem-about-anxiety.html/>
+
 ## Relax
 
 --for anxious A.
@@ -162,3 +188,5 @@ i know we exist because of what we make. my dad works at a steel mill. he worked
 by José Olivarez  
 from the Academy of American Poets  
 October 2017
+
+Source: <http://3quarksdaily.blogs.com/3quarksdaily/2017/12/friday-poem.html/>
