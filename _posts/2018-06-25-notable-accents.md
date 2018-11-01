@@ -8,9 +8,9 @@ title: Notable Accents
 
 <p class="meta">25 Jun 2018 - San Francisco, CA</p>
 
-Hey yoos!? Yoos gots my infoos, eh!?
+Hey yoos!? Yoos gots my infoos eh!?
 
-Allz y'allz gotz mah infah, sahn, amirite?
+Allz y'allz gotz mah infah sahn amirite?
 
 ## Boston (w/ Lurv) :--)
 Oh my gwaad  
