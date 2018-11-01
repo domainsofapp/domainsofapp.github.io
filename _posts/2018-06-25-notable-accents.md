@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funny Accents
+title: Notable Accents
 ---
 
 {{ page.title }}
@@ -8,13 +8,11 @@ title: Funny Accents
 
 <p class="meta">25 Jun 2018 - San Francisco, CA</p>
 
-NB: This is intended to be comedy. If I come to learn it is offensive, I shall certainly delete.
-
 Hey yoos!? Yoos gots my infoos, eh!?
 
 Allz y'allz gotz mah infah, sahn, amirite?
 
-## Boston w/ Lurv :--)
+## Boston (w/ Lurv) :--)
 Oh my gwaad  
 I bet she's wicked smaht, too  
 Anyways, let's get a fahk!n coahfee at Dunks  
@@ -24,5 +22,5 @@ Ya gotta have a hahpoon if yoah going to the hahbah
 I'll pahk the cah in Hahvuhd yahd right aftah  
 Smoke two paw maws, take a dump, usual routine  
 
-## SoCal w/ Lurv :--)
+## SoCal (w/ Lurv) :--)
 Eh meh gwaad eh meh gwaad eh meh gwaAad!
