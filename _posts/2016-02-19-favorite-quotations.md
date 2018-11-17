@@ -145,3 +145,5 @@ It is vain to affirm that which the heart does not confirm. --Aleksandr Solzheni
 As easy it was to tell black from white, it was all that easy to tell wrong from right. --Bob Dylan, American Singer-Songwriter
 
 True love is modest, like that of a couple in a Marguerite Duras novel: while the two lovers hold hands, they do not look into each other's eyes; they look together outwards, to some third point, their common Cause. Perhaps there is no greater love than that of a revolutionary couple, where each of the two lovers is ready to abandon the other at any moment should the revolution demand it. They do not love each other less than the amorous couple bent on suspending all their terrestrial links and obligations in order to burn out in a night of unconditional passion - if anything, they love each other more. --Slavoj Žižek, Slovenian philosopher, Living in the End Times
+
+Every thin film PV module is a PhD project. --Sarah Kurtz, Research Fellow and Professor (personal conversation)
