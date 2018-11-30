@@ -47,5 +47,3 @@ Zugzwang: A situation in which the obligation to make a move in one's turn is a 
 
 ## Slang
 Cyperspace vs. meatspace  
-Danger noodle (snek) (snake)  
-Trash panda (raccoon)  
