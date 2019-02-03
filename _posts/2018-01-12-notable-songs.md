@@ -9,7 +9,7 @@ title: Notable Songs
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
 ## Artistic
-The Pledge (Eternal Sunshine) by Jay Electronica  
+The Pledge (Eternal Sunshine) -- Jay Electronica  
 
 ## Avicii EDM House
 Adele -- Someone Like You -- Avicii (Live at Pier 94 NYE)  
@@ -19,7 +19,7 @@ City Lights -- Avicii
 Dancing In My Head -- Eric Turner vs. Avicii  
 Enough Is Enough (Don't Give Up On Us) -- Avicii  
 Even -- Avicii  
-Hang With Me -- Robyn -- Avicii  
+Hang With Me -- Ro--n -- Avicii  
 Heaven -- Avicii  
 Hey Brother -- Avicii  
 Losing My Grip -- Krosses  
@@ -34,109 +34,122 @@ Talk to Myself -- Avicii
 The Nights -- Avicii  
 Without You “Audio” ft. Sandro Cavazza -- Avicii  
 
+## Bluegrass
+Jerry Garcia Band  
+TBD  
+
 ## Classic
-Africa by Toto  
-I'm Still Standing by Elton John  
-September by Earth, Wind & Fire  
+Africa -- Toto  
+I'm Still Standing -- Elton John  
+September -- Earth, Wind & Fire  
 
 ## Classical
-​On the Nature of Daylight by Max Richter  
-Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI by Philip Glass and Matt Haimovitz  
+​On the Nature of Daylight -- Max Richter  
+Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI -- Philip Glass and Matt Haimovitz  
 
 ## Dance
-Hot by Ravi Shavi  
-Poison Lips by Vitalic  
+Hot -- Ravi Shavi  
+Poison Lips -- Vitalic  
+
+## Electronic DJ
+Bashful -- Shanti  
+Headlock -- Lotic  
+Quartz -- Bloom  
+Soda Plains -- Destroyment  
+Ynfynyt Scroll + C.Z. -- Danca Grave  
 
 ## Ethereal
-101 by Portico  
-Where You Are by Portico (Featured in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
+101 -- Portico  
+Where You Are -- Portico (Featured in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
 
 ## Folk
-TBD
+TBD  
 
 ## Happy
-Alagassira by Youssou N'dour  
-Send Me On My Way by Rusted Root  
-These Days by Nico  
-Yaye Digalma by Jimmy Mbaye  
+Alagassira -- Youssou N'dour  
+Send Me On My Way -- Rusted Root  
+These Days -- Nico  
+Yaye Digalma -- Jimmy Mbaye  
 Toots and the Maytals  
 
 ## Hip Hop
-0 to 100 / The Catch Up by Drake
-1 Train (ft. Kendrick Lamar, Joey Badass, Yelawolf, Big Krit and more) by A$AP Rocky  
-All Me by Drake  
-Blessings by Big Sean  
-Bodak Yellow by Cardi B  
-Coke Hyena by Nacho Picasso  
-Congratulations ft. Quavo by Post Malone  
-Dirty Girl by Felt  
-Drowning (WATER) by A Boogie Wit Da Hoodie feat. Kodak Black  
-Fellas in Paris by Kanye West and Jay-Z  
-Get Right Witcha by Migos  
-Good Life ft. T-Pain by Kanye West  
-Halloween by Kodak Black  
-Headlines by Drake  
-I Don't Muck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) by Big Sean  
-I'm Goin In by Drake, Lil Wayne, and Jeezy  
-Kyoto by Yung Lean  
-Long Live A$AP by A$AP Rocky  
-Love$ick by Mura Masa and A$AP Rocky  
+0 to 100 / The Catch Up -- Drake  
+1 Train (ft. Kendrick Lamar, Joey Badass, Yelawolf, Big Krit and more) -- A$AP Rocky  
+All Me -- Drake  
+Blessings -- Big Sean  
+Bodak Yellow -- Cardi B  
+Coke Hyena -- Nacho Picasso  
+Congratulations ft. Quavo -- Post Malone  
+Dirty Girl -- Felt  
+Drowning (WATER) -- A Boogie Wit Da Hoodie feat. Kodak Black  
+Fellas in Paris -- Kanye West and Jay-Z  
+Get Right Witcha -- Migos  
+Good Life ft. T-Pain -- Kanye West  
+Halloween -- Kodak Black  
+Headlines -- Drake  
+I Don't Muck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) -- Big Sean  
+I'm Goin In -- Drake, Lil Wayne, and Jeezy  
+Kyoto -- Yung Lean  
+Long Live A$AP -- A$AP Rocky  
+Love$ick -- Mura Masa and A$AP Rocky  
 Nacho Picasso  
-Nights by Frank Ocean
-No Frauds by Nicki Minaj, Drake, and Lil Wayne  
-No Type by Rae Sremmurd  
-OG Kush Diet by 2 Chainz  
-Over by Drake  
-Plain Jane by A$AP Ferg  
-Rack City (Explicit) by Tyga  
-Recognize by partynextdoor and Drake  
-Rockstar ft. 21 Savage by Post Malone  
-Sneakin' ft. 21 Savage by Drake  
-Swang by Rae Sremmurd  
-The Hood Internet - Some Poppas by The Notorious B I G x Flume  
-Tuesday by ilovemakonnen and Drake  
-Woman Tonight by Murs & Slug  
-X by 21 Savage and Future  
-Yoshi City by Yung Lean  
+Nights -- Frank Ocean
+No Frauds -- Nicki Minaj, Drake, and Lil Wayne  
+No Type -- Rae Sremmurd  
+OG Kush Diet -- 2 Chainz  
+Over -- Drake  
+Plain Jane -- A$AP Ferg  
+Rack City (Explicit) -- Tyga  
+Recognize -- partynextdoor and Drake  
+Rockstar ft. 21 Savage -- Post Malone  
+Sneakin' ft. 21 Savage -- Drake  
+Swang -- Rae Sremmurd  
+The Hood Internet - Some Poppas -- The Notorious B I G x Flume  
+Toot My Sh!t -- Vixen Ent.  
+Tuesday -- ilovemakonnen and Drake  
+Woman Tonight -- Murs & Slug  
+X -- 21 Savage and Future  
+Yoshi City -- Yung Lean  
 
 ## Hip Hop Legit
-21savage - slaughter gang shit  
-Black Kray – LIL 2 Lyrics  
-PeeWee Longway – The Most Lyrics  
-Speaker Knockerz – Erica Kane Lyrics  
-SPEND THE NIGHT (ZUTZUT EDIT)  
+Lil 2 -- Sickboirari aka Black Kray  
+The Most -- PeeWee Longway  
+Red Opps -- 21 Savage  
+Slaughter Gang Sh!t -- 21savage  
+Speaker Knockerz -- Erica Kane  
+Spend the Night -- Zutzut Edit  
 
 ## IDM
-Lower The Heavens by The Donkeys  
-The Magic in You by Ulrich Schnauss  
+Lower The Heavens -- The Donkeys  
+The Magic in You -- Ulrich Schnauss  
 
 ## Jazz
-Everything In Its Right Place/Maiden Voyage by Robert Glasper  
+Everything In Its Right Place/Maiden Voyage -- Robert Glasper  
 
 ## Mixes
-Essential Mix by DJ Shadow  
+Essential Mix -- DJ Shadow  
 I Miss You  
 ParisDJs 1972  
 Wake The Town 8/14/13 (Wake The Town Radio)  
 
 ## R&B
-Pray You Catch Me by Beyoncé
+Pray You Catch Me -- Beyonce  
 
 ## Sad Rap
-Mockingbird by Eminem  
+Mockingbird -- Eminem  
 
 ## Slow
-Anything But Me by Phish  
-Can't Help Falling in Love With You by Haley Reinhart  
-Creep by Haley Reinhart  
-Dirt by Phish  
-Easy Like a Sunday Morning by Lionel Richie  
-Jealous Guy by John Lennon  
-Scale It Back feat. Little Dragon (Single Edit) by DJ Shadow  
-Talk by Phish  
-To Lay Me Down by Grateful Dead  
-Unchained Melody by Lykke Li  
-Waste by Phish  
+Anything But Me -- Phish  
+Can't Help Falling in Love With You -- Haley Reinhart  
+Creep -- Haley Reinhart  
+Dirt -- Phish  
+Easy Like a Sunday Morning -- Lionel Richie  
+Jealous Guy -- John Lennon  
+Scale It Back feat. Little Dragon (Single Edit) -- DJ Shadow  
+Talk -- Phish  
+To Lay Me Down -- Grateful Dead  
+Unchained Melody -- Lykke Li  
+Waste -- Phish  
 
 ## Soundtracks
 Halt and Catch Fire  
@@ -144,19 +157,19 @@ Mr. Nobody
 Stranger Things  
 
 ## Trance
-Feels by Giraffage  
-I love the USA by Weezer  
-Night Falls by Bucca Shade  
-Time (Original Mix) by Pachanga Boys  
-Touch by LUCASV and Tequisha  
+Feels -- Giraffage  
+I love the USA -- Weezer  
+Night Falls -- Bucca Shade  
+Time (Original Mix) -- Pachanga Boys  
+Touch -- LUCASV and Tequisha  
 
 ## Unsorted
-Althea by Greatful Dead  
-Brown Eyed Women by Greatful Dead  
-Forever Young by Grateful Dead feat. Neil Young  
-Scarlet Begonias into Fire on the Mountain by Greatful Dead  
+Althea -- Greatful Dead  
+Brown Eyed Women -- Greatful Dead  
+Forever Young -- Grateful Dead feat. Neil Young  
+Scarlet Begonias into Fire on the Mountain -- Greatful Dead  
 Sparks (MANDY Remix)  
-Terrapin Station by Greatful Dead  
+Terrapin Station -- Greatful Dead  
 The Lonesome Death of Hattie Carroll -- Bob Dylan  
 
 ## Unsorted Phish
@@ -178,17 +191,17 @@ When the Circus Comes to Town
 You Enjoy Myself (YEM)  
 
 ## Unsorted Genres
-Avicii  
 Aesthetic  
 Chillwave  
 Chopped and Screwed  
 Cloud  
 Cloud Rap  
 Electronic  
-Electronic Dance Music  
+Electronic Dance Music (EDM)  
 Hip Hop  
 House  
-Intelligent Dance Music  
+Intelligent Dance Music (IDM)  
+Kwaito  
 Lo-Fi  
 Old School  
 Progressive House  
@@ -198,4 +211,4 @@ Trillwave
 Trip Hop  
 Vaportrap  
 Vaporwave  
-Witch house  
+Witch House  
