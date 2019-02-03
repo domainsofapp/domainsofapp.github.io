@@ -150,7 +150,7 @@ by Ellen Bass
 from Like a Beggar  
 Copper Canyon Press, 2014
 
-Source: <http://www.3quarksdaily.com/3quarksdaily/2017/11/saturday-poem-1.html/>
+Source: <https://www.ellenbass.com/books/like-a-beggar/relax/>
 
 ## The Interrogation of the Good -- by Bertolt Brecht
 
@@ -189,4 +189,4 @@ by José Olivarez
 from the Academy of American Poets  
 October 2017
 
-Source: <http://3quarksdaily.blogs.com/3quarksdaily/2017/12/friday-poem.html/>
+Source: <https://3quarksdaily.blogs.com/3quarksdaily/2017/12/friday-poem.html/>

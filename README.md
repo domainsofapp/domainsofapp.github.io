@@ -2,19 +2,23 @@
 
 This code repository hosts the data for my personal experimental filter blog: Domains of Applicability
 
-Domains of Applicability can be found at: http://www.domainsofapplicability.com
+Domains of Applicability can be found at:
 
-I pay ~$10/year to register and own the above link in the Domain Name System (DNS). I guess I do it because I like the name.
+https://domainsofapp.github.io
 
-Domains of Applicability can also be found at: https://domainsofapp.github.io
+The above link is free with my free GitHub account and repository :--)
 
-The above link is free with your free GitHub account and repository :--)
+See more: GitHub Pages
 
-I have this latter link redirect to the former because I pay for the former.
+I used to pay ~$10/year to register/own the following custom domain in the Domain Name System (DNS):
+
+http://www.domainsofapplicability.com
+
+Originally, the former link above (GitHub Pages) redirected to the latter b/c I paid for the latter (b/c I liked the name). I did not like paying so I stopped (so the latter URL no longer works; please use the former).
 
 The design of this README and repository is modeled after Ref. [1].
 
-Whenever I push changes to this repository on my local computer to GitHub, the data herein is automatically transformed by Jekyll [2] into the static site that you see at the above URL.
+Whenever I push changes to this repository on my local computer to GitHub, the data herein is automatically transformed by Jekyll [2] into the static site that you see at the above (first) URL.
 
 I am using Markdown to write the posts.
 

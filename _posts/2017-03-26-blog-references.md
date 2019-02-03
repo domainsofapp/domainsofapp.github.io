@@ -10,7 +10,7 @@ title: Blog References
 
 Many links featured on this blog were discovered on one of the following professional filter blogs:
 
-* <http://thekidshouldseethis.com/>
+* <https://thekidshouldseethis.com/>
 * <https://www.3quarksdaily.com/>
 * <https://flowingdata.com/>
 * <https://hckrnews.com/>
