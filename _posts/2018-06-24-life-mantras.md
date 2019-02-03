@@ -15,3 +15,5 @@ Publish useful stuff (if compelled to, and within the confines of legality).
 Do not be afraid. Dive right in.  
 
 In any critical task, attempt to do only what is necessary.  
+
+Life is not hard if you be yourself. --F.A. (personal conversation)
