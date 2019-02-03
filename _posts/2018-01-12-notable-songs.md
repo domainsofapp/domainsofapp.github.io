@@ -99,6 +99,13 @@ Woman Tonight by Murs & Slug
 X by 21 Savage and Future  
 Yoshi City by Yung Lean  
 
+## Hip Hop Legit
+21savage - slaughter gang shit  
+Black Kray – LIL 2 Lyrics  
+PeeWee Longway – The Most Lyrics  
+Speaker Knockerz – Erica Kane Lyrics  
+SPEND THE NIGHT (ZUTZUT EDIT)  
+
 ## IDM
 Lower The Heavens by The Donkeys  
 The Magic in You by Ulrich Schnauss  
