@@ -36,6 +36,10 @@ Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from n
 
 1 + 1 = 1 (Boolean logic: True + True = True)
 
+## Fred Brooks, American Software Engineer
+
+The Mythical Man-Month: Adding a new person to a late project will make the project later.
+
 ## Charles Darwin, Naturalist
 
 Evolve or go extinct.
