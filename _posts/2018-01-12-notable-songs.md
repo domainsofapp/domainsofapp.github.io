@@ -19,7 +19,7 @@ City Lights -- Avicii
 Dancing In My Head -- Eric Turner vs. Avicii  
 Enough Is Enough (Don't Give Up On Us) -- Avicii  
 Even -- Avicii  
-Hang With Me -- Ro--n -- Avicii  
+Hang With Me -- Robyn -- Avicii  
 Heaven -- Avicii  
 Hey Brother -- Avicii  
 Losing My Grip -- Krosses  
@@ -35,6 +35,7 @@ The Nights -- Avicii
 Without You “Audio” ft. Sandro Cavazza -- Avicii  
 
 ## Bluegrass
+Old & In the Way  
 Jerry Garcia Band  
 TBD  
 
@@ -52,11 +53,11 @@ Hot -- Ravi Shavi
 Poison Lips -- Vitalic  
 
 ## Electronic DJ
+Active Denial System II -- WWWINGS ft. Svengali  
 Bashful -- Shanti  
 Headlock -- Lotic  
 Quartz -- Bloom  
 Soda Plains -- Destroyment  
-Ynfynyt Scroll + C.Z. -- Danca Grave  
 
 ## Ethereal
 101 -- Portico  
@@ -76,6 +77,7 @@ Toots and the Maytals
 0 to 100 / The Catch Up -- Drake  
 1 Train (ft. Kendrick Lamar, Joey Badass, Yelawolf, Big Krit and more) -- A$AP Rocky  
 All Me -- Drake  
+All the Way Down -- Kelela
 Blessings -- Big Sean  
 Bodak Yellow -- Cardi B  
 Coke Hyena -- Nacho Picasso  
@@ -86,6 +88,7 @@ Fellas in Paris -- Kanye West and Jay-Z
 Get Right Witcha -- Migos  
 Good Life ft. T-Pain -- Kanye West  
 Halloween -- Kodak Black  
+Hannah Montana -- Migos  
 Headlines -- Drake  
 I Don't Muck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) -- Big Sean  
 I'm Goin In -- Drake, Lil Wayne, and Jeezy  
@@ -113,11 +116,12 @@ Yoshi City -- Yung Lean
 
 ## Hip Hop Legit
 Lil 2 -- Sickboirari aka Black Kray  
-The Most -- PeeWee Longway  
+Erica Kane -- Speaker Knockerz  
+Magic -- Future ft. T.I.  
 Red Opps -- 21 Savage  
-Slaughter Gang Sh!t -- 21savage  
-Speaker Knockerz -- Erica Kane  
 Spend the Night -- Zutzut Edit  
+The Most -- PeeWee Longway  
+Yung 6 Speed -- Black Kray  
 
 ## IDM
 Lower The Heavens -- The Donkeys  
@@ -158,7 +162,7 @@ Stranger Things
 
 ## Trance
 Feels -- Giraffage  
-I love the USA -- Weezer  
+I Love the USA -- Weezer  
 Night Falls -- Bucca Shade  
 Time (Original Mix) -- Pachanga Boys  
 Touch -- LUCASV and Tequisha  
@@ -181,7 +185,7 @@ Julius
 Light  
 Roses Are Free  
 Satellite  
-Sleeping Monkey (Recommend Live Phish Boardwalk Atlantic City 2010)  
+Sleeping Monkey (Live Phish Boardwalk Atlantic City 2010)  
 The Lizards  
 Tela  
 Train Song  
@@ -192,23 +196,54 @@ You Enjoy Myself (YEM)
 
 ## Unsorted Genres
 Aesthetic  
+Ambient  
+Atmospheric  
 Chillwave  
 Chopped and Screwed  
 Cloud  
 Cloud Rap  
+Dancehall  
+Down  
+Electro  
 Electronic  
 Electronic Dance Music (EDM)  
+Euro Trance  
 Hip Hop  
 House  
+Hypnotic  
 Intelligent Dance Music (IDM)  
+Jungle  
 Kwaito  
 Lo-Fi  
 Old School  
 Progressive House  
+Psychedelic  
+Reggaeton  
+Rock  
+Sad  
 Sesh  
+Trance﻿  
 Trap  
 Trillwave  
 Trip Hop  
+Vapo  
+Vapor  
 Vaportrap  
 Vaporwave  
+Wave  
 Witch House  
+
+## Ecco2K Tracklist -- Boiler Room -- 01 Jan 2017
+Props to: YouTube user "iasoe"  
+0:00 Migos - Hannah Montana and SPEND THE NIGHT (ZUTZUT EDIT)  
+3:56 Black Kray - LIL 2  
+6:08 Lil Uzi Vert - That's My Rule and Nguzunguzu - Skycell  
+11:09 BLACK KRAY - YUNG 6 SPEED  
+13:42 The Most - PeeWee Longway  
+16:13 21 Savage - Red Opps  
+18:24 Speaker Knockerz - Erica Kane  
+20:20 Tadoe X Capo - Gang in this bitch  
+24:56 MHD - AFRO TRAP Part.2  
+26:33 Kamixlo - Lariat (Visionist remix)  
+28:23 ENDGAME - luxury riddim  
+31:56 Future - Magic﻿  
