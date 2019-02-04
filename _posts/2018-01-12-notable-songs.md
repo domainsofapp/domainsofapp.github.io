@@ -245,5 +245,5 @@ Props to: YouTube user "iasoe"
 20:20 Tadoe X Capo - Gang in this bitch  
 24:56 MHD - AFRO TRAP Part.2  
 26:33 Kamixlo - Lariat (Visionist remix)  
-28:23 ENDGAME - luxury riddim  
+28:23 ENDGAME - luxury riddim (vocals unknown)  
 31:56 Future - Magic﻿  
