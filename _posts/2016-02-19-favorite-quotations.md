@@ -155,3 +155,5 @@ Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
 
 I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer
+
+Winter ends. --S. Foundling, American Artist (personal conversation)
