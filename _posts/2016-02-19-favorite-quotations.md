@@ -18,7 +18,7 @@ All models are wrong, but some are useful. --George E. P. Box, Statistician
 
 So we beat on, boats against the current, borne back ceaselessly into the past. --F. Scott Fitzgerald, Novelist
 
-A watt saved is better than a watt generated, which is better than a watt generated and then stored. --Ryan A. Desharnais, Engineer (personal conversation)
+A watt saved is better than a watt generated, which is better than a watt generated and then stored. --Ryan D., Engineer (personal conversation)
 
 Moral law is an invention of (wo)mankind for the disenfranchisement of the powerful in favor of the weak. --Cormac McCarthy, Novelist
 
@@ -62,13 +62,13 @@ The best fiction is far more true than any journalism. --William Faulkner, Write
 
 The past is never dead. It's not even past. --William Faulkner, Writer
 
-Live as you die; ask not why. --Eric Litak, Software Developer
+Live as you die; ask not why. --Eric L., Software Developer
 
 Solidarity not charity. --Organizing philosophy, Common Ground Collective, New Orleans
 
 Theory is fun. Practice is bleak. Progress is a weed who refuses to believe the world sucks. --JoeJoe, Grid Operator, Greentech Media Poster via Disqus @disqus_f1ChKs4sTj
 
-To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Anne-Marie Litak, Public Art and Immersive Experience Producer (personal conversation)
+To figure out what to write, ask yourself: What is the one book that you most badly wish to read? --Anne-Marie L., Public Art and Immersive Experience Producer (personal conversation)
 
 Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time. --Winston S. Churchill, Former British Prime Minister
 
@@ -124,7 +124,7 @@ Now he has departed from this strange world a little ahead of me. That means not
 
 On the train of the revolution, we will lose the liberals at the first turn. --Anthony Bourdain, American Cook and Storyteller, Paraphrasing Vladimir Lenin, Revolutionary
 
-There is virtue in struggle. --Seth A. Maxon, Editor and Journalist (personal conversation)
+There is virtue in struggle. --Seth M., Editor and Journalist (personal conversation)
 
 Soon we shall die and all memory of those five will have left earth, and we ourselves shall be loved for a while and forgotten. But the love will have been enough; all those impulses of love return to the love that made them. Even memory is not necessary for love. There is a land of the living and a land of the dead and the bridge is love, the only survival, the only meaning. --Thornton Wilder, American Playwright
 
@@ -146,9 +146,9 @@ As easy it was to tell black from white, it was all that easy to tell wrong from
 
 True love is modest, like that of a couple in a Marguerite Duras novel: while the two lovers hold hands, they do not look into each other's eyes; they look together outwards, to some third point, their common Cause. Perhaps there is no greater love than that of a revolutionary couple, where each of the two lovers is ready to abandon the other at any moment should the revolution demand it. They do not love each other less than the amorous couple bent on suspending all their terrestrial links and obligations in order to burn out in a night of unconditional passion - if anything, they love each other more. --Slavoj Žižek, Slovenian philosopher, Living in the End Times
 
-Every thin film PV module is a PhD project. --Sarah Kurtz, Research Fellow and Professor (personal conversation)
+Every thin film PV module is a PhD project. --Sarah K., Research Fellow and Professor (personal conversation)
 
-Take your losses like your gains. --W.G. (personal conversation)
+Take your losses like your gains. --William G. (personal conversation)
 
 Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 
@@ -157,3 +157,5 @@ Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
 I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer
 
 Winter ends. --S. Foundling, American Artist (personal conversation)
+
+Look at plants, not people. --Olivia (personal conversation)
