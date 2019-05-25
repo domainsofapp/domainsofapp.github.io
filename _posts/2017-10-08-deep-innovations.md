@@ -21,3 +21,5 @@ e.g., not sure providing visual identifier is necessary; discriminates against t
 Motivation is to bring people together in-person in a social way who might not otherwise engage  
 
 Keychain dongle that beeps when it finds public WiFi
+
+Free version of Lyft/Uber to replace hitchhiking (with validated riders and drivers)
