@@ -215,9 +215,11 @@ Intelligent Dance Music (IDM)
 Jungle  
 Kwaito  
 Lo-Fi  
+Murder House  
 Old School  
 Progressive House  
 Psychedelic  
+Psychedelic Trance  
 Reggaeton  
 Rock  
 Sad  
