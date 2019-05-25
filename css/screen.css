@@ -82,13 +82,11 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   /*comment out old width and add width and margin below*/
-  /*width: 42em;*/
-  /*margin: 3em auto 2em auto;*/
-  line-height: 1.5em;
   /*new width, margin, and padding*/
   width: 100%;
-  margin: auto;
-  padding: auto;
+  /*width: 42em;*/
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
 }
 
 .title {
@@ -96,7 +94,7 @@ ul.posts {
   font-weight: bold;
   margin-bottom: 2em;
 }
-
+s
   .site .title a {
     color: #a00;
     text-decoration: none;
