@@ -1,3 +1,0 @@
-1. verify all links on site
-2. attempt to add slash "/" to the end of every link (need to verify it doesn't break the link)
-3. verify the correct date order
