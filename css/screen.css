@@ -81,9 +81,13 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 126em;
-  margin: 3em auto 2em auto;
+  /*comment out old width and add width and margin below*/
+  /*width: 42em;*/
+  /*margin: 3em auto 2em auto;*/
   line-height: 1.5em;
+  /*new width and margin*/
+  width: 500px;
+  margin: auto;
 }
 
 .title {
