@@ -15,12 +15,6 @@
    <script type="text/javascript" src="https://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-   <!-- Google Analytics -->
-   {% if site.google_analytics and jekyll.environment == 'production' %}
-   {% include analytics.html %}
-   {% endif %}
-   <!-- End Google Analytics -->
-
 </head>
 <body>
 
@@ -51,6 +45,8 @@
 </div>
 
 <a href="https://github.com/domainsofapp/domainsofapp.github.io/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
+
+{% include analytics.html %}
 
 </body>
 </html>
