@@ -81,8 +81,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  /*comment out old width*/
-  /*width: 42em;*/
+  width: 42em;*/
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
