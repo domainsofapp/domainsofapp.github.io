@@ -87,8 +87,8 @@ ul.posts {
   line-height: 1.5em;
   /*new width, margin, and padding*/
   width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: auto;
 }
 
 .title {
