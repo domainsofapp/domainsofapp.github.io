@@ -20,6 +20,6 @@ Many links featured on this blog were discovered on one of the following profess
 * <https://slashdot.org/>
 * <https://www.metafilter.com/home/popularfavorites/>
 
-And, yes, admittedly:
+And admittedly the following:
 
 * <https://old.reddit.com/top/>
