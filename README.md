@@ -22,6 +22,8 @@ When I push changes to this repository on my local computer to GitHub, the data 
 
 I am using Markdown to write the posts.
 
+I used to implement Google Analytics on the site, but I removed it in order to keep the site simpler (also, because I have no need to track viewers).
+
 ## License
 
 This section was also inspired by Ref. [1].
