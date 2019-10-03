@@ -8,6 +8,36 @@ title: Notable Songs
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
+Look on YouTube unless otherwise noted.
+
+## 00 DJ Hip Hop
+Hackman - Close  
+Mobb Deep - Snitch (If these walls could talk)  
+PEEWEE LONGWAY - THE MOST  
+Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
+Company flow - 8 steps to perfection  
+Kalaido - Hanging Lanterns (mad chill)  
+Vitalic - Poison Lips  
+Toot my shit - Vixen Ent.  
+6IX9INE - Gotti  
+Ari Lennox, J. Cole - Shea Butter Baby  
+Cardi B - Bartier Cardi (feat. 21 Savage)  
+Earl Sweatshirt - Shattered Dreams  
+Gucci Mane - My Kitchen (start at 0:20 due to language)  
+Dear David - I've Been Waiting (EDM depending)  
+
+## 00 DJ Hip Hop Done
+Mobb Deep - Snitch (If these walls could talk)  
+Mac Dre - I've Been Down  
+Erykah Badu - Bag Lady  
+Kelela - All the Way Down  
+
+## 00 DJ Hip Hop Maybe
+Tiana - Batty Rider - Bike Ryda Riddim  
+The Hundred In The Hands - Commotion  
+G Mo - Ballin'  
+Shanti - Bashful  
+
 ## Artistic
 The Pledge (Eternal Sunshine) -- Jay Electronica  
 
@@ -244,7 +274,7 @@ Props to: YouTube user "iasoe"
 13:42 The Most - PeeWee Longway  
 16:13 21 Savage - Red Opps  
 18:24 Speaker Knockerz - Erica Kane  
-20:20 Tadoe X Capo - Gang in this bitch  
+20:20 Tadoe X Capo - Gang in this b!tch  
 24:56 MHD - AFRO TRAP Part.2  
 26:33 Kamixlo - Lariat (Visionist remix)  
 28:23 ENDGAME - luxury riddim (vocals unknown)  
