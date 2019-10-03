@@ -168,6 +168,8 @@ The collapse of values proliferates in capitalism.
 
 ## Ludwig Wittgenstein, Philosopher
 
+The following sentence "breaks" the objective Truth (capital "T") of language: This sentence is false. Or, as kids would say: "It's opposite day."
+
 Nothing changes. Anything that we say changes is all part of a "language game" (linguistic representation of reality).
 
 Physics is not "True" (capital "T"), but it is useful.
