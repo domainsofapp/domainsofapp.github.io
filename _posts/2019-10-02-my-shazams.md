@@ -21,6 +21,8 @@ Markings:
 
 No mark means I haven't checked or decided yet
 
+Lower numbers represent newer Shazams
+
 155. Mi Gente by DJ Crazy J Rodriguez
 154. Party In The U.S.A. by Miley Cyrus
 153. We Can't Stop (DJ Scooter U...) by Miley Cyrus
