@@ -10,7 +10,7 @@ title: Notable Songs
 
 Look on YouTube unless otherwise noted.
 
-## 00 DJ Hip Hop
+## 00 DJ Hip Hop Mix
 Hackman - Close  
 Mobb Deep - Snitch (If these walls could talk)  
 PEEWEE LONGWAY - THE MOST  
@@ -25,8 +25,9 @@ Cardi B - Bartier Cardi (feat. 21 Savage)
 Earl Sweatshirt - Shattered Dreams  
 Gucci Mane - My Kitchen (start at 0:20 due to language)  
 Dear David - I've Been Waiting (EDM depending)  
+Amphetamine - Smino
 
-## 00 DJ Hip Hop Done
+## 00 DJ Hip Hop Mix Done Played
 Mobb Deep - Snitch (If these walls could talk)  
 Mac Dre - I've Been Down  
 Erykah Badu - Bag Lady  

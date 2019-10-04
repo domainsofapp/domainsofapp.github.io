@@ -86,6 +86,10 @@ Matter can only be recognized by forces acting on it.
 
 Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
 
+## Kurt Godel, Logician
+
+This statement cannot be proved.
+
 ## Georg Wilhelm Friedrich Hegel, Philosopher
 
 We assume the world is unified, but we cannot grasp the unity ourselves.
@@ -138,13 +142,13 @@ Mind equipped with "categories" of knowledge outside our sensory conceptualizati
 
 Space and time are symbolic tools of the human consciousness for relating matter and symbolic meaning.
 
-## Kurt Godel, Logician
-
-This statement cannot be proved.
-
 ## Jacques Lacan, French Psychoanalyst
 
 The world is a fantasy through which thought sustains itself.
+
+## Cormac McCarthy
+
+“I dont believe in God. Can you understand that? Look around you man. Cant you see? The clamour and din of those in torment has to be the sound most pleasing to his ear. And I loathe these discussions. The argument of the village atheist whose single passion is to revile endlessly that which he denies the existence of in the first place. Your fellowship is a fellowship of pain and nothing more. And if that pain were actually collective instead of simply reiterative then the sheer weight of it would drag the world from the walls of the universe and send it crashing and burning through whatever night it might yet be capable of engendering until it was not even ash. And justice? Brotherhood? Eternal life? Good god, man. Show me a religion that prepares one for death. For nothingness. There's a church I might enter. Yours prepares one only for more life. For dreams and illusions and lies. If you could banish the fear of death from men's hearts they wouldnt live a day. Who would want this nightmare if not for fear of the next? The shadow of the axe hangs over every joy. Every road ends in death. Or worse. Every friendship. Every love. Torment, betrayal, loss, suffering, pain, age, indignity, and hideous lingering illness. All with a single conclusion. For you and for every one and every thing that you have chosen to care for. There's the true brotherhood. The true fellowship. And everyone is a member for life. You tell me that my brother is my salvation? My salvation? Well then damn him. Damn him in every shape and form and guise. Do I see myself in him? Yes, I do. And what I see sickens me. Do you understand me? Can you understand me?” 
 
 ## Friedrich Nietzsche, Philosopher
 

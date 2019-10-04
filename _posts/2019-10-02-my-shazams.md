@@ -18,10 +18,21 @@ Markings:
 (y) Good for DJ  
 (n) Not good for DJ  
 (x) Language warning  
+(s) Safe for work
 
 No mark means I haven't checked or decided yet
 
 Lower numbers represent newer Shazams
+
+Phone 2
+
+5. Sour Soul by BADBADNOTGOOD & Ghostface Killah
+4. Crown by Run The Jewels Feat. Diane Coffee
+3. Amphetamine by Smino (x)
+2. In The Morning by Jay Prince
+1. D'evils by Sir (x)
+
+Phone 1
 
 155. Mi Gente by DJ Crazy J Rodriguez
 154. Party In The U.S.A. by Miley Cyrus
@@ -47,7 +58,7 @@ Lower numbers represent newer Shazams
 134. What's Luv? by Fat Joe Feat. Ashanti
 133. Sweater Weather by The Neighbourhood
 132. You by Mk.Geee
-131. 30 Day Run by Larry June
+131. 30 Day Run by Larry June (y)
 130. Father Of The Man by Stephen Marley Fea...
 129. My Sound by Skarra Mucci
 128. Looks Are Deceiving by Damian "Jr....
@@ -169,12 +180,12 @@ Lower numbers represent newer Shazams
 12. Do It To Ya by YG ft. TeeFLii
 11. I've Been Down by Mac Dre
 10. Can't Find My Way Home by Blind Faith
-9. Gold Dust Woman by Warren Haynes
-8. Glory Road by Warren Haynes
-7. Company Man by Warren Haynes
-6. Blue Maiden's Tale by Warren Haynes
-5. Coal Tattoo by Warren Haynes
-4. Is It Me Or You by Warren Haynes
-3. Karvai by Tarsem Jassar
-2. Thank You (Falettinme Be...) by Sly & the ...
-1. Sweet Illusions by Ryan Adams & The Cardinals (n)
+9. Gold Dust Woman by Warren Haynes (n) (s)
+8. Glory Road by Warren Haynes (n) (s)
+7. Company Man by Warren Haynes (n) (s)
+6. Blue Maiden's Tale by Warren Haynes (n) (s)
+5. Coal Tattoo by Warren Haynes (n) (s)
+4. Is It Me Or You by Warren Haynes (n) (s)
+3. Karvai by Tarsem Jassar (n) (s)
+2. Thank You (Falettinme Be...) by Sly & the ... (y) (s)
+1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
