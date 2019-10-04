@@ -11,21 +11,22 @@ title: Notable Songs
 Look on YouTube unless otherwise noted.
 
 ## 00 DJ Hip Hop Mix
+Rolls Royce B!tch by 2 Chainz  
 Hackman - Close  
 Mobb Deep - Snitch (If these walls could talk)  
 PEEWEE LONGWAY - THE MOST  
 Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
 Company flow - 8 steps to perfection  
-Kalaido - Hanging Lanterns (mad chill)  
-Vitalic - Poison Lips  
 Toot my shit - Vixen Ent.  
-6IX9INE - Gotti  
 Ari Lennox, J. Cole - Shea Butter Baby  
 Cardi B - Bartier Cardi (feat. 21 Savage)  
 Earl Sweatshirt - Shattered Dreams  
 Gucci Mane - My Kitchen (start at 0:20 due to language)  
 Dear David - I've Been Waiting (EDM depending)  
-Amphetamine - Smino
+Amphetamine - Smino  
+Sauce - Ella Mai  
+You Never Knew - Hieroglyphics  
+Liquor Locker by Vic Mensa  
 
 ## 00 DJ Hip Hop Mix Done Played
 Mobb Deep - Snitch (If these walls could talk)  
@@ -38,6 +39,9 @@ Tiana - Batty Rider - Bike Ryda Riddim
 The Hundred In The Hands - Commotion  
 G Mo - Ballin'  
 Shanti - Bashful  
+Kalaido - Hanging Lanterns (mad chill)  
+Vitalic - Poison Lips  
+6IX9INE - Gotti  
 
 ## Artistic
 The Pledge (Eternal Sunshine) -- Jay Electronica  

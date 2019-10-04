@@ -164,22 +164,22 @@ Phone 1
 28. Praise the Lord (Da Shine) by A$AP Rocky...
 27. Zeze by Kodak Black ft. Offset & Travis Scott
 26. Used to This by Future ft. Drake
-25. Rolls Royce B!tch by 2 Chainz
-24. Liquor Locker by Vic Mensa
-23. Meet the Dealers by E-40 & B-Legit
-22. Driple Double by Saba Baby
-21. You Never Knew by Hieroglyphics
-20. June by Copywrite
-19. Merry-Go-Round by The Youngbloods
-18. Foolin' Around (The Waltz) by The Youngbloods
-17. Four In The Morning by The Youngbloods
-16. Tears Are Falling by The Youngbloods
-15. Get Together by The Youngbloods
-14. Hold Me Now by Thompson Twins
-13. Sauce by Ella Mai
-12. Do It To Ya by YG ft. TeeFLii
-11. I've Been Down by Mac Dre
-10. Can't Find My Way Home by Blind Faith
+25. Rolls Royce B!tch by 2 Chainz (y) (x)
+24. Liquor Locker by Vic Mensa (y) (x)
+23. Meet the Dealers by E-40 & B-Legit (y) (x)
+22. Driple Double by Saba Baby (y) (x)
+21. You Never Knew by Hieroglyphics (y) (s)
+20. June by Copywrite (y) (s)
+19. Merry-Go-Round by The Youngbloods (n) (s)
+18. Foolin' Around (The Waltz) by The Youngbloods (n) (s)
+17. Four In The Morning by The Youngbloods (n) (s)
+16. Tears Are Falling by The Youngbloods (n) (s)
+15. Get Together by The Youngbloods (n) (s)
+14. Hold Me Now by Thompson Twins (n) (s)
+13. Sauce by Ella Mai (y) (s)
+12. Do It To Ya by YG ft. TeeFLii (y) (s)
+11. I've Been Down by Mac Dre (y) (x)
+10. Can't Find My Way Home by Blind Faith (n) (s)
 9. Gold Dust Woman by Warren Haynes (n) (s)
 8. Glory Road by Warren Haynes (n) (s)
 7. Company Man by Warren Haynes (n) (s)
