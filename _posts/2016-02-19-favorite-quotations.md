@@ -159,3 +159,5 @@ I will, in fact, claim that the difference between a bad programmer and a good o
 Winter ends. --S. Foundling, American Artist (personal conversation)
 
 Look at plants, not people. --Olivia (personal conversation)
+
+No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"

@@ -10,7 +10,7 @@ title: Paraphrased Philosophy
 
 ## Anthropic Principle
 
-The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No suprise that the universe is "improbably" tuned for life.
+The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No surprise that the universe is "improbably" tuned for life.
 
 ## Apriorism
 
