@@ -24,6 +24,10 @@ No mark means I haven't checked or decided yet
 
 Lower numbers represent newer Shazams
 
+Paper Notes
+
+1. Song 32 by Noname
+
 Phone 2
 
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah
