@@ -161,3 +161,5 @@ Winter ends. --S. Foundling, American Artist (personal conversation)
 Look at plants, not people. --Olivia (personal conversation)
 
 No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"
+
+There is a raw truth that is visible here. --SamManero, YouTube user, in response to Werner Herzog's "On the Jungle and Nature"

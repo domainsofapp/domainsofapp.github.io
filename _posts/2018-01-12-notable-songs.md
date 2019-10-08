@@ -232,6 +232,7 @@ You Enjoy Myself (YEM)
 ## Unsorted Genres
 Aesthetic  
 Ambient  
+Anthem House  
 Atmospheric  
 Chillwave  
 Chopped and Screwed  
@@ -250,7 +251,11 @@ Intelligent Dance Music (IDM)
 Jungle  
 Kwaito  
 Lo-Fi  
+Minimalism  
 Murder House  
+Mushrooom Rap  
+Neo Trance  
+Neurofunk  
 Old School  
 Progressive House  
 Psychedelic  
