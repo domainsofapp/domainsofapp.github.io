@@ -26,7 +26,7 @@ domainsofapp at gee male
 
 If you would like to contribute logistically to the site, here are the items on my to-do list:
 
-* Add Google Analytics (I started but did not complete)
+* Add viewer counter (I scrapped Google Analytics b/c weighs down the website and feels like an invasion of privacy / basic human rights)
 * Add commenting features to the posts (e.g., Disqus)
 * Add advertisements or donations button so I can earn income (ha), make it a part-time job, and spend more time on the site
 

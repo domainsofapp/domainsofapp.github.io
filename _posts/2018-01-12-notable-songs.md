@@ -17,7 +17,7 @@ Mobb Deep - Snitch (If these walls could talk)
 PEEWEE LONGWAY - THE MOST  
 Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
 Company flow - 8 steps to perfection  
-Toot my shit - Vixen Ent.  
+Toot my sh!t - Vixen Ent.  
 Ari Lennox, J. Cole - Shea Butter Baby  
 Cardi B - Bartier Cardi (feat. 21 Savage)  
 Earl Sweatshirt - Shattered Dreams  
