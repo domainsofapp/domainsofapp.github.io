@@ -4,7 +4,7 @@ This code repository hosts the data for my personal experimental Internet filter
 
 Domains of Applicability can be found at the following URL:
 
-https://domainsofapp.github.io
+https://domainsofapp.github.io/
 
 The above link is free with my free GitHub account and repository.
 
@@ -12,7 +12,7 @@ See more: GitHub Pages
 
 I used to pay ~$10/year to register and own the following custom domain in the Domain Name System (DNS):
 
-http://www.domainsofapplicability.com
+https://www.domainsofapplicability.com/
 
 Originally, the first link above (GitHub Pages) redirected to the second b/c I paid for the latter (b/c I liked the name). I have stopped paying so the latter URL no longer works; please use the former.
 
@@ -36,6 +36,6 @@ Therefore, you may not reproduce the original content therein without my prior e
 
 ## References
 
-[1] https://github.com/mojombo/mojombo.github.io
+[1] https://github.com/mojombo/mojombo.github.io/
 
-[2] https://github.com/jekyll/jekyll
+[2] https://github.com/jekyll/jekyll/
