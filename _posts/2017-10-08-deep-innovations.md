@@ -8,7 +8,9 @@ title: Deep Innovations
 
 <p class="meta">08 Oct 2017 - Berkeley, CA</p>
 
-App to integrate Uber, Lyft, etc. with Google Transit
+App to integrate Lyft, Uber, etc. w/ Google Transit ideally all w/in Google Maps (i.e., tells you where to optimally get off public transit and get in Lyft/Uber)
+
+Free version of Lyft/Uber; replace hitchhiking w/ heavily vetted rider and driver model; take advantage of people who are already going in a certain direction and have space in the vehicle
 
 Massively overbuild solar and "burn off" the excess (option to use trackers to curtail energy according to modified cosine curve)
 
