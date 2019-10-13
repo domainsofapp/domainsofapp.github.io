@@ -163,3 +163,7 @@ Look at plants, not people. --Olivia (personal conversation)
 No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"
 
 There is a raw truth that is visible here. --SamManero, YouTube user, in response to Werner Herzog's "On the Jungle and Nature"
+
+Say could not should. --John Elliott, Musical Artist
+
+It's a feature not a bug. --Source Unknown
