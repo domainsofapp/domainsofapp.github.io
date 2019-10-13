@@ -164,6 +164,6 @@ No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"
 
 There is a raw truth that is visible here. --SamManero, YouTube user, in response to Werner Herzog's "On the Jungle and Nature"
 
-Say could not should. --John Elliott, Musical Artist
+Say could not should. --John Elliott, Musical Artist (personal conversation)
 
 It's a feature not a bug. --Source Unknown
