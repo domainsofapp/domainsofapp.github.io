@@ -16,6 +16,7 @@ Look on YouTube unless otherwise noted.
 ## 00 DJ Hip Hop Mix 03
 6IX9INE - Gotti  
 Noname - Song 32  
+Noname - Reality Check ft Eryn Allen Kane & Akenya  
 Liquor Locker by Vic Mensa  
 Mac Dre - I've Been Down  
 Erykah Badu - Bag Lady  
@@ -43,7 +44,7 @@ Rolls Royce B!tch by 2 Chainz
 Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
 Ari Lennox, J. Cole - Shea Butter Baby  
 Earl Sweatshirt - Shattered Dreams  
-Amphetamine - Smino (7:50 min.)  
+Amphetamine - Smino (7:49 min.)  
 
 ## 00 DJ Hip Hop Mix 01
 June by Copywrite (s)  
@@ -58,6 +59,7 @@ The Hundred In The Hands - Commotion
 G Mo - Ballin'  
 Shanti - Bashful  
 Kalaido - Hanging Lanterns (mad chill)  
+William Onyeabor - Good Name (s) (10:05 min.)  
 
 ## Artistic
 The Pledge (Eternal Sunshine) -- Jay Electronica  
