@@ -167,3 +167,7 @@ There is a raw truth that is visible here. --SamManero, YouTube user, in respons
 Say could not should. --John Elliott, Musical Artist (personal conversation)
 
 It's a feature not a bug. --Source Unknown
+
+Be prepared. --Boy Scouts of America, Nonprofit Organization
+
+Leave no trace. --Boy Scouts of America, Nonprofit Organization
