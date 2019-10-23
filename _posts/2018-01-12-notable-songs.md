@@ -10,38 +10,54 @@ title: Notable Songs
 
 Look on YouTube unless otherwise noted.
 
-## 00 DJ Hip Hop Mix
-Rolls Royce B!tch by 2 Chainz  
-Hackman - Close  
-Mobb Deep - Snitch (If these walls could talk)  
-PEEWEE LONGWAY - THE MOST  
-Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
-Company flow - 8 steps to perfection  
-Toot my sh!t - Vixen Ent.  
-Ari Lennox, J. Cole - Shea Butter Baby  
-Cardi B - Bartier Cardi (feat. 21 Savage)  
-Earl Sweatshirt - Shattered Dreams  
-Gucci Mane - My Kitchen (start at 0:20 due to language)  
-Dear David - I've Been Waiting (EDM depending)  
-Amphetamine - Smino  
-Sauce - Ella Mai  
-You Never Knew - Hieroglyphics  
-Liquor Locker by Vic Mensa  
+(y) Good for DJ  
+(x) Language warning  
 
-## 00 DJ Hip Hop Mix Done Played
-Mobb Deep - Snitch (If these walls could talk)  
+## 00 DJ Hip Hop Mix 03
+6IX9INE - Gotti  
+Noname - Song 32  
+Liquor Locker by Vic Mensa  
 Mac Dre - I've Been Down  
 Erykah Badu - Bag Lady  
 Kelela - All the Way Down  
+Sativa by Jhene Aiko ft. Swae Lee  
+Cardi B - Bartier Cardi (feat. 21 Savage)  
+Gucci Mane - My Kitchen (start at 0:20 due to language)  
+Mobb Deep - Snitch (If these walls could talk)  
+Vitalic - Poison Lips  
+Sauce - Ella Mai  
+You Never Knew - Hieroglyphics (old school hip hop)  
+Crown - Run The Jewels Feat. Diane Coffee  
+In The Morning - Jay Prince  
 
-## 00 DJ Hip Hop Maybe
+## 00 DJ Hip Hop Mix 02
+Do It To Ya by YG ft. TeeFLii (y)  
+Thank You (Falettinme Be...) by Sly & the ... (s)  
+
+## 00 DJ Hip Hop Mix 2
+21 Savage - a lot ft. J. Cole (x)  
+Calid B. - Mansa Musa (feat. Limitless Soundz, Cheri Soul & Sleepybrotha) (y) (x)  
+Mobb Deep - Snitch (If these walls could talk)  
+PEEWEE LONGWAY - THE MOST  
+Rolls Royce B!tch by 2 Chainz  
+Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
+Ari Lennox, J. Cole - Shea Butter Baby  
+Earl Sweatshirt - Shattered Dreams  
+Amphetamine - Smino (7:50 min.)  
+
+## 00 DJ Hip Hop Mix 01
+June by Copywrite (s)  
+Hackman - Close  
+Toot my sh!t - Vixen Ent.  
+Company flow - 8 steps to perfection  
+Dear David - I've Been Waiting (EDM depending)  
+
+## 00 DJ Hip Hop Mix 00
 Tiana - Batty Rider - Bike Ryda Riddim  
 The Hundred In The Hands - Commotion  
 G Mo - Ballin'  
 Shanti - Bashful  
 Kalaido - Hanging Lanterns (mad chill)  
-Vitalic - Poison Lips  
-6IX9INE - Gotti  
 
 ## Artistic
 The Pledge (Eternal Sunshine) -- Jay Electronica  
@@ -153,7 +169,7 @@ Yoshi City -- Yung Lean
 Lil 2 -- Sickboirari aka Black Kray  
 Erica Kane -- Speaker Knockerz  
 Magic -- Future ft. T.I.  
-Red Opps -- 21 Savage  
+Red Opps -- 21 Savage (x)  
 Spend the Night -- Zutzut Edit  
 The Most -- PeeWee Longway  
 Yung 6 Speed -- Black Kray  
@@ -282,7 +298,7 @@ Props to: YouTube user "iasoe"
 6:08 Lil Uzi Vert - That's My Rule and Nguzunguzu - Skycell  
 11:09 BLACK KRAY - YUNG 6 SPEED  
 13:42 The Most - PeeWee Longway  
-16:13 21 Savage - Red Opps  
+16:13 21 Savage - Red Opps (x)  
 18:24 Speaker Knockerz - Erica Kane  
 20:20 Tadoe X Capo - Gang in this b!tch  
 24:56 MHD - AFRO TRAP Part.2  

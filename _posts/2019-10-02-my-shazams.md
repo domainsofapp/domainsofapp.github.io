@@ -10,9 +10,9 @@ title: My Shazams
 
 My Shazams (from the last few months):
 
-P.S. Thank you Shazam for your services! Except that one time when my original library disappeared forever :--(
+P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :--(
 
-Below is the new one...
+Below is the new one
 
 Markings:  
 (y) Good for DJ  
@@ -26,11 +26,11 @@ Lower numbers represent newer Shazams
 
 Paper Notes
 
-1. Song 32 by Noname  
+1. Song 32 by Noname
 
 Phone 2
 
-5. Sour Soul by BADBADNOTGOOD & Ghostface Killah
+5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
 4. Crown by Run The Jewels Feat. Diane Coffee
 3. Amphetamine by Smino (x)
 2. In The Morning by Jay Prince
@@ -62,7 +62,7 @@ Phone 1
 134. What's Luv? by Fat Joe Feat. Ashanti
 133. Sweater Weather by The Neighbourhood
 132. You by Mk.Geee
-131. 30 Day Run by Larry June (y)
+131. 30 Day Run by Larry June (y) (x)
 130. Father Of The Man by Stephen Marley Fea...
 129. My Sound by Skarra Mucci
 128. Looks Are Deceiving by Damian "Jr....
@@ -112,7 +112,7 @@ Phone 1
 84. Poppin' My Collar by Three 6 Mafia
 83. Hungry Hippo by Tierra Whack
 82. Baby by Quality Control & Lil Baby & DaBaby
-81. Pop Out by Polo G ft. Lil Tjay
+81. Pop Out by Polo G ft. Lil Tjay (y) (x)
 80. No Limit by Peezy
 79. Down 2 Ride by Lil Bean (x)
 78. Busy/Sirens by Saba
@@ -180,8 +180,8 @@ Phone 1
 16. Tears Are Falling by The Youngbloods (n) (s)
 15. Get Together by The Youngbloods (n) (s)
 14. Hold Me Now by Thompson Twins (n) (s)
-13. Sauce by Ella Mai (y) (s)
-12. Do It To Ya by YG ft. TeeFLii (y) (s)
+13. Sauce by Ella Mai (y)
+12. Do It To Ya by YG ft. TeeFLii (y)
 11. I've Been Down by Mac Dre (y) (x)
 10. Can't Find My Way Home by Blind Faith (n) (s)
 9. Gold Dust Woman by Warren Haynes (n) (s)
