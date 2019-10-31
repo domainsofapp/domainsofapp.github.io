@@ -12,7 +12,7 @@ NB #1: I submitted the below short story to The New Yorker and it was rejected s
 
 NB #2: As with all other posts on my blog, all content is subject to the copyright notice in this blog's GitHub readme; please click the red banner (upper right) to view the readme; thank you for reading; please enjoy the story
 
-#### West River (aka Their Separate Ways)  
+#### West River (aka Their Separate Ways)
 By M.T.S.
 
 The eyes appeared before him, bigger than usual, and continuing to grow. They were so horrendous that he had the desire to tear out his own. Darkness enveloped him, and soon after, the smell of broken earth and the sound of disturbed crickets chirping sharply filled his ears. He heard a terrible cry, and all sound ceased. His eyes swelled as he began to run faster, dodging trees and shredding his way through the thick forest, panting, wondering if the scream was out of fear or agony. Sweat poured off his body, and in an attempt to mop the salty substance from around his eyes he managed only to become blinded by the mud covering his hands. He heard another cry and became desperate. His body ached and his heart strained from madly racing through the forest. Suddenly, as soon as he heard the sound of rushing water, he found his foot tangled in a vine, and collapsed into soil and brush. The night sky was illuminated by the iridescent moon. “I’m too late!” he sobbed. Then, the distant but familiar drowned out screech of gloom echoed throughout the corridors of his brain, body, and soul, until he promptly awoke and cried.
@@ -50,7 +50,7 @@ Connor waved to me as he pulled his otherwise empty car into the driveway, short
 	Connor,
 		I must thank you for never changing the locks on the doors
 	upon moving in—I can’t tell you the number of times I’ve let myself
-	in when no one else was home, pretending that I would always be 
+	in when no one else was home, pretending that I would always be
 	welcome in your house. I know now that I was wrong. I don’t think
 	you’ll ever realize how painful it was for me to listen to your
 	stories of Susan and how wonderful a wife she was nor do I expect
