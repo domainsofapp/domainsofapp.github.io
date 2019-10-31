@@ -63,7 +63,7 @@ Connor waved to me as he pulled his otherwise empty car into the driveway, short
 	someday you will both realize how selfish you’ve been and feel the
 	pain and grief you’ve caused me to endure.
 					Sorry it had to end like this,
-								Lynne
+							Lynne
 
 Connor glanced outside and saw through fear-stricken eyes that it had already begun to grow quite dark. I ran to the telephone and informed the local authorities, neighbors, and anyone else I could think of who could possibly help impede the pending tragedy. Connor stared, dazed, at the pictures of his wife and children held to the refrigerator with artistic magnets made at Lynne’s apartment. He felt helpless as he drifted to and from consciousness, recalling Susan on her deathbed, and how she looked at him solemnly and said, “The kids shouldn’t grow up in a big city.” It had taken him so long to cope with her death, and he remembered how long it took him to locate the community of West River, ideal for raising such precious and fragile children. Connor became increasingly despondent despite his friends and neighbors who began assemble in his house as word quickly spread, assuring Connor that everything possible was being done to rescue his children. Instead, Connor made a gruesome attempt to imagine the torturous acts on such innocents, being lured through the dense forest somewhere along the river, and quickly what could have been a key piece of evidence against Mrs. Jacobson became a tear-soaked parchment wrinkling beneath his quivering chin. Connor’s mind raced with the many things he could have done differently, like spending more time with the kids, allowing Neoma to take ballet lessons, and teaching Eric to swim.
 
