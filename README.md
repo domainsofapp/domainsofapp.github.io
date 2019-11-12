@@ -34,8 +34,16 @@ The following directories and their contents are "Copyright Kenneth J. Sauer", i
 
 Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Please feel free to use the HTML and CSS files as you please. If you use them, please kindly link back to Refs. [1]-[2].
 
+## Let It Snow
+
+Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters [4]. Happy Holidays!
+
 ## References
 
 [1] https://github.com/mojombo/mojombo.github.io/
 
 [2] https://github.com/jekyll/jekyll/
+
+[3] https://christine.website/blog/let-it-snow-2018-12-17
+
+[4] https://lobste.rs/s/osve9l/pure_css_snowing_effect/
