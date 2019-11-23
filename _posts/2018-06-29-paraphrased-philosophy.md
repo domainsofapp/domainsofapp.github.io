@@ -86,6 +86,10 @@ Matter can only be recognized by forces acting on it.
 
 Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
 
+## Richard Feynman, American Physicist
+
+Don't obsess over the names or naming of things; rather, focus on understanding the thing itself and how it works to the best of your abilities.
+
 ## Kurt Godel, Logician
 
 This statement cannot be proved.
