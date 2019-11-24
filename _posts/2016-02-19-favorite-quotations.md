@@ -171,3 +171,11 @@ It's a feature not a bug. --Source Unknown
 Be prepared. --Boy Scouts of America, Nonprofit Organization
 
 Leave no trace. --Boy Scouts of America, Nonprofit Organization
+
+And now—the cat in the wall says that's all. --Hunter S. Thompson, American Journalist, in Proud Highway: Saga of a Desperate Southern Gentleman, 1955-1967
+
+Wear sunscreen. --Mary Schmich, American Journalist
+
+Don't forget to floss. --Mona Lee Fultz, Actress, in the film "Boyhood"
+
+Floss the teeth you wish to keep. --Unknown Source
