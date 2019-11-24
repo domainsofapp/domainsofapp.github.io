@@ -88,7 +88,7 @@ Analogy between quantum physics and computer game. Once you get to quantum level
 
 ## Richard Feynman, American Physicist
 
-Don't obsess over the names or naming of things; rather, focus on understanding the thing itself and how it works to the best of your abilities.
+Don't obsess over the names or naming of things (i.e., pure memorization); rather, focus on understanding the thing itself and how it works to the best of your abilities.
 
 ## Kurt Godel, Logician
 
