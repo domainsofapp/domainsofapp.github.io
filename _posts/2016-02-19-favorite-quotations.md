@@ -178,4 +178,6 @@ Wear sunscreen. --Mary Schmich, American Journalist
 
 Don't forget to floss. --Mona Lee Fultz, Actress, in the film "Boyhood"
 
-Floss the teeth you wish to keep. --Unknown Source
+Floss the teeth you wish to keep. --Source Unknown
+
+YOLO (You Only Live Once) --Source Unknown
