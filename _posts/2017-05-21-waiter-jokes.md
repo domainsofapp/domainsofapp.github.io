@@ -61,3 +61,9 @@ How did you find your luncheon, sir?
 With a magnifying glass.  
 
 "Waiter, waiter! Bring me a crocodile sandwich, and make it snappy!".  
+
+Finally, my own stupid non-waiter joke:
+
+Me: I got a long-distance girlfriend.  
+Friend: Oh yea?  
+Me: Yea, she's so far away that the light of her image has not reached me yet.
