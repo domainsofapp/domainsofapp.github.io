@@ -18,4 +18,5 @@ Vincent van Gogh
 
 ## Artworks
 
+Guernica - Pablo Picasso  
 The Death of Marat -- Jacques-Louis David  
