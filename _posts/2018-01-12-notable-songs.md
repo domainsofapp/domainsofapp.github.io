@@ -13,6 +13,12 @@ Look on YouTube unless otherwise noted.
 (y) Good for DJ  
 (x) Language warning  
 
+## 00 DJ Hip Hop Mix 04
+Pressa - Big Dog  
+Goodie Mob - Cell Therapy  
+Jidenna - Classic Man ft. Roman GianArthur  
+Sickboyrari - Plug Walk Pt. 2  
+
 ## 00 DJ Hip Hop Mix 03
 6IX9INE - Gotti  
 Noname - Song 32  
@@ -249,9 +255,11 @@ You Enjoy Myself (YEM)
 
 ## Unsorted Genres
 Aesthetic  
+Alternative R&B  
 Ambient  
 Anthem House  
 Atmospheric  
+Avant-garde  
 Chillwave  
 Chopped and Screwed  
 Cloud  
@@ -261,10 +269,13 @@ Down
 Electro  
 Electronic  
 Electronic Dance Music (EDM)  
+Emo Rap  
+Experimental  
 Euro Trance  
 Hip Hop  
 House  
 Hypnotic  
+Indie Rock  
 Intelligent Dance Music (IDM)  
 Jungle  
 Kwaito  
@@ -281,7 +292,9 @@ Psychedelic Trance
 Reggaeton  
 Rock  
 Sad  
+Sadcore  
 Sesh  
+SoundCloud Rap  
 Trance﻿  
 Trap  
 Trillwave  
