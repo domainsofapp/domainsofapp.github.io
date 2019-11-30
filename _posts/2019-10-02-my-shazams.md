@@ -99,35 +99,35 @@ Phone 1
 324. 
 323. 
 322. 
-321. 
-320. 
-319. 
-318. 
-317. 
-316. 
-315. 
-314. 
-313. 
-312. 
-311. 
-310. 
-309. 
-308. 
-307. 
-306. 
-305. 
-304. 
-303. 
-302. 
-301. 
-300. 
-299. 
-298. 
-297. 
-296. 
-295. 
+321. Photosynthesis by Saba Feat. Jean Deaux
+320. Neva Change by ScHoolboy Q Feat. SZA
+319. Plain Jane by A$AP Ferg
+318. Hell Of A Night by Schoolboy Q
+317. REBORN by KIDS SEE GHOSTS
+316. Wow Freestyle by Jay Rock Feat. Kendrick Lamar
+315. Osom by Jay Rock Feat. J. Cole
+314. X by ScHoolboy Q, 2 Chainz, Saudi
+313. Ok Alright by Travis Scott Feat. ScHoolboy Q
+312. They Want Efx by Das EFX
+311. Ghost Pong by Emancipator
+310. End Credits Suite by Nicholas Britell
+309. The Middle Of The World by Nicholas Britell
+308. Cell Therapy by Goodie Mob
+307. Walk In The Park by Beach House
+306. Reset by Outkast Feat. Khujo Goodie & Cee-Lo
+305. Give You My Lovin by Mazzy Star
+304. I Got The Juice by Janelle Monae Feat. Pharrell Williams
+303. Ain't Hard Enough by Caino
+302. Organic Watermelon J... by Larry June
+301. Reach The Stars by Swindle Feat. Andrew Ashong
+300. Mind Playing Tricks On Me by Geto Boys
+299. If I Ruled The World (Imagin... by Nas
+298. You Oughta Know by Juelz Santan...
+297. I Get Around by 2Pac Feat. Digital Underground
+296. Children's Story by Slick Rick
+295. The Rain (Supa Dupa Fly) by Missy Elliott
 294. Luchini aka This Is It by Camp Lo
-293. Sock It 2 Me (Amended Ver... by Missy Elliot... (y)
+293. Sock It 2 Me (Amended Ver... by Missy Elliott... (y)
 292. So Good To Me by Chris Malinchak
 291. Thirteen Thirtyfive (Da... by Dillon
 290. My Head Is A Jungle (Gui Bo... by Wankelmut...
