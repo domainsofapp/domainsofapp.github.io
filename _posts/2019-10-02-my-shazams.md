@@ -126,20 +126,20 @@ Phone 1
 297. 
 296. 
 295. 
-294. 
-293. 
-292. 
-291. 
-290. 
-289. 
-288. 
-287. 
-286. 
-285. 
-284. 
-283. 
-282. 
-281. 
+294. Luchini aka This Is It by Camp Lo
+293. Sock It 2 Me (Amended Ver... by Missy Elliot... (y)
+292. So Good To Me by Chris Malinchak
+291. Thirteen Thirtyfive (Da... by Dillon
+290. My Head Is A Jungle (Gui Bo... by Wankelmut...
+289. She Leaves (Bal5000 Rem... by ICR
+288. Lotus Flower by Radiohead
+287. How Do You Sleep? by Sam Smith
+286. Whole Lotta Love by Led Zeppelin
+285. One Dance by Drake Feat. WizKid & Kyla
+284. Nikes by Frank Ocean
+283. Let It Happen by Tame Impala
+282. Da Art Of Storytellin' (Pa... by OutKast
+281. Ultimate by Denzel Curry
 280. Beethoven: Symphony No.... by Ludwig Va... (???)
 279. Song Of The Wind by Santana
 278. Seen It All by Jeezy Feat. JAY Z
