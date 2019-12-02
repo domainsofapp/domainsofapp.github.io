@@ -13,6 +13,7 @@ Better Call Saul
 Black Mirror  
 Breaking Bad  
 Chappelle's Show  
+Chernobyl  
 Dae Jang Geum  
 Halt and Catch Fire  
 Mindhunter: Season 1  
