@@ -55,7 +55,7 @@ Amphetamine - Smino (7:49 min.)
 ## 00 DJ Hip Hop Mix 01
 June by Copywrite (s)  
 Hackman - Close  
-Toot my sh!t - Vixen Ent.  
+Toot my sh1t - Vixen Ent.  
 Company flow - 8 steps to perfection  
 Dear David - I've Been Waiting (EDM depending)  
 
@@ -167,7 +167,7 @@ Rockstar ft. 21 Savage -- Post Malone
 Sneakin' ft. 21 Savage -- Drake  
 Swang -- Rae Sremmurd  
 The Hood Internet - Some Poppas -- The Notorious B I G x Flume  
-Toot My Sh!t -- Vixen Ent.  
+Toot My Sh1t -- Vixen Ent.  
 Tuesday -- ilovemakonnen and Drake  
 Woman Tonight -- Murs & Slug  
 X -- 21 Savage and Future  
