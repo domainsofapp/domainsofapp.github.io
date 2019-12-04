@@ -15,6 +15,7 @@ Hiroshima Mon Amour
 Real Genius  
 
 ## Documentary
+Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
 Sans Soleil  
 Workingman's Death  
 

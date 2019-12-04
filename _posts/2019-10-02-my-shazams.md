@@ -38,6 +38,18 @@ Phone 2
 
 Phone 1
 
+427.
+426.
+425.
+424.
+423.
+422.
+421.
+420.
+419.
+418.
+417.
+416.
 415.
 414.
 413.
@@ -50,64 +62,64 @@ Phone 1
 406.
 405.
 404.
-403.
-402.
-401.
-400.
-399.
-398.
-397.
-396.
-395.
-394.
-393.
-392.
-391.
-390.
-389.
-388.
-387.
-386.
-385.
-384. 
-383. 
-382. 
-381. 
-380. 
-379. 
-378. 
-377. 
-376. 
-375. 
-374. 
-373. 
-372. 
-371. 
-370. 
-369. 
-368. 
-367. 
-366. 
-365. 
-364. 
-363. 
-362. 
-361. 
-360. 
-359. 
-358. 
-357. 
-356. 
-355. 
-354. 
-353. 
-352. 
-351. 
-350. 
-349. 
-348. 
-347. 
-346. 
+403. Europhonia by Minilogue
+402. Best Is Yet To Come by Fernando Pulichino
+401. Ancestors by Elkie
+400. Euphoria (Instrumental) by Fury Weekend
+399. Explorers by Hinkik
+398. Escape Velocity by Zombi
+397. Piano Phase (Part 2) by Steve Reich
+396. Identity by Definable
+395. Why Don't You (Nick Humphr... by Liquid Phonk
+394. Walking by D.White
+393. Let It Be Love (Original Mix) by Miko Mission
+392. Trapped (Flashback Re... by Amaya
+391. Lost In Alphaville (Ext... by Mirko Hirsch
+390. Dance For Me (Maxi Version) by Tom Garrow
+389. Too Late To Cry-Over by Secret Of Elements
+388. Sunrise by Sirket
+387. Mirrors (Original Mix) by B-Fox
+386. Love Revolution - Our Time (Ori... by SUN
+385. Over The Rain (Original Mix) by Luca Gaeta
+384. Warpstorm by Dreamtime
+383. Certain Way (Paul Thomas... by Matan Caspi
+382. Jack Knife (Original Stick) by Summit DJs
+381. Little Things (Original Mix) by Nicola Maddaloni
+380. Spiritualize by Lotus
+379. Magpie (Morgan Geist Remix) by Abraham
+378. A Love From Outer Space by The Asphodells
+377. Face A La Mer (Remix) by Les Negresse...
+376. Aftermath by Tricky
+375. Mr. Brown by Bob Marley
+374. If Only I Could (Liem Remix) by Fusion Groove Orc...
+373. Haunting by Greg Beato
+372. A Touch Of Jazz (Lifestyles Of... by Rhythm II Rhythm
+371. Basic Plumbing by Nathan Micay
+370. Searchin' Hard (Mike Dunn's... by Da Posse...
+369. Dancing Therapy (128... by Internationa...
+368. Blast From The Past (Dub Mix) by Joy Francis
+367. Synth Pattern Alarm Sound by Steven Cravis
+366. Feels Real (Larse Remix) by Sh1t Robot
+365. In Your Eyes (You'll See) by Anthony El Mejor &...
+364. Kxy (Ron Flatter Remix) by Qbical
+363. Return To Oz by Monolink
+362. I Have A Dream (Original Mix) by Ramzy Shaar
+361. Trippin To The Stars (Saalim...) by Martin Virgin
+360. Sexual Healing (12-Inch Versi...) by Marvin Gaye
+359. Adventure (Bonus Beats) by Eleanor Academia
+358. Tip The Scale by Beth Lydi
+357. Mine (Umru Remix) by Slayyyter
+356. Mine by Slayyyter
+355. Knock Knock by Finn
+354. Throw (Slam's Rtm Remix) by Paperclip People
+353. Nothing More To Say (Dub) by Sophie
+352. Des Niles by Deadboy
+351. Mystery Girl (Set Me Free) by Pierre's Fantasy Club
+350. Towards The Sun by Joel Mull
+349. Technik by Born Dirty & MAI LAN
+348. Take It Easy by The Gold Souls
+347. Blue Lagoon (Original) by Jerom
+346. White Noise (Wind) by Oasis Of Cats
 345. Intersteller Me by Inner Wave
 344. Sasmba Beach by Mason Williams & Mannheim Steamrol...
 343. High by Young Thug Feat. Elton John
@@ -178,9 +190,9 @@ Phone 1
 278. Seen It All by Jeezy Feat. JAY Z
 277. Gateway To The Delta (Revisite... by Poor Bailey
 276. Rich Girl by Daryl Hall & John Oates
-275. Come Through And Chill - Miguel Feat. J. Col...
-274. When Doves Cry - Prince
-273. U Don't Know Me - T.I.
+275. Come Through And Chill by Miguel Feat. J. Col...
+274. When Doves Cry by Prince
+273. U Don't Know Me by T.I.
 272. I Like It by Cardi B. & Bad Bunny & J Balvin
 271. I Got U by Duke Dumont Feat. Jax Jones
 270. Second Chance by Disclosure
