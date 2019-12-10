@@ -13,13 +13,44 @@ Look on YouTube unless otherwise noted.
 (y) Good for DJ  
 (x) Language warning  
 
-## 00 DJ Hip Hop Mix 04
-Pressa - Big Dog  
-Goodie Mob - Cell Therapy  
+## DJ Hip Hop Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
+Ultra Eko Thunder Lightning  
+Soulja Boy - Nu Religion  
+Doja Cat - Bottom B!tch  
+Stevie B. - Spring Love  
+Stunna Girl - Pop You  
+Someday - Ruby Ibarra  
+Sada Baby - Pimp Named Drip Dat  
+Pressa - Big Dog  
+Noname - Song 32  
+Rich the Kid - Plug Walk  
 Sickboyrari - Plug Walk Pt. 2  
+Jidenna - Bambi  
+A$AP Ferg - Plain Jane ft. Nicki Minaj  
+Goodie Mob - Cell Therapy  
+Sybyr (Syringe) - I Like Being  
+Sybyr (Syringe) - Unleash Me  
+uLtRa_Eko - Once Upon A Time  
+Larry June - 30 Day Run  
+Double Up Belly Dom Kennedy  
+Berner, Mozzy - Ayy ft. YG, Logic  
+Stunna Girl - Runway  
+Travis Scott - Sicko Mode ft. Drake  
+Travis Scott - Highest in the Room  
+Sada Baby - 2K20  
+Sada Baby - Driple Double  
+Goodie Mob - Cell Therapy  
+bladee & ECCO2K - Obedient  
+Finch Fetti - Starlet  
+Blay Kray - Codeine Tears  
+Sickboyrari - Feel My Pain  
+Syringe - Hey You There, Try This  
+uLtRa_Eko - Thunder Lightning Nicotine  
+Ruby Ibarra ft. Rocky Rivera, Klassy, & Faith Santilla - Us  
+Ruby Ibarra - Playbill$  
 
-## 00 DJ Hip Hop Mix 03
+## DJ Hip Hop Mix 05
 6IX9INE - Gotti  
 Noname - Song 32  
 Noname - Reality Check ft Eryn Allen Kane & Akenya  
@@ -37,11 +68,11 @@ You Never Knew - Hieroglyphics (old school hip hop)
 Crown - Run The Jewels Feat. Diane Coffee  
 In The Morning - Jay Prince  
 
-## 00 DJ Hip Hop Mix 02
+## DJ Hip Hop Mix 04
 Do It To Ya by YG ft. TeeFLii (y)  
 Thank You (Falettinme Be...) by Sly & the ... (s)  
 
-## 00 DJ Hip Hop Mix 2
+## DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole (x)  
 Calid B. - Mansa Musa (feat. Limitless Soundz, Cheri Soul & Sleepybrotha) (y) (x)  
 Mobb Deep - Snitch (If these walls could talk)  
@@ -52,14 +83,14 @@ Ari Lennox, J. Cole - Shea Butter Baby
 Earl Sweatshirt - Shattered Dreams  
 Amphetamine - Smino (7:49 min.)  
 
-## 00 DJ Hip Hop Mix 01
+## DJ Hip Hop Mix 02
 June by Copywrite (s)  
 Hackman - Close  
 Toot my sh1t - Vixen Ent.  
 Company flow - 8 steps to perfection  
 Dear David - I've Been Waiting (EDM depending)  
 
-## 00 DJ Hip Hop Mix 00
+## DJ Hip Hop Mix 01
 Tiana - Batty Rider - Bike Ryda Riddim  
 The Hundred In The Hands - Commotion  
 G Mo - Ballin'  
@@ -185,6 +216,10 @@ Yung 6 Speed -- Black Kray
 ## IDM
 Lower The Heavens -- The Donkeys  
 The Magic in You -- Ulrich Schnauss  
+
+## Italo Disco
+D. White - Walking (ZYX Extended Version)  
+Tom Garrow - Dance for me (Maxi Version)  
 
 ## Jazz
 Everything In Its Right Place/Maiden Voyage -- Robert Glasper  
