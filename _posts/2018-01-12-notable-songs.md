@@ -13,6 +13,11 @@ Look on YouTube unless otherwise noted.
 (y) Good for DJ  
 (x) Language warning  
 
+## DJ Hip Hop Mix 07
+Young Thug - High ft. Elton John  
+Sweet November - SZA  
+Thundercat - Them Changes  
+
 ## DJ Hip Hop Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
 Ultra Eko Thunder Lightning  
