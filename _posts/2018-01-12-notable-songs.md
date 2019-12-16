@@ -13,10 +13,47 @@ Look on YouTube unless otherwise noted.
 (y) Good for DJ  
 (x) Language warning  
 
+## DJ Hip Hop Mix 08
+Both Disco D classics  
+Both Italo disco classics (Dance w/ Me and the other one)  
+
 ## DJ Hip Hop Mix 07
+My Music Album34  
 Young Thug - High ft. Elton John  
 Sweet November - SZA  
 Thundercat - Them Changes  
+Big Sean - Bounce Back  
+Leave Me Alone - Kaytranada  
+NO1 (NOAH) - Alone Part 2 (Here We Go Again)  
+Flux Pavilion x What So Not 20:25 ft. Chain Gang 1974  
+Search Sick Low and Low Fi  
+Nico - These Days  
+I'll Do Anything - Heavy D  
+Heavy D Sick Low (y)  
+Juice Wrld - Morphine  
+Juice Wrld - Search Sick Low  
+Chic - Good Times  
+Sweet November - SZA  
+Berner, MOzzy - Ayy ft. YG, Logic  
+Dubstep Cracks Begin to Show  
+Pablo Picasso - Burning Sensations  
+Bauhaus - Bela Lugosi's Dead  
+Zutzut - Spend the Night  
+Youssou N'Dour - Immigres (Live in Athens 1987)  
+Alagrasia - Youssou N'Dour  
+Youssou N'Dour - Nay  
+Edward Sharpe & The Magnetic Zeros - Home  
+Rusted Root Send Me On My Way  
+Too Short - Blow the Whistle (y)  
+Chic - Good Times  
+Thundercat - Them Changes  
+Young Thug - High ft. Elton John  
+Yung Lean - Friday the 13th  
+Yung Lean - Happy Feet  
+Syringe - Hey You There, Try This  
+Pressa - Authentic (Press A Brick)  
+Sabyr - Late Morning Aneurysm  
+BluntsFromTheCrypt1 - IDLEGLANCE  
 
 ## DJ Hip Hop Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
