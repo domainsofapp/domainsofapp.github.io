@@ -13,6 +13,9 @@ Look on YouTube unless otherwise noted.
 (y) Good for DJ  
 (x) Language warning  
 
+## DJ Hip Hop Mix 09
+E-40 - Choices (Yup) (x)
+
 ## DJ Hip Hop Mix 08
 Both Disco D classics  
 Both Italo disco classics (Dance w/ Me and the other one)  

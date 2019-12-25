@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorite Television
+title: Notable Television
 ---
 
 {{ page.title }}

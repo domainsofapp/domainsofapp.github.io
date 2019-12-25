@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorite Quotations
+title: Notable Quotations
 ---
 
 {{ page.title }}
