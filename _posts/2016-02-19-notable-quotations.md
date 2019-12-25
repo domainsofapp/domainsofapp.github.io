@@ -181,3 +181,7 @@ Don't forget to floss. --Mona Lee Fultz, Actress, in the film "Boyhood"
 Floss the teeth you wish to keep. --Source Unknown
 
 YOLO (You Only Live Once) --Source Unknown
+
+Life is not hard if you be yourself. --F.A. (personal conversation)
+
+Buy the ticket, take the ride. --Hunter S. Thompson, American Journalist
