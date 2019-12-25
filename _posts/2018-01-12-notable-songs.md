@@ -14,7 +14,9 @@ Look on YouTube unless otherwise noted.
 (x) Language warning  
 
 ## DJ Hip Hop Mix 09
-E-40 - Choices (Yup) (x)
+E-40 - Choices (Yup) (x)  
+Heavy D  
+Two Short  
 
 ## DJ Hip Hop Mix 08
 Both Disco D classics  
@@ -210,7 +212,7 @@ Toots and the Maytals
 
 ## Hip Hop
 0 to 100 / The Catch Up -- Drake  
-1 Train (ft. Kendrick Lamar, Joey Badass, Yelawolf, Big Krit and more) -- A$AP Rocky  
+1 Train (ft. Kendrick Lamar, Joey Bada$$, Yelawolf, Big Krit and more) -- A$AP Rocky  
 All Me -- Drake  
 All the Way Down -- Kelela
 Blessings -- Big Sean  
