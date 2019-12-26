@@ -8,6 +8,8 @@ title: My Shazams
 
 <p class="meta">02 Oct 2019 - Berkeley, CA</p>
 
+NB: Language warning throughout
+
 My Shazams (from the last few months):
 
 P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--(
@@ -18,11 +20,11 @@ Markings:
 (y) Good for DJ  
 (n) Not good for DJ  
 (x) Language warning  
-(s) Safe for work
+(s) Safe for work  
 
-No mark means I haven't checked or decided yet
+No mark means I haven't checked or decided yet (i.e., TBD)
 
-Oddly, lower numbers represent NEWER Shazams
+Oddly, LOWER numbers represent NEWER Shazams
 
 ## Paper Notes
 
@@ -38,46 +40,129 @@ Oddly, lower numbers represent NEWER Shazams
 
 ## Phone 1
 
-502.
-501.
-500.
-499.
-498.
-497.
-496.
-495.
-494.
-493.
-492.
-491.
-490.
-489.
-488.
-487.
-486.
-485.
-484.
-483.
-482.
-481.
-480.
-479.
-478.
-477.
-476.
-475.
-474.
-473.
-472.
-471.
-470.
-469.
-468.
-467.
-466.
-465.
-464.
-463. 
+585.
+584.
+583.
+582.
+581.
+580.
+579.
+578. 
+577. Show Me by Kid Ink Feat. Chris Brown
+576. Pop It, Shake It by YG Feat. DJ Mustard (y) (x)
+575. Upgrade U by Beyonce Feat. Jay-Z
+574. Musty by Shoreline Mafia (y) (x)
+573. Good Day by Nappy Roots
+572. Merry Christmas, Ha... by \*NSYNC
+571. Independent Women, Part 1 by Destiny's Child
+570. Never Too Much by Luther Vandross
+569. Can't Let You Go by Fabolous Feat. Lil' Mo & Mike Shorey (y)
+568. Mary Jane by Rick James
+567. P.Y.T. (Pretty Young Thing) by Michael Jackson
+566. Yo (Excuse Me Miss) by Chris Brown
+565. Still Feelin' It by Mistah F.A.B.
+564. If I Ain't Got You by Alicia Keys
+563. Jingle Bells, Shotgun Shells by Onyx (y) (x)
+562. Love Galore by SZA Feat. Travis Scott
+561. Prelude-l. Allegro (Vocal) by Bobby McFerrin &...
+560. 3005 by Childish Gambino
+559. Hold You Down by Childish Gambino
+558. Love Yourz by J. Cole
+557. 105ofx by Fer Palacio
+556. Baguettes In The Face by Mustard Feat. NAV... (y)
+555. Oakland by Mistah Fab & G-Stack & Bavgate (x)
+554. Bad and Boujee by Migos Feat. Lil Uzi Vert
+553. Swimming Pools (Drank) by Kendrick Lamar
+552. Teach Me How To Dougie by Cali Swag District
+551. Blow The Whistle by Too $Hort (y)
+550. Tell Me When To Go by E-40 Feat. Kea...
+549. That's Wasup by Mac Dre
+548. Since '84 by Mac Dre
+547. ZEZE by Kodak Black Feat. Offset & Travis Scott
+546. Taste by Tyga Feat. Offset
+545. Ballin' by Mustard Feat. Roddy Ricch
+544. Twerk by City Girls Feat. Cardi B
+543. To The Sun by Reeko
+542. Get On It (Pump Boys Edit) by The Pump Girls
+541. Sphinx by Novar
+540. Sugur Is Sweeter (Origi...) by Jeff Mills
+539. Robertaflack (Martyn's Hea...) by Flying Lotus
+538. From White to Red by Voiski
+537. Electronica (Remix) by Tomas Tarcetti
+536. Gritando by Kaipanta
+535. Dissociative by Traf
+534. Supahero by RJD2
+533. A Beautiful Mine by Aceyalone (n) (s)
+532. Hardship by Aceyalone (n) (s)
+531. Serve And Protect by Aceyalone (n) (s)
+530. Nature Boy by Nat King Cole
+529. My Mom by Kimya Dawson (n)
+528. Here in California by Kate Wolf (n) (s)
+527. Good Times by Chic
+526. Hyperbolicsylla bicsesquedaly... by Isaac Hayes (n) (s)
+525. Back That Azz Up by Juvenile, Lil Wayne...
+524. Dreadlock Holiday by 10cc
+523. Hawa Dolo by Ali Farka Toure & Toumani Diabate (n) (s)
+522. Triggered (Dance Mix) by Jhene Aiko F... (n)
+521. Icy Grl (Bae Mix) by Saweetie Feat. Kehlani (n)
+520. Money In The Grave by Drake Feat. Rick Ross
+519. Still Feelin' It by Mistah F.A.B. (y)
+518. Feelin Myself by Mac Dre Feat. Keak Da Sneak & Johnny... (n)
+517. She Neva Seen by Mac Dre (n)
+516. Handsome And Wealthy by Migos
+515. Money (Remix) by Ombre2Choc Nation Feat. Cardi B & Nic...
+514. Act Up by City Girls (n)
+513. Slippery by Migos Feat. Gucci Mane
+512. My Type by Saweetie (n)
+511. B1tch I'm Nasty by Rico Nasty (y)
+510. Cash Sh1t by Megan Thee Stallion Feat. DaBaby
+509. Wicked Game by Chris Isaak
+508. You're Makin' Me High by Toni Braxton
+507. Am I The Same Girl by Barbara Acklin 
+506. Soft and Wet by Prince
+505. Nice For What by Drake
+504. Stop Your Sobbing by Pretenders
+503. I Feel For You by Chaka Khan
+502. Ain't Nobody by Chaka Khan
+501. Hit The Lotto by GAWVI Feat. 1K Phew
+500. Can't Live With The World by Laura Mvula
+499. Love For Sale by Dexter Gordon
+498. Even It Up by Heart
+497. Mr.Toast by Tusken. & Philanthrope
+496. Ticket by Devious Day
+495. Don't Know What It Means... by Tedeschi...
+494. All The World by Tedeschi Trucks Band
+493. Shame by Tedeschi Trucks Band
+492. Caribou Lou by Tech N9ne
+491. Madness by Deltron 3030
+490. Red Rum by Project Pat
+489. The Banger (Explicit) by J-Stylin
+488. Best I Ever Had by Drake
+487. Mind Playing Tricks On Me by Geto Boys
+486. Corner Story by Del The Funky Homosapien
+485. Colt 40ty Fiva (Normal) by Afroman
+484. Jungle by Andre Nickatina
+483. Double Up by Nipsey Hussle Feat. Belly & Dom Kennedy
+482. Baby by Quality Control, Lil Baby & DaBaby
+481. Suge by DaBaby
+480. Nobody by Locksmith
+479. Funeral For A Killer by 9th Wonder & Murs
+478. Swing by Sofi Tukker
+477. Different by Hippie Sabotage
+476. Runaway by Dennis Lloyd
+475. Bad Drugs by King Kavalier & ChrisLee
+474. Never Stop by Lucky Luke Feat. Kordas
+473. Blame by Thutmose
+472. Push Off by The Palms
+471. Running Miles by Hippie Sabotage
+470. Act III: The Reason by Dennis Lloyd
+469. Thank God by Riles
+468. My Year by GASHI & G-Easy
+467. Knocked Around by Jordan Max
+466. Down Like Dah by Kelvyn Colt
+465. I Feel Like I'm Drowning by Two Feet
+464. Wild West by Dennis Lloyd
+463. Runaway by Dennis Lloyd
 462. Bad Drugs by King Kavalier & ChrisLee
 461. Never Stop by Lucky Luke Feat. Kordas
 460. Blame by Thutmose
@@ -213,7 +298,7 @@ Oddly, lower numbers represent NEWER Shazams
 330. Open My Eyes by Soldiers Of Jah Army
 329. Running by Rebelution
 328. Talk by Phish
-327. Man of Class (Screwed & C... by DJ Molasses
+327. Man of Class (Screwed & C... by DJ Molasses (y)
 326. Martha, Act III: M'appari Tutt'... by Enrico Caruso
 325. Marta. Opera In 3 Acts: Aria M'... by Enrico Caruso
 324. Martha: M'appari by Enrico Caruso
@@ -348,7 +433,7 @@ Oddly, lower numbers represent NEWER Shazams
 197. I Just Wanna Party by YG Feat. ScHoolbo...
 196. Man Of The Year by Schoolboy Q
 195. Break The Bank by Schoolboy Q
-194. Hell Of A Night by Schoolboy Q
+194. He11 Of A Night by Schoolboy Q
 193. Smoothies In 1991 by Larry June
 192. Organic Fatherhood by Larry June
 191. Ayy by Berner & Mozzy Feat. Logic & YG (y)
@@ -374,7 +459,7 @@ Oddly, lower numbers represent NEWER Shazams
 171. ZEZE by Kodak Black Feat. Offset & Travis Scott
 170. When I Come Around by Dom Kennedy
 169. Lost Boys by Sir Michael Rocks Feat. Trinidad Jame...
-168. F**k Wit It by Larry June
+168. F\*\*k Wit It by Larry June
 167. Cold Summer by Larry June
 166. Plan Of Attack by Curren$y & Trademark Da Skyd...
 165. Still by Noah Slee
