@@ -191,3 +191,11 @@ Climate change as existential crisis for humanity.
 A choice is always a meta-choice, a choice of the modality of the choice itelf. (Modality: The mode in which something exists or is experienced or expressed.)
 
 The semblance of what appears as reality is a veil, which veils nothing.
+
+Essence is real only as appearance.
+
+Essence has no existence independent of its manifestation in appearance.
+
+There is a truth, and not everything is relative, but this truth is the truth of the perspectival distortion as such, not a truth distorted by the partial view from a one-sided perspective.
+
+Ideology is like a coordinate transform of our experienced reality.

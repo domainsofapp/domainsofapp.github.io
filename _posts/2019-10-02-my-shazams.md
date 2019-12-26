@@ -10,7 +10,7 @@ title: My Shazams
 
 My Shazams (from the last few months):
 
-P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :--(
+P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--(
 
 Below is the new one
 
@@ -38,30 +38,106 @@ Phone 2
 
 Phone 1
 
-427.
-426.
-425.
-424.
-423.
-422.
-421.
-420.
-419.
-418.
-417.
-416.
-415.
-414.
-413.
-412.
-411.
-410.
-409.
-408.
-407.
-406.
-405.
-404.
+
+502.
+501.
+500.
+499.
+498.
+497.
+496.
+495.
+494.
+493.
+492.
+491.
+490.
+489.
+488.
+487.
+486.
+485.
+484.
+483.
+482.
+481.
+480.
+479.
+478.
+477.
+476.
+475.
+474.
+473.
+472.
+471.
+470.
+469.
+468.
+467.
+466.
+465.
+464.
+463. 
+462. Bad Drugs by King Kavalier & ChrisLee
+461. Never Stop by Lucky Luke Feat. Kordas
+460. Blame by Thutmose
+459. Baptize Me by X Ambassadors & Jacob Banks
+458. GFY by Dennis Lloyd
+457. Hello by Erykah Badu
+456. Tadow by FKJ & Masego
+455. You Know You Like It by DJ Snake...
+454. In Your Arms by Sunbeam Sound Machine
+453. Anemone by The Brian Jonestown Massacre
+452. Regulate by Warren G Feat. Nate Dogg
+451. Concrete Schoolyard by Jurassic 5
+450. Light My Fire by Shirley Bassey
+449. Godlovesugly by Atmosphere
+448. They Reminisce Over You by Pete Rock...
+447. Who Shot You? by Cash Kidd
+446. Heat by Chris Brown Feat. Gunna
+445. Shhh (Sea4 Miles Remix) by Miles Davis (in panthalassa: the remixes album)
+444. In A Silent Way (DJ Cam Remix) by Miles Davis
+443. You Keep Me Hangin' On (Q...) by Vanilla Fudge
+442. Twelve Thirty (Young Girls A...) by The Mamas...
+441. Like You by Rocky Rivera
+440. Best Shot by Rocky Rivera
+439. Grlgng by Rocky Rivera
+438. Someday by Ruby Ibarra
+437. Playbill$ by Ruby Ibarra
+436. Us (Faith Santilla; Explicit) by Ruby Ibarra
+435. Tribal Tango-Scalambrin &... by Sicily & Mari...
+434. With You by Zeni
+433. Chokolectricity by Legowelt
+432. High Heavens by Big Miz
+431. Orbital Frame by Durante
+430. Moonlight Fantasy by Vincent Floyd
+429. La La by Herman Crantz
+428. Can't Stop Playing (Oliver...) by Dr. Kucho!...
+427. Real Time by Jacques Greene
+426. Myalgia by Perel
+425. Settle Down by The Isley Brothers
+424. Jolies Filles by 17 Hippies
+423. Adieu by 17 Hippies
+422. Torpedo-Beard by L'Attirail
+421. La Ruse Du Sioux by L'Attirail
+420. Gracefully Facedown by The Devil...
+419. a) STRA (Illusions Of M...) by Vanilla Fudge
+418. Pieces Of A Dream (Chemi...) by DATA MUTANT
+417. Stereophonik (Original Mix) by Fernando Olaya
+416. Chaos is Creativity by QuiQui
+415. Iron Heart (Danny Lloyd...) by SEQU3L
+414. Symphony Of Night by S Flint
+413. Make Me Feel Home (The So...) by Summer Disclosure
+412. Strangers In The Night (Flashba...) by Italove
+411. Dance For Me (Maxi Version) by Tom Garrow
+410. Dreamt Paris by Cristian Poow
+409. I Think I Was There by Emil Axelsson
+408. Wake Me Up (Speed Remix) by Avicii
+407. My Body's Burning by Eddie Thoneick
+406. Piano Phase (Part 2) by Steve Reich
+405. Live Your Dreams (Origi...) by Sothzanne String
+404. Europhonia (Original Mix) by Minilogue
 403. Europhonia by Minilogue
 402. Best Is Yet To Come by Fernando Pulichino
 401. Ancestors by Elkie
