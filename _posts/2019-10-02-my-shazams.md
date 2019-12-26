@@ -22,13 +22,13 @@ Markings:
 
 No mark means I haven't checked or decided yet
 
-Lower numbers represent newer Shazams
+Oddly, lower numbers represent NEWER Shazams
 
-Paper Notes
+## Paper Notes
 
 1. Song 32 by Noname
 
-Phone 2
+## Phone 2
 
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
 4. Crown by Run The Jewels Feat. Diane Coffee
@@ -36,8 +36,7 @@ Phone 2
 2. In The Morning by Jay Prince
 1. D'evils by Sir (x)
 
-Phone 1
-
+## Phone 1
 
 502.
 501.
