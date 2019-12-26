@@ -10,7 +10,7 @@ title: Notable Songs
 
 NB: Language warning throughout
 
-Look on YouTube unless otherwise noted.
+Please look on YouTube unless otherwise noted
 
 ## DJ Hip Hop Mix 09 (Draft)
 Pop It, Shake It by YG Feat. DJ Mustard  
