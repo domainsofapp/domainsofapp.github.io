@@ -1,14 +1,14 @@
---
+---
 layout: post
 title: Notable Songs
---
+---
 
 {{ page.title }}
 ================
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
-NB: Language warning throughout
+NB: Language warning throughout; such is music and culture
 
 Please look on YouTube unless otherwise noted
 
@@ -20,6 +20,7 @@ Can't Let You Go - Fabolous ft. Lil' Mo & Mike Shorey
 Curren$y, Trademark & Young Roddy - Erryday  
 Plan Of Attack by Curren$y & Trademark Da Skyd...  
 Heavy D - I'll Do Anything  
+10cc - Dreadlock Holiday  
 Where Them $ @ by Dreezy  
 Decay - Bladee  
 Too $hort - Bancroft  
@@ -43,6 +44,7 @@ Bladee - Cover Up (prod. Sami Baha)
 Disco D - High Noon  
 Lost Boys by Sir Michael Rocks Feat. Trinidad Jame...  
 Curren$y, Trademark & Young Roddy - Plan Of Attack  
+Ric Flair Drip by Offset & Metro Boomin  
 
 ## DJ Hip Hop Mix 07
 My Music - Album34  

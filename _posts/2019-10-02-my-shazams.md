@@ -8,7 +8,7 @@ title: My Shazams
 
 <p class="meta">02 Oct 2019 - Berkeley, CA</p>
 
-NB: Language warning throughout
+NB: Language warning throughout; such is music and culture
 
 My Shazams (from the last few months):
 
@@ -16,19 +16,20 @@ P.S. Thank you Shazam for your services! Except that one time when my original S
 
 Below is the new one
 
-Markings:  
+Legend:  
 (y) Good for DJ  
 (n) Not good for DJ  
 (x) Language warning  
 (s) Safe for work  
 
-No mark means I haven't checked or decided yet (i.e., TBD)
+No label means I haven't checked or decided yet (i.e., TBD)
 
 Oddly, LOWER numbers represent NEWER Shazams
 
 ## Paper Notes
 
 1. Song 32 by Noname
+
 
 ## Phone 2
 
@@ -37,6 +38,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 3. Amphetamine by Smino (x)
 2. In The Morning by Jay Prince
 1. D'evils by Sir (x)
+
 
 ## Phone 1
 
@@ -469,8 +471,8 @@ Dawn by Koriki
 162. Hoxton Hoops by FloFilz Feat. K, Le Maestro (y) (s)
 161. Sunflower (Spider-Man: I... by Post Malone...
 160. Mixed Personalities by YNW Melly Fea... (n)
-159. Dreadlock Holiday by 10cc
-158. Congo Man by Ernest Ranglin
+159. Dreadlock Holiday by 10cc (y) (s)
+158. Congo Man by Ernest Ranglin (n)
 157. I Am Trying To Break Your He... by Wilco
 156. Like a Ship by Pastor T.L. Barrett And The Youth For...
 155. Mi Gente by DJ Crazy J Rodriguez
@@ -479,8 +481,8 @@ Dawn by Koriki
 152. Smile (Living My Best Life) by Lil Duval Feat. Snoo... (x)
 151. Plug Walk by Rich The Kid
 150. Put Me On Somethin' by P-Lo Feat. E-40
-149. Back That Azz Up by Juvenile Feat. Lil W...
-148. Hate Me by Ellie Goudling & Juice
+149. Back That Azz Up by Juvenile, Lil Wayne...
+148. Hate Me by Ellie Goudling & Juice WRLD
 147. I Be On My Sh\*t by E-40 (x)
 146. Keep Ya Head Up by 2Pac
 145. Sad! by XXXTENTACION
@@ -489,8 +491,8 @@ Dawn by Koriki
 142. Sold My Heart by Zephyr
 141. Moving Too Fast by Zephyr
 140. Slide Around by Chance the Rapper
-139. Smoothies in 1991 by Larry June (x)
-138. Ric Flair Drip by Offset & Metro Boomin
+139. Smoothies In 1991 by Larry June (x)
+138. Ric Flair Drip by Offset & Metro Boomin (y)
 137. On The Hotline by Pretty Ricky
 136. I Like That by Janelle Monae
 135. Whatchamacallit by Ella Mai Fea...
