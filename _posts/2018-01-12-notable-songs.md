@@ -13,24 +13,32 @@ NB: Language warning throughout
 Please look on YouTube unless otherwise noted
 
 ## DJ Hip Hop Mix 09 (Draft)
-Pop It, Shake It by YG Feat. DJ Mustard  
-Can't Let You Go by Fabolous Feat. Lil' Mo & Mike Shorey  
+Ecco2K - Peroxide  
+Pop It, Shake It - YG Feat. DJ Mustard  
+Can't Let You Go - Fabolous Feat. Lil' Mo & Mike Shorey  
 Heavy D - I'll Do Anything  
+Decay - Bladee  
 Too $hort - Bancroft  
-Baguettes In The Face by Mustard Feat. NAV...  
+Baguettes In The Face - Mustard Feat. NAV...  
 Heavy D - Sick Low  
 Too $hort - Me and Ya Momma (Audio) ft. Mike Epps  
-Musty by Shoreline Mafia  
-105fx by Fer Palacio  
+Musty - Shoreline Mafia  
+bladee x Yung Lean - Red Velvet  
+105fx - Fer Palacio  
 E-40 - Choices (Yup)  
-ZEZE by Kodak Black Feat. Offset & Travis Scott  
+Take It Easy - The Gold Souls  
+ZEZE - Kodak Black Feat. Offset & Travis Scott  
+Angel Dust - Mac Miller  
+bladee - I'm Goofy  
+Intersteller Me - Inner Wave  
+Technik - Born Dirty & MAI LAN  
 
 ## DJ Hip Hop Mix 08
 Both Disco D classics  
 Both Italo disco classics (Dance w/ Me and the other one)  
 
 ## DJ Hip Hop Mix 07
-My Music Album34  
+My Music - Album34  
 Young Thug - High ft. Elton John  
 Sweet November - SZA  
 Thundercat - Them Changes  
@@ -124,7 +132,7 @@ In The Morning - Jay Prince
 
 ## DJ Hip Hop Mix 04
 Do It To Ya by YG ft. TeeFLii  
-Thank You (Falettinme Be...) by Sly & the ...  
+Thank You (Falettinme Be... by Sly & the ...  
 
 ## DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole  
@@ -307,6 +315,9 @@ Red Opps -- 21 Savage
 Spend the Night -- Zutzut Edit  
 The Most -- PeeWee Longway  
 Yung 6 Speed -- Black Kray  
+
+## Hip Hop Rap 01
+bladee - Trash Star  
 
 ## Hip Hop Rap
 0 to 100 / The Catch Up -- Drake  

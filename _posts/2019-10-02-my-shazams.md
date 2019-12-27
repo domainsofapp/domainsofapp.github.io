@@ -40,19 +40,11 @@ Oddly, LOWER numbers represent NEWER Shazams
 
 ## Phone 1
 
-593.
-592.
-591.
-590.
-589.
-588.
-587.
-586.
-585.
+585. Joseph Woelfl/Grand Duo Po... by Tetsu & Masaki:Pl...
 584. Cuando Tenga La Tierra by Mercedes Sosa
 583. They Took Esther by Bryce Dessner
 582. Antiphone Blues by Arne Domnerus
-581. Ciao, Bella, Ciao (Arr. Ben Parr...) by The Swingle Singers
+581. Ciao, Bella, Ciao (Arr. Ben Parr... by The Swingle Singers
 580. Rack City by Tyga
 579. ZEZE by Kodak Black Feat. Offset & Travis Scott (y)
 578. Bpt by YG (x)
@@ -93,8 +85,8 @@ Oddly, LOWER numbers represent NEWER Shazams
 543. To The Sun by Reeko
 542. Get On It (Pump Boys Edit) by The Pump Girls
 541. Sphinx by Novar
-540. Sugur Is Sweeter (Origi...) by Jeff Mills
-539. Robertaflack (Martyn's Hea...) by Flying Lotus
+540. Sugur Is Sweeter (Origi... by Jeff Mills
+539. Robertaflack (Martyn's Hea... by Flying Lotus
 538. From White to Red by Voiski
 537. Electronica (Remix) by Tomas Tarcetti
 536. Gritando by Kaipanta
@@ -152,15 +144,15 @@ Oddly, LOWER numbers represent NEWER Shazams
 484. Jungle by Andre Nickatina
 483. Double Up by Nipsey Hussle Feat. Belly & Dom Kennedy
 482. Baby by Quality Control, Lil Baby & DaBaby
-481. Suge by DaBaby
+481. Suge by DaBaby (n)
 480. Nobody by Locksmith
 479. Funeral For A Killer by 9th Wonder & Murs
 478. Swing by Sofi Tukker
 477. Different by Hippie Sabotage
 476. Runaway by Dennis Lloyd
-475. Bad Drugs by King Kavalier & ChrisLee
-474. Never Stop by Lucky Luke Feat. Kordas
-473. Blame by Thutmose
+475. Bad Drugs by King Kavalier & ChrisLee (n)
+474. Never Stop by Lucky Luke Feat. Kordas (y)
+473. Blame by Thutmose (n)
 472. Push Off by The Palms
 471. Running Miles by Hippie Sabotage
 470. Act III: The Reason by Dennis Lloyd
@@ -190,8 +182,8 @@ Oddly, LOWER numbers represent NEWER Shazams
 446. Heat by Chris Brown Feat. Gunna
 445. Shhh (Sea4 Miles Remix) by Miles Davis (in panthalassa: the remixes album)
 444. In A Silent Way (DJ Cam Remix) by Miles Davis
-443. You Keep Me Hangin' On (Q...) by Vanilla Fudge
-442. Twelve Thirty (Young Girls A...) by The Mamas...
+443. You Keep Me Hangin' On (Q... by Vanilla Fudge
+442. Twelve Thirty (Young Girls A... by The Mamas...
 441. Like You by Rocky Rivera
 440. Best Shot by Rocky Rivera
 439. Grlgng by Rocky Rivera
@@ -205,7 +197,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 431. Orbital Frame by Durante
 430. Moonlight Fantasy by Vincent Floyd
 429. La La by Herman Crantz
-428. Can't Stop Playing (Oliver...) by Dr. Kucho!...
+428. Can't Stop Playing (Oliver... by Dr. Kucho!...
 427. Real Time by Jacques Greene
 426. Myalgia by Perel
 425. Settle Down by The Isley Brothers
@@ -214,21 +206,21 @@ Oddly, LOWER numbers represent NEWER Shazams
 422. Torpedo-Beard by L'Attirail
 421. La Ruse Du Sioux by L'Attirail
 420. Gracefully Facedown by The Devil...
-419. a) STRA (Illusions Of M...) by Vanilla Fudge
-418. Pieces Of A Dream (Chemi...) by DATA MUTANT
+419. a) STRA (Illusions Of M... by Vanilla Fudge
+418. Pieces Of A Dream (Chemi... by DATA MUTANT
 417. Stereophonik (Original Mix) by Fernando Olaya
 416. Chaos is Creativity by QuiQui
-415. Iron Heart (Danny Lloyd...) by SEQU3L
+415. Iron Heart (Danny Lloyd... by SEQU3L
 414. Symphony Of Night by S Flint
-413. Make Me Feel Home (The So...) by Summer Disclosure
-412. Strangers In The Night (Flashba...) by Italove
+413. Make Me Feel Home (The So... by Summer Disclosure
+412. Strangers In The Night (Flashba... by Italove
 411. Dance For Me (Maxi Version) by Tom Garrow
 410. Dreamt Paris by Cristian Poow
 409. I Think I Was There by Emil Axelsson
 408. Wake Me Up (Speed Remix) by Avicii
 407. My Body's Burning by Eddie Thoneick
 406. Piano Phase (Part 2) by Steve Reich
-405. Live Your Dreams (Origi...) by Sothzanne String
+405. Live Your Dreams (Origi... by Sothzanne String
 404. Europhonia (Original Mix) by Minilogue
 403. Europhonia by Minilogue
 402. Best Is Yet To Come by Fernando Pulichino
@@ -272,8 +264,8 @@ Oddly, LOWER numbers represent NEWER Shazams
 364. Kxy (Ron Flatter Remix) by Qbical
 363. Return To Oz by Monolink
 362. I Have A Dream (Original Mix) by Ramzy Shaar
-361. Trippin To The Stars (Saalim...) by Martin Virgin
-360. Sexual Healing (12-Inch Versi...) by Marvin Gaye
+361. Trippin To The Stars (Saalim... by Martin Virgin
+360. Sexual Healing (12-Inch Versi... by Marvin Gaye
 359. Adventure (Bonus Beats) by Eleanor Academia
 358. Tip The Scale by Beth Lydi
 357. Mine (Umru Remix) by Slayyyter
@@ -284,13 +276,13 @@ Oddly, LOWER numbers represent NEWER Shazams
 352. Des Niles by Deadboy
 351. Mystery Girl (Set Me Free) by Pierre's Fantasy Club
 350. Towards The Sun by Joel Mull
-349. Technik by Born Dirty & MAI LAN
-348. Take It Easy by The Gold Souls
+349. Technik by Born Dirty & MAI LAN (y)
+348. Take It Easy by The Gold Souls (y)
 347. Blue Lagoon (Original) by Jerom
 346. White Noise (Wind) by Oasis Of Cats
-345. Intersteller Me by Inner Wave
+345. Intersteller Me by Inner Wave (y)
 344. Sasmba Beach by Mason Williams & Mannheim Steamrol...
-343. High by Young Thug Feat. Elton John
+343. High by Young Thug Feat. Elton John (y)
 342. Plug Walk by Rich The Kid
 341. Bizarre Love Triangle (Exte... by New Order
 340. Gold Dust Woman by Fleetwood Mac
@@ -299,9 +291,9 @@ Oddly, LOWER numbers represent NEWER Shazams
 337. Belong To You by Sabrina Claudio
 336. No Peace by Sam Smith Feat. YEBBA
 335. Wanna Be You by Her
-334. <???> by Nmesh
+334. アンチ技術のマジェスティックビューティー [Majestic Beauty of Anti-technology] by Nmesh (y)
 333. Moments, Part 1 by Friendzone
-332. Decay by Bladee
+332. Decay by Bladee (y)
 331. Love Psalm by Tribal Seeds
 330. Open My Eyes by Soldiers Of Jah Army
 329. Running by Rebelution
@@ -408,7 +400,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 228. Toccata, Adagio And Fugue In... by Marie-Claire Alain
 227. Toccata And Fugue In D Mi... by Helmut Walcha
 226. Dejalo Ir by The Marcello Player
-225. Come Feel The Love (DJ Dlg D...) by Sunhatch
+225. Come Feel The Love (DJ Dlg D... by Sunhatch
 224. Grey Day (Original Mix) by Red Noise
 223. Don't Wanna Be (Your Friend) by Euphonik & Mi Casa
 224. Pieces De Fantaisie-Troi... by Thomas Heywood
@@ -474,7 +466,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 164. By by HNNY
 163. Think About It by Hunnah
 162. Hoxton Hoops by FloFilz Feat. K, Le Maestro
-161. Sunflower (Spider-Man: I...) by Post Malone...
+161. Sunflower (Spider-Man: I... by Post Malone...
 160. Mixed Personalities by YNW Melly Fea...
 159. Dreadlock Holiday by 10cc
 158. Congo Man by Ernest Ranglin
@@ -482,7 +474,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 156. Like a Ship by Pastor T.L. Barrett And The Youth For...
 155. Mi Gente by DJ Crazy J Rodriguez
 154. Party In The U.S.A. by Miley Cyrus
-153. We Can't Stop (DJ Scooter U...) by Miley Cyrus
+153. We Can't Stop (DJ Scooter U... by Miley Cyrus
 152. Smile (Living My Best Life) by Lil Duval Feat. Snoo... (x)
 151. Plug Walk by Rich The Kid
 150. Put Me On Somethin' by P-Lo Feat. E-40
@@ -513,15 +505,15 @@ Oddly, LOWER numbers represent NEWER Shazams
 125. Mutilated Lips by Ween
 124. Sausalito by Larry June
 123. Wizard of Finance by Parliament
-122. Habanera (Dop & Rothko Ense...) by Shield & Robytek F...
+122. Habanera (Dop & Rothko Ense... by Shield & Robytek F...
 121. Catalysis by Marco Media
 120. Similar by In Lakech
 119. Aldebaran (Original) by Hraach &...
 118. Lullaby (Original) by Hraach &...
-117. .& So It Goes (Evil Oil Man R...) by Kaya Project
+117. .& So It Goes (Evil Oil Man R... by Kaya Project
 116. The Hathors by Kalya Scintilla
-115. Gaia (Beatfarmer R...) by Lo.Renzo
-114. Quiet Royalty (Requiem For...) by Jef Stott
+115. Gaia (Beatfarmer R... by Lo.Renzo
+114. Quiet Royalty (Requiem For... by Jef Stott
 113. Baby Robot by OTT
 112. Yemaya by Jef Stott
 111. Rokkit Snot by Sunmonx
@@ -545,10 +537,10 @@ Oddly, LOWER numbers represent NEWER Shazams
 93. Sir Isaac Nukem by Holy Wave
 92. Ride On by Wooden Shjips
 91. Back in the Day (Remix) by Ahmad Lewis (x)
-90. Lonely Lover (Black Light S...) by Gry
+90. Lonely Lover (Black Light S... by Gry
 89. Slip N' Slide by Roy Ayers
 88. Flash Light by Parliament
-87. Deliverance (Fort Romeau...) by RY X
+87. Deliverance (Fort Romeau... by RY X
 86. Quiero Repetir by Trio Alma De America
 85. Punk Weight by Death Grips
 84. Poppin' My Collar by Three 6 Mafia
@@ -569,7 +561,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 69. Dun Talkin' by Kojo Funds ft. Abra Cadabra
 68. Confessions by BADBADBADNOTGOOD ft. Leland Whitty
 67. I'm Sorry by Swell ft. Shiloh
-66. Bag Lady (Cheeba Sac R...) by Erykah Badu (y)
+66. Bag Lady (Cheeba Sac R... by Erykah Badu (y)
 65. U-N-I by Jets ft. Jamie Lidell
 64. Leave Me Alone by KAYTRANADA
 63. Glamorous by Fergie ft. Ludacris
@@ -584,7 +576,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 54. Synthesizer by Outkast  ft. George Clinton
 53. Echoleader by The Last Emperor
 52. The Kgb (Intro) by Binary Star
-51. World A Reggae (Out in The Streets...) by Ini Kamoze
+51. World A Reggae (Out in The Streets... by Ini Kamoze
 50. Patience (Chi-Inc. Remix) by Your Godbrotha
 49. Champagne Coast by Blood Orange
 48. Time Will Tell by Blood Orange
@@ -633,5 +625,5 @@ Oddly, LOWER numbers represent NEWER Shazams
 5. Coal Tattoo by Warren Haynes (n) (s)
 4. Is It Me Or You by Warren Haynes (n) (s)
 3. Karvai by Tarsem Jassar (n) (s)
-2. Thank You (Falettinme Be...) by Sly & the ... (y) (s)
+2. Thank You (Falettinme Be... by Sly & the ... (y) (s)
 1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
