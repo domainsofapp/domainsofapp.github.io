@@ -1,7 +1,7 @@
----
+--
 layout: post
 title: Notable Songs
----
+--
 
 {{ page.title }}
 ================
@@ -12,30 +12,37 @@ NB: Language warning throughout
 
 Please look on YouTube unless otherwise noted
 
-## DJ Hip Hop Mix 09 (Draft)
+## DJ Hip Hop Mix 08 (Draft)
 Ecco2K - Peroxide  
-Pop It, Shake It - YG Feat. DJ Mustard  
-Can't Let You Go - Fabolous Feat. Lil' Mo & Mike Shorey  
+FloFilz - Hoxton Hoops (ft. K, Le Maestro)  
+Pop It, Shake It - YG ft. DJ Mustard  
+Can't Let You Go - Fabolous ft. Lil' Mo & Mike Shorey  
+Curren$y, Trademark & Young Roddy - Erryday  
+Plan Of Attack by Curren$y & Trademark Da Skyd...  
 Heavy D - I'll Do Anything  
+Where Them $ @ by Dreezy  
 Decay - Bladee  
 Too $hort - Bancroft  
-Baguettes In The Face - Mustard Feat. NAV...  
+Baguettes In The Face - Mustard ft. NAV...  
 Heavy D - Sick Low  
+The Rain (Supa Dupa Fly) - Missy Elliott  
+Larry June - Organic Watermelon Juice prod. DJ Fresh  
+Technik - Born Dirty & MAI LAN  
 Too $hort - Me and Ya Momma (Audio) ft. Mike Epps  
 Musty - Shoreline Mafia  
 bladee x Yung Lean - Red Velvet  
 105fx - Fer Palacio  
+ScHoolboy Q - Break The Bank  
 E-40 - Choices (Yup)  
 Take It Easy - The Gold Souls  
-ZEZE - Kodak Black Feat. Offset & Travis Scott  
+ZEZE - Kodak Black ft. Offset & Travis Scott  
 Angel Dust - Mac Miller  
 bladee - I'm Goofy  
 Intersteller Me - Inner Wave  
-Technik - Born Dirty & MAI LAN  
-
-## DJ Hip Hop Mix 08
-Both Disco D classics  
-Both Italo disco classics (Dance w/ Me and the other one)  
+Bladee - Cover Up (prod. Sami Baha)  
+Disco D - High Noon  
+Lost Boys by Sir Michael Rocks Feat. Trinidad Jame...  
+Curren$y, Trademark & Young Roddy - Plan Of Attack  
 
 ## DJ Hip Hop Mix 07
 My Music - Album34  
@@ -121,13 +128,13 @@ Mac Dre - I've Been Down
 Erykah Badu - Bag Lady  
 Kelela - All the Way Down  
 Sativa by Jhene Aiko ft. Swae Lee  
-Cardi B - Bartier Cardi (feat. 21 Savage)  
+Cardi B - Bartier Cardi (ft. 21 Savage)  
 Gucci Mane - My Kitchen (start at 0:20 due to language)  
 Mobb Deep - Snitch (If these walls could talk)  
 Vitalic - Poison Lips  
 Sauce - Ella Mai  
 You Never Knew - Hieroglyphics (old school hip hop)  
-Crown - Run The Jewels Feat. Diane Coffee  
+Crown - Run The Jewels ft. Diane Coffee  
 In The Morning - Jay Prince  
 
 ## DJ Hip Hop Mix 04
@@ -136,7 +143,7 @@ Thank You (Falettinme Be... by Sly & the ...
 
 ## DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole  
-Calid B. - Mansa Musa (feat. Limitless Soundz, Cheri Soul & Sleepybrotha)  
+Calid B. - Mansa Musa (ft. Limitless Soundz, Cheri Soul & Sleepybrotha)  
 Mobb Deep - Snitch (If These Walls Could Talk)  
 PEEWEE LONGWAY - THE MOST  
 Rolls Royce B!tch by 2 Chainz  
@@ -148,7 +155,7 @@ Amphetamine - Smino (7:49 min.)
 ## DJ Hip Hop Mix 02
 June by Copywrite  
 Hackman - Close  
-Toot my sh1t - Vixen Ent.  
+Toot my sh!t - Vixen Ent.  
 Company flow - 8 steps to perfection  
 Dear David - I've Been Waiting (EDM depending)  
 
@@ -161,49 +168,49 @@ Kalaido - Hanging Lanterns (mad chill)
 William Onyeabor - Good Name (10:05 min.)  
 
 ## Artistic
-The Pledge (Eternal Sunshine) -- Jay Electronica  
+The Pledge (Eternal Sunshine) - Jay Electronica  
 
 ## Avicii EDM House
-Adele -- Someone Like You -- Avicii (Live at Pier 94 NYE)  
-A Sky Full of Stars -- Coldplay -- Avicii  
-Beautiful Heartbeat -- MORTEN Feat. Frida Sundemo -- Avicii  
-City Lights -- Avicii  
-Dancing In My Head -- Eric Turner vs. Avicii  
-Enough Is Enough (Don't Give Up On Us) -- Avicii  
-Even -- Avicii  
-Hang With Me -- Robyn -- Avicii  
-Heaven -- Avicii  
-Hey Brother -- Avicii  
-Losing My Grip -- Krosses  
-My Feelings for You -- Avicci & Sebastien Drums  
-New New New -- Bob Sinclar -- Avicii  
-Nicktim -- Avicii & Nicky Romero  
-Seek Bromance -- Avicii  
-So Much Better -- Sandro Cavazza -- Avicii  
-Street Dancer -- Avicii  
-Sunshine w Florence and The Machine -- Spectrum (Acappella) -- David Guetta & Avicii  
-Talk to Myself -- Avicii  
-The Nights -- Avicii  
-Without You “Audio” ft. Sandro Cavazza -- Avicii  
+Adele - Someone Like You - Avicii (Live at Pier 94 NYE)  
+A Sky Full of Stars - Coldplay - Avicii  
+Beautiful Heartbeat - MORTEN ft. Frida Sundemo - Avicii  
+City Lights - Avicii  
+Dancing In My Head - Eric Turner vs. Avicii  
+Enough Is Enough (Don't Give Up On Us) - Avicii  
+Even - Avicii  
+Hang With Me - Robyn - Avicii  
+Heaven - Avicii  
+Hey Brother - Avicii  
+Losing My Grip - Krosses  
+My Feelings for You - Avicci & Sebastien Drums  
+New New New - Bob Sinclar - Avicii  
+Nicktim - Avicii & Nicky Romero  
+Seek Bromance - Avicii  
+So Much Better - Sandro Cavazza - Avicii  
+Street Dancer - Avicii  
+Sunshine w Florence and The Machine - Spectrum (Acappella) - David Guetta & Avicii  
+Talk to Myself - Avicii  
+The Nights - Avicii  
+Without You “Audio” ft. Sandro Cavazza - Avicii  
 
 ## Bluegrass
 Old & In the Way  
 Jerry Garcia Band  
 
 ## Classic
-Africa -- Toto  
-I'm Still Standing -- Elton John  
-September -- Earth, Wind & Fire  
+Africa - Toto  
+I'm Still Standing - Elton John  
+September - Earth, Wind & Fire  
 
 ## Classical
-​On the Nature of Daylight -- Max Richter  
-Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI -- Philip Glass and Matt Haimovitz  
+​On the Nature of Daylight - Max Richter  
+Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI - Philip Glass and Matt Haimovitz  
 
 ## Dance
-Hot -- Ravi Shavi  
-Poison Lips -- Vitalic  
+Hot - Ravi Shavi  
+Poison Lips - Vitalic  
 
-## Ecco2K Tracklist -- Boiler Room -- 01 Jan 2017
+## Ecco2K Tracklist - Boiler Room - 01 Jan 2017
 Props to: YouTube user "iasoe"  
 0:00 Migos - Hannah Montana and SPEND THE NIGHT (ZUTZUT EDIT)  
 3:56 Black Kray - LIL 2  
@@ -219,21 +226,21 @@ Props to: YouTube user "iasoe"
 31:56 Future - Magic﻿  
 
 ## Electronic DJ
-Active Denial System II -- WWWINGS ft. Svengali  
-Bashful -- Shanti  
-Headlock -- Lotic  
-Quartz -- Bloom  
-Soda Plains -- Destroyment  
+Active Denial System II - WWWINGS ft. Svengali  
+Bashful - Shanti  
+Headlock - Lotic  
+Quartz - Bloom  
+Soda Plains - Destroyment  
 
 ## Electronic DJ Mixes
-Essential Mix -- DJ Shadow  
+Essential Mix - DJ Shadow  
 I Miss You  
 ParisDJs 1972  
 Wake The Town 8/14/13 (Wake The Town Radio)  
 
 ## Ethereal
-101 -- Portico  
-Where You Are -- Portico (Featured in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
+101 - Portico  
+Where You Are - Portico (ft. in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
 
 ## Folk
 N/A  
@@ -292,89 +299,89 @@ Wave
 Witch House  
 
 ## Greatful Dead et al.
-Althea -- Greatful Dead  
-Brown Eyed Women -- Greatful Dead  
-Forever Young -- Grateful Dead feat. Neil Young  
-Scarlet Begonias into Fire on the Mountain -- Greatful Dead  
+Althea - Greatful Dead  
+Brown Eyed Women - Greatful Dead  
+Forever Young - Grateful Dead ft. Neil Young  
+Scarlet Begonias into Fire on the Mountain - Greatful Dead  
 Sparks (MANDY Remix)  
-Terrapin Station -- Greatful Dead  
-The Lonesome Death of Hattie Carroll -- Bob Dylan  
+Terrapin Station - Greatful Dead  
+The Lonesome Death of Hattie Carroll - Bob Dylan  
 
 ## Happy
-Alagassira -- Youssou N'dour  
-Send Me On My Way -- Rusted Root  
-These Days -- Nico  
-Yaye Digalma -- Jimmy Mbaye  
+Alagassira - Youssou N'dour  
+Send Me On My Way - Rusted Root  
+These Days - Nico  
+Yaye Digalma - Jimmy Mbaye  
 Toots and the Maytals  
 
 ## Hip Hop Rap 00
-Lil 2 -- Sickboirari aka Black Kray  
-Erica Kane -- Speaker Knockerz  
-Magic -- Future ft. T.I.  
-Red Opps -- 21 Savage  
-Spend the Night -- Zutzut Edit  
-The Most -- PeeWee Longway  
-Yung 6 Speed -- Black Kray  
+Lil 2 - Sickboirari aka Black Kray  
+Erica Kane - Speaker Knockerz  
+Magic - Future ft. T.I.  
+Red Opps - 21 Savage  
+Spend the Night - Zutzut Edit  
+The Most - PeeWee Longway  
+Yung 6 Speed - Black Kray  
 
 ## Hip Hop Rap 01
 bladee - Trash Star  
 
 ## Hip Hop Rap
-0 to 100 / The Catch Up -- Drake  
-1 Train (ft. Kendrick Lamar, Joey Bada$$, Yelawolf, Big Krit and more) -- A$AP Rocky  
-All B1tches Aint Women - Too $hort  
-All Me -- Drake  
-All the Way Down -- Kelela
+0 to 100 / The Catch Up - Drake  
+1 Train (ft. Kendrick Lamar, Joey Bada$$, Yelawolf, Big Krit and more) - A$AP Rocky  
+All B!tches Aint Women - Too $hort  
+All Me - Drake  
+All the Way Down - Kelela
 Bigger Than The Both of Us (Audio) ft. Gin Gin - Too $hort  
-Blessings -- Big Sean  
-Bodak Yellow -- Cardi B  
-Coke Hyena -- Nacho Picasso  
-Congratulations ft. Quavo -- Post Malone  
-Dirty Girl -- Felt  
-Drowning (WATER) -- A Boogie Wit Da Hoodie feat. Kodak Black  
-Fellas in Paris -- Kanye West and Jay-Z  
-Get Right Witcha -- Migos  
-Good Life ft. T-Pain -- Kanye West  
-Halloween -- Kodak Black  
-Hannah Montana -- Migos  
-Headlines -- Drake  
-I Don't Muck With You (Explicit) (Ft. E-40) (Prod. DJ Mustard & Kanye West / Co-Prod. DJ Dahi & keY Wane) -- Big Sean  
-I'm Goin In -- Drake, Lil Wayne, and Jeezy  
-Kyoto -- Yung Lean  
-Long Live A$AP -- A$AP Rocky  
-Love$ick -- Mura Masa and A$AP Rocky  
+Blessings - Big Sean  
+Bodak Yellow - Cardi B  
+Coke Hyena - Nacho Picasso  
+Congratulations ft. Quavo - Post Malone  
+Dirty Girl - Felt  
+Drowning (WATER) - A Boogie Wit Da Hoodie ft. Kodak Black  
+Fellas in Paris - Kanye West and Jay-Z  
+Get Right Witcha - Migos  
+Good Life ft. T-Pain - Kanye West  
+Halloween - Kodak Black  
+Hannah Montana - Migos  
+Headlines - Drake  
+I Don't Muck With You (Explicit) (Ft. E-40) (prod. DJ Mustard & Kanye West / Co-prod. DJ Dahi & keY Wane) - Big Sean  
+I'm Goin In - Drake, Lil Wayne, and Jeezy  
+Kyoto - Yung Lean  
+Long Live A$AP - A$AP Rocky  
+Love$ick - Mura Masa and A$AP Rocky  
 Nacho Picasso  
-Nights -- Frank Ocean
-No Frauds -- Nicki Minaj, Drake, and Lil Wayne  
-No Type -- Rae Sremmurd  
-OG Kush Diet -- 2 Chainz  
-Over -- Drake  
-Plain Jane -- A$AP Ferg  
-Rack City (Explicit) -- Tyga  
-Recognize -- partynextdoor and Drake  
-Rockstar ft. 21 Savage -- Post Malone  
-Sneakin' ft. 21 Savage -- Drake  
-Swang -- Rae Sremmurd  
-The Hood Internet - Some Poppas -- The Notorious B I G x Flume  
-Toot My Sh1t -- Vixen Ent.  
-Tuesday -- ilovemakonnen and Drake  
-Woman Tonight -- Murs & Slug  
-X -- 21 Savage and Future  
-Yoshi City -- Yung Lean  
+Nights - Frank Ocean
+No Frauds - Nicki Minaj, Drake, and Lil Wayne  
+No Type - Rae Sremmurd  
+OG Kush Diet - 2 Chainz  
+Over - Drake  
+Plain Jane - A$AP Ferg  
+Rack City (Explicit) - Tyga  
+Recognize - partynextdoor and Drake  
+Rockstar ft. 21 Savage - Post Malone  
+Sneakin' ft. 21 Savage - Drake  
+Swang - Rae Sremmurd  
+The Hood Internet - Some Poppas - The Notorious B I G x Flume  
+Toot My Sh!t - Vixen Ent.  
+Tuesday - ilovemakonnen and Drake  
+Woman Tonight - Murs & Slug  
+X - 21 Savage and Future  
+Yoshi City - Yung Lean  
 
 ## Hip Hop Rap Sad
-Mockingbird -- Eminem  
+Mockingbird - Eminem  
 
 ## IDM
-Lower The Heavens -- The Donkeys  
-The Magic in You -- Ulrich Schnauss  
+Lower The Heavens - The Donkeys  
+The Magic in You - Ulrich Schnauss  
 
 ## Italo Disco
 D. White - Walking (ZYX Extended Version)  
-Tom Garrow - Dance for me (Maxi Version)  
+Tom Garrow - Dance For Me (Maxi Version)  
 
 ## Jazz
-Everything In Its Right Place/Maiden Voyage -- Robert Glasper  
+Everything In Its Right Place/Maiden Voyage - Robert Glasper  
 
 ## Phish
 Divided Sky  
@@ -395,20 +402,20 @@ When the Circus Comes to Town
 You Enjoy Myself (YEM)  
 
 ## R&B
-Pray You Catch Me -- Beyonce  
+Pray You Catch Me - Beyonce  
 
 ## Slow
-Anything But Me -- Phish  
-Can't Help Falling in Love With You -- Haley Reinhart  
-Creep -- Haley Reinhart  
-Dirt -- Phish  
-Easy Like a Sunday Morning -- Lionel Richie  
-Jealous Guy -- John Lennon  
-Scale It Back feat. Little Dragon (Single Edit) -- DJ Shadow  
-Talk -- Phish  
-To Lay Me Down -- Grateful Dead  
-Unchained Melody -- Lykke Li  
-Waste -- Phish  
+Anything But Me - Phish  
+Can't Help Falling in Love With You - Haley Reinhart  
+Creep - Haley Reinhart  
+Dirt - Phish  
+Easy Like a Sunday Morning - Lionel Richie  
+Jealous Guy - John Lennon  
+Scale It Back ft. Little Dragon (Single Edit) - DJ Shadow  
+Talk - Phish  
+To Lay Me Down - Grateful Dead  
+Unchained Melody - Lykke Li  
+Waste - Phish  
 
 ## Soundtracks
 Halt and Catch Fire  
@@ -416,8 +423,8 @@ Mr. Nobody
 Stranger Things  
 
 ## Trance
-Feels -- Giraffage  
-I Love the USA -- Weezer  
-Night Falls -- Bucca Shade  
-Time (Original Mix) -- Pachanga Boys  
-Touch -- LUCASV and Tequisha  
+Feels - Giraffage  
+I Love the USA - Weezer  
+Night Falls - Bucca Shade  
+Time (Original Mix) - Pachanga Boys  
+Touch - LUCASV and Tequisha  
