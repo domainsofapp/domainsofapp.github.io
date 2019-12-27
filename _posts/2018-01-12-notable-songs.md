@@ -21,7 +21,9 @@ Baguettes In The Face by Mustard Feat. NAV...
 Heavy D - Sick Low  
 Too $hort - Me and Ya Momma (Audio) ft. Mike Epps  
 Musty by Shoreline Mafia  
+105fx by Fer Palacio  
 E-40 - Choices (Yup)  
+ZEZE by Kodak Black Feat. Offset & Travis Scott  
 
 ## DJ Hip Hop Mix 08
 Both Disco D classics  

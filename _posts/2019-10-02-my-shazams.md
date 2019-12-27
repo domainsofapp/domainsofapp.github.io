@@ -40,14 +40,22 @@ Oddly, LOWER numbers represent NEWER Shazams
 
 ## Phone 1
 
+593.
+592.
+591.
+590.
+589.
+588.
+587.
+586.
 585.
-584.
-583.
-582.
-581.
-580.
-579.
-578. 
+584. Cuando Tenga La Tierra by Mercedes Sosa
+583. They Took Esther by Bryce Dessner
+582. Antiphone Blues by Arne Domnerus
+581. Ciao, Bella, Ciao (Arr. Ben Parr...) by The Swingle Singers
+580. Rack City by Tyga
+579. ZEZE by Kodak Black Feat. Offset & Travis Scott (y)
+578. Bpt by YG (x)
 577. Show Me by Kid Ink Feat. Chris Brown
 576. Pop It, Shake It by YG Feat. DJ Mustard (y) (x)
 575. Upgrade U by Beyonce Feat. Jay-Z
@@ -55,7 +63,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 573. Good Day by Nappy Roots
 572. Merry Christmas, Ha... by \*NSYNC
 571. Independent Women, Part 1 by Destiny's Child
-570. Never Too Much by Luther Vandross
+570. Never Too Much by Luther Vandross (n) (s)
 569. Can't Let You Go by Fabolous Feat. Lil' Mo & Mike Shorey (y)
 568. Mary Jane by Rick James
 567. P.Y.T. (Pretty Young Thing) by Michael Jackson
@@ -68,7 +76,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 560. 3005 by Childish Gambino
 559. Hold You Down by Childish Gambino
 558. Love Yourz by J. Cole
-557. 105ofx by Fer Palacio
+557. 105fx by Fer Palacio (y)
 556. Baguettes In The Face by Mustard Feat. NAV... (y)
 555. Oakland by Mistah Fab & G-Stack & Bavgate (x)
 554. Bad and Boujee by Migos Feat. Lil Uzi Vert
