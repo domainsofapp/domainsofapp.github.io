@@ -10,18 +10,26 @@ title: Notable Songs
 
 NB: Language warning throughout; such is music and culture
 
-Please look on YouTube unless otherwise noted
+Please look up songs on YouTube unless otherwise noted
 
 ## DJ Hip Hop Mix 08 (Draft)
 Ecco2K - Peroxide  
+BONES - Dirt  
+I'm the Sh!t - Gucci Mane  
+Travis Scott - Wasted ft. Yung Lean  
 FloFilz - Hoxton Hoops (ft. K, Le Maestro)  
+Adamn Killa - Ten ft. Yung Lean  
 Pop It, Shake It - YG ft. DJ Mustard  
+Kendrick Lamar - Swimming Pools (Drank)  
 Can't Let You Go - Fabolous ft. Lil' Mo & Mike Shorey  
 Curren$y, Trademark & Young Roddy - Erryday  
-Plan Of Attack by Curren$y & Trademark Da Skyd...  
-Heavy D - I'll Do Anything  
+Plan Of Attack - Curren$y & Trademark Da Skyd...  
+93 'Til Infinity - Souls Of Mischief  
+Dun Talkin' - Kojo Funds ft. Abra Cadabra  
 10cc - Dreadlock Holiday  
-Where Them $ @ by Dreezy  
+Heavy D - I'll Do Anything  
+No Limit - Peezy  
+Where Them $ @ - Dreezy  
 Decay - Bladee  
 Too $hort - Bancroft  
 Baguettes In The Face - Mustard ft. NAV...  
@@ -41,10 +49,29 @@ Angel Dust - Mac Miller
 bladee - I'm Goofy  
 Intersteller Me - Inner Wave  
 Bladee - Cover Up (prod. Sami Baha)  
-Disco D - High Noon  
-Lost Boys by Sir Michael Rocks Feat. Trinidad Jame...  
+Ric Flair Drip - Offset & Metro Boomin  
+Gab3 - Hollywood Dreaming ft. Lil Peep  
+Lost Boys - Sir Michael Rocks ft. Trinidad Jame...  
 Curren$y, Trademark & Young Roddy - Plan Of Attack  
-Ric Flair Drip by Offset & Metro Boomin  
+Sausalito - Larry June  
+i may have made it rain Please forgive me - Yung Sherman  
+Shaush - Biskwiq  
+2 Chainz - Good Drank ft. Gucci Mane, Quavo  
+U-N-I by Jets ft. Jamie Lidell  
+Big Grams - Fell In the Sun  
+Bladee - Rain Check  
+Juice WRLD - Fast  
+YUNG LEAN "THE LOST VERSE" | IT G MA (잊지마)  
+Juice WRLD - Legends  
+A$AP Rocky - Praise The Lord (Da Shine) ft. Skepta  
+Yung Lean - vendetta  
+Ghostface Killers - 21 Savage & Metro...  
+Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
+Rap Saved Me - 21 Savage  
+
+## DJ Hip Hop Mix 08 Backup (Draft)
+lil peep - gym class  
+Disco D - High Noon  
 
 ## DJ Hip Hop Mix 07
 My Music - Album34  
@@ -52,7 +79,7 @@ Young Thug - High ft. Elton John
 Sweet November - SZA  
 Thundercat - Them Changes  
 Big Sean - Bounce Back  
-Leave Me Alone - Kaytranada  
+Leave Me Alone - KAYTRANADA  
 NO1 (NOAH) - Alone Part 2 (Here We Go Again)  
 Flux Pavilion x What So Not 20:25 ft. Chain Gang 1974  
 Search Sick Low and Low Fi  
@@ -124,10 +151,10 @@ Ruby Ibarra - Playbill$
 ## DJ Hip Hop Mix 05
 6IX9INE - Gotti  
 Noname - Song 32  
-Noname - Reality Check ft Eryn Allen Kane & Akenya  
+Noname - Reality Check ft. Eryn Allen Kane & Akenya  
 Liquor Locker by Vic Mensa  
 Mac Dre - I've Been Down  
-Erykah Badu - Bag Lady  
+Bag Lady (Cheeba Sac R... - Erykah Badu  
 Kelela - All the Way Down  
 Sativa by Jhene Aiko ft. Swae Lee  
 Cardi B - Bartier Cardi (ft. 21 Savage)  

@@ -30,7 +30,6 @@ Oddly, LOWER numbers represent NEWER Shazams
 
 1. Song 32 by Noname
 
-
 ## Phone 2
 
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
@@ -38,7 +37,6 @@ Oddly, LOWER numbers represent NEWER Shazams
 3. Amphetamine by Smino (x)
 2. In The Morning by Jay Prince
 1. D'evils by Sir (x)
-
 
 ## Phone 1
 
@@ -74,7 +72,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 556. Baguettes In The Face by Mustard Feat. NAV... (y)
 555. Oakland by Mistah Fab & G-Stack & Bavgate (x)
 554. Bad and Boujee by Migos Feat. Lil Uzi Vert
-553. Swimming Pools (Drank) by Kendrick Lamar
+553. Swimming Pools (Drank) by Kendrick Lamar (y)
 552. Teach Me How To Dougie by Cali Swag District
 551. Blow The Whistle by Too $Hort (y)
 550. Tell Me When To Go by E-40 Feat. Kea...
@@ -305,7 +303,7 @@ Oddly, LOWER numbers represent NEWER Shazams
 325. Marta. Opera In 3 Acts: Aria M'... by Enrico Caruso
 324. Martha: M'appari by Enrico Caruso
 323. Hive by Earl Sweatshirt Feat. Vince Staples & Ca...
-322. Swimming Pools (Drank) by Kendrick Lamar
+322. Swimming Pools (Drank) by Kendrick Lamar (y)
 321. Photosynthesis by Saba Feat. Jean Deaux
 320. Neva Change by ScHoolboy Q Feat. SZA
 319. Plain Jane by A$AP Ferg (y)
@@ -448,10 +446,10 @@ Dawn by Koriki
 185. Bounce Out With That by YBN Nahmir
 184. Win by Jay Rock
 183. B!tch I Look Good by Kool John Feat. P-Lo
-182. Fell In The Sun by Big Grams
+182. Fell In The Sun by Big Grams (y)
 181. I Wish by Skee-Lo
 180. When I come Around by Dom Kennedy
-179. Good Drank by 2 Chainz Feat. Gucci Mane & Quavo
+179. Good Drank by 2 Chainz Feat. Gucci Mane & Quavo (y)
 178. Wasted by Gucci Mane Feat. Plies
 177. Wasted by DJ Cap (n)
 176. Big Tymin' by Nef The Pharaoh
@@ -493,27 +491,27 @@ Dawn by Koriki
 140. Slide Around by Chance the Rapper
 139. Smoothies In 1991 by Larry June (x)
 138. Ric Flair Drip by Offset & Metro Boomin (y)
-137. On The Hotline by Pretty Ricky
+137. On The Hotline by Pretty Ricky (n)
 136. I Like That by Janelle Monae
 135. Whatchamacallit by Ella Mai Fea...
 134. What's Luv? by Fat Joe Feat. Ashanti
-133. Sweater Weather by The Neighbourhood
-132. You by Mk.Geee
+133. Sweater Weather by The Neighbourhood (n)
+132. You by Mk.Gee
 131. 30 Day Run by Larry June (y) (x)
 130. Father Of The Man by Stephen Marley Fea...
 129. My Sound by Skarra Mucci
 128. Looks Are Deceiving by Damian "Jr....
-127. Khuda Jaane by KK & Shilpa Rao
-126. Your Time is Gonna Come by Led Zeppelin
+127. Khuda Jaane by K.K. & Shilpa Rao
+126. Your Time is Gonna Come by Led Zeppelin (n)
 125. Mutilated Lips by Ween
 124. Sausalito by Larry June
-123. Wizard of Finance by Parliament
+123. Wizard Of Finance by Parliament
 122. Habanera (Dop & Rothko Ense... by Shield & Robytek F...
-121. Catalysis by Marco Media
-120. Similar by In Lakech
+121. Catalysis by Marco Media (n)
+120. Similar by In Lakech (n)
 119. Aldebaran (Original) by Hraach &...
 118. Lullaby (Original) by Hraach &...
-117. .& So It Goes (Evil Oil Man R... by Kaya Project
+117. .& So It Goes (Evil Oil Man R... by Kaya Project (n)
 116. The Hathors by Kalya Scintilla
 115. Gaia (Beatfarmer R... by Lo.Renzo
 114. Quiet Royalty (Requiem For... by Jef Stott
@@ -528,14 +526,14 @@ Dawn by Koriki
 105. Momentos by I.M.D.
 104. Ny Funk by All Good Funk Alliance
 103. Tell Me by Felly Feat. Ari Lennox
-102. Mackdaddy by Felly
-101. Shaush by Biskwiq
+102. Mackdaddy by Felly (n)
+101. Shaush by Biskwiq (y)
 100. Bummed Out City by Joe Strummer...
 99. Crazy by Patsy Cline
 98. Rained The Whole Time by Shlohmo
-97. Tinseltown Swimming in B... by Destroyer
+97. Tinseltown Swimming In B... by Destroyer
 96. They Want Efx by Das EFX
-95. 93 'Til Infinity by Souls Of Mischief
+95. 93 'Til Infinity by Souls Of Mischief (y)
 94. Bubblehouse by Medeski & Martin & Wood
 93. Sir Isaac Nukem by Holy Wave
 92. Ride On by Wooden Shjips
@@ -547,12 +545,12 @@ Dawn by Koriki
 86. Quiero Repetir by Trio Alma De America
 85. Punk Weight by Death Grips
 84. Poppin' My Collar by Three 6 Mafia
-83. Hungry Hippo by Tierra Whack
-82. Baby by Quality Control & Lil Baby & DaBaby
-81. Pop Out by Polo G ft. Lil Tjay (y) (x)
-80. No Limit by Peezy
+83. Hungry Hippo by Tierra Whack (y)
+82. Baby by Quality Control, Lil Baby & DaBaby
+81. Pop Out by Polo G Feat. Lil Tjay (y) (x)
+80. No Limit by Peezy (y)
 79. Down 2 Ride by Lil Bean (x)
-78. Busy/Sirens by Saba
+78. Busy/Sirens by Saba (n)
 77. Karabiga by L'Attirail
 76. All The Way by Bobby Alu
 75. Big Banc Uchies by Drakeo The Ruler
@@ -561,22 +559,22 @@ Dawn by Koriki
 72. Butcher Boy by Ollabelle
 71. Bridges by Koresma
 70. Lickupon by Viktor Vaughn
-69. Dun Talkin' by Kojo Funds ft. Abra Cadabra
-68. Confessions by BADBADBADNOTGOOD ft. Leland Whitty
-67. I'm Sorry by Swell ft. Shiloh
+69. Dun Talkin' by Kojo Funds Feat. Abra Cadabra (y)
+68. Confessions by BADBADBADNOTGOOD Feat. Leland Whitty
+67. I'm Sorry by Swell Feat. Shiloh
 66. Bag Lady (Cheeba Sac R... by Erykah Badu (y)
-65. U-N-I by Jets ft. Jamie Lidell
+65. U-N-I by Jets Feat. Jamie Lidell (y)
 64. Leave Me Alone by KAYTRANADA
-63. Glamorous by Fergie ft. Ludacris
-62. High by the Beach by Lana Del Rey
-61. Fell In The Sun by Big Grams
+63. Glamorous by Fergie Feat. Ludacris
+62. High By The Beach by Lana Del Rey
+61. Fell In The Sun by Big Grams (y)
 60. Sandpaper by Ayelle & Taska Black
-59. Work Out by Chancelor Jonathan Bennet
-58. Ghostface Killers by 21 Savage & Metro...
+59. Work Out by Chancelor Jonathan Bennett
+58. Ghostface Killers by 21 Savage & Metro... (y)
 57. Chamber of Reflection by Mac DeMarco
-56. Aloha Jamaica by Bo Napolean ft. Nela
-55. Sativa by Jhene Aiko ft. Swae Lee (y)
-54. Synthesizer by Outkast  ft. George Clinton
+56. Aloha Jamaica by Bo Napolean Feat. Nela
+55. Sativa by Jhene Aiko Feat. Swae Lee (y)
+54. Synthesizer by Outkast  Feat. George Clinton
 53. Echoleader by The Last Emperor
 52. The Kgb (Intro) by Binary Star
 51. World A Reggae (Out in The Streets... by Ini Kamoze
@@ -593,18 +591,18 @@ Dawn by Koriki
 40. Bust Down Barbiana by DJ Rulio
 39. Hard White by Nicki Minaj
 38. Pure Water by Mustard & Migos
-37. 2am by Casanova ft. Tory Lanez & Davido
+37. 2am by Casanova Feat. Tory Lanez & Davido
 36. Me Against the World by 2Pac
-35. I Get the Bag by Gucci Mane ft. Migos
+35. I Get the Bag by Gucci Mane Feat. Migos
 34. Praise the Lord (Remix) by Arrow
-33. Double Up by Nipsey Hussle ft. Belly & Dom Kennedy
+33. Double Up by Nipsey Hussle Feat. Belly & Dom Kennedy
 32. Thru Your Phone by Cardi B
 31. Big Tymin' by Nef the Pharoah
 30. Smoke Wit' Me by Black Mafia
 29. Lemonade by Gucci Mane
 28. Praise the Lord (Da Shine) by A$AP Rocky...
-27. Zeze by Kodak Black ft. Offset & Travis Scott
-26. Used to This by Future ft. Drake
+27. Zeze by Kodak Black Feat. Offset & Travis Scott
+26. Used to This by Future Feat. Drake
 25. Rolls Royce B!tch by 2 Chainz (y) (x)
 24. Liquor Locker by Vic Mensa (y) (x)
 23. Meet the Dealers by E-40 & B-Legit (y) (x)
@@ -618,7 +616,7 @@ Dawn by Koriki
 15. Get Together by The Youngbloods (n) (s)
 14. Hold Me Now by Thompson Twins (n) (s)
 13. Sauce by Ella Mai (y)
-12. Do It To Ya by YG ft. TeeFLii (y)
+12. Do It To Ya by YG Feat. TeeFLii (y)
 11. I've Been Down by Mac Dre (y) (x)
 10. Can't Find My Way Home by Blind Faith (n) (s)
 9. Gold Dust Woman by Warren Haynes (n) (s)
@@ -628,5 +626,5 @@ Dawn by Koriki
 5. Coal Tattoo by Warren Haynes (n) (s)
 4. Is It Me Or You by Warren Haynes (n) (s)
 3. Karvai by Tarsem Jassar (n) (s)
-2. Thank You (Falettinme Be... by Sly & the ... (y) (s)
+2. Thank You (Falettinme Be... by Sly & the ... (s)
 1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
