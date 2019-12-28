@@ -65,13 +65,15 @@ YUNG LEAN "THE LOST VERSE" | IT G MA (잊지마)
 Juice WRLD - Legends  
 A$AP Rocky - Praise The Lord (Da Shine) ft. Skepta  
 Yung Lean - vendetta  
-Ghostface Killers - 21 Savage & Metro...  
-Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
-Rap Saved Me - 21 Savage  
 
 ## DJ Hip Hop Mix 08 Backup (Draft)
+Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
+Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
+Look At Me! -  XXXTENTACION  
+Rap Saved Me - 21 Savage  
 Disco D - High Noon  
+Tunnel Vision -  Kodak Black  
 
 ## DJ Hip Hop Mix 07
 My Music - Album34  
