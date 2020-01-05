@@ -12,6 +12,26 @@ NB: Language warning throughout; such is music and culture
 
 Please look up songs on YouTube unless otherwise noted
 
+## Sad Boys Mix 01
+bladee - decay  
+bones - dirt  
+Ecco2K - Peroxide  
+bladee x Yung Lean - Red Velvet  
+bladee - I'm Goofy  
+Bladee - Cover Up (Sami Baha)  
+Bladee - Rain Check  
+Yung Lean - vendetta  
+bladee & ECCO2K - Obedient  
+Yung Lean - Lost Track  
+Yung Lean - Creep Creeps  
+
+## Hard Hitting Mix 01
+$uicideboy$ - Sunshine Ext  
+Ghostemane - Mercury  
+Pouya x Ghostemane 1000 Rounds  
+Shakewell - Terminal Sx  
+$uicideboy$ - Vices  
+
 ## DJ Hip Hop Mix 08 (Draft)
 Ecco2K - Peroxide  
 BONES - Dirt  
