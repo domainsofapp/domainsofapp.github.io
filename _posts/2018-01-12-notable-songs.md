@@ -12,7 +12,7 @@ NB: Language warning throughout; such is music and culture
 
 Please look up songs on YouTube unless otherwise noted
 
-## Sad Boys Mix 01
+## Sad Boys & Drain Gang & Gravity Boys Mix 01
 bladee - decay  
 bones - dirt  
 Ecco2K - Peroxide  
@@ -25,14 +25,17 @@ bladee & ECCO2K - Obedient
 Yung Lean - Creep Creeps  
 Yung Lean - Lost Verse  
 
-## Hard Hitting Mix 01
-$uicideboy$ - Sunshine Ext  
-Ghostemane - Mercury  
-Pouya x Ghostemane 1000 Rounds  
+## Dead on Inside w/ Positive Vibe Mix 01
+$UICIDEBOY$ - Sunshine Ext  
+GHOSTEMANE - Mercury  
+Pouya x GHOSTEMANE 1000 Rounds  
 Shakewell - Terminal Sx  
-$uicideboy$ - Vices  
+$UICIDEBOY$ - Vices  
+GHOSTEMANE - Until The Light Takes Us  
+$UICIDEBOY$ x GETTER - RADICAL $UICIDE  
+$UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL  
 
-## DJ Hip Hop Mix 08 (Draft)
+## Live DJ Hip Hop Mix 08 (Draft)
 Ecco2K - Peroxide  
 BONES - Dirt  
 I'm the Sh!t - Gucci Mane  
@@ -86,7 +89,7 @@ Juice WRLD - Legends
 A$AP Rocky - Praise The Lord (Da Shine) ft. Skepta  
 Yung Lean - vendetta  
 
-## DJ Hip Hop Mix 08 Backup (Draft)
+## Live DJ Hip Hop Mix 08 (Backup)
 Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
 Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
@@ -95,7 +98,7 @@ Rap Saved Me - 21 Savage
 Disco D - High Noon  
 Tunnel Vision -  Kodak Black  
 
-## DJ Hip Hop Mix 07
+## Live DJ Hip Hop Mix 07
 My Music - Album34  
 Young Thug - High ft. Elton John  
 Sweet November - SZA  
@@ -133,7 +136,7 @@ Pressa - Authentic (Press A Brick)
 Sabyr - Late Morning Aneurysm  
 BluntsFromTheCrypt1 - IDLEGLANCE  
 
-## DJ Hip Hop Mix 06
+## Live DJ Hip Hop Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
 Ultra Eko Thunder Lightning  
 Soulja Boy - Nu Religion  
@@ -170,7 +173,7 @@ uLtRa_Eko - Thunder Lightning Nicotine
 Ruby Ibarra ft. Rocky Rivera, Klassy, & Faith Santilla - Us  
 Ruby Ibarra - Playbill$  
 
-## DJ Hip Hop Mix 05
+## Live DJ Hip Hop Mix 05
 6IX9INE - Gotti  
 Noname - Song 32  
 Noname - Reality Check ft. Eryn Allen Kane & Akenya  
@@ -188,11 +191,11 @@ You Never Knew - Hieroglyphics (old school hip hop)
 Crown - Run The Jewels ft. Diane Coffee  
 In The Morning - Jay Prince  
 
-## DJ Hip Hop Mix 04
+## Live DJ Hip Hop Mix 04
 Do It To Ya by YG ft. TeeFLii  
 Thank You (Falettinme Be... by Sly & the ...  
 
-## DJ Hip Hop Mix 03
+## Live DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole  
 Calid B. - Mansa Musa (ft. Limitless Soundz, Cheri Soul & Sleepybrotha)  
 Mobb Deep - Snitch (If These Walls Could Talk)  
@@ -203,14 +206,14 @@ Ari Lennox, J. Cole - Shea Butter Baby
 Earl Sweatshirt - Shattered Dreams  
 Amphetamine - Smino (7:49 min.)  
 
-## DJ Hip Hop Mix 02
+## Live DJ Hip Hop Mix 02
 June by Copywrite  
 Hackman - Close  
 Toot my sh!t - Vixen Ent.  
 Company flow - 8 steps to perfection  
 Dear David - I've Been Waiting (EDM depending)  
 
-## DJ Hip Hop Mix 01
+## Live DJ Hip Hop Mix 01
 Tiana - Batty Rider - Bike Ryda Riddim  
 The Hundred In The Hands - Commotion  
 G Mo - Ballin'  
