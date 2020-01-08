@@ -25,7 +25,7 @@ bladee & ECCO2K - Obedient
 Yung Lean - Creep Creeps  
 Yung Lean - Lost Verse  
 
-## Dead on Inside w/ Positive Vibe Mix 01
+## Hard-hitting Mix 01
 $UICIDEBOY$ - Sunshine Ext  
 GHOSTEMANE - Mercury  
 Pouya x GHOSTEMANE 1000 Rounds  
@@ -34,8 +34,21 @@ $UICIDEBOY$ - Vices
 GHOSTEMANE - Until The Light Takes Us  
 $UICIDEBOY$ x GETTER - RADICAL $UICIDE  
 $UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL  
+GHOSTEMANE - GATTEKA  
+BONES - TakingOutTheTrash  
+Jean Grae - Hater's Anthem  
+Jean Grae - You Don't Want It  
+
+## Pure Emptiness and Depression Mix 01
+Lil Peep - In Dis Empty Club  
+Lil Peep - We'll Be Fine  
+JGRXXN x GHOSTEMANE x LiL PEEP - Words You Hear On A Sinking Ship  
+Waste of Time - Lil Peep  
+Lil Peep - Broken Smile (My All) 2018 not  
+Bones - GladWeHaveAnUnderstanding  
 
 ## Live DJ Hip Hop Mix 08 (Draft)
+Jean Grae - Breathe Easy  
 Ecco2K - Peroxide  
 BONES - Dirt  
 I'm the Sh!t - Gucci Mane  
@@ -88,6 +101,8 @@ YUNG LEAN "THE LOST VERSE" | IT G MA (잊지마)
 Juice WRLD - Legends  
 A$AP Rocky - Praise The Lord (Da Shine) ft. Skepta  
 Yung Lean - vendetta  
+Har Mar Superstar - Late Night Morning Light  
+Jean Grae - Keep Livin  
 
 ## Live DJ Hip Hop Mix 08 (Backup)
 Ghostface Killers - 21 Savage & Metro...  
