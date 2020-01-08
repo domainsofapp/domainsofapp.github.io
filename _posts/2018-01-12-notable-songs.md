@@ -38,6 +38,9 @@ GHOSTEMANE - GATTEKA
 BONES - TakingOutTheTrash  
 Jean Grae - Hater's Anthem  
 Jean Grae - You Don't Want It  
+$UICIDEBOY$ x JGRXXN x BLACK SMURF x RAMIREZ - GRAYSCALE  
+BROLY - $UICIDEBOYS  
+BONES - BlastZone  
 
 ## Pure Emptiness and Depression Mix 01
 Lil Peep - In Dis Empty Club  
@@ -46,6 +49,12 @@ JGRXXN x GHOSTEMANE x LiL PEEP - Words You Hear On A Sinking Ship
 Waste of Time - Lil Peep  
 Lil Peep - Broken Smile (My All) 2018 not  
 Bones - GladWeHaveAnUnderstanding  
+Bones - YouFeelingLuckyPunk?  
+Bones - SleepMode  
+$UICIDEBOY$ - My Flaws Burn Through My Skin Like Demonic Flames from Hell  
+nvrmore - you're the only one that wants me (around / to die)  
+LiL PEEP - a plan to kill myself  
+BONES - Butterfly  
 
 ## Live DJ Hip Hop Mix 08 (Draft)
 Jean Grae - Breathe Easy  
@@ -103,6 +112,13 @@ A$AP Rocky - Praise The Lord (Da Shine) ft. Skepta
 Yung Lean - vendetta  
 Har Mar Superstar - Late Night Morning Light  
 Jean Grae - Keep Livin  
+2Pac - When I Get Free (Johnny J Remix)  
+Lil Peep x $UICIDEBOY$ - Cross  
+2Pac - Letter 2 My Homeboys (Prod. by Johnny J & DJ Skandalous)  
+Mount Sinai · $uicideboy$  
+Peezy - Got It All Day  
+Damjonboi - Rip Icewood  
+$UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL (27:40)  
 
 ## Live DJ Hip Hop Mix 08 (Backup)
 Ghostface Killers - 21 Savage & Metro...  
