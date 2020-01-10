@@ -41,6 +41,8 @@ Jean Grae - You Don't Want It
 $UICIDEBOY$ x JGRXXN x BLACK SMURF x RAMIREZ - GRAYSCALE  
 BROLY - $UICIDEBOYS  
 BONES - BlastZone  
+$uicideboy$ - 2nd Hand  
+Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death By Dishonor  
 
 ## Pure Emptiness and Depression Mix 01
 Lil Peep - In Dis Empty Club  
@@ -55,8 +57,13 @@ $UICIDEBOY$ - My Flaws Burn Through My Skin Like Demonic Flames from Hell
 nvrmore - you're the only one that wants me (around / to die)  
 LiL PEEP - a plan to kill myself  
 BONES - Butterfly  
+Lil Peep - Broken Smile  
+Bones - WhereTheTreesMeetTheFreeway  
 
 ## Live DJ Hip Hop Mix 08 (Draft)
+Sam Cooke - What A Wonderful World  
+OutKast - B.O.B.  
+Mobb Deep - Shook Ones  
 Jean Grae - Breathe Easy  
 Ecco2K - Peroxide  
 BONES - Dirt  
@@ -119,6 +126,25 @@ Mount Sinai · $uicideboy$
 Peezy - Got It All Day  
 Damjonboi - Rip Icewood  
 $UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL (27:40)  
+Kodak Black - Codeine Dreaming (feat. Lil Wayne)  
+Nicki Minaj, Lil Wayne - Changed It  
+Ghostface Killah - Big Girl  
+Blue Sky Black Death Feat. Gucci Mane, Deniro Farrar, Nacho Picasso & Mack Shine - Keys  
+Vacant - Nocturnal  
+Blue Sky Black Death & Deniro Farrar - Hold Me Down (feat. Nacho Picasso)  
+.CULT - ROSE BEDS FT. NACHO PICASSO (PROD. BLUE SKY BLACK DEATH)  
+Nacho Picasso - Mob Ties  
+NACHO PICASSO & BSBD - '89 DOPE SPOT  
+NACHO PICASSO & BSBD - IN A TRANCE  
+NACHO PICASSO & BSBD - MOUTH FULL OF GOLD  
+Future - Mask Off  
+21 Savage - X Bitch (Ft. Future)  
+21 Savage & Metro Boomin - X ft Future  
+21 Savage & Metro Boomin - No Heart  
+21 Savage - Bank Account  
+Pouya - Suicidal Thoughts In The Back Of The Cadillac (prod. Mikey The Magician)  
+Pouya - Void  
+Umfang - Ok  
 
 ## Live DJ Hip Hop Mix 08 (Backup)
 Ghostface Killers - 21 Savage & Metro...  
