@@ -12,6 +12,8 @@ NB: Language warning throughout; such is music and culture
 
 Please look up songs on YouTube unless otherwise noted
 
+
+
 ## Sad Boys & Drain Gang & Gravity Boys Mix 01
 bladee - decay  
 bones - dirt  
@@ -122,7 +124,7 @@ Jean Grae - Keep Livin
 2Pac - When I Get Free (Johnny J Remix)  
 Lil Peep x $UICIDEBOY$ - Cross  
 2Pac - Letter 2 My Homeboys (Prod. by Johnny J & DJ Skandalous)  
-Mount Sinai · $uicideboy$  
+Mount Sinai - $uicideboy$  
 Peezy - Got It All Day  
 Damjonboi - Rip Icewood  
 $UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL (27:40)  
@@ -144,6 +146,7 @@ Future - Mask Off
 21 Savage - Bank Account  
 Pouya - Suicidal Thoughts In The Back Of The Cadillac (prod. Mikey The Magician)  
 Pouya - Void  
+SICKBOYRARI - HANGIN OUT LIKE 30  
 Umfang - Ok  
 
 ## Live DJ Hip Hop Mix 08 (Backup)
