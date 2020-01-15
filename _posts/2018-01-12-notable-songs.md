@@ -12,9 +12,7 @@ NB: Language warning throughout; such is music and culture
 
 Please look up songs on YouTube unless otherwise noted
 
-
-
-## Sad Boys & Drain Gang & Gravity Boys Mix 01
+## Sad Boys & Drain Gang & Gravity Boys & Smög Boys & Shield Gang Mix 01
 bladee - decay  
 bones - dirt  
 Ecco2K - Peroxide  
