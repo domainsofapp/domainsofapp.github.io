@@ -185,3 +185,5 @@ YOLO (You Only Live Once) --Source Unknown
 Life is not hard if you be yourself. --F.A. (personal conversation)
 
 Buy the ticket, take the ride. --Hunter S. Thompson, American Journalist
+
+Never attribute to malice that which can be adequately explained by stupidity. --Hanlon's Razor
