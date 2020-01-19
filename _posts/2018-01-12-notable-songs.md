@@ -42,7 +42,7 @@ $UICIDEBOY$ x JGRXXN x BLACK SMURF x RAMIREZ - GRAYSCALE
 BROLY - $UICIDEBOYS  
 BONES - BlastZone  
 $uicideboy$ - 2nd Hand  
-Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death By Dishonor  
+Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor  
 
 ## Pure Emptiness and Depression Mix 01
 Lil Peep - In Dis Empty Club  
@@ -60,8 +60,12 @@ BONES - Butterfly
 Lil Peep - Broken Smile  
 Bones - WhereTheTreesMeetTheFreeway  
 
+## Live DJ R&B Mix 01
+RZA - Baby feat. Maurice  
+
 ## Live DJ Hip Hop Mix 08 (Draft)
 Sam Cooke - What A Wonderful World  
+Rapsody - Ibtihaj ft. D'Angelo, GZA  
 OutKast - B.O.B.  
 Mobb Deep - Shook Ones  
 Jean Grae - Breathe Easy  
@@ -109,7 +113,7 @@ Sausalito - Larry June
 i may have made it rain Please forgive me - Yung Sherman  
 Shaush - Biskwiq  
 2 Chainz - Good Drank ft. Gucci Mane, Quavo  
-U-N-I by Jets ft. Jamie Lidell  
+U-N-I - Jets ft. Jamie Lidell  
 Big Grams - Fell In the Sun  
 Bladee - Rain Check  
 Juice WRLD - Fast  
@@ -120,8 +124,12 @@ Yung Lean - vendetta
 Har Mar Superstar - Late Night Morning Light  
 Jean Grae - Keep Livin  
 2Pac - When I Get Free (Johnny J Remix)  
+RZA Afro Samurai - Baby  
+RZA Afro Samurai - Glorious Day  
+
+## Live DJ Hip Hop Mix 08 Backup 02
 Lil Peep x $UICIDEBOY$ - Cross  
-2Pac - Letter 2 My Homeboys (Prod. by Johnny J & DJ Skandalous)  
+2Pac - Letter 2 My Homeboys (Prod. Johnny J & DJ Skandalous)  
 Mount Sinai - $uicideboy$  
 Peezy - Got It All Day  
 Damjonboi - Rip Icewood  
@@ -147,7 +155,7 @@ Pouya - Void
 SICKBOYRARI - HANGIN OUT LIKE 30  
 Umfang - Ok  
 
-## Live DJ Hip Hop Mix 08 (Backup)
+## Live DJ Hip Hop Mix 08 Backup 01
 Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
 Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
@@ -235,11 +243,11 @@ Ruby Ibarra - Playbill$
 6IX9INE - Gotti  
 Noname - Song 32  
 Noname - Reality Check ft. Eryn Allen Kane & Akenya  
-Liquor Locker by Vic Mensa  
+Liquor Locker - Vic Mensa  
 Mac Dre - I've Been Down  
 Bag Lady (Cheeba Sac R... - Erykah Badu  
 Kelela - All the Way Down  
-Sativa by Jhene Aiko ft. Swae Lee  
+Sativa - Jhene Aiko ft. Swae Lee  
 Cardi B - Bartier Cardi (ft. 21 Savage)  
 Gucci Mane - My Kitchen (start at 0:20 due to language)  
 Mobb Deep - Snitch (If these walls could talk)  
@@ -250,22 +258,22 @@ Crown - Run The Jewels ft. Diane Coffee
 In The Morning - Jay Prince  
 
 ## Live DJ Hip Hop Mix 04
-Do It To Ya by YG ft. TeeFLii  
-Thank You (Falettinme Be... by Sly & the ...  
+Do It To Ya - YG ft. TeeFLii  
+Thank You (Falettinme Be... - Sly & the ...  
 
 ## Live DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole  
 Calid B. - Mansa Musa (ft. Limitless Soundz, Cheri Soul & Sleepybrotha)  
 Mobb Deep - Snitch (If These Walls Could Talk)  
 PEEWEE LONGWAY - THE MOST  
-Rolls Royce B!tch by 2 Chainz  
+Rolls Royce B!tch - 2 Chainz  
 Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
 Ari Lennox, J. Cole - Shea Butter Baby  
 Earl Sweatshirt - Shattered Dreams  
 Amphetamine - Smino (7:49 min.)  
 
 ## Live DJ Hip Hop Mix 02
-June by Copywrite  
+June - Copywrite  
 Hackman - Close  
 Toot my sh!t - Vixen Ent.  
 Company flow - 8 steps to perfection  
