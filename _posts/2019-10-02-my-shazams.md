@@ -14,7 +14,7 @@ My Shazams (from the last few months):
 
 P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--(
 
-Below is the new one
+Below is the new list
 
 Legend:  
 (y) Good for DJ  
@@ -26,10 +26,6 @@ No label means I haven't checked or decided yet (i.e., TBD)
 
 Oddly, LOWER numbers represent NEWER Shazams
 
-## Paper Notes
-
-1. Song 32 by Noname
-
 ## Phone 2
 
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
@@ -39,6 +35,8 @@ Oddly, LOWER numbers represent NEWER Shazams
 1. D'evils by Sir (x)
 
 ## Phone 1
+
+帝都の闇 by 岩崎琢 (Teito No Yami by Taku Iwasaki)
 
 585. Joseph Woelfl/Grand Duo Po... by Tetsu & Masaki:Pl...
 584. Cuando Tenga La Tierra by Mercedes Sosa
