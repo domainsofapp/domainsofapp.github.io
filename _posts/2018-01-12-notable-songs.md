@@ -126,6 +126,10 @@ Jean Grae - Keep Livin
 2Pac - When I Get Free (Johnny J Remix)  
 RZA Afro Samurai - Baby  
 RZA Afro Samurai - Glorious Day  
+Travis Scott - goosebumps ft. Kendrick Lamar  
+Travis Scott - Butterfly Effect  
+Drowning - A Boogie Wit Da Hoodie ft. Kodak Black)  
+Kendrick Lamar - LOVE. ft. Zacari  
 
 ## Live DJ Hip Hop Mix 08 Backup 02
 Lil Peep x $UICIDEBOY$ - Cross  
