@@ -59,6 +59,8 @@ LiL PEEP - a plan to kill myself
 BONES - Butterfly  
 Lil Peep - Broken Smile  
 Bones - WhereTheTreesMeetTheFreeway  
+Bones - 90210  
+Bones - WhiteTrashMidwesternTown  
 
 ## Live DJ R&B Mix 01
 RZA - Baby feat. Maurice  
@@ -130,6 +132,7 @@ Travis Scott - goosebumps ft. Kendrick Lamar
 Travis Scott - Butterfly Effect  
 Drowning - A Boogie Wit Da Hoodie ft. Kodak Black  
 Kendrick Lamar - LOVE. ft. Zacari  
+Khalid - OTW ft. 6LACK, Ty Dolla $ign  
 
 ## Live DJ Hip Hop Mix 08 Backup 02
 Lil Peep x $UICIDEBOY$ - Cross  
