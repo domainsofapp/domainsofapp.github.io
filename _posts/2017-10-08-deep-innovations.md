@@ -25,3 +25,5 @@ Motivation is to bring people together in-person in a social way who might not o
 Keychain dongle that beeps when it finds public WiFi
 
 Free version of Lyft/Uber to replace hitchhiking (with validated riders and drivers)
+
+Develop national and international testing and analysis standards on Git where changes are managed via Pull Requests
