@@ -168,9 +168,7 @@ Say could not should. --John Elliott, Musical Artist (personal conversation)
 
 It's a feature not a bug. --Source Unknown
 
-Be prepared. --Boy Scouts of America, Nonprofit Organization
-
-Leave no trace. --Boy Scouts of America, Nonprofit Organization
+Be prepared. Leave no trace. --Boy Scouts of America, Nonprofit Organization
 
 And now—the cat in the wall says that's all. --Hunter S. Thompson, American Journalist, in Proud Highway: Saga of a Desperate Southern Gentleman, 1955-1967
 
@@ -180,10 +178,16 @@ Don't forget to floss. --Mona Lee Fultz, Actress, in the film "Boyhood"
 
 Floss the teeth you wish to keep. --Source Unknown
 
-YOLO (You Only Live Once) --Source Unknown
+You only live once (YOLO). --Source Unknown
 
 Life is not hard if you be yourself. --F.A. (personal conversation)
 
 Buy the ticket, take the ride. --Hunter S. Thompson, American Journalist
 
 Never attribute to malice that which can be adequately explained by stupidity. --Hanlon's Razor
+
+Keep calm and carry a bomb. -- J. Cowit and the Ruthless Orchestra, Musical Artist
+
+Admit nothing, deny everything, launch counterattacks. --Roger Stone, American Political Consultant
+
+...the only way that a ruling class - any ruling class - can stay in power and get people to do work that they don't want to do is to invent taboos, and then punish those who break them while, best of all, creating an ongoing highly exploitable sense of guilt in just about everyone. --Gore Vidal, American Writer

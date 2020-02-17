@@ -21,7 +21,7 @@ emotion touches your spirit and your body.
 The Lestrygonians and the Cyclops,  
 the fierce Poseidon you will never encounter,  
 if you do not carry them within your soul,  
-if your soul does not set them up before you.  
+if your soul does not set them up before you.
 
 Pray that the road is long.  
 That the summer mornings are many, when,  
@@ -33,7 +33,7 @@ mother-of-pearl and coral, amber and ebony,
 and sensual perfumes of all kinds,  
 as many sensual perfumes as you can;  
 visit many Egyptian cities,  
-to learn and learn from scholars.  
+to learn and learn from scholars.
 
 Always keep Ithaca in your mind.  
 To arrive there is your ultimate goal.  
@@ -41,15 +41,15 @@ But do not hurry the voyage at all.
 It is better to let it last for many years;  
 and to anchor at the island when you are old,  
 rich with all you have gained on the way,  
-not expecting that Ithaca will offer you riches.  
+not expecting that Ithaca will offer you riches.
 
 Ithaca has given you the beautiful voyage.  
 Without her you would have never set out on the road.  
-She has nothing more to give you.  
+She has nothing more to give you.
 
 And if you find her poor, Ithaca has not deceived you.  
 Wise as you have become, with so much experience,  
-you must already have understood what Ithaca means.  
+you must already have understood what Ithaca means.
 
 by Constantine P. Cavafy
 
@@ -57,7 +57,7 @@ by Constantine P. Cavafy
 
 Where must we go...  
 we who wander this wasteland  
-in search of our better selves?  
+in search of our better selves?
 
 ## Hamlet Act 3 Scene 1 Page 4
 
@@ -81,19 +81,19 @@ And enterprises of great pith and moment
 With this regard their currents turn awry,  
 And lose the name of action.—Soft you now,  
 The fair Ophelia!—Nymph, in thy orisons  
-Be all my sins remembered.  
+Be all my sins remembered.
 
-by Shakespeare
+by William Shakespeare
 
 ## Epistemology
 
 I.  
 Kick at the rock, Sam Johnson, break your bones:  
-But cloudy, cloudy is the stuff of stones.  
+But cloudy, cloudy is the stuff of stones.
 
 II.  
 We milk the cow of the world, and as we do  
-We whisper in her ear, "You are not true."  
+We whisper in her ear, "You are not true."
 
 by Richard Wilbur
 
@@ -131,7 +131,7 @@ her mind more like
 a stalled record player playing  
 one song in deep-grooved vinyl—  
 today she learned to pick up the needle  
-and move it a little to the right—.  
+and move it a little to the right—.
 
 by Amanda Beth Peery
 
@@ -177,7 +177,7 @@ slip on the bathroom tiles in a foreign hotel
 and crack your hip. You’ll be lonely.  
 Oh, taste how sweet and tart  
 the red juice is, how the tiny seeds  
-crunch between your teeth.  
+crunch between your teeth.
 
 by Ellen Bass  
 from Like a Beggar  
@@ -213,3 +213,50 @@ with a good bullet from a good gun and bury you
 with a good shovel in the good earth.
 
 Discovered in: Slavoj Zizek's "Violence"
+
+## Now Is The Winter Of Our Discontent
+
+Now is the winter of our discontent  
+Made glorious summer by this sun of York;  
+And all the clouds that lour'd upon our house  
+In the deep bosom of the ocean buried.  
+Now are our brows bound with victorious wreaths;  
+Our bruised arms hung up for monuments;  
+Our stern alarums changed to merry meetings,  
+Our dreadful marches to delightful measures.  
+Grim-visaged war hath smooth'd his wrinkled front;  
+And now, instead of mounting barbed steeds  
+To fright the souls of fearful adversaries,  
+He capers nimbly in a lady's chamber  
+To the lascivious pleasing of a lute.  
+But I, that am not shaped for sportive tricks,  
+Nor made to court an amorous looking-glass;  
+I, that am rudely stamp'd, and want love's majesty  
+To strut before a wanton ambling nymph;  
+I, that am curtail'd of this fair proportion,  
+Cheated of feature by dissembling nature,  
+Deformed, unfinish'd, sent before my time  
+Into this breathing world, scarce half made up,  
+And that so lamely and unfashionable  
+That dogs bark at me as I halt by them;  
+Why, I, in this weak piping time of peace,  
+Have no delight to pass away the time,  
+Unless to spy my shadow in the sun  
+And descant on mine own deformity:  
+And therefore, since I cannot prove a lover,  
+To entertain these fair well-spoken days,  
+I am determined to prove a villain  
+And hate the idle pleasures of these days.  
+Plots have I laid, inductions dangerous,  
+By drunken prophecies, libels and dreams,  
+To set my brother Clarence and the king  
+In deadly hate the one against the other:  
+And if King Edward be as true and just  
+As I am subtle, false and treacherous,  
+This day should Clarence closely be mew'd up,  
+About a prophecy, which says that 'G'  
+Of Edward's heirs the murderer shall be.  
+Dive, thoughts, down to my soul: here  
+Clarence comes.
+
+by William Shakespeare
