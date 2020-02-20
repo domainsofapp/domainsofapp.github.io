@@ -193,3 +193,5 @@ Admit nothing, deny everything, launch counterattacks. --Roger Stone, American P
 ...the only way that a ruling class - any ruling class - can stay in power and get people to do work that they don't want to do is to invent taboos, and then punish those who break them while, best of all, creating an ongoing highly exploitable sense of guilt in just about everyone. --Gore Vidal, American Writer
 
 There are only nine meals between mankind and anarchy. --Alfred Henry Lewis, American Journalist
+
+When it rains, it pours. --Morton Salt, American Food Company
