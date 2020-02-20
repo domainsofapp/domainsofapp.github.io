@@ -29,3 +29,5 @@ Put something back in the place where you first looked for it. It's always in th
 Everything is going to be O-K, <insert your name or someone else's>.
 
 One blog post/Git commit per day.
+
+The pain is real. The struggle is real.
