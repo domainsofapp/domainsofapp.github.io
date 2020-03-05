@@ -195,3 +195,5 @@ Admit nothing, deny everything, launch counterattacks. --Roger Stone, American P
 There are only nine meals between mankind and anarchy. --Alfred Henry Lewis, American Journalist
 
 When it rains, it pours. --Morton Salt, American Food Company
+
+Be the kind of person your dog thinks you are. --Ghandi, if Ghandi was cool and not a pro-caste <insert_curse_word>

@@ -31,3 +31,5 @@ Everything is going to be O-K, <insert your name or someone else's>.
 One blog post/Git commit per day.
 
 The pain is real. The struggle is real.
+
+Don't be a <insert_curse_word>.
