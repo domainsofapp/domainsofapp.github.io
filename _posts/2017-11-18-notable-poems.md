@@ -20,6 +20,8 @@ Shíshì shì, Shì shǐ shì shí shì shí shī.
 Shí shí, shǐ shí shì shí shī shī, shí shí shí shī shī.  
 Shì shì shì shì.  
 
+Translation:
+
 Lion-eating Poet in the Stone Den  
 In a stone den was a poet called Shi Shi, who was a lion addict, and had resolved to eat ten lions.  
 He often went to the market to look for lions.  
