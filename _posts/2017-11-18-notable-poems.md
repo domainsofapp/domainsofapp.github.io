@@ -8,6 +8,32 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Shī Shì shí shī shǐ
+Shíshì shīshì Shī Shì, shì shī, shì shí shí shī.  
+Shì shíshí shì shì shì shī.  
+Shí shí, shì shí shī shì shì.  
+Shì shí, shì Shī Shì shì shì.  
+Shì shì shì shí shī, shì shǐ shì, shǐ shì shí shī shìshì.  
+Shì shí shì shí shī shī, shì shíshì.  
+Shíshì shī, Shì shǐ shì shì shíshì.  
+Shíshì shì, Shì shǐ shì shí shì shí shī.  
+Shí shí, shǐ shí shì shí shī shī, shí shí shí shī shī.  
+Shì shì shì shì.  
+
+Lion-eating Poet in the Stone Den  
+In a stone den was a poet called Shi Shi, who was a lion addict, and had resolved to eat ten lions.  
+He often went to the market to look for lions.  
+At ten o’clock, ten lions had just arrived at the market.  
+At that time, Shi had just arrived at the market.  
+He saw those ten lions, and using his trusty arrows, caused the ten lions to die.  
+He brought the corpses of the ten lions to the stone den.  
+The stone den was damp. He asked his servants to wipe it.  
+After the stone den was wiped, he tried to eat those ten lions.  
+When he ate, he realized that these ten lions were in fact ten stone lion corpses.  
+Try to explain this matter.  
+
+Source: https://www.reddit.com/r/todayilearned/comments/fed08p/til_about_the_chinese_poem_lioneating_poet_in_the/
+
 ## Ithaca
 
 When you set out on your journey to Ithaca,  

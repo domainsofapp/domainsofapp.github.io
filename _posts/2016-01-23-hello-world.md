@@ -20,15 +20,16 @@ This blog is intended to eventually host files (or links to files) of the follow
 * Text
 * Video
 
-If you would like to provide content/comments/feedback/suggestions, you may reach me at:
+If you would like to provide content, comments, feedback, or suggestions, you may reach me at:
 
 domainsofapp at gee male
 
-If you would like to contribute logistically to the site, here are the items on my to-do list:
+Or, if you would like to contribute programmatically/logistically to the site, here are the items on my to-do list:
 
-* Add viewer counter (I scrapped Google Analytics b/c weighs down the website and feels like an invasion of privacy / basic human rights)
+* Add viewer counter (I scrapped Google Analytics b/c it weighs down the website and feels like an invasion of privacy and basic human rights)
 * Add commenting features to the posts (e.g., Disqus)
-* Add advertisements or donations button so I can earn income (ha), make it a part-time job, and spend more time on the site
+* Add donations button so I can earn income (ha), make it my job, and spend more time building out the site (I have several thousand items that are yet to be added)
+* Convince Jason Kottke of Kottke Dot Org to hire me to be his Internet filter blogging protégé
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
