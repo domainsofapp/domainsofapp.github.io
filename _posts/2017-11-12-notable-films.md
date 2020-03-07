@@ -16,13 +16,15 @@ Real Genius
 
 ## Documentary
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
+Koyaanisqatsi  
+Last Train Home  
 Sans Soleil  
+Up the Yangtze  
 Workingman's Death  
 
 ## Drama
 Battle Royale  
 Border  
-Koyaanisqatsi  
 Let The Right One In  
 Us and Them  
 
