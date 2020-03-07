@@ -21,4 +21,4 @@ Mr. Robot
 Silicon Valley  
 The Sopranos  
 True Detective: Season 1  
-The Wire  
+The Wire

@@ -20,4 +20,4 @@ Vincent van Gogh
 
 Guernica - Pablo Picasso  
 Saturn Devouring His Son - Francisco Goya  
-The Death of Marat - Jacques-Louis David  
+The Death of Marat - Jacques-Louis David

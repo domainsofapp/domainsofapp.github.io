@@ -8,6 +8,13 @@ title: Notable Authors
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-Karen Barad  
+## Fiction
 Cormac McCarthy  
+
+## Journalism
 Hunter S. Thompson  
+
+## Philosophy
+Alain Badiou  
+Karen Barad  
+Slavoj Žižek

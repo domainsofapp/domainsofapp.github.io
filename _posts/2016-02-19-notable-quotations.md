@@ -199,3 +199,5 @@ When it rains, it pours. --Morton Salt, American Food Company
 Be the kind of person your dog thinks you are. --Ghandi, if Ghandi was cool and not a pro-caste <insert_curse_word>
 
 When there's smoke, there's fire. --Origin Unknown, Dates Back to 43 B.C.
+
+What is the robbing of a bank compared to the founding of a bank? --Bertolt Brecht, Theatre Practitioner

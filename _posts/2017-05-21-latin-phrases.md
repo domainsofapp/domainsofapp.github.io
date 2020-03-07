@@ -46,4 +46,4 @@ Vade in pace - Go in peace (Roman way of saying goodbye)
 Veritas numquam perit - Truth never perishes (Seneca)  
 Veritas vincit - Truth conquers  
 Vincit omnia veritas - Truth conquers all  
-Volens et potens - Willing and able  
+Volens et potens - Willing and able
