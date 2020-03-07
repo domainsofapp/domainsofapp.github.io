@@ -32,7 +32,7 @@ After the stone den was wiped, he tried to eat those ten lions.
 When he ate, he realized that these ten lions were in fact ten stone lion corpses.  
 Try to explain this matter.  
 
-Source: <a href="https://www.reddit.com/r/todayilearned/comments/fed08p/til_about_the_chinese_poem_lioneating_poet_in_the/">Reddit TIL Chinese Poem</a></li>
+Source: <a href="https://www.reddit.com/r/todayilearned/comments/fed08p/til_about_the_chinese_poem_lioneating_poet_in_the/">Reddit TIL Chinese Poem</a>
 
 ## Ithaca
 
