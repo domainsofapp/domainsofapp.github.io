@@ -34,10 +34,11 @@ After the stone den was wiped, he tried to eat those ten lions.
 When he ate, he realized that these ten lions were in fact ten stone lion corpses.  
 Try to explain this matter.  
 
+by Yuen Ren Chao, American-Chinese Linguist
+
 Source: <a href="https://www.reddit.com/r/todayilearned/comments/fed08p/til_about_the_chinese_poem_lioneating_poet_in_the/">Reddit TIL Chinese Poem</a>
 
 ## Ithaca
-
 When you set out on your journey to Ithaca,  
 pray that the road is long,  
 full of adventure, full of knowledge.  
@@ -79,16 +80,16 @@ And if you find her poor, Ithaca has not deceived you.
 Wise as you have become, with so much experience,  
 you must already have understood what Ithaca means.
 
-by Constantine P. Cavafy
+by Constantine P. Cavafy, Poet
 
 ## The First History Man (Mad Max)
-
 Where must we go...  
 we who wander this wasteland  
 in search of our better selves?
 
-## Hamlet Act 3 Scene 1 Page 4
+by George Miller, Filmmaker
 
+## Hamlet Act 3 Scene 1 Page 4
 For who would bear the whips and scorns of time,  
 Th' oppressor’s wrong, the proud man’s contumely,  
 The pangs of despised love, the law’s delay,  
@@ -111,10 +112,9 @@ And lose the name of action.—Soft you now,
 The fair Ophelia!—Nymph, in thy orisons  
 Be all my sins remembered.
 
-by William Shakespeare
+by William Shakespeare, English Poet
 
 ## Epistemology
-
 I.  
 Kick at the rock, Sam Johnson, break your bones:  
 But cloudy, cloudy is the stuff of stones.
@@ -123,10 +123,9 @@ II.
 We milk the cow of the world, and as we do  
 We whisper in her ear, "You are not true."
 
-by Richard Wilbur
+by Richard Wilbur, American Poet
 
 ## Everywhere You Go, There You Are
-
 Nothing speaks volumes  
 imprisoned dreams jailed forever  
 forgiveness weeps  
@@ -140,7 +139,6 @@ Nothing waits, and waits.
 by Heidi Sweets
 
 ## A Poem About Anxiety
-
 Ms Green didn’t believe her mind  
 was a dark room full of poisons—  
 a room cluttered with rags  
@@ -166,7 +164,6 @@ by Amanda Beth Peery
 Source: <https://www.3quarksdaily.com/3quarksdaily/2018/08/a-poem-about-anxiety.html/>
 
 ## Relax
-
 --for anxious A.
 
 Bad things are going to happen.  
@@ -207,14 +204,13 @@ Oh, taste how sweet and tart
 the red juice is, how the tiny seeds  
 crunch between your teeth.
 
-by Ellen Bass  
+by Ellen Bass, American Poet  
 from Like a Beggar  
 Copper Canyon Press, 2014
 
 Source: <https://www.ellenbass.com/books/like-a-beggar/relax/>
 
-## The Interrogation of the Good -- by Bertolt Brecht
-
+## The Interrogation of the Good
 Step forward: we hear  
 that you are a good man.  
 You cannot be bought, but the lightning  
@@ -240,10 +236,10 @@ We shall put you in front of a good wall and shoot you
 with a good bullet from a good gun and bury you  
 with a good shovel in the good earth.
 
-Discovered in: Slavoj Zizek's "Violence"
+by Bertolt Brecht, Theatre practitioner  
+Discovered in: Slavoj Žižek's "Violence"
 
 ## Now Is The Winter Of Our Discontent
-
 Now is the winter of our discontent  
 Made glorious summer by this sun of York;  
 And all the clouds that lour'd upon our house  
@@ -287,4 +283,4 @@ Of Edward's heirs the murderer shall be.
 Dive, thoughts, down to my soul: here  
 Clarence comes.
 
-by William Shakespeare
+by William Shakespeare, English Poet
