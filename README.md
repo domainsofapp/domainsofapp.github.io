@@ -36,7 +36,7 @@ Therefore, you may not reproduce the original content therein without my prior e
 
 ## Let It Snow
 
-Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on [Lobsters](https://lobste.rs) [4]. Happy Holidays!
+Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters (https://lobste.rs) [4]. Happy Holidays!
 
 ## References
 
