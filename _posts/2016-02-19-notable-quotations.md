@@ -198,6 +198,8 @@ When it rains, it pours. --Morton Salt, American Food Company
 
 Be the kind of person your dog thinks you are. --Ghandi, if Ghandi was cool and not a pro-caste <insert_curse_word>
 
-When there's smoke, there's fire. --Origin Unknown, Dates Back to 43 B.C.
+When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
 
 What is the robbing of a bank compared to the founding of a bank? --Bertolt Brecht, Theatre Practitioner
+
+如果石油公司想买你家，家下就有油 在房子下面. Rúguǒ shíyóu gōngsī xiǎng mǎi nǐ jiā, jiā xià jiù yǒu yóu zài fángzi xiàmiàn. If an oil company wants to buy your home, there is oil under it. --Silicon Valley (TV show), S05E06 - Artificial Emotional Intelligence

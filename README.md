@@ -14,15 +14,15 @@ I used to pay ~$10/year to register and own the following custom domain in the D
 
 https://www.domainsofapplicability.com/
 
-Originally, the first link above (GitHub Pages) redirected to the second b/c I paid for the latter (b/c I liked the name). I have stopped paying so the latter URL no longer works; please use the former.
+Originally, the first link above (GitHub Pages) redirected to the second b/c I paid for the second (b/c I like the name). I have stopped paying so the second URL no longer works -- please use the first URL.
 
 The design of this README and repository is modeled after Ref. [1].
 
-When I push changes to this repository on my local computer to GitHub, the data herein is automatically transformed by Jekyll [2] into the static site that you see at the above (first) URL.
+When I push changes to this repository on my local computer to GitHub, the data herein is automatically transformed by Jekyll [2] into the static site you see at the first URL above.
 
 I am using Markdown to write the posts.
 
-I used to implement Google Analytics on the site, but I removed it in order to keep the site simpler (also, because I have no need to track viewers).
+I used to implement Google Analytics on the site, but I removed it in order to keep the site simpler (also, because I have no need to track any information about site viewers).
 
 ## License
 
@@ -36,7 +36,7 @@ Therefore, you may not reproduce the original content therein without my prior e
 
 ## Let It Snow
 
-Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters [4]. Happy Holidays!
+Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters (<lobste.rs>) [4]. Happy Holidays!
 
 ## References
 

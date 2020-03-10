@@ -10,21 +10,23 @@ title: Notable Films
 
 ## Artistic
 Hiroshima Mon Amour  
+Koyaanisqatsi  
+Sans Soleil  
 
 ## Comedy
 Real Genius  
 
 ## Documentary
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
-Koyaanisqatsi  
 Last Train Home  
-Sans Soleil  
 Up the Yangtze  
+Wild China  
 Workingman's Death  
 
 ## Drama
 Battle Royale  
 Border  
+Last Life in the Universe  
 Let The Right One In  
 Us and Them  
 
