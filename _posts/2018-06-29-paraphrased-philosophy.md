@@ -166,6 +166,12 @@ Paired with capitalism, new forms of representation (e.g., new identities) = new
 
 How would you want the world to be if before you were born you did not know your place in it?
 
+## John Ray, Naturalist
+
+Don't give someone the rope to hang you with.
+
+Allow someone to continue on a course and then suffer its consequences. For example, "The auditor knew something was wrong but decided to give the chief accountant enough rope." This expression, a shortening of enough rope to hang oneself, was already proverbial in John Ray's English Proverbs (1678).
+
 ## Ferdinand de Saussure, Swiss Linguist
 
 Language is a purely relational system. Words have no inner essence.
