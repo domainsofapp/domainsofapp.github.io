@@ -196,7 +196,7 @@ There are only nine meals between mankind and anarchy. --Alfred Henry Lewis, Ame
 
 When it rains, it pours. --Morton Salt, American Food Company
 
-Be the kind of person your dog thinks you are. --Ghandi, if Ghandi was cool and not a pro-caste <insert_curse_word>
+Be the person your dog thinks you are! --J.W. Stephens
 
 When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
 
