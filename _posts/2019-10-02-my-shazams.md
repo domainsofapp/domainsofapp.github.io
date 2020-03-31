@@ -34,6 +34,8 @@ Oddly, LOWER numbers represent NEWER Shazams
 2. In The Morning by Jay Prince
 1. D'evils by Sir (x)
 
+To be continued...
+
 ## Phone 1
 
 帝都の闇 by 岩崎琢 (Teito No Yami by Taku Iwasaki)
@@ -626,3 +628,5 @@ Dawn by Koriki
 3. Karvai by Tarsem Jassar (n) (s)
 2. Thank You (Falettinme Be... by Sly & the ... (s)
 1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
+
+To be continued...
