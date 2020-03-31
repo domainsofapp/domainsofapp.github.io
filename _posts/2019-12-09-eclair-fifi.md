@@ -10,7 +10,7 @@ title: Eclair Fifi
 
 Dear Eclair: I stood next to you against the wall behind the stage after your set in San Francisco, CA (2019-11-27); I was wearing a Grateful Dead hat. I'm sorry I didn't say anything to you. I meant to say, "Great set!". I recorded some of it on my phone. I will plan to upload it to SoundCloud someday.
 
-## AKA
+## Other DJ Names
 Chestnut Chamber  
 Leet Radio  
 Casio Ho Down  
@@ -18,7 +18,7 @@ Casio Ho Down
 ## Legend
 (y) Good for DJ  
 
-##
+## Sources
 Eclair Fifi NTS Radio  
 
 ## 2017 January
@@ -66,3 +66,5 @@ Prefab Sprout - Desire As (O-K)
 Skatebård - Marimba  
 Norma Jean Bell - You Belong To Me (I'm The Baddest B!tch Remix) (good saxaphone at end)  
 Helen - Witch
+
+To be continued...

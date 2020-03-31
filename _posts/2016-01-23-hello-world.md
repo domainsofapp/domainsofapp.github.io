@@ -31,6 +31,7 @@ Or, if you would like to contribute programmatically/logistically to the site, h
 * Add commenting features to the posts (e.g., Disqus)
 * Add donations button so I can earn income (ha), make it my job, and spend more time building out the site (I have several thousand items that are yet to be added)
 * Convince Jason Kottke of Kottke Dot Org to hire me to be his Internet filter blogging protégé
+* Convince a publisher to contract me to write a book based in part on contents herein
 
 <br>Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
