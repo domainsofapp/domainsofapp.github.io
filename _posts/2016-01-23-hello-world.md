@@ -25,7 +25,7 @@ This blog is intended to eventually host files (or links to files) of the follow
 
 domainsofapp at gee male
 
-Or, if you would like to contribute programmatically/logistically to the site, here are the items on my to-do list:
+If you would like to contribute programmatically or logistically to the site, here are the items on my to-do list:
 
 * Add viewer counter (I scrapped Google Analytics b/c it weighs down the website and feels like an invasion of privacy and basic human rights)
 * Add commenting features to the posts (e.g., Disqus)
