@@ -14,4 +14,5 @@ Erhu
 Guqin  
 Guzheng  
 Kalimba  
-Mbira
+Mbira  
+Recorder
