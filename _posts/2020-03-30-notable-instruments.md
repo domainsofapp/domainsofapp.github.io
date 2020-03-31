@@ -14,5 +14,8 @@ Erhu
 Guqin  
 Guzheng  
 Kalimba  
+Kora  
 Mbira  
-Recorder
+Ocarina  
+Recorder  
+Saz
