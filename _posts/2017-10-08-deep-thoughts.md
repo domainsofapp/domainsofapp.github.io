@@ -20,7 +20,7 @@ What would happen if someone started posting code on GitHub to bring down GitHub
 
 When we say internet we are often referring to google.com, i.e., whatever Google has indexed; "look it up on the internet" is really just to Google it; nice brand position for Google a la Kleenex's equation with tissues ("Hand me a Kleenex, please"), etc.
 
-Ketchup, the working wo/man's dressing
+Ketchup, the working wo/man's dressing.
 
 When a company is caught cheating (e.g., VW), perhaps the goverment should assume ownership and have oversight and channel future profits into the public sphere (i.e., they have lost the "privilege" to be private)
 
@@ -33,6 +33,8 @@ Bankability represents use-value; price represents exchange-value.
 Impressionism is realism with poor vision (heh heh).
 
 Shall the birds of fortuity alight again?
+
+The traveling salesman problem is at the root of all navigation optimization algorithms.
 
 Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. Also it should not go off as if there is a fire when the battery is low especially in the middle of the night.
 

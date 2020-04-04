@@ -27,3 +27,9 @@ Keychain dongle that beeps when it finds public WiFi
 Free version of Lyft/Uber to replace hitchhiking (with validated riders and drivers)
 
 Develop national and international testing and analysis standards on Git where changes are managed via Pull Requests
+
+Something you attach to ceiling to cancel out noise vibrations
+
+Nerf gun LEDs - shoot around room, stick to walls, immediately illuminate the room in different/changing colors
+
+Apply traveling salesman problems in operations and maintenance (O&M) optimization algorithms
