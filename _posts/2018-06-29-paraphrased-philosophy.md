@@ -176,9 +176,17 @@ Allow someone to continue on a course and then suffer its consequences. For exam
 
 Language is a purely relational system. Words have no inner essence.
 
+## Erwin Schrödinger, Austrian-Irish Physicist
+
+The growth of the bacterium could be analyzed as a reduction in the entropy of its part of the universe. --From Erwin Schrodinger book: What is Life? (1943)
+
 ## Max Weber, Socialogist
 
 The collapse of values proliferates in capitalism.
+
+## John Archibald Wheeler, American Physicist
+
+It from bit.
 
 ## Ludwig Wittgenstein, Philosopher
 

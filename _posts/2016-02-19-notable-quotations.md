@@ -32,7 +32,7 @@ Another roof, another proof. --Paul Erdos, Mathematician
 
 Shut up and calculate. --David Mermin, Physicist
 
-It from bit. --John Archibald Wheeler, Physicist
+It from bit. --John Archibald Wheeler, American Physicist
 
 Eppur si muove. (And yet it moves.) --Galileo Galilei, Astronomer
 
