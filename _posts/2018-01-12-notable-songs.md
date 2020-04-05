@@ -23,7 +23,7 @@ Bladee - Rain Check
 Yung Lean - vendetta  
 bladee & ECCO2K - Obedient  
 Yung Lean - Creep Creeps  
-Yung Lean - Lost Verse  
+Yung Lean - Lost Verse
 
 ## Hard-hitting Mix 01
 $UICIDEBOY$ - Sunshine Ext  
@@ -42,7 +42,7 @@ $UICIDEBOY$ x JGRXXN x BLACK SMURF x RAMIREZ - GRAYSCALE
 BROLY - $UICIDEBOYS  
 BONES - BlastZone  
 $uicideboy$ - 2nd Hand  
-Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor  
+Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor
 
 ## Pure Emptiness and Depression Mix 01
 Lil Peep - In Dis Empty Club  
@@ -60,13 +60,13 @@ BONES - Butterfly
 Lil Peep - Broken Smile  
 Bones - WhereTheTreesMeetTheFreeway  
 Bones - 90210  
-Bones - WhiteTrashMidwesternTown  
+Bones - WhiteTrashMidwesternTown
 
 ## Live DJ R&B Mix 01
-RZA - Baby feat. Maurice  
+RZA - Baby feat. Maurice
 
 ## Live DJ Hip Hop Mix 09 (Draft)
-ASAP Rocky - Canal St. feat Bones  
+ASAP Rocky - Canal St. feat Bones
 
 ## Live DJ Hip Hop Mix 08 (Draft)
 Sam Cooke - What A Wonderful World  
@@ -135,7 +135,7 @@ Travis Scott - goosebumps ft. Kendrick Lamar
 Travis Scott - Butterfly Effect  
 Drowning - A Boogie Wit Da Hoodie ft. Kodak Black  
 Kendrick Lamar - LOVE. ft. Zacari  
-Khalid - OTW ft. 6LACK, Ty Dolla $ign  
+Khalid - OTW ft. 6LACK, Ty Dolla $ign
 
 ## Live DJ Hip Hop Mix 08 Backup 02
 Lil Peep x $UICIDEBOY$ - Cross  
@@ -163,7 +163,7 @@ Future - Mask Off
 Pouya - Suicidal Thoughts In The Back Of The Cadillac (prod. Mikey The Magician)  
 Pouya - Void  
 SICKBOYRARI - HANGIN OUT LIKE 30  
-Umfang - Ok  
+Umfang - Ok
 
 ## Live DJ Hip Hop Mix 08 Backup 01
 Ghostface Killers - 21 Savage & Metro...  
@@ -172,7 +172,7 @@ Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker
 Look At Me! -  XXXTENTACION  
 Rap Saved Me - 21 Savage  
 Disco D - High Noon  
-Tunnel Vision -  Kodak Black  
+Tunnel Vision -  Kodak Black
 
 ## Live DJ Hip Hop Mix 07
 My Music - Album34  
@@ -210,7 +210,7 @@ Yung Lean - Happy Feet
 Syringe - Hey You There, Try This  
 Pressa - Authentic (Press A Brick)  
 Sabyr - Late Morning Aneurysm  
-BluntsFromTheCrypt1 - IDLEGLANCE  
+BluntsFromTheCrypt1 - IDLEGLANCE
 
 ## Live DJ Hip Hop Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
@@ -247,7 +247,7 @@ Sickboyrari - Feel My Pain
 Syringe - Hey You There, Try This  
 uLtRa_Eko - Thunder Lightning Nicotine  
 Ruby Ibarra ft. Rocky Rivera, Klassy, & Faith Santilla - Us  
-Ruby Ibarra - Playbill$  
+Ruby Ibarra - Playbill$
 
 ## Live DJ Hip Hop Mix 05
 6IX9INE - Gotti  
@@ -265,11 +265,11 @@ Vitalic - Poison Lips
 Sauce - Ella Mai  
 You Never Knew - Hieroglyphics (old school hip hop)  
 Crown - Run The Jewels ft. Diane Coffee  
-In The Morning - Jay Prince  
+In The Morning - Jay Prince
 
 ## Live DJ Hip Hop Mix 04
 Do It To Ya - YG ft. TeeFLii  
-Thank You (Falettinme Be... - Sly & the ...  
+Thank You (Falettinme Be... - Sly & the ...
 
 ## Live DJ Hip Hop Mix 03
 21 Savage - a lot ft. J. Cole  
@@ -280,14 +280,14 @@ Rolls Royce B!tch - 2 Chainz
 Dame D.O.L.L.A. - Reign Reign Go Away (Soundcloud)  
 Ari Lennox, J. Cole - Shea Butter Baby  
 Earl Sweatshirt - Shattered Dreams  
-Amphetamine - Smino (7:49 min.)  
+Amphetamine - Smino (7:49 min.)
 
 ## Live DJ Hip Hop Mix 02
 June - Copywrite  
 Hackman - Close  
 Toot my sh!t - Vixen Ent.  
 Company flow - 8 steps to perfection  
-Dear David - I've Been Waiting (EDM depending)  
+Dear David - I've Been Waiting (EDM depending)
 
 ## Live DJ Hip Hop Mix 01
 Tiana - Batty Rider - Bike Ryda Riddim  
@@ -295,10 +295,10 @@ The Hundred In The Hands - Commotion
 G Mo - Ballin'  
 Shanti - Bashful  
 Kalaido - Hanging Lanterns (mad chill)  
-William Onyeabor - Good Name (10:05 min.)  
+William Onyeabor - Good Name (10:05 min.)
 
 ## Artistic
-The Pledge (Eternal Sunshine) - Jay Electronica  
+The Pledge (Eternal Sunshine) - Jay Electronica
 
 ## Avicii EDM House
 Adele - Someone Like You - Avicii (Live at Pier 94 NYE)  
@@ -321,24 +321,24 @@ Street Dancer - Avicii
 Sunshine w Florence and The Machine - Spectrum (Acappella) - David Guetta & Avicii  
 Talk to Myself - Avicii  
 The Nights - Avicii  
-Without You “Audio” ft. Sandro Cavazza - Avicii  
+Without You “Audio” ft. Sandro Cavazza - Avicii
 
 ## Bluegrass
 Old & In the Way  
-Jerry Garcia Band  
+Jerry Garcia Band
 
 ## Classic
 Africa - Toto  
 I'm Still Standing - Elton John  
-September - Earth, Wind & Fire  
+September - Earth, Wind & Fire
 
 ## Classical
 ​On the Nature of Daylight - Max Richter  
-Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI - Philip Glass and Matt Haimovitz  
+Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI - Philip Glass and Matt Haimovitz
 
 ## Dance
 Hot - Ravi Shavi  
-Poison Lips - Vitalic  
+Poison Lips - Vitalic
 
 ## Ecco2K Tracklist - Boiler Room - 01 Jan 2017
 Props to: YouTube user "iasoe"  
@@ -353,27 +353,27 @@ Props to: YouTube user "iasoe"
 24:56 MHD - AFRO TRAP Part.2  
 26:33 Kamixlo - Lariat (Visionist remix)  
 28:23 ENDGAME - luxury riddim (vocals unknown)  
-31:56 Future - Magic﻿  
+31:56 Future - Magic﻿
 
 ## Electronic DJ
 Active Denial System II - WWWINGS ft. Svengali  
 Bashful - Shanti  
 Headlock - Lotic  
 Quartz - Bloom  
-Soda Plains - Destroyment  
+Soda Plains - Destroyment
 
 ## Electronic DJ Mixes
 Essential Mix - DJ Shadow  
 I Miss You  
 ParisDJs 1972  
-Wake The Town 8/14/13 (Wake The Town Radio)  
+Wake The Town 8/14/13 (Wake The Town Radio)
 
 ## Ethereal
 101 - Portico  
-Where You Are - Portico (ft. in Halt and Catch Fire, Season 2, Episode 5, 21:47)  
+Where You Are - Portico (ft. in Halt and Catch Fire, Season 2, Episode 5, 21:47)
 
 ## Folk
-N/A  
+N/A
 
 ## Genres
 Aesthetic  
@@ -386,8 +386,9 @@ Chillwave
 Chopped and Screwed  
 Cloud  
 Cloud Rap  
+D&B  
 Dancehall  
-Down  
+Downtempo  
 Electro  
 Electronic  
 Electronic Dance Music (EDM)  
@@ -426,7 +427,7 @@ Vapor
 Vaportrap  
 Vaporwave  
 Wave  
-Witch House  
+Witch House
 
 ## Greatful Dead et al.
 Althea - Greatful Dead  
@@ -435,14 +436,14 @@ Forever Young - Grateful Dead ft. Neil Young
 Scarlet Begonias into Fire on the Mountain - Greatful Dead  
 Sparks (MANDY Remix)  
 Terrapin Station - Greatful Dead  
-The Lonesome Death of Hattie Carroll - Bob Dylan  
+The Lonesome Death of Hattie Carroll - Bob Dylan
 
 ## Happy
 Alagassira - Youssou N'dour  
 Send Me On My Way - Rusted Root  
 These Days - Nico  
 Yaye Digalma - Jimmy Mbaye  
-Toots and the Maytals  
+Toots and the Maytals
 
 ## Hip Hop Rap 00
 Lil 2 - Sickboirari aka Black Kray  
@@ -451,10 +452,10 @@ Magic - Future ft. T.I.
 Red Opps - 21 Savage  
 Spend the Night - Zutzut Edit  
 The Most - PeeWee Longway  
-Yung 6 Speed - Black Kray  
+Yung 6 Speed - Black Kray
 
 ## Hip Hop Rap 01
-bladee - Trash Star  
+bladee - Trash Star
 
 ## Hip Hop Rap
 0 to 100 / The Catch Up - Drake  
@@ -497,21 +498,21 @@ Toot My Sh!t - Vixen Ent.
 Tuesday - ilovemakonnen and Drake  
 Woman Tonight - Murs & Slug  
 X - 21 Savage and Future  
-Yoshi City - Yung Lean  
+Yoshi City - Yung Lean
 
 ## Hip Hop Rap Sad
-Mockingbird - Eminem  
+Mockingbird - Eminem
 
 ## IDM
 Lower The Heavens - The Donkeys  
-The Magic in You - Ulrich Schnauss  
+The Magic in You - Ulrich Schnauss
 
 ## Italo Disco
 D. White - Walking (ZYX Extended Version)  
-Tom Garrow - Dance For Me (Maxi Version)  
+Tom Garrow - Dance For Me (Maxi Version)
 
 ## Jazz
-Everything In Its Right Place/Maiden Voyage - Robert Glasper  
+Everything In Its Right Place/Maiden Voyage - Robert Glasper
 
 ## Phish
 Divided Sky  
@@ -529,10 +530,10 @@ Train Song
 Waiting All Night  
 Walls of the Cave  
 When the Circus Comes to Town  
-You Enjoy Myself (YEM)  
+You Enjoy Myself (YEM)
 
 ## R&B
-Pray You Catch Me - Beyonce  
+Pray You Catch Me - Beyonce
 
 ## Slow
 Anything But Me - Phish  
@@ -545,12 +546,12 @@ Scale It Back ft. Little Dragon (Single Edit) - DJ Shadow
 Talk - Phish  
 To Lay Me Down - Grateful Dead  
 Unchained Melody - Lykke Li  
-Waste - Phish  
+Waste - Phish
 
 ## Soundtracks
 Halt and Catch Fire  
 Mr. Nobody  
-Stranger Things  
+Stranger Things
 
 ## Trance
 Feels - Giraffage  
