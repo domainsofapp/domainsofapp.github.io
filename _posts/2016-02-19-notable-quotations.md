@@ -180,7 +180,7 @@ Floss the teeth you wish to keep. --Source Unknown
 
 You only live once (YOLO). --Source Unknown
 
-Life is not hard if you be yourself. --F.A. (personal conversation)
+Life is not hard if you be yourself. --F. Acheme (personal conversation)
 
 Buy the ticket, take the ride. --Hunter S. Thompson, American Journalist
 
@@ -203,3 +203,5 @@ When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
 What is the robbing of a bank compared to the founding of a bank? --Bertolt Brecht, Theatre Practitioner
 
 如果石油公司想买你家，家下就有油 在房子下面. Rúguǒ shíyóu gōngsī xiǎng mǎi nǐ jiā, jiā xià jiù yǒu yóu zài fángzi xiàmiàn. (If an oil company wants to buy your home, there is oil under it.) --Silicon Valley (TV show), S05E06 - Artificial Emotional Intelligence
+
+L'appel du vide. (The call of the void.) --Source Unknown (French origin)

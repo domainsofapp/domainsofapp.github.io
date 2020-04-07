@@ -60,7 +60,16 @@ BONES - Butterfly
 Lil Peep - Broken Smile  
 Bones - WhereTheTreesMeetTheFreeway  
 Bones - 90210  
-Bones - WhiteTrashMidwesternTown
+Bones - WhiteTrashMidwesternTown  
+Bones - Corduroy  
+Bones - ArentYouASightForSoreEyes  
+Bones - Timberlake (Feat Juicy J)  
+Bones - Calcium (Deadboy)  
+Bones - BombsInTheLunchroom  
+Bones - SameOldStory  
+Bones - SadlyThatsJustTheWayThingsAre  
+Xavier Wulf & Bones - CrashLanding  
+
 
 ## Live DJ R&B Mix 01
 RZA - Baby feat. Maurice

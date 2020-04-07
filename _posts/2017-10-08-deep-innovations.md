@@ -33,3 +33,5 @@ Something you attach to ceiling to cancel out noise vibrations
 Nerf gun LEDs - shoot around room, stick to walls, immediately illuminate the room in different/changing colors
 
 Apply traveling salesman problems in operations and maintenance (O&M) optimization algorithms
+
+Dropbox, Box, etc. should have a good solution for managing all document access privileges in one place (e.g., spreadsheet) instead of having to go into each individual/specific folder to check who has access

@@ -9,19 +9,17 @@ title: Paraphrased Philosophy
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
 ## Anthropic Principle
-
 The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No surprise that the universe is "improbably" tuned for life.
 
 ## Apriorism
-
 Belief in categories of knowledge as simple givens; irreducible and immanent in the human by virtue of its inherent makeup (as opposed to, say, empiricism).
 
 ## Alain Badiou, French Philosopher
-
 Truths that force knowledge lead to new truths; thus, old truths are ancestors of new truths; thus, old truths are eternalized when conceived (an Evental moment).
 
-## Charles Baudelaire, French Poet
+On Georg Cantor, Mathematician: There is the infinity of real numbers (real), there is the infinity of whole or natural numbers (imaginary), and there is a gap in between.
 
+## Charles Baudelaire, French Poet
 Regarded each new innovation, each new promise of an ideal existence within consumer society, as a failed enterprise. Regarded new commodities as already dead things. Our desires for new goods are ultimately self-defeating because soon enough our shiny new purchases will be forgotten junk stored in our attics and garages. All that is left after all those purchases are the debts and desire to feel at home while connecting to something larger than ourselves.
 
 Dielectical turn: By embracing self-defeat, we actually get in closer touch with our shared fantasies and desires.
@@ -33,23 +31,18 @@ Cultural constructs are historically-contingent.
 Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from now. Consider what is historically contingent. Consider how to frame words, acts, policies, etc. such that they may readily evolve more in sync with cultural evolution.
 
 ## George Boole, Mathematics Educator
-
 1 + 1 = 1 (Boolean logic: True + True = True)
 
 ## Fred Brooks, American Software Engineer
-
 The Mythical Man-Month: Adding a new person to a late project will make the project later.
 
 ## Charles Darwin, Naturalist
-
 Evolve or go extinct.
 
 ## Decadence
-
 Literary movement of late 19th century France and England characterized by refined aestheticism, artiface, and the quest for new sensations.
 
 ## Jacques Derrida, Algerian-French Philosopher
-
 In order to say something, we must repeat what has already been said.
 
 Use negation as a tool to get beyond our present boundaries of thought.
@@ -61,41 +54,32 @@ The city is architecture's "Other" (capital "O"); that which supports and drives
 Truth is to be found in the void. Emptiness is the space that defines the space of the real.
 
 ## Albert Einstein, Theoretical physicist
-
 The laws of physics are the same at constant velocities.
 
 Curved spacetime is matter and vice versa.
 
 ## Empiricism
-
 All knowledge is derived from sense experience (as opposed to, say, apriorism).
 
 ## Epistemology
-
 Investigates the origin, nature, methods, and limits of human knowledge.
 
 ## Existentialism
-
 Existence precedes essence.
 
 ## Michael Faraday, Scientist
-
 Matter can only be recognized by forces acting on it.
 
 ## Nicholas Fearn, Philosopher
-
 Analogy between quantum physics and computer game. Once you get to quantum level, everything becomes a probabilistic blur, just like in a computer game when you get to the edge a game (e.g., edge of forest or a room that is not really part of the game and the software developer blurs it out with random functions).
 
 ## Richard Feynman, American Physicist
-
 Don't obsess over the names or naming of things (i.e., pure memorization); rather, focus on understanding the thing itself and how it works to the best of your abilities.
 
 ## Kurt Godel, Logician
-
 This statement cannot be proved.
 
 ## Georg Wilhelm Friedrich Hegel, Philosopher
-
 We assume the world is unified, but we cannot grasp the unity ourselves.
 
 Our knowledge is unique to its time and place and is consequently partial and relational.
@@ -127,11 +111,9 @@ Reality is Mind; the universe is Spirit objectified.
 Reality becomes itself retroactively through its symbolic registration (e.g., into language, social story-telling, the stories we call "history").
 
 ## Heraclitus, Greek Philosopher
-
 The only thing constant is change.
 
 ## Immanuel Kant, Philosopher
-
 How can we explain what we know except through the senses?
 
 Wants to find a way to marry this question with empiricism (i.e., Newtonian science).
@@ -147,49 +129,38 @@ Mind equipped with "categories" of knowledge outside our sensory conceptualizati
 Space and time are symbolic tools of the human consciousness for relating matter and symbolic meaning.
 
 ## Jacques Lacan, French Psychoanalyst
-
 The world is a fantasy through which thought sustains itself.
 
 ## Cormac McCarthy
-
 “I dont believe in God. Can you understand that? Look around you man. Cant you see? The clamour and din of those in torment has to be the sound most pleasing to his ear. And I loathe these discussions. The argument of the village atheist whose single passion is to revile endlessly that which he denies the existence of in the first place. Your fellowship is a fellowship of pain and nothing more. And if that pain were actually collective instead of simply reiterative then the sheer weight of it would drag the world from the walls of the universe and send it crashing and burning through whatever night it might yet be capable of engendering until it was not even ash. And justice? Brotherhood? Eternal life? Good god, man. Show me a religion that prepares one for death. For nothingness. There's a church I might enter. Yours prepares one only for more life. For dreams and illusions and lies. If you could banish the fear of death from men's hearts they wouldnt live a day. Who would want this nightmare if not for fear of the next? The shadow of the axe hangs over every joy. Every road ends in death. Or worse. Every friendship. Every love. Torment, betrayal, loss, suffering, pain, age, indignity, and hideous lingering illness. All with a single conclusion. For you and for every one and every thing that you have chosen to care for. There's the true brotherhood. The true fellowship. And everyone is a member for life. You tell me that my brother is my salvation? My salvation? Well then damn him. Damn him in every shape and form and guise. Do I see myself in him? Yes, I do. And what I see sickens me. Do you understand me? Can you understand me?” --Cormac McCarthy, The Sunset Limited
 
 ## Friedrich Nietzsche, Philosopher
-
 We manifest our will to power.
 
 ## M. Ng, Philosopher Friend
-
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
 
 ## John Rawls, American Philosopher
-
 How would you want the world to be if before you were born you did not know your place in it?
 
 ## John Ray, Naturalist
-
 Don't give someone the rope to hang you with.
 
 Allow someone to continue on a course and then suffer its consequences. For example, "The auditor knew something was wrong but decided to give the chief accountant enough rope." This expression, a shortening of enough rope to hang oneself, was already proverbial in John Ray's English Proverbs (1678).
 
 ## Ferdinand de Saussure, Swiss Linguist
-
 Language is a purely relational system. Words have no inner essence.
 
 ## Erwin Schrödinger, Austrian-Irish Physicist
-
 The growth of the bacterium could be analyzed as a reduction in the entropy of its part of the universe. --From Erwin Schrodinger book: What is Life? (1943)
 
 ## Max Weber, Socialogist
-
 The collapse of values proliferates in capitalism.
 
 ## John Archibald Wheeler, American Physicist
-
 It from bit.
 
 ## Ludwig Wittgenstein, Philosopher
-
 The following sentence "breaks" the objective Truth (capital "T") of language: This sentence is false. Or, as kids would say: "It's opposite day."
 
 Nothing changes. Anything that we say changes is all part of a "language game" (linguistic representation of reality).
@@ -199,7 +170,6 @@ Physics is not "True" (capital "T"), but it is useful.
 Philosophy is "above" physics in this way. All there is for humans is the "language game" (which is not really a game as it has real implications). There is power to language and danger of getting lost in it and using it to manipulate others. Language, which is the same as knowledge, also encompassing physics, should only be used for good. It is the philosopher's job to establish and maintain definitions of good.
 
 ## Slavoj Zizek, Slovenian Philosopher
-
 Climate change as existential crisis for humanity.
 
 A choice is always a meta-choice, a choice of the modality of the choice itelf. (Modality: The mode in which something exists or is experienced or expressed.)
