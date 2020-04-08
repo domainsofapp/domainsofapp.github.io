@@ -20,7 +20,7 @@ e.g., within certain physical range
 e.g., anonymous invitation must be accepted  
 e.g., only positive statements available; idea is to lead to in-person conversation in the least number of steps  
 e.g., not sure providing visual identifier is necessary; discriminates against the blind anyway  
-Motivation is to bring people together in-person in a social way who might not otherwise engage  
+Motivation is to bring people together in-person in a social way who might not otherwise engage
 
 Keychain dongle that beeps when it finds public WiFi
 

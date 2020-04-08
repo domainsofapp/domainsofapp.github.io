@@ -8,6 +8,5 @@ title: Notable Podcasts
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
-## Notable Podcasts
-Radiolab  
-The Partially Examined Life
+The Partially Examined Life  
+Radiolab

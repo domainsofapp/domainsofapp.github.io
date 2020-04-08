@@ -9,6 +9,6 @@ title: Notable Composers
 <p class="meta">07 Mar 2020 - Berkeley, CA</p>
 
 ## Soundtrack
-Hans Zimmer  
+Philip Glass  
 Max Richter  
-Philip Glass
+Hans Zimmer

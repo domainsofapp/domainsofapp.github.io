@@ -8,23 +8,23 @@ title: My Shazams
 
 <p class="meta">02 Oct 2019 - Berkeley, CA</p>
 
-NB: Language warning throughout; such is music and culture
+NB: Language warning throughout; such is music and culture.
 
-My Shazams (from the last few months):
+My Shazams (from the last few months) are listed below.
 
 P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--(
 
-Below is the new list
+Below is the new list.
 
 Legend:  
 (y) Good for DJ  
 (n) Not good for DJ  
 (x) Language warning  
-(s) Safe for work  
+(s) Safe for work
 
-No label means I haven't checked or decided yet (i.e., TBD)
+No label means I haven't checked/decided yet (i.e., TBD).
 
-Oddly, LOWER numbers represent NEWER Shazams
+Oddly, LOWER numbers represent NEWER Shazams.
 
 ## Phone 2
 

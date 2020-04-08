@@ -22,7 +22,7 @@ If you had one year left to live what would you do right now?
 
 When there is (attractive) magnetism it is clear and you will know it. Sometimes the polarity changes during one’s lifetime and that's life.
 
-Achieve/accomplish 1,000 failures and you will have 1 success; failure is the necessary and difficult road to success.
+Seek to achieve/accomplish 1000 failures, and you will have 1 success; failure is the necessary and difficult road to success.
 
 Put something back in the place where you first looked for it. It's always in the last place you look.
 

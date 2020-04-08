@@ -11,35 +11,35 @@ title: Notable Films
 ## Artistic
 Hiroshima Mon Amour  
 Koyaanisqatsi  
-Sans Soleil  
+Sans Soleil
 
 ## Comedy
-Real Genius  
+Real Genius
 
 ## Documentary
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
 Last Train Home  
 Up the Yangtze  
 Wild China  
-Workingman's Death  
+Workingman's Death
 
 ## Drama
 Battle Royale  
 Border  
 Last Life in the Universe  
 Let The Right One In  
-Us and Them  
+Us and Them
 
 ## Erotica
 The Handmaiden  
-Lucia y el Sexo  
+Lucia y el Sexo
 
 ## Indie
-Me and Earl and the Dying Girl  
+Me and Earl and the Dying Girl
 
 ## Philosophy
 The Pervert's Guide to Cinema  
-The Pervert's Guide to Ideology  
+The Pervert's Guide to Ideology
 
 ## Zombie
 Train to Busan

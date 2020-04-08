@@ -8,7 +8,8 @@ title: Phonetic Alphabet
 
 <p class="meta">21 May 2017 - Berkeley, CA</p>
 
-Courtesy of MTS.  
+Courtesy of M.T.S.
+
 A, Alpha (AL fah)  
 B, Bravo (BRAH VOH)  
 C, Charlie (CHAR lee)  

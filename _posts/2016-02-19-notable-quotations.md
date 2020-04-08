@@ -202,6 +202,10 @@ When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
 
 What is the robbing of a bank compared to the founding of a bank? --Bertolt Brecht, Theatre Practitioner
 
-如果石油公司想买你家，家下就有油 在房子下面. Rúguǒ shíyóu gōngsī xiǎng mǎi nǐ jiā, jiā xià jiù yǒu yóu zài fángzi xiàmiàn. (If an oil company wants to buy your home, there is oil under it.) --Silicon Valley (TV show), S05E06 - Artificial Emotional Intelligence
+如果石油公司想买你家，家下就有油 在房子下面. Rúguǒ shíyóu gōngsī xiǎng mǎi nǐ jiā, jiā xià jiù yǒu yóu zài fángzi xiàmiàn. (If an oil company wants to buy your home, there is oil under it.) --Silicon Valley (TV show), Season 5, Episode 6 - Artificial Emotional Intelligence
 
 L'appel du vide. (The call of the void.) --Source Unknown (French origin)
+
+He'd say he loved all his employees, but he particularly loved the ones who ate the sh!t for him and he never even knew it. --Succession (TV show), Season 1, Episode 4 - Sad Sack Wasp Trap
+
+Glory is fleeting, but obscurity is forever. --Napoleon Bonaparte, Statesman

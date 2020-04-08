@@ -8,13 +8,15 @@ title: Notable Songs
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
-NB: Language warning throughout; such is music and culture
+NB: Language warning throughout; such is music and culture.
 
-Please look up songs on YouTube unless otherwise noted
+Please look up songs on YouTube unless otherwise noted.
+
+Right click on YouTube video to loop it.
 
 ## Sad Boys & Drain Gang & Gravity Boys & Smög Boys & Shield Gang Mix 01
-bladee - decay  
-bones - dirt  
+bladee - Decay  
+Bones - Dirt  
 Ecco2K - Peroxide  
 bladee x Yung Lean - Red Velvet  
 bladee - I'm Goofy  
@@ -35,12 +37,12 @@ GHOSTEMANE - Until The Light Takes Us
 $UICIDEBOY$ x GETTER - RADICAL $UICIDE  
 $UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL  
 GHOSTEMANE - GATTEKA  
-BONES - TakingOutTheTrash  
+Bones - TakingOutTheTrash  
 Jean Grae - Hater's Anthem  
 Jean Grae - You Don't Want It  
 $UICIDEBOY$ x JGRXXN x BLACK SMURF x RAMIREZ - GRAYSCALE  
 BROLY - $UICIDEBOYS  
-BONES - BlastZone  
+Bones - BlastZone  
 $uicideboy$ - 2nd Hand  
 Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor
 
@@ -56,26 +58,25 @@ Bones - SleepMode
 $UICIDEBOY$ - My Flaws Burn Through My Skin Like Demonic Flames from Hell  
 nvrmore - you're the only one that wants me (around / to die)  
 LiL PEEP - a plan to kill myself  
-BONES - Butterfly  
+Bones - Butterfly  
 Lil Peep - Broken Smile  
 Bones - WhereTheTreesMeetTheFreeway  
 Bones - 90210  
 Bones - WhiteTrashMidwesternTown  
 Bones - Corduroy  
 Bones - ArentYouASightForSoreEyes  
-Bones - Timberlake (Feat Juicy J)  
+Bones - Timberlake (ft. Juicy J)  
 Bones - Calcium (Deadboy)  
 Bones - BombsInTheLunchroom  
 Bones - SameOldStory  
 Bones - SadlyThatsJustTheWayThingsAre  
 Xavier Wulf & Bones - CrashLanding  
 
-
 ## Live DJ R&B Mix 01
-RZA - Baby feat. Maurice
+RZA - Baby ft. Maurice
 
 ## Live DJ Hip Hop Mix 09 (Draft)
-ASAP Rocky - Canal St. feat Bones
+ASAP Rocky - Canal St. ft. Bones
 
 ## Live DJ Hip Hop Mix 08 (Draft)
 Sam Cooke - What A Wonderful World  
@@ -153,20 +154,20 @@ Mount Sinai - $uicideboy$
 Peezy - Got It All Day  
 Damjonboi - Rip Icewood  
 $UICIDEBOY$ - I NO LONGER FEAR THE RAZOR GUARDING MY HEEL (27:40)  
-Kodak Black - Codeine Dreaming (feat. Lil Wayne)  
+Kodak Black - Codeine Dreaming (ft. Lil Wayne)  
 Nicki Minaj, Lil Wayne - Changed It  
 Ghostface Killah - Big Girl  
-Blue Sky Black Death Feat. Gucci Mane, Deniro Farrar, Nacho Picasso & Mack Shine - Keys  
+Blue Sky Black Death ft. Gucci Mane, Deniro Farrar, Nacho Picasso & Mack Shine - Keys  
 Vacant - Nocturnal  
-Blue Sky Black Death & Deniro Farrar - Hold Me Down (feat. Nacho Picasso)  
+Blue Sky Black Death & Deniro Farrar - Hold Me Down (ft. Nacho Picasso)  
 .CULT - ROSE BEDS FT. NACHO PICASSO (PROD. BLUE SKY BLACK DEATH)  
 Nacho Picasso - Mob Ties  
 NACHO PICASSO & BSBD - '89 DOPE SPOT  
 NACHO PICASSO & BSBD - IN A TRANCE  
 NACHO PICASSO & BSBD - MOUTH FULL OF GOLD  
 Future - Mask Off  
-21 Savage - X Bitch (Ft. Future)  
-21 Savage & Metro Boomin - X ft Future  
+21 Savage - X Bitch (ft. Future)  
+21 Savage & Metro Boomin - X ft. Future  
 21 Savage & Metro Boomin - No Heart  
 21 Savage - Bank Account  
 Pouya - Suicidal Thoughts In The Back Of The Cadillac (prod. Mikey The Magician)  
@@ -177,7 +178,7 @@ Umfang - Ok
 ## Live DJ Hip Hop Mix 08 Backup 01
 Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
-Jhené Aiko - Triggered Remix Feat. 21 Savage & Summer Walker  
+Jhené Aiko - Triggered Remix ft. 21 Savage & Summer Walker  
 Look At Me! -  XXXTENTACION  
 Rap Saved Me - 21 Savage  
 Disco D - High Noon  
@@ -294,9 +295,9 @@ Amphetamine - Smino (7:49 min.)
 ## Live DJ Hip Hop Mix 02
 June - Copywrite  
 Hackman - Close  
-Toot my sh!t - Vixen Ent.  
-Company flow - 8 steps to perfection  
-Dear David - I've Been Waiting (EDM depending)
+Toot my Sh!t - Vixen Ent.  
+Company Flow - 8 Steps to Perfection  
+Dear David - I've Been Waiting (EDM)
 
 ## Live DJ Hip Hop Mix 01
 Tiana - Batty Rider - Bike Ryda Riddim  
@@ -485,7 +486,7 @@ Good Life ft. T-Pain - Kanye West
 Halloween - Kodak Black  
 Hannah Montana - Migos  
 Headlines - Drake  
-I Don't Muck With You (Explicit) (Ft. E-40) (prod. DJ Mustard & Kanye West / Co-prod. DJ Dahi & keY Wane) - Big Sean  
+I Don't Muck With You (Explicit) (ft. E-40) (prod. DJ Mustard & Kanye West / Co-prod. DJ Dahi & keY Wane) - Big Sean  
 I'm Goin In - Drake, Lil Wayne, and Jeezy  
 Kyoto - Yung Lean  
 Long Live A$AP - A$AP Rocky  

@@ -64,6 +64,6 @@ With a magnifying glass.
 
 Finally, my own stupid non-waiter joke:
 
-Me: I got a long-distance girlfriend.  
+Me: I have a long-distance girlfriend.  
 Friend: Oh yea?  
-Me: Yea, she's so far away that the light of her image has not reached me yet.
+Me: Yea, she's so far away that the light of her image has not yet reached me.

@@ -9,15 +9,13 @@ title: Notable Art
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
 ## Artists
-
 Salvador Dali  
 Bob Dylan  
 Frida Kahlo  
 Edvard Munch  
-Vincent van Gogh  
+Vincent van Gogh
 
 ## Artworks
-
+The Death of Marat - Jacques-Louis David  
 Guernica - Pablo Picasso  
-Saturn Devouring His Son - Francisco Goya  
-The Death of Marat - Jacques-Louis David
+Saturn Devouring His Son - Francisco Goya

@@ -22,7 +22,7 @@ When we say internet we are often referring to google.com, i.e., whatever Google
 
 Ketchup, the working wo/man's dressing.
 
-When a company is caught cheating (e.g., VW), perhaps the goverment should assume ownership and have oversight and channel future profits into the public sphere (i.e., they have lost the "privilege" to be private)
+When a company is caught cheating (e.g., VW, PG&E), perhaps the government should assume ownership and have oversight and channel future profits into the public sphere (i.e., they have lost the "privilege" to be private)
 
 One way to fight AI job loss and increase societal happiness: Shorter work week
 
