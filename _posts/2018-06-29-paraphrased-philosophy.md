@@ -148,6 +148,9 @@ Don't give someone the rope to hang you with.
 
 Allow someone to continue on a course and then suffer its consequences. For example, "The auditor knew something was wrong but decided to give the chief accountant enough rope." This expression, a shortening of enough rope to hang oneself, was already proverbial in John Ray's English Proverbs (1678).
 
+## Jean-Jacques Rousseau, Philosopher
+From "The Social Contract": People will begin to conform in their opinions and conglomerate into small “cliques” or larger parties. Eventually, it will essentially become two people with opposing opinions voting against each another.
+
 ## Ferdinand de Saussure, Swiss Linguist
 Language is a purely relational system. Words have no inner essence.
 

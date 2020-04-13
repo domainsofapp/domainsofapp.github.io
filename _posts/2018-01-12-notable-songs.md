@@ -275,7 +275,8 @@ Vitalic - Poison Lips
 Sauce - Ella Mai  
 You Never Knew - Hieroglyphics (old school hip hop)  
 Crown - Run The Jewels ft. Diane Coffee  
-In The Morning - Jay Prince
+In The Morning - Jay Prince  
+SiR - D'Evils
 
 ## Live DJ Hip Hop Mix 04
 Do It To Ya - YG ft. TeeFLii  

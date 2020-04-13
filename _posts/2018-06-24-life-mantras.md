@@ -35,3 +35,5 @@ The pain is real. The struggle is real.
 Don't be a <insert_curse_word>.
 
 Pursue hobbies according to your heroes -- there's a good reason you are interested in them as people.
+
+Success is relative to happiness.

@@ -209,3 +209,5 @@ L'appel du vide. (The call of the void.) --Source Unknown (French origin)
 He'd say he loved all his employees, but he particularly loved the ones who ate the sh!t for him and he never even knew it. --Succession (TV show), Season 1, Episode 4 - Sad Sack Wasp Trap
 
 Glory is fleeting, but obscurity is forever. --Napoleon Bonaparte, Statesman
+
+Success is relative to happiness. --Original Source Unknown
