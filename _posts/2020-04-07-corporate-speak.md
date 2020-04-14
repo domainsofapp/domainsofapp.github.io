@@ -10,7 +10,7 @@ title: Corporate Speak
 
 Ad hoc tasks.  
 As per...  
-Best, <insert_name>.  
+Best, <<insert_name>>.  
 Don't go down a rabbit hole.  
 I'm just spitballing here.  
 Keep me in the loop.  
