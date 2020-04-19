@@ -35,3 +35,5 @@ Nerf gun LEDs - shoot around room, stick to walls, immediately illuminate the ro
 Apply traveling salesman problems in operations and maintenance (O&M) optimization algorithms
 
 Dropbox, Box, etc. should have a good solution for managing all document access privileges in one place (e.g., spreadsheet) instead of having to go into each individual/specific folder to check who has access
+
+Create system for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications)
