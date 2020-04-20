@@ -61,6 +61,9 @@ Curved space-time is matter and vice versa.
 ## Empiricism
 All knowledge is derived from sense experience (as opposed to, say, apriorism).
 
+## Epictetus, Philosopher
+First decide who you would be. Then do what you must do.
+
 ## Epistemology
 Investigates the origin, nature, methods, and limits of human knowledge.
 

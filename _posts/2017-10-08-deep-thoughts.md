@@ -38,6 +38,8 @@ The traveling salesman problem is at the root of all navigation optimization alg
 
 Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. Also it should not go off as if there is a fire when the battery is low especially in the middle of the night.
 
+Perhaps the difference between love and lust is analagous to that of the symbiotic and parasitic.
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
