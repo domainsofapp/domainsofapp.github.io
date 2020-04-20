@@ -8,6 +8,15 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Existence
+I laugh at the absurdity of life,  
+and once I stop, I get back to work,  
+and then I laugh at the absurdity of my hypocricy.  
+Some people today might think I'm crazy,  
+but I suppose I am not.
+
+by Irving Washington
+
 ## Shī Shì shí shī shǐ
 Shíshì shīshì Shī Shì, shì shī, shì shí shí shī.  
 Shì shíshí shì shì shì shī.  
