@@ -148,6 +148,9 @@ We manifest our will to power.
 ## M. Ng, Philosopher Friend
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
 
+## Willard Van Orman Quine, American Philosopher
+Words only have meaning insofar as we humans place meaning in them.
+
 ## John Rawls, American Philosopher
 How would you want the world to be if before you were born you did not know your place in it?
 
