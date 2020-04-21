@@ -169,7 +169,7 @@ The growth of the bacterium could be analyzed as a reduction in the entropy of i
 The collapse of values proliferates in capitalism.
 
 ## John Archibald Wheeler, American Physicist
-It from bit.
+It from bit. Every it -- every particle, every field of force, even the space-time continuum itself -- derives its function, its meaning, its very existence...from bits. Why does nature appear quantized? Because information is quantized. The bit is the ultimate unsplittable particle.
 
 ## Ludwig Wittgenstein, Philosopher
 The following sentence "breaks" the objective Truth (capital "T") of language: This sentence is false. Or, as kids would say: "It's opposite day."
