@@ -40,6 +40,8 @@ Any smoke detector on the market should be proven to have an extremely low false
 
 Perhaps the difference between love and lust is analagous to that of the symbiotic and parasitic.
 
+Writing legalese and raising a child are like programming (writing code) -- you must define the terminology before you can work with it.
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
