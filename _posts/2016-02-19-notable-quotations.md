@@ -34,6 +34,8 @@ Shut up and calculate. --David Mermin, Physicist
 
 It from bit. --John Archibald Wheeler, American Physicist
 
+Probability, like time, is a concept invented by humans, and humans have to bear the responsibility for the obscurities that attend it. --John Archibald Wheeler, American Physicist
+
 Eppur si muove. (And yet it moves.) --Galileo Galilei, Astronomer
 
 Veritas est adaequatio rei et intellectus. (Truth is the equation [or adequation] of things and intellect). --Thomas Aquinas, Priest
