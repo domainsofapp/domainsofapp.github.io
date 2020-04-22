@@ -42,6 +42,8 @@ Perhaps the difference between love and lust is analagous to that of the symbiot
 
 Writing legalese and raising a child are like programming (writing code) -- you must define the terminology before you can work with it.
 
+The free market is like a Ouija board -- seemingly driven by a random assortment of the people's collective will but ultimately guided by those with the most power (and will to power).
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
