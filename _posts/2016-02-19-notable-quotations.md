@@ -156,7 +156,7 @@ Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 
 Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
 
-I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer
+Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer
 
 Winter ends. --S. Foundling, American Artist (personal conversation)
 
@@ -221,3 +221,9 @@ Everybody has a plan until they get punched in the mouth. --Mike Tyson, American
 Life is nothing but a competition to be the criminal rather than the victim. --Bertrand Russell, British Philosopher
 
 One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important. --Bertrand Russell, British Philosopher
+
+Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all. --The Bible, John 18:38
+
+The only thing he said was that among human vices he considered cowardice one of the first. --Mikhail Bulgakov, The Master and Margarita
+
+The horror! The horror! --Joseph Conrad, Heart of Darkness
