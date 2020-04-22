@@ -402,6 +402,7 @@ Cloud Rap
 D&B  
 Dancehall  
 Downtempo  
+Drone Logic  
 Electro  
 Electronic  
 Electronic Dance Music (EDM)  
