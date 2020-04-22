@@ -213,3 +213,11 @@ He'd say he loved all his employees, but he particularly loved the ones who ate 
 Glory is fleeting, but obscurity is forever. --Napoleon Bonaparte, Statesman
 
 Success is relative to happiness. --Original Source Unknown
+
+Everyone always knows who they are going to be. --Kamiyah (personal conversation)
+
+Everybody has a plan until they get punched in the mouth. --Mike Tyson, American Professional Boxer
+
+Life is nothing but a competition to be the criminal rather than the victim. --Bertrand Russell, British Philosopher
+
+One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important. --Bertrand Russell, British Philosopher

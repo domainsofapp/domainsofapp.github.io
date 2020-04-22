@@ -44,6 +44,8 @@ Writing legalese and raising a child are like programming (writing code) -- you 
 
 The free market is like a Ouija board -- seemingly driven by a random assortment of the people's collective will but ultimately guided by those with the most power (and will to power).
 
+Would you rather be stuck in a pool with a shark or in a cage with a tiger? I would choose shark and attempt to punch it in the nose.
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
