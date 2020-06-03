@@ -25,8 +25,10 @@ Cenotaph
 ​Chiaroscuro  
 ​Concision: The minimization of words while conveying an idea  
 Compunction  
+Debutante  
 Docent  
 ​Duende  
+Duvet  
 Echolalia  
 Elision  
 Felicitous  
@@ -35,6 +37,7 @@ Hart
 Irreverent  
 Jowly  
 Lachrymose  
+Lothario  
 Micturate  
 Peugeot  
 Pietas  

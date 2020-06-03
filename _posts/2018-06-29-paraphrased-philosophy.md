@@ -145,6 +145,8 @@ Source: <https://plato.stanford.edu/entries/ernst-mach/>
 ## Friedrich Nietzsche, Philosopher
 We manifest our will to power.
 
+In order to survive, at every moment we must exert our will to power and impose our unique selves unto the world.
+
 ## M. Ng, Philosopher Friend
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
 
