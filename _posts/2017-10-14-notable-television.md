@@ -15,6 +15,7 @@ Breaking Bad
 Chappelle's Show  
 Chernobyl  
 Dae Jang Geum  
+Drug War Trifecta: Narcos Mexico, El Chapo, Narcos Original  
 Halt and Catch Fire  
 Mindhunter: Season 1  
 Mr. Robot  

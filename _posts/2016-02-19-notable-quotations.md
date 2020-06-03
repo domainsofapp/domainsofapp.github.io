@@ -227,3 +227,11 @@ Pilate saith unto him, What is truth? And when he had said this, he went out aga
 The only thing he said was that among human vices he considered cowardice one of the first. --Mikhail Bulgakov, The Master and Margarita
 
 The horror! The horror! --Joseph Conrad, Heart of Darkness
+
+[It's] the only loss you could forsake; the only bluff you couldn't fake. --Bob Seeger, Still the Same
+
+They give birth astride of a grave, the light gleams an instant, then it's night once more. (We're born astride the grave.). --Samuel Beckett, Waiting for Godot
+
+Bull markets don't die of old age. --Origin Unknown
+
+It will have blood, they say. Blood will have blood. Stones have been known to move, and trees to speak. (Blood begets more blood.) --Macbeth, No Fear, Act 3, Scene 4

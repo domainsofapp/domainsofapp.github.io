@@ -8,14 +8,15 @@ title: Corporate Speak
 
 <p class="meta">07 Apr 2020 - Berkeley, CA</p>
 
-Ad hoc tasks.  
+Ad hoc.  
 Agenda.  
-As per...  
+As per.  
 Best, <<insert_name>>.  
+Circle back.  
 Deliverables.  
-Don't go down a rabbit hole.  
-I'm just spitballing here.  
-Keep me in the loop.  
-Let's circle back on that.  
-Let's take this offline.  
-Loop me in on that.
+Drill down.  
+High level.  
+In the loop.  
+Rabbit hole.  
+Spitballing.  
+Take offline.  
