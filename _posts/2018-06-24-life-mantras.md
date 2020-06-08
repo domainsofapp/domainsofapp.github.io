@@ -49,3 +49,5 @@ Self-immerse in culture.
 Attempt to distribute heartfelt love in every action.
 
 Don't strive to be an attractive human; strive to be an attractive skeleton.
+
+Unleash the power of the brain.

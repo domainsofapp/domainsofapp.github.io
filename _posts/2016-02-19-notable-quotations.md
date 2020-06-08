@@ -140,7 +140,7 @@ The word "cause" is, in short, an altar to an unknown god; an empty pedestal sti
 
 No (wo)man is an island. --John Donne, Poet
 
-Nothing endures but change. --Heraclitus, Greek Philosopher
+Nothing endures but change. (The only thing constant is change.) --Heraclitus, Greek Philosopher
 
 It is vain to affirm that which the heart does not confirm. --Aleksandr Solzhenitsyn, Novelist
 
