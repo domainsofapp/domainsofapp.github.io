@@ -235,3 +235,19 @@ They give birth astride of a grave, the light gleams an instant, then it's night
 Bull markets don't die of old age. --Origin Unknown
 
 It will have blood, they say. Blood will have blood. Stones have been known to move, and trees to speak. (Blood begets more blood.) --Macbeth, No Fear, Act 3, Scene 4
+
+Breathing in, I calm body and mind. Breathing out, I smile. Dwelling in the present moment I know this is the only moment. (As I breath in, I calm my body. As I breath out, I smile.) --Thich Nhat Hanh, Vietnamese Monk, in Being Peace 
+
+And one by one the nights between our separated cities are joined to the night that unites us. --Pablo Neruda, Colombian Drug Lord
+
+The king is dead. Long live the king. --French Origin, 1422
+
+Le mort saisit le vif. (The dead siezes the living.) --French Doctrine (The heir succeeds the deceased from the instant of her death.)
+
+Measure seven times, cut once. (Measure twice. Cut once.) --Russian Proverb
+
+Between a high, solid wall and an egg that breaks against it, I will always stand on the side of the egg. --Haruki Murakami, Japanese Writer
+
+I would prefer not to. --Bartleby, the Scrivener
+
+You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Singer-songwriter
