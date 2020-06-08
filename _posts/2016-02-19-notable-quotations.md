@@ -248,6 +248,8 @@ Measure seven times, cut once. (Measure twice. Cut once.) --Russian Proverb
 
 Between a high, solid wall and an egg that breaks against it, I will always stand on the side of the egg. --Haruki Murakami, Japanese Writer
 
-I would prefer not to. --Bartleby, the Scrivener
+I would prefer not to. (I'd prefer no to.) --Bartleby, the Scrivener
 
 You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Singer-songwriter
+
+Smoke 'em if you got 'em. (Smoke it while you've got it.) --Origin Unknown

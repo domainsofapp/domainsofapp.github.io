@@ -8,13 +8,15 @@ title: Life Mantras
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
-Follow your compulsions while deciding to be good. Your compulsions are unique and not the same as others'.
+Rhetoric is bad. Avoid it like the plague.
+
+Publish, publish, and publish.
 
 Publish useful stuff (within the confines of legality).
 
-Publish, publish, publish.
-
 Don't be afraid. Dive right in.
+
+Follow your compulsions while deciding to be good. Your compulsions are unique and not the same as others'.
 
 In any task, do only what is necessary.
 
@@ -51,3 +53,9 @@ Attempt to distribute heartfelt love in every action.
 Don't strive to be an attractive human; strive to be an attractive skeleton.
 
 Unleash the power of the brain.
+
+Strive for continuous improvement; it is good enough for all intents and purposes.
+
+The best engineer is completely replaceable by a human; even better, by an algorithm. Thus, an engineer should strive for self-automation.
+
+For every task, first define the "measure of success".

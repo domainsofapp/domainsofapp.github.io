@@ -12,6 +12,8 @@ Ad hoc.
 Agenda.  
 As per.  
 Best, <<insert_name>>.  
+Bridge the gap.  
+Call an audible.  
 Circle back.  
 Deliverables.  
 Drill down.  
@@ -21,4 +23,5 @@ In the loop.
 Players.  
 Rabbit hole.  
 Spitballing.  
+Synergy.  
 Take offline.  

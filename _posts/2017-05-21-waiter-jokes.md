@@ -66,4 +66,4 @@ Finally, my own stupid non-waiter joke:
 
 Me: I have a long-distance girlfriend.  
 Friend: Oh yea?  
-Me: Yea, she's so far away that the light of her image has not yet reached me.
+Me: Yea. But I'm not sure what she looks like, 'cuz she's so far away that the light of her image has not yet reached me.
