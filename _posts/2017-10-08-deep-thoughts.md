@@ -89,3 +89,6 @@ It's funny that pirates were always going around searching for treasure, and the
 I like to go down to the dog pound and pretend that I've found my dog. Then I tell them to kill it anyway because I already gave away all of his stuff. Dog people sure don't have a sense of humor.
 
 For centuries, people thought the moon was made of green cheese. Then the astronauts found that the moon is really a big hard rock. That's what happens to cheese when you leave it out.
+
+## Other Deep Thoughts
+When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2

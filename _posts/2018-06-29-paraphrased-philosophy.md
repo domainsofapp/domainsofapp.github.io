@@ -30,6 +30,11 @@ Cultural constructs are historically-contingent.
 
 Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from now. Consider what is historically contingent. Consider how to frame words, acts, policies, etc. such that they may readily evolve more in sync with cultural evolution.
 
+## Samuel Beckett, Irish Novelist
+Waiting for Godot: Nothing, or the wait for something that is never going to happen.
+
+Source: Urban Dictionary, <https://www.urbandictionary.com/define.php?term=Godot>
+
 ## George Boole, Mathematics Educator
 1 + 1 = 1 (Boolean logic: True + True = True)
 
@@ -141,6 +146,9 @@ Source: <https://plato.stanford.edu/entries/ernst-mach/>
 
 ## Cormac McCarthy
 “I don't believe in God. Can you understand that? Look around you man. Can't you see? The clamor and din of those in torment has to be the sound most pleasing to his ear. And I loathe these discussions. The argument of the village atheist whose single passion is to revile endlessly that which he denies the existence of in the first place. Your fellowship is a fellowship of pain and nothing more. And if that pain were actually collective instead of simply reiterative then the sheer weight of it would drag the world from the walls of the universe and send it crashing and burning through whatever night it might yet be capable of engendering until it was not even ash. And justice? Brotherhood? Eternal life? Good god, man. Show me a religion that prepares one for death. For nothingness. There's a church I might enter. Yours prepares one only for more life. For dreams and illusions and lies. If you could banish the fear of death from men's hearts they wouldn't live a day. Who would want this nightmare if not for fear of the next? The shadow of the axe hangs over every joy. Every road ends in death. Or worse. Every friendship. Every love. Torment, betrayal, loss, suffering, pain, age, indignity, and hideous lingering illness. All with a single conclusion. For you and for everyone and everything that you have chosen to care for. There's the true brotherhood. The true fellowship. And everyone is a member for life. You tell me that my brother is my salvation? My salvation? Well then damn him. Damn him in every shape and form and guise. Do I see myself in him? Yes, I do. And what I see sickens me. Do you understand me? Can you understand me?” --Cormac McCarthy, The Sunset Limited
+
+## Herman Melville, American Novelist
+Bartleby, the Scrivener: I would prefer not to.
 
 ## Friedrich Nietzsche, Philosopher
 We manifest our will to power.
