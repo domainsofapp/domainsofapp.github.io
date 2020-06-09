@@ -166,9 +166,9 @@ No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"
 
 There is a raw truth that is visible here. --SamManero, YouTube user, in response to Werner Herzog's "On the Jungle and Nature"
 
-Say could not should. --John Elliott, Musical Artist (personal conversation)
+Say could, not should. --John Elliott, Musical Artist (personal conversation)
 
-It's a feature not a bug. --Source Unknown
+It's a feature, not a bug. --Source Unknown
 
 Be prepared. Leave no trace. --Boy Scouts of America, Nonprofit Organization
 
@@ -190,7 +190,7 @@ Never attribute to malice that which can be adequately explained by stupidity. -
 
 Keep calm and carry a bomb. -- J. Cowit and the Ruthless Orchestra, Musical Artist
 
-Admit nothing, deny everything, launch counterattacks. --Roger Stone, American Political Consultant
+Admit nothing, deny everything, launch counterattacks. (NB: Generally bad advice.) --Roger Stone, American Political Consultant
 
 ...the only way that a ruling class - any ruling class - can stay in power and get people to do work that they don't want to do is to invent taboos, and then punish those who break them while, best of all, creating an ongoing highly exploitable sense of guilt in just about everyone. --Gore Vidal, American Writer
 
@@ -248,8 +248,10 @@ Measure seven times, cut once. (Measure twice. Cut once.) --Russian Proverb
 
 Between a high, solid wall and an egg that breaks against it, I will always stand on the side of the egg. --Haruki Murakami, Japanese Writer
 
-I would prefer not to. (I'd prefer no to.) --Bartleby, the Scrivener
+I would prefer not to. (I'd prefer not to.) --Bartleby, the Scrivener
 
 You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Singer-songwriter
 
 Smoke 'em if you got 'em. (Smoke it while you've got it.) --Origin Unknown
+
+Saigon. Sh!t. I'm still only in Saigon. Every time I think I'm gonna wake up back in the jungle. When I was home after my first tour, it was worse. I'd wake up and there'd be nothing. I hardly said a word to my wife, until I said "yes" to a divorce. When I was here, I wanted to be there; when I was there, all I could think of was getting back into the jungle. I'm here a week now, waiting for a mission, getting softer. Every minute I stay in this room, I get weaker, and every minute Charlie squats in the bush, he gets stronger. Each time I looked around the walls moved in a little tighter. --Willard, in Apocalypse Now

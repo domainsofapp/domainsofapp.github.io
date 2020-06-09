@@ -8,6 +8,29 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## The Raven
+Once upon a midnight dreary, while I pondered, weak and weary,  
+Over many a quaint and curious volume of forgotten lore—  
+    While I nodded, nearly napping, suddenly there came a tapping,  
+As of some one gently rapping, rapping at my chamber door.  
+“’Tis some visitor,” I muttered, “tapping at my chamber door—  
+            Only this and nothing more.”
+
+by Edgar Allan Poe
+
+## Fire and Ice
+Some say the world will end in fire,  
+Some say in ice.  
+From what I’ve tasted of desire  
+I hold with those who favor fire.  
+But if it had to perish twice,  
+I think I know enough of hate  
+To say that for destruction ice  
+Is also great  
+And would suffice.
+
+by Robert Frost
+
 ## Existence
 I laugh at the absurdity of life,  
 and once I stop, I get back to work,  
