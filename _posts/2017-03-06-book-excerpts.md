@@ -58,6 +58,8 @@ I will remember you. --You Shall Be My Roots
 ## The Laws of Thermodynamics - Peter Atkins
 On Boltzmann's expression: At a given temperature - in the bulk sense - a collection of atoms consists of some in their lowest energy state (their "ground state"), some in the next higher energy state, and so on, with populations that diminish in progressively higher energy states. When the populations of the states have settled down into their "equilibrium" populations, although atoms continue to jump between energy levels, there is no net change in the populations [and] it turns out that these populations can be calculated from a knowledge of the energies of the states and a single parameter, beta.
 
+More on The Second Law of Thermodynamics: Time moves towards increasing one direction: increasing entropy.
+
 ## The Sunset Limited - Cormac McCarthy
 White:
 

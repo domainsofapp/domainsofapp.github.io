@@ -44,6 +44,14 @@ The free market is like a Ouija board -- seemingly driven by a random assortment
 
 Would you rather be stuck in a pool with a shark or in a cage with a tiger? I would choose shark and attempt to punch it in the nose.
 
+I wish websites could sense the "angry click"; e.g., when closing ("x-ing") out of an ad.
+
+The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died.
+
+Redesign the political system such that every position is filled by randomly sampling from the general population. Need sufficient checks and balances in the event of bad apples, as any sustainable governance (or other complex) system must have anyway.
+
+CMV: Reddit is self-imposed cultural indoctrination; the perfect tool for the capitalist regime to maintain its hegemony.
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
