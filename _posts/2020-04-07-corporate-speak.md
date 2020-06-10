@@ -14,6 +14,7 @@ As per.
 Best, <<insert_name>>.  
 Bridge the gap.  
 Call an audible.  
+Challenges and opportunities.  
 Circle back.  
 Deliverables.  
 Drill down.  
@@ -23,5 +24,6 @@ In the loop.
 Players.  
 Rabbit hole.  
 Spitballing.  
+Stakeholders.  
 Synergy.  
 Take offline.  
