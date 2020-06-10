@@ -59,3 +59,5 @@ Strive for continuous improvement; it is good enough for all intents and purpose
 The best engineer is completely replaceable by a human; even better, by an algorithm. Thus, an engineer should strive for self-automation.
 
 For every task, first define the "measure of success".
+
+MYOB (and BYOB): Mind your own business (and bring your own beer).

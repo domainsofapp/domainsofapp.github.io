@@ -60,6 +60,8 @@ On Boltzmann's expression: At a given temperature - in the bulk sense - a collec
 
 More on The Second Law of Thermodynamics: Time moves towards increasing one direction: increasing entropy.
 
+Source: <https://www.perell.com/blog/50-ideas-that-changed-my-life/>
+
 ## The Sunset Limited - Cormac McCarthy
 White:
 
