@@ -541,6 +541,7 @@ Light
 Roses Are Free  
 Satellite  
 Sleeping Monkey (Live Phish Boardwalk Atlantic City 2010)  
+Sugar Shack  
 The Lizards  
 Tela  
 Train Song  
