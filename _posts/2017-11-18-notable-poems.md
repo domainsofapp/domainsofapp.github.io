@@ -11,10 +11,10 @@ title: Notable Poems
 ## The Raven
 Once upon a midnight dreary, while I pondered, weak and weary,  
 over many a quaint and curious volume of forgotten lore—  
-    While I nodded, nearly napping, suddenly there came a tapping,  
+    while I nodded, nearly napping, suddenly there came a tapping,  
 as of some one gently rapping, rapping at my chamber door.  
 “’Tis some visitor,” I muttered, “tapping at my chamber door—  
-            Only this and nothing more.”
+            only this and nothing more.”
 
 by Edgar Allan Poe
 
