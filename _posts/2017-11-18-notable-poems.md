@@ -10,9 +10,9 @@ title: Notable Poems
 
 ## The Raven
 Once upon a midnight dreary, while I pondered, weak and weary,  
-Over many a quaint and curious volume of forgotten lore—  
+over many a quaint and curious volume of forgotten lore—  
     While I nodded, nearly napping, suddenly there came a tapping,  
-As of some one gently rapping, rapping at my chamber door.  
+as of some one gently rapping, rapping at my chamber door.  
 “’Tis some visitor,” I muttered, “tapping at my chamber door—  
             Only this and nothing more.”
 
@@ -20,14 +20,14 @@ by Edgar Allan Poe
 
 ## Fire and Ice
 Some say the world will end in fire,  
-Some say in ice.  
+some say in ice.  
 From what I’ve tasted of desire  
 I hold with those who favor fire.  
 But if it had to perish twice,  
 I think I know enough of hate  
-To say that for destruction ice  
-Is also great  
-And would suffice.
+to say that for destruction ice  
+is also great  
+and would suffice.
 
 by Robert Frost
 
