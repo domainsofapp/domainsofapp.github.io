@@ -61,3 +61,5 @@ The best engineer is completely replaceable by a human; even better, by an algor
 For every task, first define the "measure of success".
 
 MYOB (and BYOB): Mind your own business (and bring your own beer).
+
+Use the Oxford comma. It is more professional, accurate, and precise. (Later _todo: Turn this life mantra into an Oxford comma pun. Any ideas?)
