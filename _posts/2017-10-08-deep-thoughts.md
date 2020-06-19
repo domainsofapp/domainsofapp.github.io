@@ -52,6 +52,8 @@ Redesign the political system such that every position is filled by randomly sam
 
 CMV: Reddit is self-imposed cultural indoctrination; the perfect tool for the capitalist regime to maintain its hegemony.
 
+Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't dun' gon' dun' nuttin' wrong doggone dang-nabbit--I'd lawyer up and say nothing except, "May I please request a lawyer, kind officer sir/ma'am?"
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
@@ -98,5 +100,5 @@ I like to go down to the dog pound and pretend that I've found my dog. Then I te
 
 For centuries, people thought the moon was made of green cheese. Then the astronauts found that the moon is really a big hard rock. That's what happens to cheese when you leave it out.
 
-## Other Deep Thoughts
+## Other People's Deep Thoughts
 When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2
