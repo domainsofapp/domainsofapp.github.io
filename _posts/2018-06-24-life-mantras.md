@@ -62,7 +62,7 @@ For every task, first define the "measure of success".
 
 MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own beer).
 
-Use the Oxford comma. It is more professional, accurate, and precise. (Later _todo: Turn this life mantra into an Oxford comma pun. Any ideas?)
+Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
 
 Always check first if the milk is spoiled or else you shall greatly regret it. (This advice applies not only to gastrointestinal issues but also on a broad scale including in relationships.)
