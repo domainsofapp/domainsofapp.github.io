@@ -56,7 +56,7 @@ Unleash the power of the brain.
 
 Strive for continuous improvement; it is good enough for all intents and purposes.
 
-The best engineer is completely replaceable by a human; even better, by an algorithm. Thus, an engineer should strive for self-automation. Write the engineering specification of yourself.
+The best engineer is completely replaceable by a human; even better, by an algorithm. Thus, an engineer should strive for self-automation. Write the engineering specification of yourself (what you do in your job/career).
 
 For every task, first define the "measure of success".
 
