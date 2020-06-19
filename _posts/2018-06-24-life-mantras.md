@@ -36,7 +36,7 @@ The pain is real. The struggle is real.
 
 Don't be a <insert_curse_word>.
 
-Pursue hobbies and interests according to your heroes/role models/inspirations, and adopt their (ideally good) traits and mannerisms--there's a good reason you are interested in them as people.
+Pursue hobbies and interests according to your heroes/role models/inspirations, and feel free to adopt their (ideally good) traits and mannerisms--there's a good reason you are interested in them as people.
 
 Success is relative to happiness.
 
