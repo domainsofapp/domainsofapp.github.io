@@ -10,7 +10,7 @@ title: Life Mantras
 
 Rhetoric is bad. Avoid it like the plague.
 
-Publish, publish, and publish. Also, broadcast culture. For example, play music out loud-- both the different sounds (e.g., vs. headphones) and the possibility of others hearing may change your opinion about a song.
+Publish, publish, and publish. Also, broadcast culture. For example, play music out loud--both the different sounds (e.g., vs. headphones) and the possibility of others hearing may change your opinion about a song.
 
 Publish useful stuff (within the confines of legality).
 
