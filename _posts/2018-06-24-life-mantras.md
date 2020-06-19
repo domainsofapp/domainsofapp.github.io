@@ -75,4 +75,4 @@ Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (e.g., Avoid dating colleagues, housemates, apartment mates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague.
+Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, housemates, apartmentmates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague.
