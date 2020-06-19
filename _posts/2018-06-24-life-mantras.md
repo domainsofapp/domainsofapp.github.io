@@ -42,7 +42,7 @@ Success is relative to happiness.
 
 Never boast -- you will eat your words.
 
-If anything in life is easy, you're doing it wrong. (If anything in life is easy, you are either doing it sub-optimally or you have already learned how to do it optimally.)
+If anything in life is easy, you're doing it wrong. (i.e., If anything in life is easy, you are either doing it sub-optimally or you have already learned how to do it optimally.)
 
 Strive for excellence. Whether you achieve it or not does not matter.
 
