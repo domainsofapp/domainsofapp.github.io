@@ -20,7 +20,7 @@ Follow your compulsions while deciding to be good. Your compulsions are unique a
 
 In any task, do only what is necessary.
 
-If you had one year left to live what would you do right now?
+[!Cliché Warning!] If you had one year left to live, what would you do right now?
 
 When there is (attractive) magnetism it is clear and you will know it. Sometimes the polarity changes during one’s lifetime and that's life.
 
