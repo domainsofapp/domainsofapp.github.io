@@ -16,7 +16,7 @@ What is the probability of stepping in something without paying attention (in th
 
 What would happen if someone started posting code on GitHub to bring down GitHub (GitLab, etc.)?
 
-When we say internet we are often referring to google.com, i.e., whatever Google has indexed; "look it up on the internet" is really just to Google it; nice brand position for Google a la Kleenex's equation with tissues ("Hand me a Kleenex, please"), etc.
+When we say internet we are often referring to google.com, i.e., whatever Google has indexed. "Look it up on the internet" really just means "Google it"--nice brand position for Google a la Kleenex's equation with tissues ("Hand me a Kleenex, please"), etc.
 
 Ketchup, the working wo/man's dressing.
 
