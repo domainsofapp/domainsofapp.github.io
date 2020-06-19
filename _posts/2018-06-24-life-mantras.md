@@ -22,11 +22,11 @@ In any task, do only what is necessary.
 
 [!!!Cliché Warning!!!] If you had one year left to live, what would you do right now?
 
-When there is (attractive) magnetism it is clear and you will know it. Sometimes the polarity changes during one’s lifetime and that's life.
+When there is (attractive) magnetism, it is clear and you will know it. Sometimes the polarity changes during one’s lifetime, and that's life.
 
 Seek to achieve/accomplish 1000 failures, and you will have 1 success; failure is the necessary and difficult road to success.
 
-Put something back in the place where you first looked for it. It's always in the last place you look.
+Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
 Everything is going to be O-K, <insert your name or someone else's>.
 
@@ -42,7 +42,7 @@ Success is relative to happiness.
 
 Never boast -- you will eat your words.
 
-Short version: If anything in life is easy, you're doing it wrong. Long version: If anything in life is easy, you are either doing it sub-optimally or you have already learned how to do it optimally.
+If anything in life is easy, you're doing it wrong. (If anything in life is easy, you are either doing it sub-optimally or you have already learned how to do it optimally.)
 
 Strive for excellence. Whether you achieve it or not does not matter.
 
@@ -50,7 +50,7 @@ Self-immerse in culture.
 
 Attempt to distribute heartfelt love in every action.
 
-Don't strive to be an attractive human; strive to be an attractive skeleton.
+Don't strive to be an attractive human; rather, strive to be an attractive skeleton.
 
 Unleash the power of the brain.
 
@@ -75,4 +75,4 @@ Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (e.g., Avoid dating colleagues, housemates, apartment mates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague. The latter sentence has words of advice told to me when I was young. I am grateful for them, and I have always kept them in mind.
+Don't sh!t where you eat. (e.g., Avoid dating colleagues, housemates, apartment mates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague.
