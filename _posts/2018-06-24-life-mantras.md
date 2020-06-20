@@ -44,7 +44,7 @@ Success is relative to happiness.
 
 Never boast -- you will eat your words.
 
-If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally or you've already learned how to do it optimally.)
+If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally or you have already learned how to do it optimally.)
 
 Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts.
 
@@ -78,4 +78,4 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid, and I am grateful for that.
 
-This is perhaps the saddest, most tragic, and most difficult life lesson to learn--it is almost the modern-day coming of age moment to finally accept/succumb to it; also, the key to modern-day basic minimum viable/sustainable contentedness: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Don't let others distract you--just pretend they are simulations of The Void whence we came, where we live, where we shall return, and all there is. Ideally some or even much of what you do affects others in a positive way. Strive for this. And, well, if you do this, then that's all there is. You did it! You did great things!
+This is perhaps the saddest, most tragic, and most difficult life lesson to learn--it is almost the modern-day coming of age moment to finally accept/succumb to it; also, the key to modern-day basic minimum viable/sustainable contentedness: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Don't let others distract you--just pretend they are simulations of The Void whence we came, where we live, where we shall return, and all there is. Ideally some or even much of what you do affects others in a positive way. Strive for this. And, well, if you do this, then that is all there is. You did it! You did great things!
