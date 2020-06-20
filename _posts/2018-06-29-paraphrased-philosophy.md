@@ -204,7 +204,7 @@ Climate change as existential crisis for humanity.
 
 A choice is always a meta-choice, a choice of the modality of the choice itself. (Modality: The mode in which something exists or is experienced or expressed.)
 
-The semblance of what appears as reality is a veil, which veils nothing.
+The semblance of what appears as reality is a veil which veils nothing.
 
 Essence is real only as appearance.
 
