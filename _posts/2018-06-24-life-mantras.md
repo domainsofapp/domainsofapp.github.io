@@ -66,7 +66,7 @@ MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own
 
 Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
-Always check first if the milk is spoiled or else you shall greatly regret it. (This advice applies not only to gastrointestinal issues but also on a broad scale including in relationships.)
+Always check first if the milk is spoiled, or else you shall greatly regret it. (This advice applies not only to gastrointestinal issues but also on a broad scale including in relationships.)
 
 Shave with cold water. I know--it's counterintuitive. Heck, while we're at it, floss the teeth you wish to keep, and wear sunscreen.
 
