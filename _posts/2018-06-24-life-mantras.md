@@ -74,6 +74,6 @@ Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague.
+Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid both nicotine/tobacco and credit card debt like the plague.
 
 This is perhaps the saddest and most difficult life lesson to learn: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Would you absolutely love for one or more other(s) to partake in the experience and build collective long-lasting memories together? Too bad. Suck it up. That's life. All those gorgeous people out there who seem to have exactly what you want are merely simulations of The Void. Ideally some or even much of what you do affects others in a positive way.
