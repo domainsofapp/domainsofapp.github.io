@@ -24,7 +24,7 @@ Drill down.
 Heavy lifting.  
 High level.  
 In the loop.  
-OoO: Out of Office  
+OoO: Out of Office.  
 Players.  
 R&R: Roles and responsibilities.  
 Rabbit hole.  
