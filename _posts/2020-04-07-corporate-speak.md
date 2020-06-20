@@ -19,6 +19,7 @@ Circle back.
 Deliverables.  
 Drill down.  
 End of the day.  
+Heavy lifting.  
 High level.  
 In the loop.  
 Players.  
