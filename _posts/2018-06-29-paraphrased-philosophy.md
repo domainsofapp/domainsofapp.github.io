@@ -33,7 +33,7 @@ Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from n
 ## Samuel Beckett, Irish Novelist
 Waiting for Godot: Nothing, or the wait for something that is never going to happen.
 
-Source: Urban Dictionary, <https://www.urbandictionary.com/define.php?term=Godot>
+Source: <https://www.urbandictionary.com/define.php?term=Godot>
 
 ## George Boole, Mathematics Educator
 1 + 1 = 1 (Boolean logic: True + True = True)
