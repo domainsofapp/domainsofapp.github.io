@@ -26,7 +26,7 @@ In any task, do only what is necessary.
 
 When there is (attractive) magnetism, it is clear and you will know it. Sometimes the polarity changes during one’s lifetime, and that's life.
 
-Seek to achieve/accomplish 1000 failures, and you will have 1 success; failure is the necessary and difficult road to success.
+Seek to achieve/accomplish 1000 failures, and you will have 1 success. Failure is the necessary and difficult road to success.
 
 Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
