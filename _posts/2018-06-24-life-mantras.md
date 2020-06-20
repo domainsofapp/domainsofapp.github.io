@@ -12,7 +12,7 @@ title: Life Mantras
 
 Rhetoric is bad. Avoid it like the plague.
 
-Publish, publish, and publish. Also, broadcast culture. Download it; copy it; burn or press it to hard/physical/tangible/not-just-digital media; distribute it; share it with others; preserve it. Play music out loud--both the different sounds (e.g., vs. headphones) and the possibility of others hearing it may change your opinion about a song.
+Publish, publish, and publish. Also, broadcast culture. Download it; copy it; burn, press, or print it to hard/physical/tangible/not-just-digital media; distribute it; share it with others; preserve it. Play music out loud--both the different sounds (e.g., vs. headphones) and the possibility of others hearing it may change your opinion about a song.
 
 Publish useful stuff (within the confines of legality).
 
