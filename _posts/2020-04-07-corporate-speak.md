@@ -28,6 +28,7 @@ OoO: Out of Office.
 Players.  
 R&R: Roles and responsibilities.  
 Rabbit hole.  
+Research project.  
 Spitballing.  
 Stakeholders.  
 Synergies.  
