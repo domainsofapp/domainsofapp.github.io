@@ -11,6 +11,7 @@ title: Corporate Speak
 Ad hoc.  
 Agenda.  
 As per.  
+At the end of the day.  
 Best, <<insert_name>>.  
 Bridge the gap.  
 Call an audible.  
@@ -18,7 +19,6 @@ Challenges and opportunities.
 Circle back.  
 Deliverables.  
 Drill down.  
-End of the day.  
 Heavy lifting.  
 High level.  
 In the loop.  
