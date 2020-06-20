@@ -46,7 +46,7 @@ Never boast -- you will eat your words.
 
 If anything in life is easy, you are doing it wrong. (More realistically, if anything in life is easy, you are either doing it sub-optimally, or you have already learned how to do it optimally.)
 
-Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts.
+Strive for excellence. Whether you achieve it or not does not matter. 'Tis the strive that counts.
 
 Self-immerse in culture.
 
