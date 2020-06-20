@@ -8,8 +8,10 @@ title: Corporate Speak
 
 <p class="meta">07 Apr 2020 - Berkeley, CA</p>
 
+Action items.  
 Ad hoc.  
 Agenda.  
+ASAP.  
 As per.  
 At the end of the day.  
 Best, <<insert_name>>.  
@@ -24,6 +26,7 @@ High level.
 In the loop.  
 OoO: Out of Office  
 Players.  
+R&R: Roles and responsibilities.  
 Rabbit hole.  
 Spitballing.  
 Stakeholders.  
