@@ -48,7 +48,7 @@ I wish websites could sense the "angry click"; e.g., when closing ("x-ing") out 
 
 The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died.
 
-Redesign the political system such that every position is filled by randomly sampling from the general population. Need sufficient checks and balances in the event of bad apples, as any sustainable governance (or other complex) system must have anyway.
+Redesign the political system such that every position is filled by randomly sampling from the general population. Need sufficient checks and balances in the event of bad apples, as any sustainable governance (or other complex) system must have.
 
 CMV: Reddit is self-imposed cultural indoctrination; the perfect tool for the capitalist regime to maintain its hegemony.
 
