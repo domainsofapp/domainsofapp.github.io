@@ -27,5 +27,5 @@ Players.
 Rabbit hole.  
 Spitballing.  
 Stakeholders.  
-Synergy.  
+Synergies.  
 Take offline.  
