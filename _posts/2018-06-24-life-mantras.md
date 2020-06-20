@@ -64,7 +64,6 @@ MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own
 
 Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
-
 Always check first if the milk is spoiled or else you shall greatly regret it. (This advice applies not only to gastrointestinal issues but also on a broad scale including in relationships.)
 
 Shave with cold water. I know--it's counterintuitive. Heck, while we're at it, floss the teeth you wish to keep, and wear sunscreen.
@@ -76,3 +75,5 @@ Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture up
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
 Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid nicotine/tobacco and credit card debt like the plague.
+
+This is the saddest and most difficult life lesson to learn: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Would you absolutely love for one or more other(s) to partake in the experience and build collective long-lasting memories together? Too bad. Suck it up. That's life. Ideally some or even much of what you do affects others in a positive way.

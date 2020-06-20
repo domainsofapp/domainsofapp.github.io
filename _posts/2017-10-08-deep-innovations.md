@@ -10,7 +10,7 @@ title: Deep Innovations
 
 App to integrate Lyft, Uber, etc. w/ Google Transit ideally all w/in Google Maps (i.e., tells you where to optimally get off public transit and get in Lyft/Uber).
 
-Free version of Lyft/Uber; replace hitchhiking w/ heavily vetted rider and driver model; take advantage of people who are already going in a certain direction and have space in the vehicle.
+Free version of Lyft/Uber; replace hitchhiking w/ heavily vetted rider and driver model; take advantage of people who are already going in a certain direction and have space in the vehicle and are properly vetted as non-violent/-threatening).
 
 Massively overbuild solar and "burn off" the excess (option to use trackers to curtail energy according to modified cosine curve).
 
@@ -30,7 +30,7 @@ Develop national and international testing and analysis standards on Git where c
 
 Something you attach to ceiling to cancel out noise vibrations.
 
-Nerf gun LEDs - shoot around room, stick to walls, immediately illuminate the room in different/changing colors.
+Nerf gun w/ glow stick/LED nerf darts: Shoot them around the room so they stick to walls. They'll immediately illuminate any room in different and changing (time-dynamic) colors.
 
 Apply traveling salesman problems in operations and maintenance (O&M) optimization algorithms.
 
@@ -38,6 +38,6 @@ Dropbox, Box, etc. should have a good solution for managing all document access 
 
 Create system for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications).
 
-A rubber glove putter-oner device you stick your hand into to easily don rubber gloves.
+A rubber glove putter onner device you stick your hand into to easily don rubber gloves.
 
-3-D printer for smells. The printer would have a number of cartridges containing the chemicals of different smells.
+3D printer for smells. The printer would have a number of cartridges containing the chemicals of different smells.
