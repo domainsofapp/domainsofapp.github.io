@@ -28,6 +28,7 @@ Battle Royale
 Border  
 Last Life in the Universe  
 Let The Right One In  
+Paterson  
 Us and Them
 
 ## Erotica
