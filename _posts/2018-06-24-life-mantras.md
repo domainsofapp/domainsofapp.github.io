@@ -72,7 +72,7 @@ Shave with cold water. I know--it's counterintuitive. Heck, while we're at it, f
 
 For every file you create/add, process and delete another one.
 
-Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture upward--whatever that means to you (and you alone).
+Yea, it sucks. So it goes. Such is life. Keep truckin'. Forge onward. Venture upward--whatever that means to you (and you alone).
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
