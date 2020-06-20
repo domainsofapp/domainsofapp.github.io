@@ -200,7 +200,7 @@ Physics is not "True" (capital "T"), but it is useful.
 Philosophy is "above" physics in this way. All there is for humans is the "language game" (which is not really a game as it has real implications). There is power to language and danger of getting lost in it and using it to manipulate others. Language, which is the same as knowledge, also encompassing physics, should only be used for good. It is the philosopher's job to establish and maintain definitions of good.
 
 ## Slavoj Žižek, Slovenian Philosopher
-Climate change as existential crisis for humanity.
+Climate change is an existential crisis for humanity.
 
 A choice is always a meta-choice--a choice of the modality of the choice itself. (Modality: The mode in which something exists or is experienced or expressed.)
 
