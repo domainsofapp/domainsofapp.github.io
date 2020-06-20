@@ -54,6 +54,8 @@ CMV: Reddit is self-imposed cultural indoctrination; the perfect tool for the ca
 
 Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't dun' gon' dun' nuttin' wrong doggone dang-nabbit--I'd lawyer up and say nothing except, "May I please request a lawyer, kind officer sir/ma'am?"
 
+I wonder what it feels like to be a famous person before becoming famous. Dunno & hope I never will.
+
 ## False Positive Paradox
 
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
