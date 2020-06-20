@@ -8,6 +8,8 @@ title: Life Mantras
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
+...aka me (as an adult) talking to myself as a kid.
+
 Rhetoric is bad. Avoid it like the plague.
 
 Publish, publish, and publish. Also, broadcast culture. For example, play music out loud--both the different sounds (e.g., vs. headphones) and the possibility of others hearing it may change your opinion about a song.
@@ -74,6 +76,6 @@ Yea, it sucks. So it goes; such is life. Keep truckin'. Forge onward; venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid both nicotine/tobacco and credit card debt like the plague.
+Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid, and I am grateful for that.
 
-This is perhaps the saddest/most tragic and most difficult life lesson to learn--it is almost the modern-day coming of age moment to finally accept/succumb to it; also, the key to modern-day basic minimun viable/sustainable contentedness: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Don't let others distract you--just pretend they are simulations of The Void whence we came, where we live, where we shall return, and all there is. Ideally some or even much of what you do affects others in a positive way. Strive for this. And, well, that's all there is. You did it! You did great things!
+This is perhaps the saddest/most tragic and most difficult life lesson to learn--it is almost the modern-day coming of age moment to finally accept/succumb to it; also, the key to modern-day basic minimun viable/sustainable contentedness: Do. Every. Single. Thing. For. Yourself. And. No. One. Else. Feel like doing something? Do it. (Pending ethics, morality, legality, etc.). Don't let others distract you--just pretend they are simulations of The Void whence we came, where we live, where we shall return, and all there is. Ideally some or even much of what you do affects others in a positive way. Strive for this. And, well, if you do this, then that's all there is. You did it! You did great things!
