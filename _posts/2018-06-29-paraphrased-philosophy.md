@@ -202,7 +202,7 @@ Philosophy is "above" physics in this way. All there is for humans is the "langu
 ## Slavoj Žižek, Slovenian Philosopher
 Climate change as existential crisis for humanity.
 
-A choice is always a meta-choice, a choice of the modality of the choice itself. (Modality: The mode in which something exists or is experienced or expressed.)
+A choice is always a meta-choice--a choice of the modality of the choice itself. (Modality: The mode in which something exists or is experienced or expressed.)
 
 The semblance of what appears as reality is a veil which veils nothing.
 
