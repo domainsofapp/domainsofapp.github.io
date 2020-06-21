@@ -42,7 +42,7 @@ Pursue hobbies and interests according to your heroes/role models/inspirations, 
 
 Success is relative to happiness.
 
-Never boast -- you will eat your words.
+Never boast--you will eat your words.
 
 If anything in life is easy, you are doing it wrong. (More realistically, if anything in life is easy, you are either doing it sub-optimally, or you have already learned how to do it optimally.)
 
