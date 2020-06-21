@@ -255,3 +255,5 @@ You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Si
 Smoke 'em if you got 'em. (Smoke it while you've got it.) --Origin Unknown
 
 Saigon. Sh!t. I'm still only in Saigon. Every time I think I'm gonna wake up back in the jungle. When I was home after my first tour, it was worse. I'd wake up and there'd be nothing. I hardly said a word to my wife, until I said "yes" to a divorce. When I was here, I wanted to be there; when I was there, all I could think of was getting back into the jungle. I'm here a week now, waiting for a mission, getting softer. Every minute I stay in this room, I get weaker, and every minute Charlie squats in the bush, he gets stronger. Each time I looked around the walls moved in a little tighter. --Willard, in Apocalypse Now
+
+Patterns weave inter-amongst weaving of the patterns. --Mike Gordon, American Bass Guitarist (in a Phish interview on 1994-06-19)
