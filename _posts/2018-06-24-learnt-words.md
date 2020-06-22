@@ -49,7 +49,7 @@ Shiksa
 Subjunctive  
 Sudo: A program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser.  
 Virga: Rain that falls but never hits the ground because it evaporates first.  
-Wildebeast: Another name for gnu.  
+Wildebeest: Another name for gnu.  
 Zugzwang: A situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage.
 
 ## Slang
