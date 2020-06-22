@@ -258,4 +258,10 @@ Saigon. Sh!t. I'm still only in Saigon. Every time I think I'm gonna wake up bac
 
 Patterns weave inter-amongst weaving of the patterns. --Mike Gordon, American Bass Guitarist (in a Phish interview on 1994-06-19)
 
+Not much of a house, just right for not much of a donkey. --Eeyore
+
 Oh, bother. --Winnie the Pooh
+
+Electricity--electricity! Conjunction junction--what's your function? --Sesame St.
+
+Stop; look; and, listen. --Jiminy Cricket
