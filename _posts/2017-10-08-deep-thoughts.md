@@ -12,7 +12,7 @@ Why is trainspotting so popular in Europe? Is it as popular elsewhere?
 
 How many times can you ride BART across the Bay before you go deaf? (Hopefully a lot.)
 
-What is the probability of stepping in something undesirable without paying attention (e.g., in the Bay Area)?
+What is the probability of stepping in something undesirable without paying attention (e.g., in the SF Bay Area)?
 
 What would happen if someone started posting code on GitHub to bring down GitHub (GitLab, etc.)?
 
