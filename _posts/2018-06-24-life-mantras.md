@@ -24,7 +24,7 @@ In any task, do only what is necessary.
 
 [Cliché Warning] If you had one year left to live, what would you do right now?
 
-When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes the polarity changes during one’s lifetime--just like what happens with the magnetic poles on Earth--, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
+When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes the polarity switches during one’s lifetime--just like what happens with the magnetic poles on Earth--, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
 
 Seek to achieve/accomplish 1000 failures, and you will have 1 success. Failure is the necessary and difficult road to success.
 
