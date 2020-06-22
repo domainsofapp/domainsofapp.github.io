@@ -56,6 +56,24 @@ Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't 
 
 I wonder what it feels like to be a famous person before becoming famous. Dunno & hope I never will.
 
+How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only the oil used for other applications)?
+
+Can you hollow out something--e.g., an object--that is already hollow? --Credit to H.T. (My answer: Yes, e.g., if the hollow item has something stuffed inside it.)
+
+If a tree falls in a forest and no one is around to hear it, does it make a sound? (My answer: No, because sound is only recognized/identified/defined by a necessary, conscious observer/listener.)
+
+How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only for the oil used for other applications)? So, what is the fate of all those applications?
+
+What if all consciousness is subliminal? Like a Ouija board--every thought in your brain is ushered by the hand of randomness: Namely, that of your entirely unique set of circumstances in life (nature and nurture vs. time).
+
+Another instance of getting only what you measure: Google searching with quotations, e.g., articles containing "drop in demand" in x, y, or z will yield a search result suggesting that there is--you guessed it--a drop in demand. It is just like the sampling bias problem intrinsically affecting statistical policing algorithms--if the police are already targeting minority people/areas and that is the data used for machine learning, then guess what result is going to come out? It is going to predict crime in/tell you to go after the same people/areas that were previously targeted!
+
+How do fruit flies get everywhere when food is left out? Drosophila are like macro-level bacteria--they are ubiquitous. An adult (including a pregnant female) drosophila cannot fit through a window screen. My theory: Baby fruit flies enter and mate, or the pregnant female lays eggs on the window screen (ha!). Dunno--probably neither, cuz I'm not an expert.
+
+It is kind of freaky: I have noticed that my percentage of available remaining cloud memory hosted by an email provider has correlated exactly with my age. I am not sure what it means but it has been going on for many years, so I figured I would make a note of it. However, if all of a sudden it starts rapidly approachin 100%, I may worry a bit.
+
+Games involve an awful lot of probabilities and random sampling.
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 
