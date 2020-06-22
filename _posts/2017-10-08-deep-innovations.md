@@ -38,6 +38,8 @@ Dropbox, Box, etc. should have a good solution for managing all document access 
 
 Create system for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications).
 
-A rubber glove putter onner device you stick your hand into to easily don rubber gloves.
+A rubber glove putter onner device you stick your hand into to easily don rubber gloves. --Credit to T.R.S.
 
 3D printer for smells. The printer would have a number of cartridges containing the chemicals of different smells.
+
+Social Bubble app for managing social connections in the physical world during a global pandemic. --Credit to J.H.F.
