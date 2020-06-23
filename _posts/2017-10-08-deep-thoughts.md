@@ -76,6 +76,8 @@ Games involve an awful lot of probabilities and random sampling.
 
 Who polices the police?
 
+Do you ever get hit with the memory of a certain taste or smell out of the blue (i.e., when there are no actual, physical tastes or smells to be experienced)? Like the taste of a cold, freshly-poured-from-a-tap, half liter of Hefeweizen in Munich, or a cup of chilled coconut rum out of a wooden mug in Costa Rica?
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 
