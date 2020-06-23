@@ -36,7 +36,7 @@ Apply traveling salesman problems in operations and maintenance (O&M) optimizati
 
 Dropbox, Box, etc. should have a good solution for managing all document access privileges in one place (e.g., spreadsheet) instead of having to go into each individual/specific folder to check who has access.
 
-Create system for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications).
+System for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications).
 
 A rubber glove putter onner device you stick your hand into to easily don rubber gloves. --Credit to T.R.S.
 
