@@ -34,7 +34,7 @@ Shall the birds of fortuity alight again?
 
 The traveling salesman problem is at the root of all navigation optimization algorithms.
 
-Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. It should not go off as if there is a fire when the battery is low (especially in the middle of the night, ugh).
+Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. Also, it should not go off as if there is a fire when the battery is low (especially in the middle of the night, ugh).
 
 Perhaps the difference between love and lust is analagous to that of the symbiotic and parasitic.
 
