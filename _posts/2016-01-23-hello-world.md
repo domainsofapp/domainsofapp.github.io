@@ -33,6 +33,8 @@ If you would like to contribute programmatically or logistically to the site, he
 * Convince Jason Kottke of Kottke Dot Org to hire me to be his Internet filter blogging protégé
 * Convince a publisher to contract me to write a book based in part on the contents herein
 
-<br>Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
+<br>Please note: I recommend refreshing the pages via F5 on the keyboard or the refresh icon in your Internet browser. Otherwise, you may be viewing old content from your previous or original page visit(s).
+
+Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
 P.S. Please click the "Fork me on GitHub" ribbon in the upper right, fork the GitHub repository, replace my content, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this minimalist and free setup to spread). Thanks again :--)
