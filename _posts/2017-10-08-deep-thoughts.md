@@ -70,7 +70,7 @@ Another instance of getting only what you measure: Google searching with quotati
 
 How do fruit flies get everywhere when food is left out? Drosophila are like macro-level bacteria--they are ubiquitous. An adult (including a pregnant female) drosophila cannot fit through a window screen. My theory: Baby fruit flies enter and mate, or the pregnant female lays eggs on the window screen (ha!). Dunno--probably neither, cuz I'm not an expert. And, where do Drosophila go to die when you finally rob them of their sustenance and they starve? Have you ever seen a dead Drosophila corpse with no explanation except likely starvation? Do they turn cannibalistic at some point? Sometimes desparate times do call for desparate measures.
 
-It is kind of freaky: I have noticed that my percentage of used memory (out of the total available free memory) hosted by a cloud email provider has correlated exactly with my age. I am not sure what it means but it has been going on for many years. I dunno--if, all of a sudden, my % used starts rapidly approaching 100%, I may start worrying about my general well-being (time to get a primary care doctor and a checkup!).
+It is kind of freaky: I have noticed that my percentage of used memory (out of the total available free memory) hosted by a cloud email provider has correlated exactly with my age. I am not sure what it means, but it has been going on for many years. I dunno--if, all of a sudden, my used % starts rapidly approaching 100%, I may start worrying about my general well-being (time to get a primary care doctor and a checkup!).
 
 Games involve an awful lot of probabilities and random sampling.
 
