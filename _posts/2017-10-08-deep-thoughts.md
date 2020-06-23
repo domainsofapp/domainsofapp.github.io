@@ -46,11 +46,11 @@ Would you rather be stuck in a pool with a shark or in a cage with a tiger? I wo
 
 I wish websites could sense the "angry click"; e.g., when closing ("x-ing") out of an ad.
 
-The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died.
+The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died of some other cause.
 
 Redesign the political system such that every position is filled by randomly sampling from the general population. Need sufficient checks and balances in the event of bad apples, as any sustainable governance (or other complex) system must have.
 
-CMV: Reddit is self-imposed cultural indoctrination; the perfect tool for the capitalist regime to maintain its hegemony.
+Reddit is self-imposed cultural indoctrination; the perfect tool for the capitalist regime to maintain its hegemony. CMV.
 
 Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't dun' gon' dun' nuttin' wrong doggone dang-nabbit--I'd lawyer up and say nothing except, "May I please request a lawyer, kind officer sir/ma'am?"
 
