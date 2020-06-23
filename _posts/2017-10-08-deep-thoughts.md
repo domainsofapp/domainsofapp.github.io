@@ -64,7 +64,7 @@ If a tree falls in a forest and no one is around to hear it, does it make a soun
 
 How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only for the oil used for other applications)? So, what is the fate of all those applications?
 
-What if all consciousness is subliminal? Like a Ouija board--perhaps every thought in your brain is ushered in large part by the hands of randomness: Namely, that of your entirely unique set of circumstances in life (nature and nurture vs. time). I suppose the real question is--like with Ouija--whether there are additional systematic, non-random forces and wills to power at play in the mind.
+What if all consciousness is subliminal? Like a Ouija board--perhaps every thought in your brain is ushered in large part by the hands of randomness: Namely, those of your entirely unique set of circumstances in life (nature and nurture vs. time). I suppose the real question is--like with Ouija--whether there are additional systematic, non-random forces and wills to power at play in the mind.
 
 Another instance of getting only what you measure: Google searching with quotations, e.g., articles containing "drop in demand" in x, y, or z will yield a search result suggesting that there is--you guessed it--a drop in demand. It is just like the sampling bias problem intrinsically affecting statistical policing algorithms--if the police are already targeting minority people/areas and that is the data used for machine learning, then guess what result is going to come out? It is going to predict crime in/tell you to go after the same people/areas that were previously targeted!
 
