@@ -62,8 +62,7 @@ With a magnifying glass.
 
 "Waiter, waiter! Bring me a crocodile sandwich, and make it snappy!".  
 
-Finally, my own stupid non-waiter joke:
-
+## My Own Stupid Non-waiter Joke
 Me: I have a long-distance girlfriend.  
 Friend: Oh yea?  
-Me: Yea. But I'm not sure what she looks like, 'cuz she's so far away that the light of her image has not yet reached me.
+Me: Yea. I'm not sure what she looks like, though, because she is so far away that the light of her image has not reached me yet.
