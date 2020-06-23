@@ -25,6 +25,7 @@ Heavy lifting.
 High level.  
 In the loop.  
 OoO: Out of Office.  
+Pain points.  
 Players.  
 R&R: Roles and responsibilities.  
 Rabbit hole.  
