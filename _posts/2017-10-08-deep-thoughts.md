@@ -44,7 +44,7 @@ The free market is like a Ouija board -- seemingly driven by a random assortment
 
 Would you rather be stuck in a pool with a shark or in a cage with a tiger? I would choose shark and attempt to punch it in the nose.
 
-I wish websites could sense the "angry click"; e.g., when closing ("x-ing") out of an ad.
+I wish websites could sense the "angry click", e.g., when closing ("x-ing") out of an ad.
 
 The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died of some other cause.
 
