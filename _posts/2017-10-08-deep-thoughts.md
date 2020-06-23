@@ -46,7 +46,7 @@ Would you rather be stuck in a pool with a shark or in a cage with a tiger? I wo
 
 I wish websites could sense the "angry click", e.g., when closing ("x-ing") out of an ad.
 
-The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died of some other cause.
+The statistics on propensity for suicide are inherently skewed. There are all the people who would have done it had they not previously died of some other cause(s).
 
 Redesign the political system such that every position is filled by randomly sampling from the general population. Need sufficient checks and balances in the event of bad apples, as any sustainable governance (or other complex) system must have.
 
