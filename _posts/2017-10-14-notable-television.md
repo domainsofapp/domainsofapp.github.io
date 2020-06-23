@@ -15,7 +15,7 @@ Breaking Bad
 Chappelle's Show  
 Chernobyl  
 Dae Jang Geum  
-Drug War Trifecta: Narcos Mexico, El Chapo, Narcos Original  
+Drug War Trifecta: Narcos Mexico, El Chapo, and Narcos Original (I suggest watching in this order)  
 Halt and Catch Fire  
 Mindhunter: Season 1  
 Mr. Robot  
