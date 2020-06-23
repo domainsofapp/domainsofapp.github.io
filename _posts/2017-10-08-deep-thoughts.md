@@ -56,7 +56,7 @@ Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't 
 
 I wonder what it feels like to be a famous person before becoming famous. Dunno & hope I never will.
 
-How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only the oil used for other applications)?
+How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting for only the oil used for other applications)?
 
 Can you hollow out something--e.g., an object--that is already hollow? --Credit to H.T. (My answer: Yes, e.g., if the hollow item has something stuffed inside it.)
 
