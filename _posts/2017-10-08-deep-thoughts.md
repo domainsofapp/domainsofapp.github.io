@@ -74,6 +74,8 @@ It is kind of freaky: I have noticed that my percentage of used memory (out of t
 
 Games involve an awful lot of probabilities and random sampling.
 
+Who polices the police?
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 
