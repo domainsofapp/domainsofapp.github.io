@@ -532,14 +532,20 @@ Tom Garrow - Dance For Me (Maxi Version)
 Everything In Its Right Place/Maiden Voyage - Robert Glasper
 
 ## Phish
+Also Sprach Zarathustra  
+Auld Lang Syne  
+Brian and Robert  
 Divided Sky  
+Dirt  
 Esther  
+Free  
 Friends  
 ​Horn  
 Julius  
 Light  
 Roses Are Free  
 Satellite  
+Scents and Subtle Sounds  
 Sleeping Monkey (Live Phish Boardwalk Atlantic City 2010)  
 Sugar Shack  
 The Lizards  
@@ -547,6 +553,7 @@ Tela
 Train Song  
 Waiting All Night  
 Walls of the Cave  
+Water in the Sky  
 When the Circus Comes to Town  
 You Enjoy Myself (YEM)
 
