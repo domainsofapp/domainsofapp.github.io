@@ -84,4 +84,4 @@ You get what you measure.
 
 If all you have is a hammer, everything looks like a nail.
 
-Please God help me solve this bug.
+Say the Programmer's Prayer when needed: Please God help me solve this bug.
