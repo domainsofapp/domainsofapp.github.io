@@ -269,3 +269,5 @@ Stop; look; and, listen. --Jiminy Cricket
 Nobody has the right to obey. --Hannah Arendt, American-German Philosopher
 
 It's not working from home, it's living at work. --BridgetteBane, Reddit User
+
+We live in a society. --Joker Meme
