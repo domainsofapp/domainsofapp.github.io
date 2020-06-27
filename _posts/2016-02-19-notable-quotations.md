@@ -271,3 +271,5 @@ Nobody has the right to obey. --Hannah Arendt, American-German Philosopher
 It's not working from home, it's living at work. --BridgetteBane, Reddit User
 
 We live in a society. --Joker Meme
+
+Jonah Byrde: When you own the game, you don't need quarters. You can set it to give you infinite lives. Marty Byrde: That'd be cheating. --Ozark, S3:E5, It Came From Michoacán

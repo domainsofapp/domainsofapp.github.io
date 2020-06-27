@@ -22,6 +22,7 @@ Effect:
 Anhedonia  
 Babushka  
 Bartizan  
+Cachet  
 Cenotaph  
 ​Chiaroscuro  
 ​Concision: The minimization of words while conveying an idea.  
