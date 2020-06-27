@@ -122,5 +122,9 @@ I like to go down to the dog pound and pretend that I've found my dog. Then I te
 
 For centuries, people thought the moon was made of green cheese. Then the astronauts found that the moon is really a big hard rock. That's what happens to cheese when you leave it out.
 
+Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
+
+Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, morgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
+
 ## Other People's Deep Thoughts
 When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2

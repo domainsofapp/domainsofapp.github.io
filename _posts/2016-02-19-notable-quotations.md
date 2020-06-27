@@ -267,3 +267,5 @@ Electricity--electricity! Conjunction junction--what's your function? --Sesame S
 Stop; look; and, listen. --Jiminy Cricket
 
 Nobody has the right to obey. --Hannah Arendt, American-German Philosopher
+
+It's not working from home, it's living at work. --BridgetteBane, Reddit User
