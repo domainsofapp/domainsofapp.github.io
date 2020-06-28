@@ -12,7 +12,7 @@ title: Life Mantras
 
 Rhetoric is bad. Avoid it like the plague.
 
-Publish, publish, and publish. Also, broadcast culture. Download it; copy it; burn, press, and print it to hard/physical/tangible/not-just-digital media; distribute it; share it with others; preserve it. Play music out loud--both the different sounds (e.g., vs. headphones) and the possibility of others hearing it may change your opinion about a song.
+Publish, publish, and publish. Also, broadcast culture. Download it; copy it; burn, press, and print it to hard/physical/tangible/not-just-digital media; distribute it; share it with others; preserve it. Play music out loud in order to gain perspective--both the different sounds (e.g., vs. headphones) and the possibility of others hearing it may change your opinion about a song.
 
 Publish useful stuff (within the confines of legality).
 
@@ -24,7 +24,7 @@ In any task, do only what is necessary.
 
 [Cliché Warning] If you had one year left to live, what would you do right now?
 
-When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes the polarity switches during one’s lifetime--just like what happens with the magnetic poles on Earth--, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
+When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
 
 Seek to achieve/accomplish 1000 failures, and you will have 1 success. Failure is the necessary and difficult road to success.
 
