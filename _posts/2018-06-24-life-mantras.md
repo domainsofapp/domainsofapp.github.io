@@ -76,7 +76,7 @@ Yea, it sucks. So it goes. Such is life. Keep truckin'. Forge onward. Venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (Both literally and also, e.g., avoid dating colleagues, roommates/housemates/apartmentmates, etc.). Heck, while we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid, and I am grateful for it (and thus wish to pay it forward).
+Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid, and I want to pay it forward.
 
 Do. Every. Single. Thing. For. Yourself. (Align your goals with helping/doing good for others.) Take. Care. Of. Yourself.
 
