@@ -15,6 +15,7 @@ ASAP.
 As per.  
 At the end of the day.  
 Bandwidth.  
+Become a research project.  
 Best, <<insert_name>>.  
 Bridge the gap.  
 Call an audible.  
@@ -31,7 +32,6 @@ Pain points.
 Players.  
 Rabbit hole.  
 Raise the bar.  
-Research project.  
 Roles and responsibilities (R&R).  
 Spitballing.  
 Stakeholders.  
