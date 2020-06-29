@@ -276,4 +276,4 @@ Jonah Byrde: When you own the game, you don't need quarters. You can set it to g
 
 You think darkness is your ally? You merely adopted the dark. I was born in it; molded by it. --Bane, Fictional Supervillain
 
-The running woman holds her breasts for beauty's sake, not because she thinks she'll lose them. (It is because of beauty that a woman holds her breasts when she runs, not because the breast is going to fall to the ground.). --Twi (Ghanaian) Proverb
+It is because of the beauty that is why a woman holds her breasts when she runs, not because the breast is going to fall [to the ground]. --Fela Kuti, Nigerian Multi-instrumentalist, quoting a Ghanaian saying in the album "Gentleman" (Original saying: The running woman holds her breasts for beauty's sake, not because she thinks she'll lose them. --Twi Proverb)
