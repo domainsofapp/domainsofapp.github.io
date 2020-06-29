@@ -66,3 +66,8 @@ With a magnifying glass.
 Me: I have a long-distance girlfriend.  
 Friend: Oh yea?  
 Me: Yea. I'm not sure what she looks like, though, because she is so far away that the light of her image has not reached me yet.
+
+## From Giri/Haji aka Duty/Shame
+Rodney: Know what the secret to a long marriage is?  
+Kenzo: *Shakes his head*  
+Rodney: Don't get divorced.
