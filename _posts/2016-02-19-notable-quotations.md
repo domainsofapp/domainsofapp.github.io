@@ -275,3 +275,5 @@ We live in a society. --Joker Meme
 Jonah Byrde: When you own the game, you don't need quarters. You can set it to give you infinite lives. Marty Byrde: That'd be cheating. --Ozark, S3:E5, It Came From Michoacán
 
 You think darkness is your ally? You merely adopted the dark. I was born in it; molded by it. --Bane, Fictional Supervillain
+
+The running woman holds her breasts for beauty's sake, not because she thinks she'll lose them. (It is because of beauty that a woman holds her breasts when she runs, not because the breast is going to fall to the ground.). --Twi (Ghanaian) Proverb
