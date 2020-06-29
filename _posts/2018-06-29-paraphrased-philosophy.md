@@ -58,6 +58,11 @@ The city is architecture's "Other" (capital "O"); that which supports and drives
 
 Truth is to be found in the void. Emptiness is the space that defines the space of the real.
 
+## Diogenes, Greek Philosopher
+Cynicism requires perspective of life lost.
+
+Source: <https://dev.lemmy.ml/post/33867>
+
 ## Albert Einstein, Theoretical physicist
 The laws of physics are the same at constant velocities.
 

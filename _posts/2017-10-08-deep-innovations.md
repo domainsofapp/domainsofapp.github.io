@@ -43,3 +43,5 @@ A rubber glove putter onner device you stick your hand into to easily don rubber
 3D printer for smells. The printer would have a number of cartridges containing the chemicals of different smells.
 
 Social Bubble app for managing social connections in the physical world during a global pandemic. --Credit to J.H.F.
+
+In theory, going from one computer/computing session to another could be as simple as entering one set of credentials and one or more multi-factor authentication password(s)/PIN(s); so seamless that a complete login implies that the difference in the checksum of all your personal (non-application) data (including all metadata about which applications were in use and all their current, comprehensive settings) from the time of logout resulted in zero.
