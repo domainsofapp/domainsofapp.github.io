@@ -72,6 +72,21 @@ Bones - SameOldStory
 Bones - SadlyThatsJustTheWayThingsAre  
 Xavier Wulf & Bones - CrashLanding  
 
+## Anxiety/Emptiness/Existential Crisis/Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Artist
+NB: Add song lists later.  
+$uicideboy$  
+Bladee  
+Bones  
+Ecco2k  
+Lil Peep (select songs)  
+SICKBOYRARI AKA BLACK KRAY  
+Whitearmor  
+Xavier Wulf  
+Yung Lean
+
+Ref. [1]: <https://www.urbandictionary.com/define.php?term=Sad+Boi>  
+Ref. [2]: <https://www.urbandictionary.com/define.php?term=sad%20boy>
+
 ## Live DJ R&B Mix 01
 RZA - Baby ft. Maurice
 
