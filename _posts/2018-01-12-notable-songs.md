@@ -72,7 +72,7 @@ Bones - SameOldStory
 Bones - SadlyThatsJustTheWayThingsAre  
 Xavier Wulf & Bones - CrashLanding  
 
-## Anxiety/Emptiness/Existential Crisis/Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Artist
+## Anxiety/Emptiness/Existential Crisis/Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Rap Artists
 NB: Add song lists later.  
 $uicideboy$  
 Bladee  
