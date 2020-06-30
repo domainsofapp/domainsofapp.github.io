@@ -85,3 +85,7 @@ You get what you measure.
 If all you have is a hammer, everything looks like a nail.
 
 Say the Programmer's Prayer when needed: Please, God, help me solve this bug.
+
+When all else fails--when you hit a mental block--try a Parallax view.
+
+Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you will forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).

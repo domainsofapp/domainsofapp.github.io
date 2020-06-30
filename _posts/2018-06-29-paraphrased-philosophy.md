@@ -163,6 +163,9 @@ In order to survive, at every moment we must exert our will to power and impose 
 ## M. Ng, Philosopher Friend
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
 
+## Parallax View
+Looking at something from radically different perspectives; the only way to break through a dialectical stalemate and make real progress as a society.
+
 ## Willard Van Orman Quine, American Philosopher
 Words only have meaning insofar as we humans place meaning in them.
 
