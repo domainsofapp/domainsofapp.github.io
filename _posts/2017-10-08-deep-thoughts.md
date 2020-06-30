@@ -82,6 +82,8 @@ Imagine getting grounded by your parents during a shelter-in-place. Double whamm
 
 I wonder why quotation marks, e.g., "’" vs. "'", maintain their formatting when text is pasted into a plain text document.
 
+What cools down a bowl of soup the fastest: Removing the solids or the liquids? I am guessing the answer involves calculations of thermal mass, coefficients of conductivity, and whatnot.
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 

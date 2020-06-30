@@ -9,6 +9,7 @@ title: Notable Instruments
 <p class="meta">30 Mar 2020 - Berkeley, CA</p>
 
 Babatoni  
+Cajón  
 Cristal baschet  
 Erhu  
 Guqin  
