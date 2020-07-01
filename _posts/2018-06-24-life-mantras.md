@@ -66,7 +66,7 @@ MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own
 
 Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
-Always check first if the milk is spoiled or else you shall greatly regret it later. If it is, dump it before you get hurt.
+Always check first if the milk is spoiled or else you shall greatly regret it later. If it is, dump it before you get hurt. (And, do it the responsible and clean way so the carton doesn't turn to rot and attract flies.)
 
 Shave with cold water. I know--it's counterintuitive. Heck, while we're at it, floss the teeth you wish to keep, and wear sunscreen.
 
@@ -76,9 +76,9 @@ Yea, it sucks. So it goes. Such is life. Keep truckin'. Forge onward. Venture up
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
-Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid, and I want to pay it forward.
+Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. (Align your goals with helping/doing good for others.) Take. Care. Of. Yourself.
+Do. Every. Single. Thing. For. Yourself. Align your goals with helping and doing good for others. Take. Care. Of. Yourself.
 
 You get what you measure.
 
