@@ -279,3 +279,5 @@ You think darkness is your ally? You merely adopted the dark. I was born in it; 
 It is because of the beauty that is why a woman holds her breasts when she runs, not because the breast is going to fall [to the ground]. --Fela Kuti, Nigerian Multi-instrumentalist, quoting a Ghanaian saying in the album "Gentleman" (Original saying: The running woman holds her breasts for beauty's sake, not because she thinks she'll lose them. --Twi Proverb)
 
 The desire for more positive experience is in itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. --Mark Mason, American Author, in "The Subtle Art Of Not Giving A F****k"
+
+I never let a statue tell me how nice I am. --A Tribe Called Quest, Hip Hop Group

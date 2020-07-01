@@ -35,7 +35,7 @@ by Robert Frost
 I laugh at the absurdity of life,  
 and once I stop, I get back to work,  
 and then I laugh at the absurdity of my hypocricy.  
-Some people today might think I'm crazy,  
+Some people today might think I am crazy,  
 but I suppose I am not.
 
 by Irving Washington
