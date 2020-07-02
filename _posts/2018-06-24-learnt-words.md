@@ -24,11 +24,13 @@ Babushka
 Bartizan  
 Bassinet  
 Bindle  
+Burgoo  
 Cachet  
 Cenotaph  
 ​Chiaroscuro  
 ​Concision: The minimization of words while conveying an idea.  
 Compunction  
+Creel  
 Debutante  
 Docent  
 ​Duende  
