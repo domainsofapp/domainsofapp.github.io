@@ -35,6 +35,7 @@ Docent
 Duvet  
 Echolalia  
 Elision  
+Erstwhile  
 Felicitous  
 Folding screen  
 Gelid  
