@@ -134,3 +134,5 @@ Incidentally, I agree that the library system, hair and nail salons, restaurants
 
 ## Other People's Deep Thoughts
 When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2
+
+Why do they call it "head of cattle" when they count the number of cows? e.g., How many head of cattle...? Isn't it implied that the cattle have heads? --Jimmie Whisman, Small Town Murder, Episode 53
