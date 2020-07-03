@@ -70,4 +70,5 @@ Bloop
 Grundle
 
 ## Slang
-Cyperspace vs. meatspace
+Cyperspace vs. meatspace  
+Eggy soldiers
