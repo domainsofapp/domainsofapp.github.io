@@ -283,3 +283,5 @@ It is because of the beauty that is why a woman holds her breasts when she runs,
 The desire for more positive experience is in itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. --Mark Mason, American Author, in "The Subtle Art Of Not Giving A F****k"
 
 I never let a statue tell me how nice I am. --A Tribe Called Quest, Hip Hop Group
+
+Things fall apart. --Chinua Achebe, Nigerian Novelist

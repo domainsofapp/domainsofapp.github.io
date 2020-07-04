@@ -19,6 +19,7 @@ Effect:
 2.) Result, consequence
 
 ## Real
+Alsatian  
 Anhedonia  
 Babushka  
 Bartizan  
@@ -26,11 +27,14 @@ Bassinet
 Bindle  
 Burgoo  
 Cachet  
+Cantankerous  
 Cenotaph  
 ​Chiaroscuro  
 ​Concision: The minimization of words while conveying an idea.  
+Comedown  
 Compunction  
 Creel  
+Crotchety  
 Debutante  
 Docent  
 ​Duende  
@@ -59,6 +63,7 @@ Ruddy
 Shiksa  
 Subjunctive  
 Sudo: A program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser.  
+Swamp Yankee  
 Tatami  
 Toshio  
 Trundle  
@@ -66,10 +71,11 @@ Virga: Rain that falls but never hits the ground because it evaporates first.
 Wildebeest: Another name for gnu.  
 Zugzwang: A situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage.
 
-## Scrabble
+## Scrabble - Contentious
 Bleep  
 Bloop  
-Grundle
+Grundle  
+Squirrely
 
 ## Slang
 Cyperspace vs. meatspace  

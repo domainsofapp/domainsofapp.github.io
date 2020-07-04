@@ -91,3 +91,5 @@ When all else fails--when you hit a mental block--try a Parallax view.
 Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you will forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
 
 No FOMO: You have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels right to you. Never seek nor fear to miss out.
+
+Sh!t happens.
