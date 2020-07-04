@@ -60,8 +60,10 @@ Parallax
 Peugeot  
 Pietas  
 Pituitary  
+Poi  
 Postman  
 Ruddy  
+Schlep  
 Shiksa  
 Subjunctive  
 Sudo: A program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser.  
