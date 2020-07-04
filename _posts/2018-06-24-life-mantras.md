@@ -93,3 +93,5 @@ Focus your adult life on remembering what you liked and returning to who you wer
 No FOMO: You have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels right to you. Never seek nor fear to miss out.
 
 Sh!t happens.
+
+Regarding matters of trivial concern: If you ignore something, it will go away.
