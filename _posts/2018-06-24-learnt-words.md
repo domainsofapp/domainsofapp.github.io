@@ -44,6 +44,7 @@ Elision
 Erstwhile  
 Felicitous  
 Folding screen  
+Garrote  
 Gelid  
 Gnu: A large dark antelope with a long head, a beard and mane, and a sloping back.  
 Gristmill  
