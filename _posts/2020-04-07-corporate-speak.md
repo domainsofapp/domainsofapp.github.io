@@ -29,6 +29,7 @@ High level.
 In the loop.  
 OoO: Out of Office.  
 Pain points.  
+Ping.  
 Players.  
 Rabbit hole.  
 Raise the bar.  

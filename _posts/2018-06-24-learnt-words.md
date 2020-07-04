@@ -25,14 +25,17 @@ Babushka
 Bartizan  
 Bassinet  
 Bindle  
+Boutonnière  
 Burgoo  
 Cachet  
 Cantankerous  
 Cenotaph  
 ​Chiaroscuro  
-​Concision: The minimization of words while conveying an idea.  
+​Cholo  
+Concision: The minimization of words while conveying an idea.  
 Comedown  
 Compunction  
+Corsage  
 Creel  
 Crotchety  
 Debutante  
@@ -59,6 +62,7 @@ Micturate
 Parallax  
 Peugeot  
 Pietas  
+Ping  
 Pituitary  
 Poi  
 Postman  
@@ -82,5 +86,6 @@ Grundle
 Squirrely
 
 ## Slang
+Ants on a log: Raisins, peanut butter, and a celery stick  
 Cyperspace vs. meatspace  
 Eggy soldiers
