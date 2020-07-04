@@ -8,9 +8,9 @@ title: West River
 
 <p class="meta">31 Oct 2019 - Berkeley, CA</p>
 
-NB #1: I submitted the below short story to The New Yorker and it was rejected so now I am uploading it here with the expressed and explicit permission of the original author (M.T.S.).
+NB #1: I submitted the below short story to The New Yorker and it was rejected (i.e., no reply back), so now I am uploading it here with the expressed and explicit permission of the original author (M.T.S.).
 
-NB #2: As with all other posts on my blog, all content is subject to the license agreement (aka copyright notice) in this blog's GitHub readme; please click the red banner (upper right) to view the readme; thank you for reading; now please sit back and enjoy the story.
+NB #2: As with all other original posts on my blog, all content is subject to the license agreement (aka copyright notice) in this blog's GitHub readme file. Please click the red banner at the upper right of this page to view the readme. As always, thank you for reading. Now, please sit back and enjoy the short story.
 
 #### West River (aka Their Separate Ways)
 By M.T.S.
