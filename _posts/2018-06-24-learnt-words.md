@@ -26,7 +26,7 @@ Bartizan
 Bassinet  
 Bay mule  
 Bewigged  
-Bicuspids  
+Bicuspid  
 Bindle  
 Boutonnière  
 Burgoo  
