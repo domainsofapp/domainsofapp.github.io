@@ -24,6 +24,9 @@ Anhedonia
 Babushka  
 Bartizan  
 Bassinet  
+Bay mule  
+Bewigged  
+Bicuspids  
 Bindle  
 Boutonnière  
 Burgoo  
@@ -35,6 +38,7 @@ Cenotaph
 Concision: The minimization of words while conveying an idea.  
 Comedown  
 Compunction  
+Cornucopia  
 Corsage  
 Creel  
 Crotchety  
