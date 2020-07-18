@@ -12,5 +12,5 @@ title: Math Equations
 e<sup>i*pi</sup> + 1 = 0
 
 ## Mythical Man Month
-(n^2-n)/2  
-sub n*log(n) for n^2
+(n<sup>2</sup>-n)/2  
+sub n*log(n) for n<sup>2</sup>
