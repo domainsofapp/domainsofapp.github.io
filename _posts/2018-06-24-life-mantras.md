@@ -30,7 +30,7 @@ Seek to achieve/accomplish 1000 failures, and you will have 1 success. Failure i
 
 Put something back in the place where you first looked for it. Also: It is always in the last place you look.
 
-Everything is going to be O-K, <insert your name or someone else's>.
+Everything is going to be O-K, <insert your or someone else's name>.
 
 One blog post/Git commit per day.
 
@@ -92,6 +92,22 @@ Focus your adult life on remembering what you liked and returning to who you wer
 
 No FOMO: You have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels right to you. Never seek nor fear to miss out.
 
-Sh!t happens.
+Sh!t happens. Life goes on.
 
 Regarding matters of trivial concern: If you ignore something, it will go away.
+
+Never look up matters of health online (on the Internet). If you do, you will find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <insert your or someone else's name>).
+
+Two-week rule: Give every health issue of moderate concern two weeks. If you are still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
+
+15-minute rule: Let a child cry for 15-minutes before attending to them. (Of course, monitor the situation in the meantime.) It teaches discipline (a quality that is greatly lacking in this modern world).
+
+I double dog dare you not to ever complain to anyone about any issue no matter how large or small you perceive it to be; rather, report it to a professional who can actually help the problem that you may or may not have. Turn every would-be complaint into a professional reporting process (as well as a learning experience).
+
+Do not let perfect be the enemy of good. It is well beyond 80%. Ship it. Fix it later as needed.
+
+You are going to get through this even if you are all on your own.
+
+It is one (bad) thing to be an a-hole; it is altogether another to be a scumbag. Avoid any hint of scumbagggery at all times like the plague.
+
+Never accept a job (if/when switching jobs) without a sign-on bonus especially in the middle of a calendar year. The tax burden (i.e., effort, time, and cost) alone of switching jobs requires it.

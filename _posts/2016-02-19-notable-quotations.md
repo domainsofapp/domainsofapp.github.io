@@ -295,3 +295,5 @@ It is a long walk around the garden of my pride. --Giri Haji, Duty Shame, S1:E5
 People think [that] when they are not saying anything, they are not saying anything. but that is not the case. --Giri Haji, Duty Shame, S1:E5
 
 Birth is agony, life is hard, death is cruel. Don't ask me to explain it. --Giri Haji, Duty Shame, S1:E6
+
+Nani mo ka mo mechakucha da. (Everything is messed up.) --Japanese Proverb
