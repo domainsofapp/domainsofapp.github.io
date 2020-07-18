@@ -56,19 +56,17 @@ Whatcha gonna do when they come for you? Well, if it were me--even tho' I ain't 
 
 I wonder what it feels like to be a famous person before becoming famous. Dunno & hope I never will.
 
-How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting for only the oil used for other applications)?
+How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only for the oil used for other applications)? (So, what is the fate of all those applications?)
 
 Can you hollow out something--e.g., an object--that is already hollow? --Credit to H.T. (My answer: Yes, e.g., if the hollow item has something stuffed inside it.)
 
 If a tree falls in a forest and no one is around to hear it, does it make a sound? (My answer: No, because sound is only recognized/identified/defined by a necessary, conscious observer/listener.)
 
-How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only for the oil used for other applications)? So, what is the fate of all those applications?
-
 What if all consciousness is subliminal? Like a Ouija board--perhaps every thought in your brain is ushered in large part by the hands of randomness: Namely, those of your entirely unique set of circumstances in life (nature and nurture vs. time). I suppose the real question is--like with Ouija--whether there are additional systematic, non-random forces and wills to power at play in the mind.
 
 Another instance of getting what you measure: Google searching with quotations, e.g., articles containing "drop in demand" in x, y, or z will yield a search result suggesting that there is--you guessed it--a drop in demand. It is just like the sampling bias problem intrinsically affecting statistical policing algorithms--if the police are already targeting minority people/areas and that is the data used for machine learning, then guess what result is going to come out? It is going to predict crime in/tell you to go after the same people/areas that were previously targeted!
 
-How do fruit flies get everywhere when food is left out? Drosophila are like macro-level bacteria--they are ubiquitous. An adult (including a pregnant female) Drosophila cannot fit through a window screen. My theory: Baby fruit flies enter and mate, or the pregnant female lays eggs on the window screen (ha!). Dunno--probably neither, cuz I'm not an expert. Also, where do Drosophila go to die when you finally rob them of their sustenance and they starve? Have you ever seen a dead Drosophila corpse with no explanation except likely starvation? Do they turn cannibalistic at some point? Sometimes desperate times do call for desperate measures.
+How do fruit flies get everywhere when food is left out? Drosophila are like macro-level bacteria--they are ubiquitous. An adult (including a pregnant female) Drosophila cannot fit through a window screen. My theory: Baby fruit flies enter and mate, or the pregnant female lays eggs on the window screen (ha!). Dunno--probably neither, cuz I'm not an expert. Where do Drosophila go to die when you finally rob them of their sustenance and they starve? Have you ever seen a dead Drosophila corpse with no explanation except likely starvation? Do they turn cannibalistic at some point? Sometimes desperate times do call for desperate measures. What happens if they evolve to bite and hurt us?
 
 It is kind of freaky: I have noticed that my percentage of used memory (out of the total available free memory) hosted by a cloud email provider has correlated exactly with my age. I am not sure what it means, but it has been going on for many years. I dunno--if, all of a sudden, my used % starts rapidly approaching 100%, I may start worrying about my general well-being (time to get a primary care doctor and a checkup!).
 
@@ -133,6 +131,10 @@ For centuries, people thought the moon was made of green cheese. Then the astron
 Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
 
 Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, morgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
+
+What is technical debt? It is all that remains to be done when you decide, "Screw it." on a project and stop working on it and move to something else--anything else--even if it is something brainless like a Netflix film or true crime podcast.
+
+What is the total collective natural gas waste from pilot lights on heaters?
 
 ## Other People's Deep Thoughts
 When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2
