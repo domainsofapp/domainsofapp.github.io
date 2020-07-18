@@ -9,7 +9,7 @@ title: Math Equations
 <p class="meta">07 Jun 2020 - Berkeley, CA</p>
 
 ## Euler's Formula aka Euler's Identity
-e<sup>i*pi()<sub> + 1 = 0
+e<sup>{i*pi()}</sup> + 1 = 0
 
 ## Mythical Man Month
 (n^2-n)/2  
