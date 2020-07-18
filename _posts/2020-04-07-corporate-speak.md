@@ -17,6 +17,7 @@ At the end of the day.
 Bandwidth.  
 Become a research project.  
 Best, <<insert_name>>.  
+Bottom line.  
 Bridge the gap.  
 Call an audible.  
 Challenges and opportunities.  
@@ -38,5 +39,6 @@ Roles and responsibilities (R&R).
 Spitballing.  
 Stakeholders.  
 Synergies.  
-Take offline.  
+Take offline. 
+Thought leadership.  
 Wheelhouse.
