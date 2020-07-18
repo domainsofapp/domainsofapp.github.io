@@ -250,9 +250,11 @@ Between a high, solid wall and an egg that breaks against it, I will always stan
 
 I would prefer not to. (I'd prefer not to.) --Bartleby, the Scrivener
 
-You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Singer-songwriter
+Smoke 'em if you've got 'em. (Smoke it if you've got it.) --Origin Unknown
 
-Smoke 'em if you got 'em. (Smoke it while you've got it.) --Origin Unknown
+Don't get high on your own supply. --Origin Unknown
+
+You've gotta just keep on pushing. Push the sky away. --Nick Cave, Australian Singer-songwriter
 
 Saigon. Sh!t. I'm still only in Saigon. Every time I think I'm gonna wake up back in the jungle. When I was home after my first tour, it was worse. I'd wake up and there'd be nothing. I hardly said a word to my wife, until I said "yes" to a divorce. When I was here, I wanted to be there; when I was there, all I could think of was getting back into the jungle. I'm here a week now, waiting for a mission, getting softer. Every minute I stay in this room, I get weaker, and every minute Charlie squats in the bush, he gets stronger. Each time I looked around the walls moved in a little tighter. --Willard, in Apocalypse Now
 
@@ -262,11 +264,11 @@ Oh, bother. --Winnie the Pooh
 
 Not much of a house, just right for not much of a donkey. --Eeyore
 
-Electricity--electricity! --Sesame Street
+Electricity. Electricity! --Sesame Street
 
 Conjunction junction--what's your function? --Sesame Street
 
-Stop; look; and, listen. --Jiminy Cricket
+Stop, look, and listen. --Jiminy Cricket
 
 Nobody has the right to obey. --Hannah Arendt, American-German Philosopher
 
@@ -285,3 +287,11 @@ The desire for more positive experience is in itself a negative experience. And,
 I never let a statue tell me how nice I am. --A Tribe Called Quest, Hip Hop Group
 
 Things fall apart. --Chinua Achebe, Nigerian Novelist
+
+Life is long and the scurf still rises. --Emily from Hello Uncle Foreigner on YouTube
+
+It is a long walk around the garden of my pride. --Giri Haji, Duty Shame, S1:E5
+
+People think [that] when they are not saying anything, they are not saying anything. but that is not the case. --Giri Haji, Duty Shame, S1:E5
+
+Birth is agony, life is hard, death is cruel. Don't ask me to explain it. --Giri Haji, Duty Shame, S1:E6

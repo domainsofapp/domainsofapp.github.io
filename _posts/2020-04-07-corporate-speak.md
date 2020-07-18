@@ -33,6 +33,7 @@ Ping.
 Players.  
 Rabbit hole.  
 Raise the bar.  
+Re.  
 Roles and responsibilities (R&R).  
 Spitballing.  
 Stakeholders.  
