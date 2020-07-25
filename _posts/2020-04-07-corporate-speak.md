@@ -24,10 +24,11 @@ Challenges and opportunities.
 Circle back.  
 Deliverables.  
 Derail.  
+Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Ronnie, Schitt's Creek, in S2:E10 "Ronnie's Party")  
 Drill down.  
 Heavy lifting.  
 High level.  
-In the loop.  
+In the loop/out of the loop.  
 OoO: Out of Office.  
 Pain points.  
 Ping.  
@@ -39,6 +40,7 @@ Roles and responsibilities (R&R).
 Spitballing.  
 Stakeholders.  
 Synergies.  
+Take a step back.  
 Take offline. 
 Thought leadership.  
 Wheelhouse.
