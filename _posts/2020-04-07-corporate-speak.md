@@ -24,7 +24,7 @@ Challenges and opportunities.
 Circle back.  
 Deliverables.  
 Derail.  
-Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Ronnie, Schitt's Creek, in S2:E10 "Ronnie's Party")  
+Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
 Drill down.  
 Heavy lifting.  
 High level.  
