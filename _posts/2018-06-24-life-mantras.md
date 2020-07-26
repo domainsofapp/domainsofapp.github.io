@@ -115,3 +115,5 @@ Never accept a job (if/when switching jobs) without a sign-on bonus especially i
 Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, &c.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body.
 
 Try to never leave Git unsynced. You may lose your computer (and your work in the process).
+
+Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation.

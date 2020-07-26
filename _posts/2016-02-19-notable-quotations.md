@@ -297,3 +297,9 @@ People think [that] when they are not saying anything, they are not saying anyth
 Birth is agony, life is hard, death is cruel. Don't ask me to explain it. --Giri Haji, Duty Shame, S1:E6
 
 Nani mo ka mo mechakucha da. (Everything is messed up.) --Japanese Proverb
+
+To understand the "artist," you must study his "art." --John E. Douglas, Retired Special Agent and Unit Chief in the United States (U.S.) Federal Bureau of Investigation (FBI), in "Mindhunter: Inside the FBI's Elite Serial Crime Unit"
+
+I drop it on the one, f****k the two three. --Redman, American Rapper, in "Can't Wait"
+
+There's pork chop in every beer. --J.W. (personal conversation)
