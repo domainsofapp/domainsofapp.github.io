@@ -77,6 +77,7 @@ Parallax
 Peugeot  
 Pietas  
 Pig iron  
+Piggly Wiggly  
 Ping  
 Pituitary  
 Poi  
@@ -90,6 +91,7 @@ Sudo: A program for Unix-like computer operating systems that allows users to ru
 Swamp Yankee  
 Syndicate  
 Tatami  
+Tee top  
 Toshio  
 Trundle  
 Viennetta  
@@ -110,5 +112,6 @@ Ants on a log: Raisins, peanut butter, and a celery stick
 Best Superbowl: Head seat vs. two-seat  
 Bogart: To hog something  
 Cyperspace vs. meatspace  
+Death rattle  
 Eggy soldiers  
 Grease monkey: Mechanic; origin relates to child labor in Great Britain during industrial revolution <https://en.wiktionary.org/wiki/grease_monkey>

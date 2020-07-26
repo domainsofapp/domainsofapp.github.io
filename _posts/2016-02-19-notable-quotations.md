@@ -303,3 +303,5 @@ To understand the "artist," you must study his "art." --John E. Douglas, Retired
 I drop it on the one, f****k the two three. --Redman, American Rapper, in "Can't Wait"
 
 There's pork chop in every beer. --J.W. (personal conversation)
+
+I tell you, you all won't find another [wo]man like me. --Lipscomb, in a film by Les Blank (American Filmmaker) titled, "A Well Spent Life"
