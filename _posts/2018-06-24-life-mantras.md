@@ -113,3 +113,5 @@ It is one (bad) thing to be an a-hole; it is altogether another to be a scumbag.
 Never accept a job (if/when switching jobs) without a sign-on bonus especially in the middle of a calendar year. The tax burden (i.e., effort, time, and cost) alone of switching jobs requires it.
 
 Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, &c.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body.
+
+Try to never leave Git unsynced. You may lose your computer (and your work in the process).
