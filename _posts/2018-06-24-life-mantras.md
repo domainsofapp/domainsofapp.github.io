@@ -118,4 +118,4 @@ Try to never leave Git unsynced. You may lose your computer (and your work in th
 
 Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation.
 
-Nothing matters except human decency and passing/fighting the boredom each day (and thereby not losing your sanity).
+Nothing matters except human decency and passing the boredom each day (and thereby not losing your sanity). Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom. Eat enough to sleep each night.
