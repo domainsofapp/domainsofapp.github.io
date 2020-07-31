@@ -121,3 +121,5 @@ Attempt to channel original thoughts into useful published form (e.g., in the re
 Nothing matters except human decency and passing the boredom each day (and thereby not losing your sanity). Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom. When possible, eat enough to sleep each night.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
+
+Always give credit where credit is due (essential ethical and moral code; if you ever take credit for anything that is not yours, you are a sc****bag).

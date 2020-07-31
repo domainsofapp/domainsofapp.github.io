@@ -10,7 +10,7 @@ The above link is free with my free GitHub account and repository.
 
 See more: GitHub Pages
 
-I used to pay ~$10/year to register and own the following custom domain in the Domain Name System (DNS):
+I used to pay approx. $10/year to register and own the following custom domain in the Domain Name System (DNS):
 
 https://www.domainsofapplicability.com/
 
