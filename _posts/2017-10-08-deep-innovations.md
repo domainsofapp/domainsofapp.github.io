@@ -34,7 +34,7 @@ Nerf gun with glow stick or LED nerf darts: Shoot them around the room so they s
 
 Apply traveling salesman problems in operations and maintenance (O&M) optimization algorithms.
 
-Dropbox, Box, etc. should have a good solution for managing all document access privileges in one place (e.g., spreadsheet) instead of having to go into each individual, specific folder to check who has access.
+Add good solution to Dropbox, Box, etc. for managing all document access privileges in one place (e.g., spreadsheet) instead of having to go into each individual, specific folder to check who has access.
 
 System for journalists that tallies citations aka references (similar to the systems that track citations of scientific publications).
 

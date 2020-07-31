@@ -10,9 +10,10 @@ title: Notable Authors
 
 ## Fiction
 Cormac McCarthy  
+Irving Washington
 
 ## Journalism
-Hunter S. Thompson  
+Hunter S. Thompson
 
 ## Philosophy
 Alain Badiou  
