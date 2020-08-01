@@ -123,3 +123,5 @@ Nothing matters except human decency and passing the boredom each day (and there
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
 Always give credit where credit is due (essential ethical and moral code; if you ever take credit for anything that is not yours, you are a sc****bag).
+
+The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you will be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person traveling at light-speed sees time come to a stop, the person who manages to not fear death sees the occurrence of insurmountably "bad" events come to a stop and is able to overcome everything regardless of what it is and move on.
