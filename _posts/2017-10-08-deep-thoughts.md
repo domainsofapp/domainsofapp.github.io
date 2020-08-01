@@ -84,6 +84,16 @@ What cools down a bowl of soup the fastest: Removing the solids or the liquids? 
 
 Historically, we only had a physical house to maintain. Nowadays, we have both physical and digital houses to maintain. Thus, times are indeed more complex now than before. Perhaps in the social arena, metaphorically parallel to the second law of thermodynamics, time is us moving towards increasing complexity.
 
+Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
+
+Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, morgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
+
+What is technical debt? It is all that remains to be done when you decide, "Screw it." on a project and stop working on it and move to something else--anything else--even if it is something brainless like a Netflix film or true crime podcast.
+
+What is the total collective natural gas waste from pilot lights on heaters?
+
+There is a fundamental difference between working on tools themselves (e.g., computer hardware and firmware, IT infrastructure, client-server models, computer languages) vs. computer programs (applications) which leverage the capabilities of said tools.
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 
@@ -127,14 +137,6 @@ It's funny that pirates were always going around searching for treasure, and the
 I like to go down to the dog pound and pretend that I've found my dog. Then I tell them to kill it anyway because I already gave away all of his stuff. Dog people sure don't have a sense of humor.
 
 For centuries, people thought the moon was made of green cheese. Then the astronauts found that the moon is really a big hard rock. That's what happens to cheese when you leave it out.
-
-Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
-
-Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, morgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
-
-What is technical debt? It is all that remains to be done when you decide, "Screw it." on a project and stop working on it and move to something else--anything else--even if it is something brainless like a Netflix film or true crime podcast.
-
-What is the total collective natural gas waste from pilot lights on heaters?
 
 ## Other People's Deep Thoughts
 When I lose my glasses, I just think, "If only I could find my glasses, I could find my glasses." --Jimmie Whisman, Small Town Murder, Episode 2
