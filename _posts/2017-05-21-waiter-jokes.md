@@ -71,3 +71,10 @@ Me: Yea. I'm not sure what she looks like, though, because she is so far away th
 Rodney: Know what the secret to a long marriage is?  
 Kenzo: *Shakes his head*  
 Rodney: Don't get divorced.
+
+## From Schitt's Creek
+Johnny Rose walks into Roland Schitt's hotel room and leaves the door ajar. Roland says, "Close the door! You're letting the flies out!"
+
+I've got good news and bad news. The bad news is that there is no good news. --Twyla Sands, paraphrasing her step-dad from throughout her childhood.
+
+What does a dog say before breakfast? Bone appétit! --Ivan, in S3:E7 "General Store"

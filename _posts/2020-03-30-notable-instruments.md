@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: Notable Instruments
 ---
@@ -8,6 +8,7 @@ title: Notable Instruments
 
 <p class="meta">30 Mar 2020 - Berkeley, CA</p>
 
+## Instruments
 Babatoni  
 Cajón  
 Calliope  
@@ -17,7 +18,12 @@ Guqin
 Guzheng  
 Kalimba  
 Kora  
+Lyricon (e.g., Shadowfax Album 1982)  
 Mbira  
 Ocarina  
 Recorder  
 Saz
+
+## Speakers and Amplifiers
+Klipschorn  
+Meyer Sound Laboratories
