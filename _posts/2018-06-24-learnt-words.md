@@ -114,7 +114,8 @@ Bogart: To hog something
 Cyperspace vs. meatspace  
 Death rattle  
 Eggy soldiers  
-Grease monkey: Mechanic (origin = child labor in Great Britain during industrial revolution [2]).
+Grease monkey: Mechanic (origin = child labor in Great Britain during industrial revolution [2]).  
+On the lam.  
 Vig
 
 [1] <https://www.urbandictionary.com/>  

@@ -10,7 +10,7 @@ title: Conference Talks
 
 ## Conference Talks
 <br>
-Pointers
+Pointers:  
 - Clear logic stream. Tell a story that flows, such that each paragraph or slide flows into the next.
 - Avoid memory overload. Have a few key "takeaways".
 - Sell your research to the audience. Make them go to the paper for the details.
