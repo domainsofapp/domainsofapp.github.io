@@ -107,11 +107,15 @@ Bloop
 Grundle  
 Squirrely
 
-## Slang
+## Slang (see Urban Dictionary [1])
 Ants on a log: Raisins, peanut butter, and a celery stick  
 Best Superbowl: Head seat vs. two-seat  
 Bogart: To hog something  
 Cyperspace vs. meatspace  
 Death rattle  
 Eggy soldiers  
-Grease monkey: Mechanic; origin relates to child labor in Great Britain during industrial revolution <https://en.wiktionary.org/wiki/grease_monkey>
+Grease monkey: Mechanic (origin = child labor in Great Britain during industrial revolution [2]).
+Vig
+
+[1] <https://www.urbandictionary.com/>  
+[2] <https://en.wiktionary.org/wiki/grease_monkey>

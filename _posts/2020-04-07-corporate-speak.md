@@ -27,7 +27,7 @@ Derail.
 Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
 Drill down.  
 Heavy lifting.  
-High level.  
+High-level (adjective)/high level (noun).  
 In the loop/out of the loop.  
 OoO: Out of Office.  
 Pain points.  
@@ -37,8 +37,10 @@ Rabbit hole.
 Raise the bar.  
 Re.  
 Roles and responsibilities (R&R).  
+Roll out (verb)/rollout (noun).
 Spitballing.  
 Stakeholders.  
+Switch gears.  
 Synergies.  
 Take a step back.  
 Take offline. 
