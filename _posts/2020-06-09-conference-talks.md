@@ -20,6 +20,7 @@ Pointers:
 <br>
 
 ## Creativity Begins at the Edge
+<br>
 "Change starts away from the spotlight. Then, it moves towards the center. That's why the most interesting ideas at a conference never come from the main stage. They come from the hallways and [at] the bar after sunset."
 
 Source: <https://www.perell.com/blog/50-ideas-that-changed-my-life/>
