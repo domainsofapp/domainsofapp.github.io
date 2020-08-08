@@ -17,6 +17,7 @@ Pointers:
 - Use it as an opportunity to attract and meet people who are doing similar or related interesting work.
 - PRACTICE, meaning several hours of reading your hand-written talk, re-reading it, and then getting comfortable paraphrasing it without having to read it.
 <br>
+<br>
 
 ## Creativity Begins at the Edge
 "Change starts away from the spotlight. Then, it moves towards the center. That's why the most interesting ideas at a conference never come from the main stage. They come from the hallways and [at] the bar after sunset."
