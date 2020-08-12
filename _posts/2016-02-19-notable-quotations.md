@@ -306,18 +306,20 @@ There's pork chop in every beer. --J.W. (personal conversation)
 
 I tell you, you all won't find another [wo]man like me. --Lipscomb, in a film by Les Blank (American Filmmaker) titled, "A Well Spent Life" (aka "There are no other [wo]men like me." --Werner Herzog, German Film Director, paraphrasing the Les Blank film)
 
-In skating over thin ice, our safety is in our speed. --Ralph Waldo Emerson, American Essayist
+You kill the joe, you make some mo'. --Terry Tate, Office Linebacker
+
+You are the life you accept for yourself. --Goldie Hawn character in Schitt's Creek, S2:E6 "Moira vs. Town Council"
+
+Gossip is the devil's telephone. Best to just hang up. --Moira Rose character in Schitt's Creek, S4:E4 "Girls' Night"
+
+It's a cinch to mash the Murphy where there's love. --Moira Rose character in Schitt's Creek, S4:E9 "The Olive Branch"
+
+You eat, you expired pleasure. --Moira Rose character, quoting Zeljko from Bosnia, in Schitt's Creek, S5:E2 "Love Letters"
 
 Toi khong bao gio thua. (Viatnamese anbang aka cliché for "I never lose.") --Moira character in Schitt's Creek, S5:E6 "Rock On!"
 
 Underneath [that] brambly tartan blousant is a chrysalis, just bursting with potential. --Moira Rose character in Schitt's Creek, S5:E8 "The Hospies"
 
-You eat, you expired pleasure. --Moira Rose character, quoting Zeljko from Bosnia, in Schitt's Creek, S5:E2 "Love Letters"
+Silence is but an empty serving platter. --Moira Rose character, paraphrasing a saying from the Balkan Penninsula, in Schitt's Creek, S6:E14 "Happy Ending"
 
-You kill the joe, you make some mo'. --Terry Tate, Office Linebacker
-
-It's a cinch to mash the Murphy where there's love. --Moira Rose character in Schitt's Creek, S4:E9 "The Olive Branch"
-
-You are the life you accept for yourself. --Goldie Hawn character in Schitt's Creek, S2:E6 "Moira vs. Town Council"
-
-Gossip is the devil's telephone. Best to just hang up. --Moira Rose character in Schitt's Creek, S4:E4 "Girls' Night"
+In skating over thin ice, our safety is in our speed. --Ralph Waldo Emerson, American Essayist
