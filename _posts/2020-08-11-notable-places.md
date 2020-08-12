@@ -14,6 +14,7 @@ NB: "Notable" has no meaning except the literal (namely, I noted it down). "Nota
 
 Black Waterfalls, West Virginia  
 Buzzard's Roost, AZ  
+Bwindi Impenetrable National Park (BINP), Uganda
 Galapagos  
 Ho Chi Minh City  
 Hotel de Ville in Crissier  
