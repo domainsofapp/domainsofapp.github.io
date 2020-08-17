@@ -131,3 +131,5 @@ The only reason you care about anything bad that happens to you in life is becau
 At all times, before doing anything, close your eyes and roll them to the back of your brain. Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Roll your own conciousness back onto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking).
 
 Bad times suck. However, the worst times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
+
+Exercise your imagination to the fullest potential. It is the most powerful thing you can do with your brain/consciousness/mind.
