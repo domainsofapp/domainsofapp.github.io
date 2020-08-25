@@ -18,6 +18,7 @@ Real Genius
 
 ## Documentary
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
+If You Build It  
 Last Train Home  
 Up the Yangtze  
 Wild China  
