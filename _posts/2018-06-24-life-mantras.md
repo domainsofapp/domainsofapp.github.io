@@ -133,3 +133,7 @@ At all times, before doing anything, close your eyes and roll them to the back o
 Bad times suck. However, the worst times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
 
 Exercise your imagination to the fullest potential. It is the most powerful thing you can do with your brain/consciousness/mind.
+
+Everything in life that can go wrong, will go wrong, so try to prepare for it if possible. Accept this principle as the premise of your life in every second of every day, especially in the times when absolutely everything is falling apart around you. If possible, best to prepare for the worst in every moment.
+
+Build tools around workflows, not workflows around tools. Credit not mine. Source: <https://news.ycombinator.com/item?id=24244329>

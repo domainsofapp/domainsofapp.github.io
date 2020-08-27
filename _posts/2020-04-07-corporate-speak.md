@@ -14,11 +14,14 @@ Agenda.
 ASAP.  
 As per.  
 At the end of the day.  
+Back to square one.  
 Bandwidth.  
+Bearish.  
 Become a research project.  
 Best, <<insert_name>>.  
 Bottom line.  
 Bridge the gap.  
+Bullish.  
 Call an audible.  
 Challenges and opportunities.  
 Circle back.  
@@ -29,6 +32,8 @@ Drill down.
 Heavy lifting.  
 High-level (adjective)/high level (noun).  
 In the loop/out of the loop.  
+Looped in.  
+Move the needle.  
 OoO: Out of Office.  
 Pain points.  
 Ping.  
@@ -37,7 +42,8 @@ Rabbit hole.
 Raise the bar.  
 Re.  
 Roles and responsibilities (R&R).  
-Roll out (verb)/rollout (noun).
+Roll out (verb)/rollout (noun).  
+Selling points.  
 Spitballing.  
 Stakeholders.  
 Switch gears.  
