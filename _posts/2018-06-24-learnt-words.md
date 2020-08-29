@@ -8,6 +8,8 @@ title: Learnt Words
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
+NB: These are not words I sought out; rather, I heard them on podcasts, in films, on TV shows, in YouTube videos, etc. Also, I don't know the meaning of all these words. Some are here as a reminder for me to look them up. If I find out that any are offensive, outdated, etc., I will immediately remove them. Offensiveness of any nature is the opposite of the intent and purpose of this blog (namely, the purpose of this blog is fun for any and all). These are certainly not endorsements of words. Hopefully word removals will not be necessary as I continue to spend more time on this post. As always, feel free to contact me if you find any before me. Thanks.
+
 ## Interesting
 Affect:  
 1.) To action, to move  
@@ -108,15 +110,19 @@ Grundle
 Squirrely
 
 ## Slang (see Urban Dictionary [1])
-Ants on a log: Raisins, peanut butter, and a celery stick  
-Best Superbowl: Head seat vs. two-seat  
-Bogart: To hog something  
+Ants on a log: Raisins and peanut butter on a celery stick.  
+Best Superbowl: Head seat vs. two-seat.  
+Bogart: To hog something.  
 Cyperspace vs. meatspace  
 Death rattle  
 Eggy soldiers  
+Jazz cigarettes  
 Grease monkey: Mechanic (origin = child labor in Great Britain during industrial revolution [2]).  
 On the lam.  
-Vig
+Pruno  
+Scrapper  
+Vig  
+Wacky Tobacky
 
 [1] <https://www.urbandictionary.com/>  
 [2] <https://en.wiktionary.org/wiki/grease_monkey>
