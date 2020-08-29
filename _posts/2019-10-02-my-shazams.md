@@ -26,7 +26,11 @@ No label means I haven't checked/decided yet (i.e., TBD).
 
 Oddly, LOWER numbers represent NEWER Shazams.
 
-## Phone 2
+## Phone 2 Library 2
+
+1. Twirl Me (Pumpkin Remix) by Wildlight
+
+## Phone 2 Library 1
 
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
 4. Crown by Run The Jewels Feat. Diane Coffee
@@ -36,10 +40,55 @@ Oddly, LOWER numbers represent NEWER Shazams.
 
 To be continued...
 
-## Phone 1
+## Phone 1 Library 1
 
 帝都の闇 by 岩崎琢 (Teito No Yami by Taku Iwasaki)
 
+630. 
+629. 
+628. 
+627. 
+626. 
+625. 
+624. 
+623. 
+622. 
+621. 
+620. 
+619. 
+618. 
+617. 
+616. 
+615. 
+614. 
+613. 
+612. 
+611. 
+610. 
+609. 
+608. 
+607. 
+606. 
+605. 
+604. 
+603. 
+602. 
+601. 
+600. 
+599. 
+598. 
+597. 
+596. 
+595. 
+594. 
+593. 
+592. 
+591. 
+590. 
+589. 
+588. 
+587. 
+586. 
 585. Joseph Woelfl/Grand Duo Po... by Tetsu & Masaki:Pl...
 584. Cuando Tenga La Tierra by Mercedes Sosa
 583. They Took Esther by Bryce Dessner
@@ -180,7 +229,7 @@ To be continued...
 448. They Reminisce Over You by Pete Rock...
 447. Who Shot You? by Cash Kidd
 446. Heat by Chris Brown Feat. Gunna
-445. Shhh (Sea4 Miles Remix) by Miles Davis (in panthalassa: the remixes album)
+445. Shhh (Sea4 Miles Remix) by Miles Davis (in Panthalassa: The Remixes album)
 444. In A Silent Way (DJ Cam Remix) by Miles Davis
 443. You Keep Me Hangin' On (Q... by Vanilla Fudge
 442. Twelve Thirty (Young Girls A... by The Mamas...
