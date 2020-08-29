@@ -33,7 +33,6 @@ Oddly, LOWER numbers represent NEWER Shazams.
 1. Twirl Me (Pumpkin Remix) by Wildlight
 
 <br>
-<br>
 
 ## Phone 2 Library 1
 
@@ -48,8 +47,6 @@ Oddly, LOWER numbers represent NEWER Shazams.
 <br>
 
 To be continued...
-
-<br>
 
 ## Phone 1 Library 1
 
@@ -692,7 +689,5 @@ Dawn by Koriki
 3. Karvai by Tarsem Jassar (n) (s)
 2. Thank You (Falettinme Be... by Sly & the ... (s)
 1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
-
-<br>
 
 To be continued...
