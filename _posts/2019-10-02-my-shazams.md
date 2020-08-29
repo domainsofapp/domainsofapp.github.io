@@ -27,11 +27,12 @@ No label means I haven't checked/decided yet (i.e., TBD).
 Oddly, LOWER numbers represent NEWER Shazams.
 
 ## Phone 2 Library 2
-
+<br>
 1. Twirl Me (Pumpkin Remix) by Wildlight
+<br>
 
 ## Phone 2 Library 1
-
+<br>
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
 4. Crown by Run The Jewels Feat. Diane Coffee
 3. Amphetamine by Smino (x)
@@ -41,9 +42,9 @@ Oddly, LOWER numbers represent NEWER Shazams.
 To be continued...
 
 ## Phone 1 Library 1
-
+<br>
 帝都の闇 by 岩崎琢 (Teito No Yami by Taku Iwasaki)
-
+<br>
 630. 
 629. 
 628. 
