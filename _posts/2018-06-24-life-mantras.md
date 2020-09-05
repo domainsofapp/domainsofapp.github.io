@@ -137,3 +137,11 @@ Exercise your imagination to the fullest potential. It is the most powerful thin
 Everything in life that can go wrong, will go wrong, so try to prepare for it if possible. Accept this principle as the premise of your life in every second of every day, especially in the times when absolutely everything is falling apart around you. If possible, best to prepare for the worst in every moment.
 
 Build tools around workflows, not workflows around tools. Credit not mine. Source: <https://news.ycombinator.com/item?id=24244329>
+
+Be present, but fly under the radar at all times (out of a safety concern for your own self).
+
+As a rule, never look up yourself or others on the Internet. Never "surf" without purpose. Do everything for a purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
+
+Train your mind to operate on three concurrent paths at all times: 1.) the here and now, 2.) the immediate next step, and 3.) making sure #1 and #2 are all there ever is.
+
+F--k you. Pay me.
