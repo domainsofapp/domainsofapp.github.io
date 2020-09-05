@@ -94,6 +94,8 @@ What is the total collective natural gas waste from pilot lights on heaters?
 
 There is a fundamental difference between working on tools themselves (e.g., computer hardware and firmware, IT infrastructure, client-server models, computer languages) vs. computer programs (applications) which leverage the capabilities of said tools.
 
+Rhetorical question: Have you ever met a corporate employee who is both genuinely happy to be working and also highly intelligent? I have not.
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 

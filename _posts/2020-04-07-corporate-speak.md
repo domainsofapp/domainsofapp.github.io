@@ -17,7 +17,7 @@ At the end of the day.
 Back to square one.  
 Bandwidth.  
 Bearish.  
-Become a research project.  
+Become a research aka science project.  
 Best, <<insert_name>>.  
 Bottom line.  
 Bridge the gap.  

@@ -78,3 +78,8 @@ Johnny Rose walks into Roland Schitt's hotel room and leaves the door ajar. Rola
 I've got good news and bad news. The bad news is that there is no good news. --Twyla Sands, paraphrasing her step-dad from throughout her childhood.
 
 What does a dog say before breakfast? Bone appétit! --Ivan, in S3:E7 "General Store"
+
+## From Small Town Murder
+A drunk man gets thrown out of a bar.  
+"Sir, you are BANISHED!" yells the bartender.  
+"Even when I'm sober?" asks the drunk man.
