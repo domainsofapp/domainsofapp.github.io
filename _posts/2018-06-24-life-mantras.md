@@ -145,3 +145,5 @@ As a rule, never look up yourself or others on the Internet. Never "surf" withou
 Train your mind to operate on three concurrent paths at all times: 1.) the here and now, 2.) the immediate next step, and 3.) making sure #1 and #2 are all there ever is.
 
 F--k you. Pay me.
+
+Wait two weeks to report any medical, dental, etc. issue to a professional (doctor, dentist, etc.).

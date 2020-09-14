@@ -8,6 +8,7 @@ title: Corporate Speak
 
 <p class="meta">07 Apr 2020 - Berkeley, CA</p>
 
+30,000-foot view.  
 Action items.  
 Ad hoc.  
 Agenda.  
@@ -28,11 +29,15 @@ Circle back.
 Deliverables.  
 Derail.  
 Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
+Don't give them the rope to hang you with.  
 Dovetail.  
 Drill down.  
+Drop the ball.  
 Exploratory.  
 Fall through the cracks.  
 Finger on the pulse.  
+Full circle/come full circle.  
+Hang myself out to dry.  
 Heavy lifting.  
 High-level (adjective)/high level (noun).  
 In the loop/out of the loop.  
@@ -52,6 +57,7 @@ Raise the stakes.
 Re.  
 Roles and responsibilities (R&R).  
 Roll out/rollout.  
+Shoot myself/yourself in the foot.  
 Selling points.  
 Spitballing.  
 Stage-gate.  
@@ -60,6 +66,7 @@ Start the ball/pass the ball.
 Switch gears.  
 Synergies.  
 Take a step back.  
+Take-home message.  
 Take offline. 
 Timelines.  
 Thought leadership.  
