@@ -22,7 +22,9 @@ Lyricon (e.g., Shadowfax Album 1982)
 Mbira  
 Ocarina  
 Recorder  
-Saz
+Saz  
+Sitar  
+Tumba
 
 ## Speakers and Amplifiers
 Klipschorn  
