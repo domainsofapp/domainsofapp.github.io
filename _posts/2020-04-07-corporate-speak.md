@@ -27,6 +27,7 @@ Bridge the gap.
 Call an audible.  
 Challenges and opportunities.  
 Circle back.  
+Deep dive.  
 Deliverables.  
 Derail.  
 Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
@@ -71,6 +72,7 @@ Stage-gate.
 Stakeholders.  
 Start the ball./Pass the ball.  
 Straw man.  
+Subject matter expert (SME).  
 Switch gears.  
 Synergies./Synergy./Synergistic.  
 Take a step back.  
