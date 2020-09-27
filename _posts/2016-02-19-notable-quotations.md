@@ -350,7 +350,7 @@ Sometimes life subtracts. Sometimes it adds. --Hannah MacKay in Dexter, S7:E7, "
 
 When some elements come together, they create a reaction that can't be reversed. They transcend chemistry. Is this what love feels like? --Dexter in Dexter, S7:E7, "Chemistry"
 
-You're stirring up dangerous undercurrents in the otherwise placid water of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
+You're stirring up dangerous undercurrents in the otherwise placid waters of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
 
 They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Facebook
 
