@@ -314,7 +314,7 @@ Gossip is the devil's telephone. Best to just hang up. --Moira Rose character in
 
 It's a cinch to mash the Murphy where there's love. --Moira Rose character in Schitt's Creek, S4:E9 "The Olive Branch"
 
-You eat, you expired pleasure. --Moira Rose character, quoting Zeljko from Bosnia, in Schitt's Creek, S5:E2 "Love Letters"
+You eat, you expired pleasure. --Moira Rose character, quoting Zeljko from Bosnia, in Schitt's Creek, S5:E3 "The Plant"
 
 Toi khong bao gio thua. (Viatnamese anbang aka cliché for "I never lose.") --Moira character in Schitt's Creek, S5:E6 "Rock On!"
 
@@ -323,3 +323,33 @@ Underneath [that] brambly tartan blousant is a chrysalis, just bursting with pot
 Silence is but an empty serving platter. --Moira Rose character, paraphrasing a saying from the Balkan Penninsula, in Schitt's Creek, S6:E14 "Happy Ending"
 
 In skating over thin ice, our safety is in our speed. --Ralph Waldo Emerson, American Essayist
+
+There's no such thing as too cold weather. Only insufficient clothing. --Finnish Proverb
+
+Never lie to someone who trusts you. Never trust someone who lies to you. --Sonya character in Dexter, S5:E4, "Beauty and the Beast"
+
+Saint Brigid, circle us with your light so that no darkness shall overcome our world. --Irish Nanny in Dexter, S5:E7, "Circle Us"
+
+It's a law of physics that elements want to unify. --Voiceover in Dexter, S5:E8, "Take it!"
+
+We gotta find some peace in life. --Brother Sam in Dexter, S6:E6, "Just Let Go"
+
+Now that I've done my job, I can get on with my work. --Dexter in Dexter, S6:E10, "Ricochet Rabbit"
+
+Bukkaki, Bukkake. --Vince Masuka in Dexter, S6:E11, "Talk to the Hand"
+
+Kick a horse during the race, not after it's over. --Maria LaGuerta in Dexter, S6:E12, "This is the Way the World Ends"
+
+Trust those who seek the truth, but doubt those who say that they've found it. --Hannah MacKay in Dexter, S7:E7, "Chemistry"
+
+Sometimes life subtracts. Sometimes it adds. --Hannah MacKay in Dexter, S7:E7, "Chemistry"
+
+When some elements come together, they create a reaction that can't be reversed. They transcend chemistry. Is this what love feels like? --Dexter in Dexter, S7:E7, "Chemistry"
+
+You're stirring up dangerous undercurrents in the otherwise placid water of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
+
+They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Facebook
+
+In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
+
+The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering, Wärtsilä
