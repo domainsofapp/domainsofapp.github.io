@@ -352,4 +352,6 @@ They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Faceboo
 
 In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
 
-The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering, Wärtsilä
+The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus.
+
+In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage & Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus.
