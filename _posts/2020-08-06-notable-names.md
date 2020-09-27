@@ -43,4 +43,6 @@ Dolly
 Rei  
 Oric  
 Thimm  
-Zeljko
+Zeljko  
+Jurg  
+Jala

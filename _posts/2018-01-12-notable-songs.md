@@ -432,6 +432,7 @@ Intelligent Dance Music (IDM)
 Jungle  
 Kwaito  
 Lo-Fi  
+Metal  
 Minimalism  
 Murder House  
 Mushrooom Rap  
@@ -447,6 +448,7 @@ Sad
 Sadcore  
 Sesh  
 SoundCloud Rap  
+Terror Metal  
 Trance﻿  
 Trap  
 Trillwave  
