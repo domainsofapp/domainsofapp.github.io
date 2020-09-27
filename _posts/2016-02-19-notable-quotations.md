@@ -326,6 +326,10 @@ In skating over thin ice, our safety is in our speed. --Ralph Waldo Emerson, Ame
 
 There's no such thing as too cold weather. Only insufficient clothing. --Finnish Proverb
 
+Freedom is just another word for one more way to get f--ked. --Officer Gerard in Dexter, S1:E5, "Love American Style"
+
+A lo mejor los pescados te encuentran. (Maybe the fish will find you.) --Dexter in Dexter, S1:E5, "Love American Style"
+
 Never lie to someone who trusts you. Never trust someone who lies to you. --Sonya character in Dexter, S5:E4, "Beauty and the Beast"
 
 Saint Brigid, circle us with your light so that no darkness shall overcome our world. --Irish Nanny in Dexter, S5:E7, "Circle Us"
@@ -352,6 +356,12 @@ They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Faceboo
 
 In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
 
-The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus.
+The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
 
-In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage & Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus.
+In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage & Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
+
+You come for the spice; you stay for the wonk. --Katherine Hamilton, Chair of 38 North Solutions, in a GTM Solar Energy Gang Podcast on 2020-08-25
+
+Let's tell a story. Because only an interesting story can help us climb faster. --Jianqing in "Us and Them" (film)
+
+If it's a software issue, it's solvable. If it's a hardware issue, well, you can't fix gravity. --Origin Unknown
