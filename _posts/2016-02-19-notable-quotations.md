@@ -375,3 +375,5 @@ Under the orders of the CIA, the Mob and LBJ killed Kennedy. --Republicans for B
 Each time a (wo)man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, (s)he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring those ripples build a current which can sweep down the mightiest walls of oppression and resistance. (Each time a man strikes out against injustice...he sends forth a tiny glimmer of hope.) --Robert F. Kennedy, Former United States Attorney General
 
 Don't walk through our misery to a headline. --John Lewis, Former United States Representative, in "Bobby Kennedy for President"
+
+Things fall apart; the centre cannot hold; mere anarchy is loosed upon the world. --William Butler Yeats, Irish Poet
