@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Math Equations
+title: Mathematical Equations
 ---
 
 {{ page.title }}
@@ -11,6 +11,6 @@ title: Math Equations
 ## Euler's Formula aka Euler's Identity
 e<sup>i*pi</sup> + 1 = 0
 
-## Mythical Man Month
+## Mythical [Wo]Man Month
 (n<sup>2</sup>-n)/2  
 sub n*log(n) for n<sup>2</sup>
