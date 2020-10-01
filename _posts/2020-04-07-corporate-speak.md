@@ -20,7 +20,7 @@ As per.
 At the end of the day.  
 Back to square one/back to the drawing board.  
 Bandwidth.  
-Bearish/Bullish.  
+Bearish/bullish.  
 Become a researh or science project.  
 Best, <<insert_name>>.  
 Black sheep.  
@@ -43,7 +43,7 @@ Fall through the cracks.
 Finger on the pulse.  
 Full circle/come full circle.  
 Get down to brass tacks.  
-Good For You (G.F.Y.).
+Good For You (G.F.Y.).  
 Ground zero.  
 Hang self out to dry.  
 Hard stop.  
