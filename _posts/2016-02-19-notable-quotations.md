@@ -369,3 +369,9 @@ If it's a software issue, it's solvable. If it's a hardware issue, well, you can
 Every contact leaves a trace. --Dexter in Dexter, S8:E8, "Are We There Yet?"
 
 If you don't like smoke, don't play with fire. --Me
+
+Under the orders of the CIA, the Mob and LBJ killed Kennedy. --Republicans for Biden (someone's online, Internet profile and username)
+
+Each time a (wo)man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, (s)he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring those ripples build a current which can sweep down the mightiest walls of oppression and resistance. (Each time a man strikes out against injustice...he sends forth a tiny glimmer of hope.) --Robert F. Kennedy, Former United States Attorney General
+
+Don't walk through our misery to a headline. --John Lewis, Former United States Representative, in "Bobby Kennedy for President"
