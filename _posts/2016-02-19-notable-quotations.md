@@ -364,4 +364,8 @@ You come for the spice; you stay for the wonk. --Katherine Hamilton, Chair of 38
 
 Let's tell a story. Because only an interesting story can help us climb faster. --Jianqing in "Us and Them" (film)
 
-If it's a software issue, it's solvable. If it's a hardware issue, well, you can't fix gravity. --Origin Unknown
+If it's a software issue, it's solvable. If it's a hardware issue, well, you can't fix gravity. --J.W. (personal conversation)
+
+Every contact leaves a trace. --Dexter in Dexter, S8:E8, "Are We There Yet?"
+
+If you don't like smoke, don't play with fire. --Me
