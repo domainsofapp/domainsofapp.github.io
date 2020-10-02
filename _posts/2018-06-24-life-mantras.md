@@ -147,3 +147,11 @@ Train your mind to operate on three concurrent paths at all times: 1.) the here 
 F--k you. Pay me.
 
 Wait two weeks to report any medical, dental, etc. issue to a professional (doctor, dentist, etc.).
+
+Return to your child-state. Try to embrace games, puzzles, and riddles.
+
+If you don't wish to be judged for your vulnerabilities, or you're just tired of it all, be alone forever. That doesn't sound like much fun, though.
+
+It’s water under the bridge: When you regret something but cannot change it, figure out the lesson(s) to be learned as quickly as possible, and then immediately forget about everything except the valuable lesson(s). Try to never repeat the mistake. You are human and will make mistakes. This is the best you can do after the fact (it is what you can do to make up for the mistake).
+
+How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
