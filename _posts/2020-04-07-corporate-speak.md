@@ -43,7 +43,9 @@ Fall through the cracks.
 Finger on the pulse.  
 Full circle/come full circle.  
 Get down to brass tacks.  
+Go for broke.  
 Good For You (G.F.Y.).  
+Goose egg (zero).  
 Ground zero.  
 Hang self out to dry.  
 Hard stop.  
@@ -58,6 +60,7 @@ Leverage.
 Looped in.  
 Move the needle.  
 My calendar is up-to-date.  
+No quarter.  
 OoO: Out of Office.  
 On the same page.  
 Pain points.  
@@ -76,6 +79,7 @@ Shoot self in the foot.
 Seamless integration.  
 Selling points.  
 Sh!t a brick.  
+Spin up/spun up.  
 Spitballing.  
 Stage-gate.  
 Stakeholders.  
@@ -95,4 +99,5 @@ Thought leadership.
 Touch base.  
 Up to speed.  
 Use it or lose it.  
+Value-add.  
 White elephant.
