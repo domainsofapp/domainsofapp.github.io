@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematical Equations
+title: Notable Equations
 ---
 
 {{ page.title }}
