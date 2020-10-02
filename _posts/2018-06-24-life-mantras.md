@@ -82,8 +82,6 @@ Do. Every. Single. Thing. For. Yourself. Align your goals with helping and doing
 
 You get what you measure.
 
-If all you have is a hammer, everything looks like a nail.
-
 Say the Programmer's Prayer when needed: Please, God, help me solve this bug.
 
 When all else fails--when you hit a mental block--try a Parallax view.

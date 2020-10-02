@@ -120,7 +120,7 @@ The word "cause" is an altar to an unknown god. --William James, American Philos
 
 If you want to destroy my sweater, pull this thread as I walk away. --Weezer, Rock band
 
-I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail. --Abraham Maslow, American Psychologist
+I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail. (If all you have is a hammer, everything looks like a nail.) --Abraham Maslow, American Psychologist
 
 Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion. --Albert Einstein, Theoretical Physicist
 
