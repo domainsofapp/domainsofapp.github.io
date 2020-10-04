@@ -379,3 +379,5 @@ Don't walk through our misery to a headline. --John Lewis, Former United States 
 Things fall apart; the centre cannot hold; mere anarchy is loosed upon the world. --William Butler Yeats, Irish Poet
 
 The English word "idiot" comes from the Greek for a person who did not participate in public affairs. But the word "university" comes from the Latin for "all together". --Robert F. Kennedy, Former United States Attorney General
+
+"C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter

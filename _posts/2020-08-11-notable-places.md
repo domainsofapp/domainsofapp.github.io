@@ -23,6 +23,7 @@ Maldives
 Monaco  
 Pusitano  
 Saint Tropez  
+Santorini  
 Saskatchewan  
 Talum  
 Yuma, AZ
