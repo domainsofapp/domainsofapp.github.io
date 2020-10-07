@@ -155,3 +155,5 @@ It’s water under the bridge: When you regret something but cannot change it, f
 How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
 
 I prefer "missed" to "lost". Many things in life are lost but not all are missed after they are lost.
+
+Embrace a modified Hanlon's razor: Never attribute to malice that which is adequately explained by absolute, complete, and utter indifference towards anything whatsoever having to do with you.
