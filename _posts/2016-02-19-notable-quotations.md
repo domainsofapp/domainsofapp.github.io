@@ -308,6 +308,8 @@ I tell you, you all won't find another [wo]man like me. --Lipscomb, in a film by
 
 You kill the joe, you make some mo'. --Terry Tate, Office Linebacker
 
+No mas, le duele. (Stop, it hurts). --Twyla character in Schitt's Creek, S1:E1
+
 You are the life you accept for yourself. --Goldie Hawn character in Schitt's Creek, S2:E6 "Moira vs. Town Council"
 
 Gossip is the devil's telephone. Best to just hang up. --Moira Rose character in Schitt's Creek, S4:E4 "Girls' Night"
@@ -349,6 +351,8 @@ Trust those who seek the truth, but doubt those who say that they've found it. -
 Sometimes life subtracts. Sometimes it adds. --Hannah MacKay in Dexter, S7:E7, "Chemistry"
 
 When some elements come together, they create a reaction that can't be reversed. They transcend chemistry. Is this what love feels like? --Dexter in Dexter, S7:E7, "Chemistry"
+
+The best hobbies take us furthest from our primary occupation. --Dr. Evelyn Vogel character in Dexter, S8:E8
 
 You're stirring up dangerous undercurrents in the otherwise placid waters of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
 

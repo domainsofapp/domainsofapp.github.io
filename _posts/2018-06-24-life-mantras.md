@@ -157,3 +157,11 @@ How to prioritize: Ask yourself, "If I were to croak right here and now, what wo
 I prefer "missed" to "lost". Many things in life are lost but not all are missed after they are lost.
 
 Embrace a modified Hanlon's razor: Never attribute to malice that which is adequately explained by absolute, complete, and utter indifference towards anything whatsoever having to do with you.
+
+Finish the job! (Don't get sidetracked.)
+
+Units, units, units!
+
+Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask yourself and consider the question: Would you hire you (e.g., over the other likely candidates) for this position? If not, it might not be a good fit; perhaps best to move to the next opportunity.
+
+Aim for good enough for government work. Achieve this and you can move on with life. After all, a decent government is one that exists to serve its people (one cannot say the same about the private sector).
