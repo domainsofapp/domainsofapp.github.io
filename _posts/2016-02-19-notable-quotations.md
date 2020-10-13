@@ -352,7 +352,7 @@ Sometimes life subtracts. Sometimes it adds. --Hannah MacKay in Dexter, S7:E7, "
 
 When some elements come together, they create a reaction that can't be reversed. They transcend chemistry. Is this what love feels like? --Dexter in Dexter, S7:E7, "Chemistry"
 
-The best hobbies take us furthest from our primary occupation. --Dr. Evelyn Vogel character in Dexter, S8:E8
+The best hobbies are the ones that take us furthest from our primary occupation. (The best hobbies take us furthest from our primary occupation.) --Dr. Evelyn Vogel character in Dexter, S8:E8
 
 You're stirring up dangerous undercurrents in the otherwise placid waters of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
 
