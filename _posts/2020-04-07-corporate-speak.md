@@ -8,7 +8,7 @@ title: Corporate Speak
 
 <p class="meta">07 Apr 2020 - Berkeley, CA</p>
 
-Re the below set of words: Use it or lose it!
+Re the below set of words: Use it or lose it, folks!
 
 30,000-foot view.  
 Above my pay grade.  
