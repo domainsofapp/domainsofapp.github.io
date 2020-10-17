@@ -386,7 +386,7 @@ The English word "idiot" comes from the Greek for a person who did not participa
 
 "C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter
 
-F. (Internet slang)
+F. --Internet slang in solidarity for all is terrible in the world
 
 It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra in David Lynch's Dune (film).
 
@@ -422,8 +422,18 @@ The thought of suicide is a great consolation: by means of it one gets through m
 
 Remember that the future is not yet written. So when things look dark, do as my mighty mom would insist. Lace up your dancing shoes, and get to work. --Bruce Springsteen, American Singer-songwriter, in Springsteen on Broadway
 
-May the darkness within you find peace in the light. --Inscription for character "Ben" in Umbrella Academy, S1:E1 "We Only See Each Other at Weddings and Funerals"
-
 Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should. --Dr. Ian Malcolm character in Jurassic Park
 
 Everyone gets the experience. Some get the lesson. --T. S. Eliot, American-British Poet
+
+May the darkness within you find peace in the light. --Inscription for character "Ben" in Umbrella Academy, S1:E1 "We Only See Each Other at Weddings and Funerals"
+
+War. Such an fascinating concept. A temporary salve for a permanent human flaw. --The Handler character in Umbrella Academy, S1:E6 "The Day That Wasn't"
+
+Wakey wakey, eggs and bakey! --Klaus character in Umbrella Academy, S1:E8 "I Heard a Rumor"
+
+God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. (Serenity Prayer) --Reinhold Niebuhr, Theologian
+
+Trust, but verify. --Suzanne Massie, American Scholar
+
+Jeepers! Zoinks! --Scooby-Doo

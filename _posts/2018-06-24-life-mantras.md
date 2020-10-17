@@ -166,4 +166,4 @@ Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask
 
 Aim for good enough for government work. Achieve this and you can move on with life. After all, a decent government is one that exists to serve its people (one cannot say the same about the private sector).
 
-May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang.)
+May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang in solidarity for all is terrible in the world.)
