@@ -200,8 +200,6 @@ When it rains, it pours. --Morton Salt, American Food Company
 
 Be the person your dog thinks you are! --J.W. Stephens
 
-When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
-
 What is the robbing of a bank compared to the founding of a bank? --Bertolt Brecht, Theatre Practitioner
 
 如果石油公司想买你家，家下就有油 在房子下面. Rúguǒ shíyóu gōngsī xiǎng mǎi nǐ jiā, jiā xià jiù yǒu yóu zài fángzi xiàmiàn. (If an oil company wants to buy your home, there is oil under it.) --Silicon Valley (TV show), Season 5, Episode 6 - Artificial Emotional Intelligence
@@ -249,6 +247,10 @@ Measure seven times, cut once. (Measure twice. Cut once.) --Russian Proverb
 Between a high, solid wall and an egg that breaks against it, I will always stand on the side of the egg. --Haruki Murakami, Japanese Writer
 
 I would prefer not to. (I'd prefer not to.) --Bartleby, the Scrivener
+
+When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
+
+If you don't like smoke, don't play with fire. --Origin Unknown (me?)
 
 Smoke 'em if you've got 'em. (Smoke it if you've got it.) --Origin Unknown
 
@@ -372,8 +374,6 @@ If it's a software issue, it's solvable. If it's a hardware issue, well, you can
 
 Every contact leaves a trace. --Dexter in Dexter, S8:E8, "Are We There Yet?"
 
-If you don't like smoke, don't play with fire. --Me
-
 Under the orders of the CIA, the Mob and LBJ killed Kennedy. --Republicans for Biden (someone's online, Internet profile and username)
 
 Each time a (wo)man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, (s)he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring those ripples build a current which can sweep down the mightiest walls of oppression and resistance. (Each time a man strikes out against injustice...he sends forth a tiny glimmer of hope.) --Robert F. Kennedy, Former United States Attorney General
@@ -391,3 +391,39 @@ F. (Internet slang)
 It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra in David Lynch's Dune (film).
 
 It is by caffeine alone I set my mind in motion. It is by the beans of Java that thoughts acquire speed, the hands acquire shakes, the shakes become a warning. It is by caffeine alone I set my mind in motion. --The Programmer's Mantra (parodied from the Mentat Mantra in David Lynch's Dune (film).)
+
+Back to life, back to reality. --Soul II Soul, Musical Group
+
+Ee mara tom tee tok maky cheesa. (You should have paid him when you had the chance.) --Greedo in Star Wars EPISODE IV: A New Hope
+
+He who learns must suffer. And even in our sleep pain, which cannot forget, falls drop by drop upon the heart, until, in our own despair, against our will, comes wisdom through the awful grace of God. --Aeschylus, Tragedian
+
+[I'm reminded of what] Abraham Lincoln said about the man who was carried out on a steel rail, out of the city, "Except for the honor, I'd like to have passed it up." --Robert Kennedy in Oregon in 1968
+
+I feel like the man who was tarred and feathered and ridden out of town on a rail. To the man who asked him how he liked it, he said: "If it wasn’t for the honor of the thing, I'd rather walk." --Abraham Lincoln
+
+You're certainly a good person. But i am a robot. So I dont believe you to get me. --Little_Setting username on Reddit
+
+Injustice anywhere is a threat to justice everywhere. --Rev. Dr. Martin Luther King Jr., American Minister
+
+The arc of the moral universe is long, but it bends toward justice. --Rev. Dr. Martin Luther King Jr., American Minister
+
+We expect the evidence [collected by the LAPD] will show that this evidence that was collected at these various locations that you've just seen was contaminated, compromised, and ultimately corrupted. --Johnnie Cochran, American Lawyer
+
+The only time you lose is when you quit. --Cesar Chavez, American Civil Rights Activist (paraphrased)
+
+It's common but not normal. --James Pietragallo, Small Town Murder, Ep. 138
+
+It's a duck with no wings. --Jimmie Whisman, Small Town Murder, Ep. 138
+
+Man is a rope stretched between the animal and the Superman--a rope over an abyss. A dangerous crossing, a dangerous wayfaring, a dangerous looking-back, a dangerous trembling and halting. --Nietzsche Friedrich Wilhelm, Philosopher, in Thus Spoke Zarathustra
+
+The thought of suicide is a great consolation: by means of it one gets through many a dark night. --Nietzsche Friedrich Wilhelm, Philosopher, in Thus Spoke Zarathustra
+
+Remember that the future is not yet written. So when things look dark, do as my mighty mom would insist. Lace up your dancing shoes, and get to work. --Bruce Springsteen, American Singer-songwriter, in Springsteen on Broadway
+
+May the darkness within you find peace in the light. --Inscription for character "Ben" in Umbrella Academy, S1:E1 "We Only See Each Other at Weddings and Funerals"
+
+Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should. --Dr. Ian Malcolm character in Jurassic Park
+
+Everyone gets the experience. Some get the lesson. --T. S. Eliot, American-British Poet
