@@ -24,7 +24,7 @@ When a company is caught cheating (e.g., VW, PG&E), perhaps the government shoul
 
 One way to fight AI job loss and increase societal happiness: Shorter work week.
 
-It is impossible to measure absolute zero. At some point the measurement device will add more energy to the system than what is there to measure.
+It is impossible to measure absolute zero. At some point the measurement device will add more energy to the system than what there is to measure. Absolute zero is purely theoretical concept; one of many which constitute the fragile foundation of our mathematics and physics.
 
 Bankability represents use-value; price represents exchange-value.
 
