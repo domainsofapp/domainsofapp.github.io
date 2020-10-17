@@ -96,6 +96,8 @@ There is a fundamental difference between working on tools themselves (e.g., com
 
 Rhetorical question: Have you ever met a corporate employee who is both genuinely happy to be working and also highly intelligent? I have not.
 
+If no one designed or built prisons, there wouldn't be any. If no one deisgned or built ads, there wouldn't be any. Responsibility lies in the eye (and hands) of the beholder.
+
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
 

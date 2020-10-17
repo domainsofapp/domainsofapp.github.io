@@ -102,7 +102,7 @@ Two-week rule: Give every health issue of moderate concern two weeks. If you are
 
 I double dog dare you not to ever complain to anyone about any issue no matter how large or small you perceive it to be; rather, report it to a professional who can actually help the problem that you may or may not have. Turn every would-be complaint into a professional reporting process (as well as a learning experience).
 
-Do not let perfect be the enemy of good. It is well beyond 80%. Ship it. Fix it later as needed.
+Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it. Fix it later as needed.
 
 You are going to get through this even if you are all on your own.
 
@@ -138,7 +138,7 @@ Build tools around workflows, not workflows around tools. Credit not mine. Sourc
 
 Be present, but fly under the radar at all times (out of a safety concern for your own self).
 
-As a rule, never look up yourself or others on the Internet. Never "surf" without purpose. Do everything for a purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
+As a rule, never look up yourself ("egosurfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
 
 Train your mind to operate on three concurrent paths at all times: 1.) the here and now, 2.) the immediate next step, and 3.) making sure #1 and #2 are all there ever is.
 
@@ -165,3 +165,5 @@ Units, units, units!
 Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask yourself and consider the question: Would you hire you (e.g., over the other likely candidates) for this position? If not, it might not be a good fit; perhaps best to move to the next opportunity.
 
 Aim for good enough for government work. Achieve this and you can move on with life. After all, a decent government is one that exists to serve its people (one cannot say the same about the private sector).
+
+May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang.)

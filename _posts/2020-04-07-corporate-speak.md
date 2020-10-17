@@ -12,6 +12,7 @@ Re the below set of words: Use it or lose it!
 
 30,000-foot view.  
 Above my pay grade.  
+Across the value chain.  
 Action items.  
 Ad hoc.  
 Agenda.  
@@ -21,6 +22,7 @@ At the end of the day.
 Back to square one/back to the drawing board.  
 Bandwidth.  
 Base case.  
+Baseline.  
 Bearish/bullish.  
 Become a researh or science project.  
 Best, <<insert_name>>.  
@@ -28,10 +30,15 @@ Black sheep.
 Bottom line.  
 Break the bank.  
 Bridge the gap.  
+Bring to the fore.  
+Business-to-business (B2B).  
+Business-to-consumer (B2C).  
 Button up.  
 Call an audible.  
 Challenges and opportunities.  
+Cherry-pick.  
 Circle back.  
+Crossing the chasm.  
 Decision points.  
 Deep dive.  
 Deliverables.  
@@ -52,6 +59,7 @@ Finger on the pulse.
 Full circle/come full circle.  
 Get down to brass tacks.  
 Go for broke.  
+Go-to-market strategy.
 Good For You (G.F.Y.).  
 Goose egg (zero).  
 Ground zero.  
@@ -59,25 +67,32 @@ Hang self out to dry.
 Hard stop.  
 Heavy lifting.  
 High-level/high level.  
+Housekeeping items.  
 Imagineer/imagineering.  
 In our toolbox/wheelhouse.  
 In the loop/out of the loop.  
 It is what it is.  
 Kick off/kick-off.  
+Kudos.  
 Launch/launchpad.  
-Leverage.  
+Lever/levers/leverage.  
 Looped in.  
 Lose your shirt.  
 Meeting minutes.  
 Move the needle.  
+My calendar is open.  
 My calendar is up-to-date.  
+My schedule is open.  
 No quarter.  
 On the radar.  
 On the same page.  
 OoO: Out of Office.  
 Pain points.  
+Pay dividends.  
 Peel back the onion.  
+Pin down.  
 Ping.  
+Plan of attack.  
 Players.  
 Prime time/ready for prime time.  
 Rabbit hole.  
@@ -98,21 +113,28 @@ Stage-gate.
 Stakeholders.  
 Start from scratch.  
 Start the ball/pass the ball.  
+State of the union.  
+Stickiness.  
 Straw man.  
 Subject matter expert (SME).  
 Switch gears.  
 Synergies/synergy/synergistic.  
+Tailwinds.  
 Takeaway.  
 Take a stab at it.  
 Take a step back.  
 Take-home message.  
-Take offline.  
+Take it offline.  
 Tangent/tangential.  
 That ship has sailed.  
 Timelines.  
 Thought leadership.  
+Top of the hour.  
 Touch base.  
+Underserved.  
 Up to speed.  
 Use it or lose it.  
 Value-add.  
-White elephant.
+Value chain.  
+White elephant.  
+Zero in.

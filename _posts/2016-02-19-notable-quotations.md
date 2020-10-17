@@ -385,3 +385,9 @@ Things fall apart; the centre cannot hold; mere anarchy is loosed upon the world
 The English word "idiot" comes from the Greek for a person who did not participate in public affairs. But the word "university" comes from the Latin for "all together". --Robert F. Kennedy, Former United States Attorney General
 
 "C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter
+
+F. (Internet slang)
+
+It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra in David Lynch's Dune (film).
+
+It is by caffeine alone I set my mind in motion. It is by the beans of Java that thoughts acquire speed, the hands acquire shakes, the shakes become a warning. It is by caffeine alone I set my mind in motion. --The Programmer's Mantra (parodied from the Mentat Mantra in David Lynch's Dune (film).)
