@@ -58,7 +58,7 @@ I wonder what it feels like to be a famous person before becoming famous. Dunno 
 
 How long would it be before we run out of oil if we take transportation out of the equation altogether (i.e., accounting only for the oil used for other applications)? (So, what is the fate of all those applications?)
 
-Can you hollow out something--e.g., an object--that is already hollow? --Credit to H.T. (My answer: Yes, e.g., if the hollow item has something stuffed inside it.)
+Can you hollow out something--e.g., an object--that is already hollow? --Credit to H.T. (My answer: Yes, e.g., if the hollow item already has something stuffed inside it, with the presumption that hollowness is an intrinsic property of said hollow object.)
 
 If a tree falls in a forest and no one is around to hear it, does it make a sound? (My answer: No, because sound is only recognized/identified/defined by a necessary, conscious observer/listener.)
 
