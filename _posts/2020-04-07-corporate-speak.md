@@ -73,6 +73,7 @@ In my humble opinion.
 In our toolbox/wheelhouse.  
 In the loop/out of the loop.  
 It is what it is.  
+Key Performance Indices (KPIs).  
 Kick off/kick-off.  
 Kudos.  
 Launch/launchpad.  
@@ -80,6 +81,7 @@ Lever/levers/leverage.
 Looped in.  
 Lose your shirt.  
 Meeting minutes.  
+Metrics.  
 Move the needle.  
 My calendar is open.  
 My calendar is up-to-date.  
@@ -87,6 +89,7 @@ My schedule is open.
 No quarter.  
 On the radar.  
 On the same page.  
+On the table/off the table.  
 OoO: Out of Office.  
 Pain points.  
 Pay dividends.  
@@ -95,6 +98,7 @@ Pin down.
 Ping.  
 Plan of attack.  
 Players.  
+Power lunch.  
 Prime time/ready for prime time.  
 Rabbit hole.  
 Raise the bar.  
@@ -126,6 +130,7 @@ Take a stab at it.
 Take a step back.  
 Take-home message.  
 Take it offline.  
+Take that to the bank.  
 Tangent/tangential.  
 That ship has sailed.  
 Timelines.  
