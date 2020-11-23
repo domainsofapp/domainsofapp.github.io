@@ -19,6 +19,7 @@ Agenda.
 ASAP.  
 As per.  
 At the end of the day.  
+Back-end.  
 Back to square one/back to the drawing board.  
 Bandwidth.  
 Base case.  
@@ -26,10 +27,13 @@ Baseline.
 Bearish/bullish.  
 Become a researh or science project.  
 Best, <<insert_name>>.  
+Between a rock and a hard place.  
 Black sheep.  
+Boots on the ground.  
 Bottom line.  
 Break the bank.  
 Bridge the gap.  
+Bring to light/shed light on.  
 Bring to the fore.  
 Business-to-business (B2B).  
 Business-to-consumer (B2C).  
@@ -39,6 +43,7 @@ Challenges and opportunities.
 Cherry-pick.  
 Circle back.  
 Crossing the chasm.  
+Debrief.  
 Decision points.  
 Deep dive.  
 Deliverables.  
@@ -55,11 +60,15 @@ End of week (EoW).
 End-to-end (E2E).  
 Exploratory.  
 Fall through the cracks.  
+Feed the beast.  
 Finger on the pulse.  
-Full circle/come full circle.  
+Front-end.  
+Full circle.  
 Get down to brass tacks.  
+Get the ball rolling.  
 Go for broke.  
-Go-to-market strategy.
+Go-to items/go-to person.  
+Go-to-market strategy.  
 Good For You (G.F.Y.).  
 Goose egg (zero).  
 Ground zero.  
@@ -73,11 +82,14 @@ In my humble opinion.
 In our toolbox/wheelhouse.  
 In the loop/out of the loop.  
 It is what it is.  
+Keep me posted.  
 Key Performance Indices (KPIs).  
 Kick off/kick-off.  
 Kudos.  
 Launch/launchpad.  
+Lead the charge.  
 Lever/levers/leverage.  
+Lessons learned.  
 Looped in.  
 Lose your shirt.  
 Meeting minutes.  
@@ -87,29 +99,40 @@ My calendar is open.
 My calendar is up-to-date.  
 My schedule is open.  
 No quarter.  
-On the radar.  
+Noodle on it.  
+Off to the races.  
+Off the map/on the map.  
+Off the radar/on the radar.  
+Off the table/on the table.  
 On the same page.  
-On the table/off the table.  
 OoO: Out of Office.  
 Pain points.  
+Pass the ball.  
+Pass the buck.  
 Pay dividends.  
+Pay to play.  
 Peel back the onion.  
+Piggybacking.  
 Pin down.  
 Ping.  
 Plan of attack.  
 Players.  
+Plug-and-play.  
 Power lunch.  
 Prime time/ready for prime time.  
+Quick and dirty.  
 Rabbit hole.  
 Raise the bar.  
 Raise the stakes.  
 Re.  
+Regroup.  
 Roles and responsibilities (R&R).  
 Roll out/rollout.  
 Shake things up.  
 Shoot yourself in the foot.  
 Seamless integration.  
 Selling points.  
+Shift gears.  
 Sh!t a brick.  
 Sh!t the bed.  
 Spin up/spun up.  
@@ -117,10 +140,10 @@ Spitballing.
 Stage-gate.  
 Stakeholders.  
 Start from scratch.  
-Start the ball/pass the ball.  
 State of the union.  
 Stickiness.  
 Straw man.  
+Streamlined/streamlining.  
 Subject matter expert (SME).  
 Switch gears.  
 Synergies/synergy/synergistic.  
@@ -133,6 +156,7 @@ Take it offline.
 Take that to the bank.  
 Tangent/tangential.  
 That ship has sailed.  
+That's the ticket.  
 Timelines.  
 Thought leadership.  
 Top of the hour.  
