@@ -1,9 +1,9 @@
-# _todo domainsofapp.github.io
+# TODO domainsofapp.github.io
 1. Verify all links on site (automate process?).
 2. Add slash mark "/" to end of every link if it doesn't break the link (or remove all slashes? Figure out best practice and implement it).
 3. Verify the correct dates and alphabetical orders.
 4. Widen screen for phones and increase text size.
 5. Automate the entire blog posting process.
-6. Demarcate music album vs. song on Index page vs. entry in Notable Songs post.
+6. Demarcate music album vs. song on HTML index page vs. entry in Notable Songs post.
 7. Verify spelling and grammar.
 8. Add view counter to site.
