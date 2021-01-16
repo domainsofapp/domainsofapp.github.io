@@ -340,7 +340,7 @@ Hang With Me - Robyn - Avicii
 Heaven - Avicii  
 Hey Brother - Avicii  
 Losing My Grip - Krosses  
-My Feelings for You - Avicci & Sebastien Drums  
+My Feelings for You - Avicii & Sebastien Drums  
 New New New - Bob Sinclar - Avicii  
 Nicktim - Avicii & Nicky Romero  
 Seek Bromance - Avicii  
