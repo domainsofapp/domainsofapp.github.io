@@ -1,5 +1,6 @@
 # README for Code Repository "domainsofapp.github.io"
 
+## Introduction
 This code repository hosts the data for my personal experimental Internet filter blog: Domains of Applicability. The website is primarily targeted for my own personal access, reference, and use across multiple Internet-connected devices and machines.
 
 Domains of Applicability can be found at the following URL:
@@ -25,7 +26,6 @@ I am using Markdown to write the posts.
 I used to implement Google Analytics on the site; I removed it to keep the site simpler (also, because I have no need to track information about site viewers).
 
 ## Copyright Notice
-
 This section was also inspired by Ref. [1].
 
 The following directories and their contents are "Copyright Kenneth J. Sauer", i.e., they consist of original content (All Rights Reserved):
@@ -35,11 +35,9 @@ The following directories and their contents are "Copyright Kenneth J. Sauer", i
 Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Please feel free to use the HTML and CSS files as you please. If you use them, please kindly link back to Refs. [1]-[2].
 
 ## Let It Snow
-
 Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters (https://lobste.rs) [4]. Happy Holidays!
 
 ## References
-
 [1] https://github.com/mojombo/mojombo.github.io/
 
 [2] https://github.com/jekyll/jekyll/
