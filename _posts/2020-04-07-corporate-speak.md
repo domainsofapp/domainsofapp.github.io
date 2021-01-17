@@ -78,7 +78,6 @@ Dive in/diving in
 Dog and pony show (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
 Don't give them the rope to hang you with  
 Dovetail  
-Dove-tail  
 Down the line  
 Drill down  
 Drive down  
@@ -91,7 +90,6 @@ End all be all
 End of day (EoD)  
 End of life (EoL)  
 End of week (EoW)  
-End-to-end  
 End-to-end (E2E)  
 Exploratory  
 Fall through the cracks  
