@@ -96,6 +96,7 @@ Exploratory
 Fall through the cracks
 Feed the beast
 Finger on the pulse
+Finger on the trigger
 Front-end
 Full circle
 FYI only
