@@ -74,7 +74,7 @@ Derail
 Digitalization
 Disconnect
 Dive in/diving in
-Dog and pony show. (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
+Dog and pony show (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")
 Don't give them the rope to hang you with
 Dovetail
 Dove-tail
