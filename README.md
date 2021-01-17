@@ -14,7 +14,7 @@ I used to pay ~$10/year to register and own the following custom domain in the D
 
 https://www.domainsofapplicability.com/
 
-Originally, the first link above (GitHub Pages) redirected to the second b/c I paid for the second (b/c I like the name). I have stopped paying so the second URL no longer works -- please use the first URL.
+Originally, the first link above (GitHub Pages) redirected to the second b/c I paid for the second (b/c I like the name). I have stopped paying so the second URL no longer works--please use the first URL.
 
 The design of this README and repository is modeled after Ref. [1].
 
