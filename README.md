@@ -1,6 +1,6 @@
-# README for code repository: domainsofapp.github.io
+# README for Code Repository "domainsofapp.github.io"
 
-This code repository hosts the data for my personal experimental Internet filter blog: Domains of Applicability.
+This code repository hosts the data for my personal experimental Internet filter blog: Domains of Applicability. The website is primarily targeted for my own personal access, use, and reference across multiple Internet-connected devices and machines.
 
 Domains of Applicability can be found at the following URL:
 
@@ -22,9 +22,9 @@ When I push changes to this repository on my local computer to GitHub, the data 
 
 I am using Markdown to write the posts.
 
-I used to implement Google Analytics on the site, but I removed it in order to keep the site simpler (also, because I have no need to track any information about site viewers).
+I used to implement Google Analytics on the site; I removed it to keep the site simpler (also, because I have no need to track information about site viewers).
 
-## License
+## Copyright Notice
 
 This section was also inspired by Ref. [1].
 
