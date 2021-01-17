@@ -35,10 +35,8 @@ Blow through
 Boilerplate (some other related word)
 Boom boom boom
 Boots on the ground
-Boots on the ground
 Bottleneck
 Bottom line
-Brass tacks
 Brass tacks
 Break the bank
 Brick and mortar
@@ -55,15 +53,12 @@ Button up
 Call an audible
 CapEx
 Challenges and opportunities
-Challenges and opportunities
 Cherry-pick
-Circle back
 Circle back
 Cohesive
 Comes full circle
 Cookie-cutter
 Cooking the books
-Core values
 Core values
 Crank
 Cross the chasm
@@ -84,12 +79,10 @@ Don't give them the rope to hang you with
 Dovetail
 Dove-tail
 Down the line
-Down the line
 Drill down
 Drive down
 Drive up
 Drop a line
-Drop the ball
 Drop the ball
 Embark
 End all be all
@@ -103,14 +96,12 @@ Exploratory
 Fall through the cracks
 Feed the beast
 Finger on the pulse
-Finger on the pulse
 Front-end
 Full circle
 FYI only
 Game changing
 Get down to brass tacks
 Get out of a rut
-Get the ball rolling
 Get the ball rolling
 Give it a minute
 Go for broke.  
@@ -127,7 +118,6 @@ Heads up
 Heavy lifting
 High-level/high level
 Hop on a call/jump on a call
-Housekeeping items
 Housekeeping items
 Imagineer/imagineering
 Imagineering
@@ -172,10 +162,8 @@ Off the map/on the map
 Off the radar/on the radar
 Off the table/on the table
 Off to the races
-Off to the races
 Off-the-shelf
 On the radar
-On the same page
 On the same page
 OoO: Out of Office
 OpEx
@@ -200,7 +188,6 @@ Players
 Plow through 'em
 Plug away
 Plug-and-chug
-Plug-and-play
 Plug-and-play
 Pound 'em out
 Power lunch
