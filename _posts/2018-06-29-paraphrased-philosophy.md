@@ -123,6 +123,8 @@ Reality is Mind; the universe is Spirit objectified.
 
 Reality becomes itself retroactively through its symbolic registration (e.g., into language, social story-telling, the stories we call "history").
 
+The present is the inevitable result of all the historic events leading up to this point. There is no alternative, no other way except your life right now. The Spirit of History is within you; it constitutes human nature itself.
+
 ## Heraclitus, Greek Philosopher
 The only thing constant is change.
 
@@ -209,6 +211,9 @@ Philosophy is "above" physics in this way. All there is for humans is the "langu
 
 ## Stephen Wolfram, American-British Computer Scientist
 PhD thesis related to cellular-genetic approach of embedding within something the ingredients and algorithm to make itself, as with genetic code that encodes and writes the makings of a biological organism.
+
+Physics is inherently a computation in the form of cellular automata.
+Source: <https://news.ycombinator.com/item?id=23520632>
 
 ## Slavoj Žižek, Slovenian Philosopher
 Climate change is an existential crisis for humanity.
