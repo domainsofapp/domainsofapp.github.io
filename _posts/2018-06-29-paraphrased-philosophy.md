@@ -8,6 +8,8 @@ title: Paraphrased Philosophy
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
+NB: Rumor has it that all Wikipedia links ultimately lead to "Philosophy".
+
 ## Anthropic Principle
 The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No surprise that the universe is "improbably" tuned for life.
 
