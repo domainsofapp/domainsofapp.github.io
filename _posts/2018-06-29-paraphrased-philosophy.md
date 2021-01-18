@@ -161,7 +161,7 @@ We manifest our will to power.
 In order to survive, at every moment we must exert our will to power and impose our unique selves unto the world.
 
 ## M. Ng, Philosopher Friend
-Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism
+Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism.
 
 ## Parallax View
 Looking at something from radically different perspectives; the only way to break through a dialectical stalemate and make real progress as a society.
@@ -184,7 +184,7 @@ From "The Social Contract": People will begin to conform in their opinions and c
 Language is a purely relational system. Words have no inner essence.
 
 ## Erwin Schrödinger, Austrian-Irish Physicist
-The growth of the bacterium could be analyzed as a reduction in the entropy of its part of the universe. --From Erwin Schrodinger book: What is Life? (1943)
+The growth of the bacterium could be analyzed as a reduction in the entropy of its part of the universe. --From Erwin Schrödinger book: What is Life? (1943)
 
 ## Max Weber, Sociologist
 The collapse of values proliferates in capitalism.
@@ -194,7 +194,7 @@ The collapse of values proliferates in capitalism.
 
 "What we call the past is built on bits."
 
-Every it -- every particle, every field of force, even the space-time continuum itself -- derives its function, its meaning, its very existence...from bits. Why does nature appear quantized? Because information is quantized. The bit is the ultimate unsplittable particle.
+Every it--every particle, every field of force, even the space-time continuum itself--derives its function, its meaning, its very existence...from bits. Why does nature appear quantized? Because information is quantized. The bit is the ultimate unsplittable particle.
 
 "Probability, like time, is a concept invented by humans, and humans have to bear the responsibility for the obscurities that attend it."
 
@@ -206,6 +206,9 @@ Nothing changes. Anything that we say changes is all part of a "language game" (
 Physics is not "True" (capital "T"), but it is useful.
 
 Philosophy is "above" physics in this way. All there is for humans is the "language game" (which is not really a game as it has real implications). There is power to language and danger of getting lost in it and using it to manipulate others. Language, which is the same as knowledge, also encompassing physics, should only be used for good. It is the philosopher's job to establish and maintain definitions of good.
+
+## Stephen Wolfram, American-British Computer Scientist
+PhD thesis related to cellular-genetic approach of embedding within something the ingredients and algorithm to make itself, as with genetic code that encodes and writes the makings of a biological organism.
 
 ## Slavoj Žižek, Slovenian Philosopher
 Climate change is an existential crisis for humanity.
@@ -223,7 +226,7 @@ There is a truth, and not everything is relative, but this truth is the truth of
 Ideology is like a coordinate transform of our experienced reality.
 
 ## Uncanny Valley
-Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and therby always sounds "off-key", so to speak, in reference to the original).
+Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and thereby always sounds "off-key", so to speak, in reference to the original).
 
 Dogs: Seeing dogs go at it is incredibly awkward not because you are "violating their privacy" but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
 
