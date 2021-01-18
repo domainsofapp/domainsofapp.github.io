@@ -127,6 +127,8 @@ Reality becomes itself retroactively through its symbolic registration (e.g., in
 
 The present is the inevitable result of all the historic events leading up to this point. There is no alternative, no other way except your life right now. The Spirit of History is within you; it constitutes human nature itself.
 
+As humanity evolves, so does its reasoning and ability to reason. You cannot stop progress towards this end. This constitutes the Hegelian Spirit of History. Social "progress" (towards this end) is inevitable.
+
 ## Heraclitus, Greek Philosopher
 The only thing constant is change.
 
