@@ -26,7 +26,7 @@ In any task, do only what is necessary.
 
 When there is (attractive) magnetism between people, it is clear, and you'll know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
 
-Seek to achieve/accomplish 1,000 failures, and you'll have one success. Failure is the necessary and difficult road to success.
+Seek to accomplish/achieve 1,000 failures, and you'll have one success. Failure is the necessary and difficult road to success.
 
 Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
@@ -70,9 +70,9 @@ Always check first if the milk is spoiled or else you shall greatly regret it la
 
 Shave with cold water. I know--it's counterintuitive. Heck, while we're at it, floss the teeth you wish to keep, and wear sunscreen.
 
-For every file you create/add, process and delete another one.
+For every file you add/create, process and delete another one.
 
-Yea, it sucks. So it goes. Such is life. Keep truckin'. Forge onward. Venture upward--whatever that means to you (and you alone).
+Yea, it sucks. So it goes. Such is life. Keep truckin'. Go forth. Forge onward. Venture upward--whatever that means to you (and you alone).
 
 Think before you act. Will this action hurt someone? If so, try a different approach. Think before you speak. Will these words hurt someone? If so, rephrase it.
 
@@ -88,7 +88,7 @@ When all else fails--when you hit a mental block--try a Parallax view (i.e., loo
 
 Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
 
-No FOMO: Have no Fear of Missing Out, for you already have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
+No FOMO: Have no fear of missing out, because you have already missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
 Sh!t happens. Life goes on.
 
@@ -138,15 +138,15 @@ Build tools around workflows, not workflows around tools. Credit not mine. Sourc
 
 Be present, but fly under the radar at all times (out of a safety concern for your own self).
 
-As a rule, never look up yourself ("egosurfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
+As a rule, never look up yourself ("ego-surfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
 
 Train your mind to operate on three concurrent paths at all times: 1.) the here and now, 2.) the immediate next step, and 3.) making sure #1 and #2 are all there ever is.
 
-F--k you. Pay me.
+F--k you. Pay me. We only live once (WOLO). This is OUR time to live OUR lives; not yours!
 
 Wait two weeks to report any medical, dental, etc. issue to a professional (doctor, dentist, etc.).
 
-Return to your child-state. Try to embrace games, puzzles, and riddles.
+Return to your child-state (as far as hobbies and interests go). Try to embrace games, puzzles, and riddles. Reject innately-tempting, curmudgeonly behavior when possible. The world sucks without good people doing good things; you must manifest not-suck into the world or else it will innately suck.
 
 If you don't wish to be judged for your vulnerabilities, or you're just tired of it all, be alone forever. That doesn't sound like much fun, though.
 
