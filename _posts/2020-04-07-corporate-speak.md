@@ -13,19 +13,20 @@ Use it or lose it!
 30,000-foot view  
 Above my pay grade  
 Across the value chain  
-Action items  
+Action item  
 Ad hoc  
 Agenda  
 Ahead of the eight ball  
 As per  
 ASAP  
 At the end of the day  
-Back to square one/back to the drawing board  
+Back to square one  
+Back to the drawing board  
 Back-end  
 Bandwidth  
 Base case  
 Baseline  
-Bearish/bullish  
+Bearish  
 Become a research or science project  
 Best bang for the buck  
 Best, <<insert_name>>  
@@ -37,14 +38,17 @@ Boom boom boom
 Boots on the ground  
 Bottleneck  
 Bottom line  
+Brand  
 Brass tacks  
 Break the bank  
 Brick and mortar  
 Bridge the gap  
-Bring to light/shed light on  
+Bring to light  
 Bring to the fore  
 Brings it all together  
-Build off/building off/to build off  
+Build off  
+Building off  
+Bullish  
 Burn the midnight oil  
 Business as usual  
 Business-to-business (B2B)  
@@ -52,6 +56,8 @@ Business-to-consumer (B2C)
 Button up  
 Call an audible  
 CapEx  
+Carry the bag  
+Carry the torch  
 Challenges and opportunities  
 Cherry-pick  
 Churn  
@@ -70,11 +76,12 @@ Daily grind
 Debrief  
 Decision points  
 Deep dive  
-Deliverables  
+Deliverable  
 Derail  
 Digitalization  
 Disconnect  
-Dive in/diving in  
+Dive in  
+Diving in  
 Dog and pony show (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
 Don't give them the rope to hang you with  
 Dovetail  
@@ -92,6 +99,7 @@ End of life (EoL)
 End of week (EoW)  
 End-to-end (E2E)  
 Exploratory  
+Eyesore  
 Fall through the cracks  
 Feed the beast  
 Finger on the pulse  
@@ -107,7 +115,8 @@ Give it a minute
 Go for broke  
 Good For You (G.F.Y.)  
 Goose egg (zero)  
-Go-to items/go-to person  
+Go-to items  
+Go-to person  
 Go-to-market strategy  
 Ground zero  
 Hang self out to dry  
@@ -116,37 +125,48 @@ Harmonization
 Hats off  
 Heads up  
 Heavy lifting  
-High-level/high level  
-Hop on a call/jump on a call  
+High level  
+High-level  
+Hop on a call  
 Housekeeping items  
-Imagineer/imagineering  
+Imagineer  
+Imagineering  
 In my humble opinion  
-In our toolbox/wheelhouse  
-In the loop/out of the loop  
+In our toolbox  
+In our wheelhouse  
+In the loop  
 It is what it is  
 Juggling too many  
+Jump on a call  
 Just-in-time  
 Keep me posted  
-Key on it/this  
+Key on it  
+Key on this  
 Key performance indices (KPIs)  
 Kick it off  
-Kick off/kick-off  
+Kick off  
+Kick-off  
 Kudos  
-Launch/launchpad  
+Launch  
+Launchpad  
 Lead the charge  
 Lessons learned  
 Let people filter in  
-Lever/levers/leverage  
+Lever  
+Levers  
 Leverage  
 Leveraging  
 Looped in  
 Lose your shirt  
 Macro trends  
-Majority share/minority share  
-March on march forward  
+Majority share  
+March on  
+March forward  
 Meeting minutes  
+Meetings  
 Metrics  
-Mission vs. vision  
+Milestones  
+Minority share  
 Mission statement  
 Motto  
 Move the needle  
@@ -158,16 +178,20 @@ Nice segue
 No quarter  
 Noodle on it  
 Nose to the grindstone  
-Off the map/on the map  
-Off the radar/on the radar  
-Off the table/on the table  
+Off the map  
+Off the radar  
+Off the table  
 Off to the races  
 Off-the-shelf  
+On the map  
 On the radar  
 On the same page  
+On the table  
 OoO: Out of Office  
 OpEx  
-Out of loop  
+Organic  
+Organically  
+Out of the loop  
 Pain points  
 Par for the course  
 Paradigm shift  
@@ -184,6 +208,7 @@ Pillars
 Pin down  
 Ping  
 Plan of attack  
+Plant the seed  
 Players  
 Plow through 'em  
 Plug away  
@@ -191,7 +216,7 @@ Plug-and-chug
 Plug-and-play  
 Pound 'em out  
 Power lunch  
-Prime time/ready for prime time  
+Prime time  
 Punch through  
 Push forward  
 Push through  
@@ -202,36 +227,44 @@ Rabbit hole
 Raise the bar  
 Raise the stakes  
 Re  
+Ready for prime time  
 Regroup  
 Resiliency  
 Rinse and repeat  
 Roles and responsibilities (R&R)  
-Roll out/roll-out  
+Roll out  
+Roll-out  
 Rubber hits the road  
 Safe harbor  
 Seamless  
 Seamless integration  
+Seed the idea  
 Selling points  
 Set the stage  
 Sh!t a brick  
 Sh!t the bed  
 Shake things up  
+Shed light on  
 Shelf docs  
 Shift gears  
 Shoot yourself in the foot  
-Spin up/spun up  
+Spin up  
 Spit-balling  
+Spun up  
 Stage-gate  
 Stakeholders  
 Start from scratch  
 State of the union  
 Stickiness  
 Straw man  
-Streamlined/streamlining  
+Streamline  
+Streamlined  
+Streamlining  
 Subject matter expert (SME)  
 Switch gears  
 Switching gears  
-Synergies/synergy/synergistic  
+Synergies  
+Synergistic  
 Synergy  
 Tailwinds  
 Take a crack at it  
@@ -241,13 +274,16 @@ Take it offline
 Take that to the bank  
 Takeaway  
 Take-home message  
-Tangent/tangential  
+Tangent  
+Tangential  
 That ship has sailed  
 That's the ticket  
 The market  
 Thought leadership  
 Timelines  
 Tip of the iceberg  
+Toolbox  
+Top of the funnel  
 Top of the hour  
 Top-line revenue  
 Touch base  
@@ -258,8 +294,11 @@ Use it or lose it
 Value chain  
 Value-add  
 Vanguard  
+Vision statement  
+Wheelhouse  
 White elephant  
 Within the business  
-Wrap up/wrap it up  
+Wrap up  
+Wrap it up  
 You break it, you buy it  
 Zero in
