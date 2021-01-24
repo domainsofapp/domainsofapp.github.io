@@ -50,7 +50,7 @@ Strive for excellence. Whether you achieve it or not does not matter. 'Tis the s
 
 Self-immerse in culture.
 
-Attempt to emenate heartfelt love in every action.
+Attempt to emanate heartfelt love in every action.
 
 Don't strive to be an attractive human; strive to be an attractive skeleton.
 
