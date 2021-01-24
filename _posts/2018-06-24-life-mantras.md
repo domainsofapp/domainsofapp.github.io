@@ -30,7 +30,7 @@ Seek to achieve/accomplish 1,000 failures, and you'll have one success. Failure 
 
 Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
-Everything is going to be O-K, <insert your or someone else's name>.
+Everything is going to be O-K, <<insert your or someone else's name>>.
 
 One blog post per day. One Git commit per day.
 
@@ -94,7 +94,7 @@ Sh!t happens. Life goes on.
 
 Regarding matters of trivial concern: If you ignore something, it will go away.
 
-Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <insert your or someone else's name>).
+Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <<insert your or someone else's name>>).
 
 Two-week rule: Give every health issue of moderate concern two weeks. If you are still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
 
