@@ -36,7 +36,7 @@ One blog post per day. One Git commit per day.
 
 The pain is real. The struggle is real.
 
-Don't be a <insert_curse_word>.
+Don't be a <<insert_curse_word>>.
 
 Pursue hobbies and interests according to your heroes/role models/inspirations, and consider adopting their (ideally good) traits and mannerisms--there is a good reason you are interested in them as people.
 
@@ -162,7 +162,7 @@ Finish the job! (Don't get sidetracked.)
 
 Units, units, units!
 
-Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask yourself and consider the question: Would you hire you (e.g., over the other likely candidates) for this position? If not, it might not be a good fit; perhaps best to move to the next opportunity.
+Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask yourself and consider the question: Would you hire you for this position (e.g., over the other likely candidates)? If not, it might not be a good fit; perhaps best to move to the next opportunity.
 
 Aim for good enough for government work. Achieve this and you can move on with life. After all, a decent government is one that exists to serve its people (one cannot say the same about the private sector).
 
