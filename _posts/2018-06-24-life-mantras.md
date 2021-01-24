@@ -26,13 +26,13 @@ In any task, do only what is necessary.
 
 When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
 
-Seek to achieve/accomplish 1000 failures, and you will have 1 success. Failure is the necessary and difficult road to success.
+Seek to achieve/accomplish 1,000 failures, and you will have one success. Failure is the necessary and difficult road to success.
 
-Put something back in the place where you first looked for it. Also: It is always in the last place you look.
+Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
 Everything is going to be O-K, <insert your or someone else's name>.
 
-One blog post/Git commit per day.
+One blog post per day. One Git commit per day.
 
 The pain is real. The struggle is real.
 
@@ -42,9 +42,9 @@ Pursue hobbies and interests according to your heroes/role models/inspirations, 
 
 Success is relative to happiness.
 
-Never boast (unless you are hungry)--you will eat your words.
+Never boast (unless you're hungry)--you will eat your words.
 
-If anything in life is easy, you are doing it wrong. (More realistically, if anything in life is easy, you are either doing it sub-optimally, or you have already learned how to do it optimally.)
+If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
 
 Strive for excellence. Whether you achieve it or not does not matter. 'Tis the strive that counts.
 
@@ -58,11 +58,11 @@ Unleash the power of the brain.
 
 Strive for continuous improvement; it is good enough for all intents and purposes.
 
-The best engineer is completely replaceable by another human; even better, by an algorithm. Thus, an engineer should strive for self-automation. Write the engineering specification of yourself (what you do in your job/career).
+The best engineer is completely replaceable by another human; even better, by an algorithm. Thus, an engineer should strive for self-automation. Write the engineering specification of yourself (what you do in your job).
 
 For every task, first define the "measure of success".
 
-MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own beer).
+MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang beer).
 
 Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
@@ -78,17 +78,17 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. Align your goals with helping and doing good for others. Take. Care. Of. Yourself.
+Do. Every. Single. Thing. For. Yourself. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. (Put on your oxygen mask, & then get to helping others.)
 
 You get what you measure.
 
-Say the Programmer's Prayer when needed: Please, God, help me solve this bug.
+Say the Programmer's Prayer when needed: Please, J0d, help me solve this bug.
 
-When all else fails--when you hit a mental block--try a Parallax view.
+When all else fails--when you hit a mental block--try a Parallax view (i.e., looking at something through an entirely different ideological framework).
 
 Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you will forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
 
-No FOMO: You have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels right to you. Never seek nor fear to miss out.
+No FOMO: Have no Fear of Missing Out, for you already have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
 Sh!t happens. Life goes on.
 
@@ -104,25 +104,25 @@ I double dog dare you not to ever complain to anyone about any issue no matter h
 
 Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it. Fix it later as needed.
 
-You are going to get through this even if you are all on your own.
+You're going to get through it even if you're all on your own.
 
 It is one (bad) thing to be an a-hole; it is altogether another to be a scumbag. Avoid any hint of scumbagggery at all times like the plague.
 
 Never accept a job (if/when switching jobs) without a sign-on bonus especially in the middle of a calendar year. The tax burden (i.e., effort, time, and cost) alone of switching jobs requires it.
 
-Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, &c.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body.
+Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, &c.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body. Of course, when your body ultimately breaks down, you're done for (incl. your brain).
 
-Try to never leave Git unsynced. You may lose your computer (and your work in the process).
+Try to never leave Git unsynced to the cloud repository. You may lose your computer (and your work in the process).
 
-Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation.
+Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word).
 
 Nothing matters. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom. When possible, eat enough to be able to sleep each night.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
-Always give credit where credit is due (essential ethical and moral code; if you ever take credit for anything that is not yours, you are a sc****bag).
+Always give credit where credit is due (essential ethical and moral code; if you ever take credit for anything that is not yours, you're a sc****bag).
 
-Rearrange your room/apartment/house/domicile everyday; this is one of the many, natural psychological medications prescribed by the Situationist International (SI) philosophy.
+Rearrange your room/apartment/house/domicile everyday; this is one of the many, natural psychological medications prescribed by the Situationist International (SI) movement and philosophy.
 
 The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you will be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
@@ -152,7 +152,7 @@ If you don't wish to be judged for your vulnerabilities, or you're just tired of
 
 It’s water under the bridge: When you regret something but cannot change it, figure out the lesson(s) to be learned as quickly as possible, and then immediately forget about everything except the valuable lesson(s). Try to never repeat the mistake. You are human and will make mistakes. This is the best you can do after the fact (it is what you can do to make up for the mistake).
 
-How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
+How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this, *tisk tisk*, SMH,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
 
 I prefer "missed" to "lost". Many things in life are lost but not all are missed after they are lost.
 
