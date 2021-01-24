@@ -24,9 +24,9 @@ In any task, do only what is necessary.
 
 [Cliché Warning] If you had one year left to live, what would you do right now?
 
-When there is (attractive) magnetism between people, it is clear, and you will know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
+When there is (attractive) magnetism between people, it is clear, and you'll know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that is one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms).
 
-Seek to achieve/accomplish 1,000 failures, and you will have one success. Failure is the necessary and difficult road to success.
+Seek to achieve/accomplish 1,000 failures, and you'll have one success. Failure is the necessary and difficult road to success.
 
 Put something back in the place where you first looked for it. Also: It's always in the last place you look.
 
@@ -42,7 +42,7 @@ Pursue hobbies and interests according to your heroes/role models/inspirations, 
 
 Success is relative to happiness.
 
-Never boast (unless you're hungry)--you will eat your words.
+Never boast (unless you're hungry)--you'll eat your words.
 
 If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
 
@@ -86,7 +86,7 @@ Say the Programmer's Prayer when needed: Please, J0d, help me solve this bug.
 
 When all else fails--when you hit a mental block--try a Parallax view (i.e., looking at something through an entirely different ideological framework).
 
-Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you will forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
+Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
 
 No FOMO: Have no Fear of Missing Out, for you already have missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
@@ -94,7 +94,7 @@ Sh!t happens. Life goes on.
 
 Regarding matters of trivial concern: If you ignore something, it will go away.
 
-Never look up matters of health online (on the Internet). If you do, you will find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <insert your or someone else's name>).
+Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <insert your or someone else's name>).
 
 Two-week rule: Give every health issue of moderate concern two weeks. If you are still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
 
@@ -124,7 +124,7 @@ Always give credit where credit is due (essential ethical and moral code; if you
 
 Rearrange your room/apartment/house/domicile everyday; this is one of the many, natural psychological medications prescribed by the Situationist International (SI) movement and philosophy.
 
-The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you will be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
+The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
 At all times, before doing anything, close your eyes and roll them to the back of your brain. Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Roll your own conciousness back onto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking).
 
