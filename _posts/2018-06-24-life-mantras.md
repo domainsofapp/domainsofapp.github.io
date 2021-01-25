@@ -62,7 +62,7 @@ The best engineer is completely replaceable by another human; even better, by an
 
 For every task, first define the "measure of success".
 
-MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang beer).
+MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang brewskis).
 
 Use the Oxford comma. It is more professional, accurate and precise. See, doesn't that bother you, too?
 
