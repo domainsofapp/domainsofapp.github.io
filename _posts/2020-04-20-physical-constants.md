@@ -10,7 +10,7 @@ title: Physical Constants
 
 NB #1: The below is a list of our particular universe's parameters which constitute our mathematics and physics. It is transcribed from Ref. [1]. I attempted to rearrange the list into alphabetical order.
 
-NB #2: It is likely there have been, possibly are now, and always will be other variants of universes with other sets of parameters and this particular one is ours and allowed for our existence (see Paraphrased Philosophy blog entry on the Enthropic Principle).
+NB #2: It is likely there have been, possibly are now, and always will be other variants of universes with other sets of parameters and this particular one is ours and allowed for our existence (see Paraphrased Philosophy blog entry on the Anthropic Principle).
 
 Without futher ado, here is the list of physical constants (aka universal constants aka fundamental constants):
 
