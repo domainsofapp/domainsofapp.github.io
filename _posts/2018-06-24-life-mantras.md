@@ -122,7 +122,7 @@ Be as simple and clear as possible in your writing. Use Simple English when poss
 
 Always give credit where credit is due (essential ethical and moral code; if you ever take credit for anything that is not yours, you're a sc****bag).
 
-Rearrange your room/apartment/house/domicile everyday; this is one of the many, natural psychological medications prescribed by the Situationist International (SI) movement and philosophy.
+Rearrange your room/apartment/house/domicile every day; this is one of the many, natural psychological medications prescribed by the Situationist International (SI) movement and philosophy.
 
 The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
