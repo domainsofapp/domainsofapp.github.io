@@ -116,7 +116,7 @@ Try to never leave Git unsynced to the cloud repository. You may lose your compu
 
 Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word).
 
-Nothing matters. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom. When possible, eat enough to be able to sleep each night.
+Nothing matters. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for people. (In the end, the sun'll stops shining. In the meantime, life can always be better.) When possible, eat enough to be able to sleep each night.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
