@@ -116,7 +116,7 @@ Try to never leave Git unsynced to the cloud repository. You may lose your compu
 
 Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We are mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word).
 
-Nothing matters. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for people. (In the end, the sun'll stops shining. In the meantime, life can always be better.) When possible, eat enough to be able to sleep each night.
+Nothing matters. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to be able to sleep each night.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
@@ -126,7 +126,7 @@ Rearrange your room/apartment/house/domicile everyday; this is one of the many, 
 
 The only reason you care about anything bad that happens to you in life is because you are afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you are dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
-At all times, before doing anything, close your eyes and roll them to the back of your brain. Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Roll your own conciousness back onto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking).
+At all times, before doing anything, close your eyes and roll them to the back of your brain. Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Roll your own consciousness back onto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking).
 
 Bad times suck. However, the worst times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
 
