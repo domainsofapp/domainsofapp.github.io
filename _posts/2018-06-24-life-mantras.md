@@ -152,7 +152,7 @@ If you don't wish to be judged for your vulnerabilities, or you're just tired of
 
 It’s water under the bridge: When you regret something but cannot change it, figure out the lesson(s) to be learned as quickly as possible, and then immediately forget about everything except the valuable lesson(s). Try to never repeat the mistake. You are human and will make mistakes. This is the best you can do after the fact (it is what you can do to make up for the mistake).
 
-How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this, *tisk tisk*, SMH,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
+How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'He should have done or had this, *tsk-tsk*, SMH,' or, 'If only he had (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
 
 I prefer "missed" to "lost". Many things in life are lost but not all are missed after they are lost.
 
