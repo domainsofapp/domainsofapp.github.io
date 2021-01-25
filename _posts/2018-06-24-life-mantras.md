@@ -46,7 +46,7 @@ Never boast (unless you're hungry)--you'll eat your words.
 
 If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
 
-Strive for excellence. Whether you achieve it or not does not matter. 'Tis the strive that counts.
+Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts.
 
 Self-immerse in culture.
 
@@ -94,7 +94,7 @@ Sh!t happens. Life goes on.
 
 Regarding matters of trivial concern: If you ignore something, it will go away.
 
-Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you do not; and, even if you do, see above life mantra: Everything will be O-K, <<insert your or someone else's name>>).
+Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you don't have; and, even if you do, see above life mantra: Everything will be O-K, <<insert your or someone else's name>>).
 
 Two-week rule: Give every health issue of moderate concern two weeks. If you are still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
 
@@ -138,7 +138,7 @@ Build tools around workflows, not workflows around tools. Credit not mine. Sourc
 
 Be present, but fly under the radar at all times (out of a safety concern for your own self).
 
-As a rule, never look up yourself ("ego-surfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind does not feel like doing anything.
+As a rule, never look up yourself ("ego-surfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind doesn't feel like doing anything.
 
 Train your mind to operate on three concurrent paths at all times: 1.) the here and now, 2.) the immediate next step, and 3.) making sure #1 and #2 are all there ever is.
 
