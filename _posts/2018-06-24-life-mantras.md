@@ -34,7 +34,7 @@ Everything is going to be O-K, <<insert your or someone else's name>>.
 
 One blog post per day. One Git commit per day.
 
-The pain is real. The struggle is real.
+The pain is real. The struggle is real. It's hard to be a human being (the latter is from Jimmie Whisman, American comedian).
 
 Don't be a <<insert_curse_word>>.
 
@@ -86,7 +86,7 @@ Say the Programmer's Prayer when needed: Please, J0d, help me solve this bug.
 
 When all else fails--when you hit a mental block--try a Parallax view (i.e., looking at something through an entirely different ideological framework).
 
-Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!).
+Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it is your most true, real, unfiltered, unique, individualistic, and actually cool self!). Focus your adult life on remembering what you liked as a kid (interests and hobbies).
 
 No FOMO: Have no fear of missing out, because you have already missed out (e.g., before you were born); you are missing out (e.g., while you are alive); and, you always will miss out (e.g., after you are dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
@@ -167,3 +167,5 @@ Re: Job. Look at your own résumé, curriculum vitae (CV), and cover letter. Ask
 Aim for good enough for government work. Achieve this and you can move on with life. After all, a decent government is one that exists to serve its people (one cannot say the same about the private sector).
 
 May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang in solidarity for all is terrible in the world.)
+
+!!Cliché Warning!! You do you. Embrace what is uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
