@@ -45,6 +45,7 @@ Brick and mortar
 Bridge the gap  
 Bring to light  
 Bring to the fore  
+Bring to the table  
 Brings it all together  
 Build off  
 Building off  
@@ -103,12 +104,15 @@ Exploratory
 Eyesore  
 Fall through the cracks  
 Feed the beast  
+Fill a gap  
+Fill a need  
 Finger on the pulse  
 Finger on the trigger  
 Front-end  
 Full circle  
 FYI only  
 Game changing  
+Gap analysis  
 Get down to brass tacks  
 Get out of a rut  
 Get the ball rolling  
@@ -129,6 +133,7 @@ Heads up
 Heavy lifting  
 High level  
 High-level  
+Hit the nail on the head  
 Hop on a call  
 Housekeeping items  
 Imagineer  
@@ -256,7 +261,7 @@ Spin up
 Spit-balling  
 Spun up  
 Stage-gate  
-Stakeholders  
+Stakeholder  
 Start from scratch  
 State of the union  
 Stickiness  
