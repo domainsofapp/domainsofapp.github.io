@@ -146,7 +146,7 @@ F--k you. Pay me. We only live once (WOLO). This is OUR time to live OUR lives; 
 
 Wait two weeks to report any medical, dental, etc. issue to a professional (doctor, dentist, etc.).
 
-Return to your child-state (as far as hobbies and interests go). Try to embrace games, puzzles, and riddles. Reject innately-tempting, curmudgeonly behavior when possible. The world sucks without good people doing good things; you must manifest not-suck into the world or else it will innately suck.
+Return to your child-state (as far as hobbies and interests go). Try to embrace games, puzzles, and riddles. Reject innately-tempting, curmudgeonly behavior when possible. The world sucks without good people doing good things; you must manifest not-suck into the world or else it will innately suck. Nature is a monstrosity. Embrace it and have fun.
 
 If you don't wish to be judged for your vulnerabilities, or you're just tired of it all, be alone forever. That doesn't sound like much fun, though.
 
