@@ -70,6 +70,7 @@ Core values
 Crank  
 Cross the chasm  
 Cross the valley  
+Cross-pollination  
 Cross-talk  
 Crunch  
 Daily grind  
@@ -111,6 +112,7 @@ Game changing
 Get down to brass tacks  
 Get out of a rut  
 Get the ball rolling  
+Getting to yes  
 Give it a minute  
 Go for broke  
 Good For You (G.F.Y.)  
@@ -165,6 +167,7 @@ March forward
 Meeting minutes  
 Meetings  
 Metrics  
+Mileage  
 Milestones  
 Minority share  
 Mission statement  
@@ -238,7 +241,7 @@ Rubber hits the road
 Safe harbor  
 Seamless  
 Seamless integration  
-Seed the idea  
+Seed an idea  
 Selling points  
 Set the stage  
 Sh!t a brick  
@@ -248,6 +251,7 @@ Shed light on
 Shelf docs  
 Shift gears  
 Shoot yourself in the foot  
+Social capital  
 Spin up  
 Spit-balling  
 Spun up  
@@ -256,6 +260,7 @@ Stakeholders
 Start from scratch  
 State of the union  
 Stickiness  
+Stopping horse  
 Straw man  
 Streamline  
 Streamlined  
@@ -287,6 +292,7 @@ Top of the funnel
 Top of the hour  
 Top-line revenue  
 Touch base  
+Triple bottom line  
 Turn the crank  
 Underserved  
 Up to speed  
@@ -300,5 +306,6 @@ White elephant
 Within the business  
 Wrap up  
 Wrap it up  
+Yes factor  
 You break it, you buy it  
 Zero in
