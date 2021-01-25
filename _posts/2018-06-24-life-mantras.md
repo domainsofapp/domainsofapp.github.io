@@ -78,7 +78,7 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. (Put on your oxygen mask, & then get to helping others.)
+Do. Every. Single. Thing. For. Yourself. First and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. (Don your oxygen mask & floaties. Then get to helping others!)
 
 You get what you measure.
 
@@ -136,7 +136,7 @@ Everything in life that can go wrong, will go wrong, so try to prepare for it if
 
 Build tools around workflows, not workflows around tools. Credit not mine. Source: <https://news.ycombinator.com/item?id=24244329>
 
-Be present, but fly under the radar at all times (out of a safety concern for your own self).
+Be present, but fly under the radar at all times (if nothing else, out of a safety concern for your own self).
 
 As a rule, never look up yourself ("ego-surfing") or others on the Internet. Never "surf" without purpose. Do everything for a specific purpose driven by your mind, even if "everything" is nothing because your mind doesn't feel like doing anything.
 
