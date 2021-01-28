@@ -78,7 +78,7 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates/housemates/apartmentmates, etc.). While we're at it, avoid both nicotine/tobacco and credit card debt like the plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. First and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. This applies even if you are with someone; your partner will appreciate it (!) (Don your oxygen mask & floaties. Then get to helping others!)
+Do. Every. Single. Thing. For. Yourself--first and foremost (!). Align your goals with helping and doing good for others. Take. Care. Of. Yourself. This applies even if you are with someone; your partner will appreciate it (!) (Don your oxygen mask & floaties. Then get to helping others!)
 
 You get what you measure.
 
