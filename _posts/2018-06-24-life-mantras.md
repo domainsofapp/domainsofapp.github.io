@@ -106,7 +106,7 @@ Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it. 
 
 You're going to get through it even if you're all on your own.
 
-It is one (bad) thing to be an a-hole; it is altogether another to be a scumbag. Avoid any hint of scumbagggery at all times like the plague.
+It is one (bad) thing to be an a-hole; it is altogether another to be a scumbag. Avoid any hint of scumbaggery at all times like the plague.
 
 Never accept a job (if/when switching jobs) without a sign-on bonus especially in the middle of a calendar year. The tax burden (i.e., effort, time, and cost) alone of switching jobs requires it.
 
