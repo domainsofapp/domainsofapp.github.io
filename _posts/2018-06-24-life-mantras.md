@@ -169,3 +169,7 @@ Aim for good enough for government work. Achieve this and you can move on with l
 May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang in solidarity for all that is terrible in the world.)
 
 !!Cliché Warning!! You do you. Embrace what is uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
+
+Every day, do at least one activity that scares you.
+
+Remember the 3-2-1 rule: 3 hours of sleep, 2 hot meals, and 1 shower per day (if possible) (credit not mine; source: SomaFM DEF Con Radio station)
