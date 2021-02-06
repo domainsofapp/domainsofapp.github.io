@@ -8,6 +8,36 @@ title: Notable Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
+## Excerpts from Macbeth
+
+Whence is that knocking?—  
+How is’t with me, when every noise appals me?  
+What hands are here! Ha, they pluck out mine eyes.  
+Will all great Neptune’s ocean wash this blood  
+Clean from my hand? No, this my hand will rather  
+The multitudinous seas incarnadine,  
+Making the green one red.
+
+--Macbeth, Act 2, Scene 2
+
+A little water clears us of this deed.  
+How easy is it, then! Your constancy  
+Hath left you unattended.  
+
+--Lady Macbeth, Act 2, Scene 2
+
+Out, damned spot! Out, I say!—One, two. Why,  
+then, ’tis time to do ’t. Hell is murky!—Fie, my  
+lord, fie! A soldier, and afeard? What need we  
+fear who knows it, when none can call our  
+power to account?—Yet who would have  
+thought the old man to have had so much  
+blood in him.
+
+--Lady Macbeth, Act 5, Scene 1
+
+by William Shakespeare
+
 ## Excerpt from Ulysses (1842) 54-62
 The lights begin to twinkle from the rocks;  
 The long day wanes; the slow moon climbs; the deep  
