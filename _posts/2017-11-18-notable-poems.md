@@ -8,6 +8,20 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Assorted Lullabies
+Bye baby Bunting,  
+Daddy's gone a-hunting,  
+Gone to find a rabbit skin,  
+To wrap the baby Bunting in.
+
+--Sonya, in Dexter, S5:E3, "Practically Perfect"
+
+Flies in the buttermilk, shoo fly shoo.  
+Lost my partner, what'll I do?  
+Skip to the Lou, my Darling.
+
+--Sonya, in Dexter, S5:E6, "Everything is Illumenated"
+
 ## Paul Revere's Ride
 LISTEN, my children, and you shall hear  
 Of the midnight ride of Paul Revere,  
