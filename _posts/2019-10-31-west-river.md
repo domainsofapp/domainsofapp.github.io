@@ -10,7 +10,7 @@ title: West River
 
 NB #1: I submitted the below short story to The New Yorker, and it was rejected (no reply back), so now I am uploading it here with the expressed and explicit permission of the original author (M.T.S.).
 
-NB #2: As with all other original posts on my blog, all content is subject to the license agreement (aka Copyright Notice) in this blog's GitHub readme file. To view the readme, please click the red banner at the upper right of this page. As always, thank you for reading. Now, please sit back and enjoy the short story.
+NB #2: As with all other original posts on my blog, all content is subject to the license agreement (aka Copyright Notice) in this blog's GitHub readme file. To view the readme, please click the red banner at the upper right of this page. As always, thank you for reading. Now, please sit back and enjoy the following short story.
 
 #### West River (aka Their Separate Ways)
 By M.T.S.
