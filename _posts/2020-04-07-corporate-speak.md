@@ -8,7 +8,9 @@ title: Corporate Speak
 
 <p class="meta">07 Apr 2020 - Berkeley, CA</p>
 
-Use it or lose it!
+Use it or lose it, folks!
+
+(Or, take on the Corporate Speak challenge: See if you can avoid the use of any of these like The Plague and still succeed in your career.)
 
 30,000-foot view  
 Above my pay grade  
@@ -16,6 +18,7 @@ Across the value chain
 Action item  
 Ad hoc  
 Agenda  
+Agile  
 Ahead of the eight ball  
 As per  
 ASAP  
@@ -125,6 +128,8 @@ Go-to items
 Go-to person  
 Go-to-market strategy  
 Ground zero  
+Hamstring  
+Hamstrung  
 Hang self out to dry  
 Hard stop  
 Harmonization  
@@ -237,6 +242,7 @@ Raise the stakes
 Re  
 Ready for prime time  
 Regroup  
+Resilience  
 Resiliency  
 Rinse and repeat  
 Roles and responsibilities (R&R)  
@@ -276,6 +282,7 @@ Switching gears
 Synergies  
 Synergistic  
 Synergy  
+Tackle  
 Tailwinds  
 Take a crack at it  
 Take a stab at it  
