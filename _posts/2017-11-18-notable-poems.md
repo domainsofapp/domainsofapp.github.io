@@ -153,7 +153,8 @@ The people will waken and listen to hear
 The hurrying hoof-beat of that steed,  
 And the midnight-message of Paul Revere.
 
-by Henry Wadsworth Longfellow, 1860
+by Henry Wadsworth Longfellow, 1860  
+Source: <http://www.paul-revere-heritage.com/poem.html>
 
 ## The Second Coming
 Turning and turning in the widening gyre  
