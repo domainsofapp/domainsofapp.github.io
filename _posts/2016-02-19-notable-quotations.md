@@ -437,3 +437,5 @@ God, grant me the serenity to accept the things I cannot change, courage to chan
 Trust, but verify. --Suzanne Massie, American Scholar
 
 Jeepers! Zoinks! --Scooby-Doo
+
+One, if by land, and two, if by sea. --Henry Wadsworth Longfellow, American Poet ["Phrase was coined by the American poet, Henry W. Longfellow in his poem, Paul Revere's Ride. It was a reference to the secret signal orchestrated by Revere during his historic ride from Boston to Concord on the verge of American Revolutionary War." Source: <https://www.paul-revere-heritage.com/one-if-by-land-two-if-by-sea.html>]
