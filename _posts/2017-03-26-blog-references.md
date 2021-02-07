@@ -19,6 +19,7 @@ Many links featured on this blog were discovered on one of the following profess
 * <https://www.metafilter.com/home/popularfavorites/>
 * <https://roughlydaily.com/>
 * <https://slashdot.org/>
+<br>
 
 And, admittedly the following:
 
