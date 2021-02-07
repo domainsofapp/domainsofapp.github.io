@@ -92,6 +92,7 @@ Dog and pony show (i.e., Pressing of the flesh, greasing of the palms. --Roland,
 Don't give them the rope to hang you with  
 Dovetail  
 Down the line  
+Draw straws  
 Drill down  
 Drive down  
 Drive up  
@@ -159,6 +160,7 @@ In the loop
 It is what it is  
 Juggling too many  
 Jump on a call  
+Jump through hoops  
 Just-in-time  
 Keep me posted  
 Key on it  
@@ -172,6 +174,7 @@ Launch
 Launchpad  
 Lead the charge  
 Leaps and bounds  
+Left holding the bag  
 Lessons learned  
 Let people filter in  
 Lever  
@@ -232,6 +235,7 @@ Pin down
 Ping  
 Plan of attack  
 Plant the seed  
+Play a key role  
 Players  
 Plow through 'em  
 Plug away  
@@ -273,6 +277,7 @@ Shed light on
 Shelf docs  
 Shift gears  
 Shoot yourself in the foot  
+Skin in the game  
 Slipperiness  
 Social capital  
 Spin up  
