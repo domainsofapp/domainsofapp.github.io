@@ -36,7 +36,7 @@ Best, <<insert_name>>
 Between a rock and a hard place  
 Black sheep  
 Blow through  
-Boilerplate (some other related word)  
+Boilerplate  
 Boom boom boom  
 Boots on the ground  
 Bottleneck  
@@ -162,6 +162,7 @@ Kudos
 Launch  
 Launchpad  
 Lead the charge  
+Leaps and bounds  
 Lessons learned  
 Let people filter in  
 Lever  
@@ -277,6 +278,7 @@ Streamline
 Streamlined  
 Streamlining  
 Subject matter expert (SME)  
+Suss out  
 Switch gears  
 Switching gears  
 Synergies  
@@ -293,6 +295,7 @@ Takeaway
 Take-home message  
 Tangent  
 Tangential  
+Tender  
 That ship has sailed  
 That's the ticket  
 The market  
