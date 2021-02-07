@@ -73,11 +73,13 @@ Cookie-cutter
 Cooking the books  
 Core values  
 Crank  
+Crank out  
 Cross the chasm  
 Cross the valley  
 Cross-pollination  
 Cross-talk  
 Crunch  
+Crystal clear  
 Daily grind  
 Debrief  
 Decision points  
@@ -110,11 +112,13 @@ Eyesore
 Fake it 'til you make it  
 Fall through the cracks  
 Feed the beast  
+File it away  
 Fill a gap  
 Fill a need  
 Finger on the pulse  
 Finger on the trigger  
 Fire it up  
+Fire up an instance  
 First pass  
 Front-end  
 Full circle  
@@ -122,6 +126,7 @@ FYI only
 Game changing  
 Gap analysis  
 Get down to brass tacks  
+Get in the game  
 Get out of a rut  
 Get the ball rolling  
 Getting to yes  
@@ -151,6 +156,7 @@ High-level
 Hit the nail on the head  
 Hop on a call  
 Housekeeping items  
+Huddle up  
 If it only were  
 Imagineer  
 Imagineering  
@@ -158,6 +164,7 @@ In my humble opinion
 In no uncertain terms  
 In our toolbox  
 In our wheelhouse  
+In the hopper  
 In the loop  
 It is what it is  
 Juggling too many  
@@ -209,12 +216,15 @@ No quarter
 Noodle it  
 Nose to the grindstone  
 Off the map  
+Off the plate  
 Off the radar  
 Off the table  
 Off to the races  
 Off-the-shelf  
+On the ball  
 On the docket  
 On the map  
+On the plate  
 On the radar  
 On the same page  
 On the table  
@@ -224,6 +234,7 @@ Opportunity cost
 Organic  
 Organically  
 Out of the loop  
+Out of the hopper  
 Pain points  
 Par for the course  
 Paradigm shift  
@@ -287,8 +298,10 @@ Shift gears
 Shoot yourself in the foot  
 Skin in the game  
 Slipperiness  
+Smash-up  
 Social capital  
 Spin up  
+Spin up an instance  
 Spit-balling  
 Spun up  
 Stage-gate  
@@ -304,6 +317,8 @@ Streamlined
 Streamlining  
 Subject matter expert (SME)  
 Suss out  
+Sustainable  
+Sustainability  
 Switch gears  
 Switching gears  
 Synergies  
