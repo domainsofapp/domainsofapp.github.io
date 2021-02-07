@@ -111,6 +111,7 @@ Fill a gap
 Fill a need  
 Finger on the pulse  
 Finger on the trigger  
+First pass  
 Front-end  
 Full circle  
 FYI only  
@@ -120,7 +121,11 @@ Get down to brass tacks
 Get out of a rut  
 Get the ball rolling  
 Getting to yes  
+Give it a gander  
+Give it a go  
 Give it a minute  
+Give it a run for its money  
+Give it a shot  
 Go for broke  
 Good For You (G.F.Y.)  
 Goose egg (zero)  
@@ -141,6 +146,7 @@ High-level
 Hit the nail on the head  
 Hop on a call  
 Housekeeping items  
+If it only were  
 Imagineer  
 Imagineering  
 In my humble opinion  
@@ -256,6 +262,7 @@ Seamless integration
 Seed an idea  
 Selling points  
 Set the stage  
+Sidebar  
 Sh!t a brick  
 Sh!t the bed  
 Shake things up  
@@ -298,9 +305,11 @@ Tangential
 Tender  
 That ship has sailed  
 That's the ticket  
+The buck stops here  
 The market  
 Thought leadership  
 Timelines  
+Time slot  
 Tip of the iceberg  
 Toolbox  
 Top of the funnel  
