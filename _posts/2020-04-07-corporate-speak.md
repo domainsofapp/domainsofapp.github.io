@@ -162,6 +162,7 @@ Juggling too many
 Jump on a call  
 Jump through hoops  
 Just-in-time  
+Kaizen  
 Keep me posted  
 Key on it  
 Key on this  
@@ -183,6 +184,7 @@ Leverage
 Leveraging  
 Looped in  
 Lose your shirt  
+Low hanging fruit  
 Macro trends  
 Majority share  
 March on  
@@ -209,6 +211,7 @@ Off the radar
 Off the table  
 Off to the races  
 Off-the-shelf  
+On the docket  
 On the map  
 On the radar  
 On the same page  
@@ -306,7 +309,7 @@ Take a crack at it
 Take a stab at it  
 Take a step back  
 Take it offline  
-Take that to the bank  
+Take it to the bank  
 Takeaway  
 Take-home message  
 Tangent  
