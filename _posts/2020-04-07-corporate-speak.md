@@ -114,6 +114,7 @@ Fill a gap
 Fill a need  
 Finger on the pulse  
 Finger on the trigger  
+Fire it up  
 First pass  
 Front-end  
 Full circle  
@@ -142,6 +143,7 @@ Hang self out to dry
 Hard stop  
 Harmonization  
 Hats off  
+Head in the game  
 Heads up  
 Heavy lifting  
 High level  
@@ -204,7 +206,7 @@ My schedule is open
 Need-to-know basis  
 Nice segue  
 No quarter  
-Noodle on it  
+Noodle it  
 Nose to the grindstone  
 Off the map  
 Off the radar  
@@ -218,6 +220,7 @@ On the same page
 On the table  
 OoO: Out of Office  
 OpEx  
+Opportunity cost  
 Organic  
 Organically  
 Out of the loop  
@@ -252,6 +255,7 @@ Push forward
 Push through  
 Put the issue or matter to rest or to bed  
 Put the nail in the coffin  
+Put your money where your mouth is  
 Quick and dirty  
 Rabbit hole  
 Raise the bar  
@@ -274,6 +278,7 @@ Selling points
 Set the stage  
 Sidebar  
 Sh!t a brick  
+Sh!t or get off the pot  
 Sh!t the bed  
 Shake things up  
 Shed light on  
@@ -290,6 +295,7 @@ Stage-gate
 Stakeholder  
 Start from scratch  
 State of the union  
+Step up (y)our game  
 Stickiness  
 Stopping horse  
 Straw man  
@@ -310,8 +316,10 @@ Take a stab at it
 Take a step back  
 Take it offline  
 Take it to the bank  
+Take the lead  
 Takeaway  
 Take-home message  
+Talk the talk  
 Tangent  
 Tangential  
 Tender  
@@ -337,6 +345,7 @@ Value chain
 Value-add  
 Vanguard  
 Vision statement  
+Walk the walk  
 Wheelhouse  
 White elephant  
 Within the business  
@@ -344,4 +353,5 @@ Wrap up
 Wrap it up  
 Yes factor  
 You break it, you buy it  
+Your position is redundant  
 Zero in
