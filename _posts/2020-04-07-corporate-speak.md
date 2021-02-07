@@ -31,6 +31,7 @@ Base case
 Baseline  
 Bearish  
 Become a research or science project  
+Benchmark  
 Best bang for the buck  
 Best, <<insert_name>>  
 Between a rock and a hard place  
@@ -105,6 +106,7 @@ End of week (EoW)
 End-to-end (E2E)  
 Exploratory  
 Eyesore  
+Fake it 'til you make it  
 Fall through the cracks  
 Feed the beast  
 Fill a gap  
@@ -150,6 +152,7 @@ If it only were
 Imagineer  
 Imagineering  
 In my humble opinion  
+In no uncertain terms  
 In our toolbox  
 In our wheelhouse  
 In the loop  
@@ -270,6 +273,7 @@ Shed light on
 Shelf docs  
 Shift gears  
 Shoot yourself in the foot  
+Slipperiness  
 Social capital  
 Spin up  
 Spit-balling  
