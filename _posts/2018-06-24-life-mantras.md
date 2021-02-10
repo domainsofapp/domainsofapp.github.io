@@ -80,7 +80,7 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates, housemates, apartmentmates, etc.). While we're at it, avoid nicotine, tobacco, and credit card debt like The Plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. First and foremost (!). Sounds selfish; it's not. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (!) (i.e., Remember to don your own floaties & oxygen mask first; then get to helping others!)
+Do. Every. Single. Thing. For. Yourself. First and foremost. Sounds selfish; it's not. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (i.e., Remember to don your own floaties & oxygen mask first; then get to helping others.)
 
 You get what you measure.
 
@@ -88,7 +88,7 @@ Say the Programmer's Prayer when needed: Please, J0d, help me solve this bug.
 
 When all else fails--when you hit a mental block--try a Parallax view (i.e., looking at something through an entirely different ideological framework).
 
-Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it's your most true, real, unfiltered, unique, individualistic, and actually cool self!). Focus your adult life on remembering what you liked as a kid (interests and hobbies).
+Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it's your most true, real, unfiltered, unique, individualistic, and actually cool self). Focus your adult life on remembering what you liked as a kid (interests and hobbies).
 
 No FOMO: Have no Fear of Missing Out, because you have already missed out (e.g., before you were born); you're missing out right now (e.g., while you're alive); and, you'll always miss out (e.g., after you're dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
@@ -116,7 +116,7 @@ Nothing on the outside ultimately matters (your skin, your bones, your teeth, yo
 
 Try to never leave Git unsynced to the cloud repository. You may lose your computer (and work in the process).
 
-Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Remember to use the body you were given to interact with (i.e., measure) the world! Data is $$$GoLd$$$! (Credit not mine; source: TBD hedge fund.)
+Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Remember to use the body you were given to interact with (i.e., measure) the world. Data is $$$GoLd$$$! (Credit for the latter not mine; source: TBD hedge fund.)
 
 Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See 3-2-1 rule below.
 
@@ -128,7 +128,7 @@ Rearrange your apartment/domicile/house/room every day; this is one of the many,
 
 The only reason you care about anything bad that happens to you in life is because you're afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you're dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
-Before doing anything really important, close your eyes and roll them to the back of your brain. (!!Caution!! Don't fall over!) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
+Before doing anything really important, close your eyes and roll them to the back of your brain. (!!Caution!! Don't fall over.) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
 
 Bad times suck. However, the worst of times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
 
