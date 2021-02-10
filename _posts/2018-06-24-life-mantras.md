@@ -28,8 +28,6 @@ If you had one year left to live, what would you do right now?
 
 When there's (attractive) magnetism between people, it's clear, and you'll know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that's one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms). General rule-of-thumb in life: If something feels even remotely forced, it's time to move forward and onward with pride--there's a whole, new world out there!
 
-Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
-
 For every task, first define the "measure of success".
 
 Success is relative to happiness.
@@ -138,7 +136,7 @@ Bad times suck. However, the worst of times are also the greatest fuel for artis
 
 Exercise your imagination to the fullest potential. It's the most powerful thing you can do with your brain/consciousness/mind.
 
-Everything in life that can go wrong, will go wrong, so try to prepare for it if possible. Accept this principle as the premise of your life in every second of every day, especially in the times when absolutely everything is falling apart around you ("When it rains, it pours." --Morton Salt, American Food Company). If possible, best to prepare for the worst in every moment.
+Everything in life that can go wrong, will go wrong, so try to prepare for it if possible. Accept this principle as the premise of your life in every second of every day, especially in the times when absolutely everything is falling apart around you. If possible, best to prepare for the worst in every moment.
 
 Build tools around workflows, not workflows around tools. Credit not mine. Source: <https://news.ycombinator.com/item?id=24244329>
 
@@ -175,8 +173,6 @@ Aim for good enough for government work. Achieve this and you can move on with l
 May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang in solidarity for all that's terrible in the world.)
 
 You do you. Embrace what's uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
-
-You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
 
 Every day, do at least one activity that scares you.
 
