@@ -447,3 +447,7 @@ That'll do, pig. That'll do. --Farmer Arthur Hoggett, fictional character in the
 One, if by land, and two, if by sea. --Henry Wadsworth Longfellow, American Poet ["Phrase was coined by the American poet, Henry W. Longfellow in his poem, Paul Revere's Ride. It was a reference to the secret signal orchestrated by Revere during his historic ride from Boston to Concord on the verge of American Revolutionary War." Source: <https://www.paul-revere-heritage.com/one-if-by-land-two-if-by-sea.html>]
 
 Data is gold! --TBD hedge fund
+
+Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
+
+You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
