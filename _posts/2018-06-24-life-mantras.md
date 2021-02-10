@@ -80,7 +80,7 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates, housemates, apartmentmates, etc.). While we're at it, avoid nicotine, tobacco, and credit card debt like The Plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Do. Every. Single. Thing. For. Yourself. First and foremost. Sounds selfish; it's not. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (i.e., Remember to don your own floaties & oxygen mask first; then get to helping others.)
+Do. Every. Single. Thing. For. Yourself. First and foremost. Sounds selfish; it's not. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (i.e., Don your own floaties & oxygen mask first; then get to helping others.)
 
 You get what you measure.
 
@@ -118,9 +118,9 @@ Nothing on the outside ultimately matters (your skin, your bones, your teeth, yo
 
 Try to never leave Git unsynced to the cloud repository. You may lose your computer (and work in the process).
 
-Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Remember to use the body you were given to interact with (i.e., measure) the world. Data is $$$GoLd$$$! (Credit for the latter not mine; source: TBD hedge fund.)
+Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Use the body you were given to interact with (i.e., measure) the world. Data is $$$GoLd$$$! (Credit for the latter not mine; source: TBD hedge fund.)
 
-Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See also: 3-2-1 rule.
+Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, realize that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See also: 3-2-1 rule.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
