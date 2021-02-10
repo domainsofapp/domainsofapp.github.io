@@ -98,7 +98,9 @@ Regarding matters of trivial concern: If you ignore something, it will go away.
 
 Never look up matters of health online (on the Internet). If you do, you'll find out that you have the very worst type of irreversible and untreatable condition (which you don't have; and, even if you do, see above life mantra: Everything will be O-K, <<insert your or someone else's name>>).
 
-Two-week rule: Give every health issue of moderate concern two weeks. If you're still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
+2-week rule: Give every health issue of moderate concern two weeks. If you're still thinking about it at that point, schedule an appointment to talk to a professional (for peace of mind if nothing else).
+
+3-2-1 rule: Three hours of sleep, two hot meals, and one shower per day (if possible) (credit not mine; source: SomaFM DEF Con Radio station).
 
 15-minute rule: Let a child cry for 15-minutes before attending to them. (Of course, monitor the situation in the meantime.) It teaches discipline (a quality that's greatly lacking in this modern world).
 
@@ -118,7 +120,7 @@ Try to never leave Git unsynced to the cloud repository. You may lose your compu
 
 Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Remember to use the body you were given to interact with (i.e., measure) the world. Data is $$$GoLd$$$! (Credit for the latter not mine; source: TBD hedge fund.)
 
-Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See 3-2-1 rule below.
+Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, remember that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See also: 3-2-1 rule.
 
 Be as simple and clear as possible in your writing. Use Simple English when possible.
 
@@ -173,7 +175,5 @@ May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is 
 You do you. Embrace what's uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
 
 Every day, do at least one activity that scares you.
-
-Remember the 3-2-1 rule: Three hours of sleep, two hot meals, and one shower per day (if possible) (credit not mine; source: SomaFM DEF Con Radio station).
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
