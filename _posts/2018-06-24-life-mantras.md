@@ -28,6 +28,8 @@ If you had one year left to live, what would you do right now?
 
 When there's (attractive) magnetism between people, it's clear, and you'll know it--just like how two magnets with opposite poles "know it" and attract. Sometimes--just like what happens with the magnetic poles on Earth--the polarity switches during one’s lifetime, and that's one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms). General rule-of-thumb in life: If something feels even remotely forced, it's time to move forward and onward with pride--there's a whole, new world out there!
 
+Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
+
 For every task, first define the "measure of success".
 
 Success is relative to happiness.
@@ -92,7 +94,7 @@ Focus your adult life on remembering what you liked and returning to who you wer
 
 No FOMO: Have no Fear of Missing Out, because you have already missed out (e.g., before you were born); you're missing out right now (e.g., while you're alive); and, you'll always miss out (e.g., after you're dead). For any given event, there are at least 100 of the same happening elsewhere at the same time. At every moment, focus on the here and the now--what feels good, just, and right to you. Neither seek nor fear to miss out.
 
-Sh!t happens. Life goes on.
+Sh!t happens. Life goes on and dishes exist. Nothing matters except try to be good. Just get it done--finish the job.
 
 Regarding matters of trivial concern: If you ignore something, it will go away.
 
@@ -174,6 +176,14 @@ May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is 
 
 You do you. Embrace what's uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
 
+You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
+
 Every day, do at least one activity that scares you.
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
+
+Another day, more B.S.--another challenge. Great, you now know what to expect. Now, embrace it!
+
+Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it).
+
+Less fussin', mo' tussin.
