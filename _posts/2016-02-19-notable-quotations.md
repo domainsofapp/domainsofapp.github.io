@@ -451,3 +451,5 @@ Data is gold! --TBD hedge fund
 Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
 
 You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
+
+Looking back is narcissism; looking forward is fantasy. --S.M. from friend and colleague
