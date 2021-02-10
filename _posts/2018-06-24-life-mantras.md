@@ -174,6 +174,6 @@ You do you. Embrace what's uniquely you. Don't be afraid to let it out; even if 
 
 Every day, do at least one activity that scares you.
 
-Remember the 3-2-1 rule: 3 hours of sleep, 2 hot meals, and 1 shower per day (if possible) (credit not mine; source: SomaFM DEF Con Radio station).
+Remember the 3-2-1 rule: Three hours of sleep, two hot meals, and one shower per day (if possible) (credit not mine; source: SomaFM DEF Con Radio station).
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
