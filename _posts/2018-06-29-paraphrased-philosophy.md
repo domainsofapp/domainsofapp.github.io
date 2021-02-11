@@ -129,6 +129,8 @@ The present is the inevitable result of all the historic events leading up to th
 
 As humanity evolves, so does its reasoning and ability to reason. You cannot stop progress towards this end. This constitutes the Hegelian Spirit of History. Social "progress" (towards this end) is inevitable.
 
+Master-slave dialectic: The boy is father to the man (or, the girl is mother to the woman); the "master" is slave to the slave.
+
 ## Heraclitus, Greek Philosopher
 The only thing constant is change.
 
