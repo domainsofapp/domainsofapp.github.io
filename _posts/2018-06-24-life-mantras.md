@@ -183,3 +183,5 @@ Another day, more B.S.--another challenge. Great, you now know what to expect. N
 Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it).
 
 Less fussin', mo' tussin.
+
+News flash: The to-do list will never get shorter. Get used to it.
