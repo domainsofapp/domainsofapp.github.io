@@ -184,4 +184,4 @@ Focus on doing your job & doing it well. You're getting paid for a reason. At th
 
 Less fussin', mo' tussin.
 
-News flash: The to-do list will never get shorter. Get used to it.
+News flash: The to-do list will never get shorter. Get used to it. Also, the more you know, the less you know.
