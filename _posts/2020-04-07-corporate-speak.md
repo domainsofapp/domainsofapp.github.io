@@ -26,6 +26,7 @@ At the end of the day
 Back to square one  
 Back to the drawing board  
 Back-end  
+Backdrop  
 Bandwidth  
 Base case  
 Baseline  
@@ -35,6 +36,7 @@ Benchmark
 Best bang for the buck  
 Best, <<insert_name>>  
 Between a rock and a hard place  
+Black box  
 Black sheep  
 Blow through  
 Boilerplate  
@@ -121,6 +123,7 @@ Fire it up
 Fire up an instance  
 First pass  
 Front-end  
+Front-line  
 Full circle  
 FYI only  
 Game changing  
@@ -160,6 +163,7 @@ Huddle up
 If it only were  
 Imagineer  
 Imagineering  
+In a past life  
 In my humble opinion  
 In no uncertain terms  
 In our toolbox  
@@ -332,6 +336,7 @@ Take a step back
 Take it offline  
 Take it to the bank  
 Take the lead  
+Take the reins  
 Takeaway  
 Take-home message  
 Talk the talk  
@@ -354,6 +359,7 @@ Touch base
 Triple bottom line  
 Turn the crank  
 Underserved  
+Unpack   
 Up to speed  
 Use it or lose it  
 Value chain  
