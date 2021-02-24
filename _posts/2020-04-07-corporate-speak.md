@@ -139,6 +139,7 @@ Give it a minute
 Give it a run for its money  
 Give it a shot  
 Go for broke  
+Good clip  
 Good For You (G.F.Y.)  
 Goose egg (zero)  
 Go-to items  
@@ -264,6 +265,7 @@ Plug-and-chug
 Plug-and-play  
 Pound 'em out  
 Power lunch  
+Power through  
 Prime time  
 Punch through  
 Push forward  
@@ -304,6 +306,8 @@ Skin in the game
 Slipperiness  
 Smash-up  
 Social capital  
+Spin off  
+Spin-off  
 Spin up  
 Spin up an instance  
 Spit-balling  
