@@ -86,6 +86,8 @@ You get what you measure.
 
 Say the Programmer's Prayer when needed: Please, J0d, help me solve this bug.
 
+Thank you J0d for this meal.
+
 When all else fails--when you hit a mental block--try a Parallax view (i.e., looking at something through an entirely different ideological framework).
 
 Focus your adult life on remembering what you liked and returning to who you were as a kid. As you grow up, you'll forget this (or perhaps actively displace it from the memory out of rebellious rejection and thinking it must be uncool--in fact, arguably it's your most true, real, unfiltered, unique, individualistic, and actually cool self). Focus your adult life on remembering what you liked as a kid (interests and hobbies).
