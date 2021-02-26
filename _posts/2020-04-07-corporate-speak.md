@@ -27,6 +27,7 @@ Back to square one
 Back to the drawing board  
 Back-end  
 Backdrop  
+Ball in their court  
 Bandwidth  
 Base case  
 Baseline  
@@ -171,6 +172,7 @@ In our toolbox
 In our wheelhouse  
 In the hopper  
 In the loop  
+In the same boat  
 It is what it is  
 Juggling too many  
 Jump on a call  
@@ -196,6 +198,7 @@ Lever
 Levers  
 Leverage  
 Leveraging  
+Light at end of tunnel  
 Looped in  
 Lose your shirt  
 Low hanging fruit  
@@ -311,6 +314,7 @@ Spin-off
 Spin up  
 Spin up an instance  
 Spit-balling  
+Spits out
 Spun up  
 Stage-gate  
 Stakeholder  
