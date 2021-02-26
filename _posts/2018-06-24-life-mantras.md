@@ -58,7 +58,7 @@ Attempt to emanate heartfelt love in every action.
 
 Don't strive to be an attractive human; strive to be an attractive skeleton.
 
-Unleash the power of the brain.
+Unleash the power of the brain/consciousness/mind.
 
 Strive for continuous improvement; it's good enough for all intents and purposes.
 
@@ -132,7 +132,7 @@ Rearrange your apartment/domicile/house/room every day; this is one of the many,
 
 The only reason you care about anything bad that happens to you in life is because you're afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you're dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
-Before doing anything really important, close your eyes and roll them to the back of your brain. (!!Caution!! Don't fall over.) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
+Before doing anything really important, close your eyes and roll them towards the back of your head. (!!Caution!! Don't fall over.) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
 
 Bad times suck. However, the worst of times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
 
