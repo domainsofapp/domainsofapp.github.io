@@ -174,7 +174,7 @@ Aim for good enough for government work. Achieve this and you can move on with l
 
 May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is Internet slang in solidarity for all that's terrible in the world.)
 
-You do you. Embrace what's uniquely you. Don't be afraid to let it out; even if others see and judge you for it. Make it good!
+You do you, and try not to disturb others in the process. Embrace what's uniquely you. Don't be afraid to let it out, even if others happen to see and judge you for it. Make it good!
 
 Every day, do at least one activity that scares you.
 
