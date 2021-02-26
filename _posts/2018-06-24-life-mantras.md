@@ -64,7 +64,7 @@ Strive for continuous improvement; it's good enough for all intents and purposes
 
 The best engineer is completely replaceable by another human; even better, by an algorithm. Thus, an engineer should strive for self-automation. Write the engineering specification of yourself (what you do in your job).
 
-MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang brr).
+MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang brrr).
 
 Use the Oxford comma. It's more professional, accurate and precise. See, doesn't that bother you, too?
 
