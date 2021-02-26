@@ -34,7 +34,7 @@ Success is relative to happiness.
 
 Seek to accomplish and achieve 1,000 failures, and you'll end up with one success. Failure is the necessary and difficult road to success.
 
-Put something back in the place where you first looked for it. (Credit not mine; sauce: Reddit Life Pro Tips). Also: It's always in the last place you look. (har har)
+Put something back in the place where you first looked for it. (Credit not mine; sauce: Reddit Life Pro Tips). Also, it's always in the last place you look (har har).
 
 Everything's going to be O-K, <<insert your or someone else's name>>. (*gives hug*)
 
@@ -50,7 +50,7 @@ Never boast (unless you're hungry)--you'll eat your words.
 
 If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
 
-Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts.
+Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts. Also, do it for yourself--no one else ultimately cares, and if for some reason they do, it's equally possible they want you to fail as succeed (ignore 'em!).
 
 Self-immerse in culture whenever awake (heck, even while sleeping).
 
@@ -116,11 +116,11 @@ It's one (bad) thing to be an a-hole; it's altogether another to be a dirtbag ak
 
 Never accept a job (e.g., if and when switching jobs) without a sign-on bonus especially in the middle of a calendar year. The tax burden (i.e., effort, time, and cost) alone of switching jobs requires it.
 
-Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, &c.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body. Of course, when your body ultimately breaks down, you're done for (incl. your brain).
+Nothing on the outside ultimately matters (your skin, your bones, your teeth, your mobility, etc.). Only your brain matters. Do everything you can to protect your brain and you can get by no matter what happens to your physical body. Of course, when your body ultimately breaks down, you're done for (incl. your brain).
 
-Try to never leave Git unsynced to the cloud repository. You may lose your computer (and work in the process).
+Try to never leave Git unsynced to the cloud repository. You may lose your computer and thus your unsynced changes (i.e., work).
 
-Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Use the body you were given to interact with (i.e., measure) the world. Data is $$$GoLd$$$! (Credit for the latter not mine; source: TBD hedge fund.)
+Attempt to channel original thoughts into useful published form (e.g., in the real-world "meatspace", e.g., participation in plays, open mic sessions, freestyle raps, or in the digital "cyberspace", e.g., publication to GitHub, SoundCloud, etc.). We're mere tools of consciousness; vectors to publication of unique thoughts and cultural proliferation (incl. in spoken word). Don't get too absorbed into the digital world; you'll become a talking head. Use the body you were given to interact with (i.e., measure) the world. Data is gold (credit not mine; source: TBD hedge fund).
 
 Nothing ultimately matters, while things do matter to people. In times when facing anxiety or depression, realize that nothing ultimately matters except human decency and passing the boredom each day and thereby not losing your sanity. Relentlessly pursue (albeit ultimately, entirely meaningless) life goals in order to stave off boredom and try to make the world a better place for animals (fauna), people, and plants (flora). (In the end, the sun'll stop shining. In the meantime, life can always be better.) When possible, eat enough to sleep each night. See also: 3-2-1 rule.
 
@@ -132,7 +132,7 @@ Rearrange your apartment/domicile/house/room every day; this is one of the many,
 
 The only reason you care about anything bad that happens to you in life is because you're afraid of your own mortality (i.e., your vastly limited life and impending death). Lose your fear of mortality, and you'll be able to face anything bad that happens to you in life. Like the speed of light is to velocity, death is the ultimate "bad" event to happen to you (because once you're dead, no Earthly matter matters anymore). And, just like a person who is experiencing and living light-speed first-hand sees time come to a stop, the person who manages to live without fear of mortality sees the occurrence of insurmountably "bad" events come to a full stop and is able to overcome everything regardless of what it is and continue to move forward.
 
-Before doing anything really important, close your eyes and roll them towards the back of your head. (!!Caution!! Don't fall over.) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
+Before doing anything really important, close your eyes and roll them towards the back of your head. (!!Caution!! Don't fall over!) Think and feel to yourself: "What do I want to do right now?" So long as that thing is socially acceptable and whatnot, do it. Namely, roll your own consciousness back unto itself; like Inception, always think on a meta-level (think about your own thinking; constructively criticize your own modes and outputs of thinking--this takes serious, meditative-like focus).
 
 Bad times suck. However, the worst of times are also the greatest fuel for artistic creation (music, fiction writing, etc.). Channel the worst of times in this productive way.
 
@@ -156,7 +156,7 @@ When it comes to hobbies and interests, return to your child-state: Try to embra
 
 If you don't wish to be judged for your vulnerabilities, or you're just tired of it all, be alone forever. That doesn't sound like much fun, though.
 
-It’s water under the bridge: When you regret something but cannot change it, figure out the lesson(s) to be learned as quickly as possible, and then immediately forget about everything except the valuable lesson(s). Try to never repeat the mistake. You're human and will make mistakes. This is the best you can do after the fact (it's what you can do to make up for the mistake--how you restore justice to the situation and world).
+It's water under the bridge: When you regret something but cannot change it, figure out the lesson(s) to be learned as quickly as possible, and then immediately forget about everything except the valuable lesson(s). Try to never repeat the mistake. You're human and will make mistakes. This is the best you can do after the fact (it's what you can do to make up for the mistake--how you restore justice to the situation and world).
 
 How to prioritize: Ask yourself, "If I were to croak right here and now, what would make people shake their heads and say, 'She should have done or had this, *tsk-tsk*, SMH,' or, 'If only she'd (or had not) done that,' and so on. Now try to fill those gaps so they won't be able to say it.
 
@@ -176,16 +176,16 @@ May I please get an "F." for the homies? Esp. all the fallen soldiers. ("F." is 
 
 You do you, and try not to disturb others in the process. Embrace what's uniquely you. Don't be afraid to let it out, even if others happen to see and judge you for it. Make it good!
 
-Every day, do at least one activity that scares you.
+Every day, do at least one activity that genuinely scares you (& makes you sweat).
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
 
-Another day, more B.S.--another challenge. Great, you now know what to expect. Now, embrace it!
+Another day, more B.S.--another challenge. Great, you now know what to expect. Embrace it!
 
-Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it).
+Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it!).
 
 Less fussin', mo' tussin.
 
 News flash: The to-do list will never get shorter. Get used to it. Also, the more you know, the less you know.
 
-Don't try to fail; if you do, you'll succeed (which defeats the point of trying).
+Don't try to fail; if you do, you'll succeed (which defeats the point).
