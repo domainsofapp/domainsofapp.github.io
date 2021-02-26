@@ -185,3 +185,5 @@ Focus on doing your job & doing it well. You're getting paid for a reason. At th
 Less fussin', mo' tussin.
 
 News flash: The to-do list will never get shorter. Get used to it. Also, the more you know, the less you know.
+
+Don't try to fail; if you do, you'll succeed (which defeats the point of trying).
