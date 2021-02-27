@@ -321,7 +321,8 @@ Stage-gate
 Stakeholder  
 Start from scratch  
 State of the union  
-Step up (y)our game  
+Step up game  
+Step up to plate  
 Stickiness  
 Stopping horse  
 Straw man  
@@ -365,6 +366,7 @@ Top of the funnel
 Top of the hour  
 Top-line revenue  
 Touch base  
+Track record  
 Triple bottom line  
 Turn the crank  
 Underserved  
