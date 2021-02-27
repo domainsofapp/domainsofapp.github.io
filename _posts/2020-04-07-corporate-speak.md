@@ -218,6 +218,7 @@ Move the needle
 My calendar is open  
 My calendar is up-to-date  
 My schedule is open  
+Nail out  
 Need-to-know basis  
 Nice segue  
 No quarter  
@@ -266,7 +267,7 @@ Plow through 'em
 Plug away  
 Plug-and-chug  
 Plug-and-play  
-Pound 'em out  
+Pound out  
 Power lunch  
 Power through  
 Prime time  
