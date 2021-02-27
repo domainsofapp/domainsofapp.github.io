@@ -83,6 +83,7 @@ Cross-pollination
 Cross-talk  
 Crunch  
 Crystal clear  
+C.Y.A.  
 Daily grind  
 Debrief  
 Decision points  
@@ -120,13 +121,14 @@ Fill a gap
 Fill a need  
 Finger on the pulse  
 Finger on the trigger  
-Fire it up  
-Fire up an instance  
+Fire off  
+Fire up  
 First pass  
 Front-end  
 Front-line  
 Full circle  
 FYI only  
+FYR only  
 Game changing  
 Gap analysis  
 Get down to brass tacks  
@@ -181,9 +183,7 @@ Just-in-time
 Kaizen  
 Keep me posted  
 Key on it  
-Key on this  
 Key performance indices (KPIs)  
-Kick it off  
 Kick off  
 Kick-off  
 Kudos  
