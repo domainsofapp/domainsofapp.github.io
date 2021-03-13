@@ -17,6 +17,7 @@ Sans Soleil
 Real Genius
 
 ## Documentary
+Avicii: True Stories  
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
 If You Build It  
 Last Train Home  
