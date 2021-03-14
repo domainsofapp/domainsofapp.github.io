@@ -21,11 +21,11 @@ This blog is intended to eventually host files (or links to files) of the follow
 * Text
 * Video
 
-<br>If you would like to provide content, comments, feedback, or suggestions, you may reach me at:
+<br>If you'd like to provide content, comments, feedback, or suggestions, you may reach me at:
 
 domainsofapp at gee male
 
-If you would like to contribute programmatically or logistically to the site, here are the items on my to-do list:
+If you'd like to contribute programmatically or logistically to the site, here are the items on my to-do list:
 
 * Add viewer counter (I scrapped Google Analytics b/c it weighs down the website and feels like an invasion of privacy and basic human rights)
 * Add commenting features to the posts (e.g., Disqus)
@@ -37,4 +37,4 @@ If you would like to contribute programmatically or logistically to the site, he
 
 Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
-P.S. Please click the "Fork me on GitHub" ribbon in the upper right, fork the GitHub repository, replace my content, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this minimalist and free setup to spread). Thanks again :--)
+P.S. Please click the "Fork me on GitHub" ribbon in the upper right, fork the GitHub repository, replace my content with yours, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this minimalist and free setup to spread). Celebrate individuality & inherent, intrinsic uniqueness. O-K. Cheers. Thanks again. :--)
