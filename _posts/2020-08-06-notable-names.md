@@ -8,7 +8,7 @@ title: Notable Names
 
 <p class="meta">06 Aug 2020 - Berkeley, CA</p>
 
-todo: Add more names from other sources and alphabetize.
+TODO: Add more names from other sources, and alphabetize.
 
 Amygrace  
 Johnnymichael  
