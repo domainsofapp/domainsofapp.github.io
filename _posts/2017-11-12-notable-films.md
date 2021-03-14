@@ -48,4 +48,5 @@ The Pervert's Guide to Ideology
 Train to Busan
 
 ## Notable Actors
-Tony Leung Chiu-wai
+Tony Leung Chiu-wai  
+Klaus Kinski
