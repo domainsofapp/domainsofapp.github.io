@@ -66,6 +66,7 @@ Call an audible
 CapEx  
 Carry the bag  
 Carry the torch  
+Case closed  
 Challenges and opportunities  
 Cherry-pick  
 Churn  
@@ -102,8 +103,10 @@ Draw straws
 Drill down  
 Drive down  
 Drive up  
+Drive the point home  
 Drop a line  
 Drop the ball  
+Easy peasy (lemon squeezy)  
 EBITDA  
 Embark  
 End all be all  
@@ -124,6 +127,8 @@ Finger on the trigger
 Fire off  
 Fire up  
 First pass  
+Follow up  
+Follow-up  
 Front-end  
 Front-line  
 Full circle  
@@ -230,6 +235,7 @@ Off the radar
 Off the table  
 Off to the races  
 Off-the-shelf  
+On deck  
 On the ball  
 On the docket  
 On the map  
@@ -260,6 +266,7 @@ Pillars
 Pin down  
 Ping  
 Plan of attack  
+Plan of show  
 Plant the seed  
 Play a key role  
 Players  
@@ -358,6 +365,7 @@ That's the ticket
 The buck stops here  
 The market  
 Thought leadership  
+Throw under the bus  
 Timelines  
 Time slot  
 Tip of the iceberg  
