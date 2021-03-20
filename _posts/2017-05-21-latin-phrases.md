@@ -8,7 +8,7 @@ title: Latin Phrases
 
 <p class="meta">21 May 2017 - Berkeley, CA</p>
 
-Largely curated by M.T.S.
+Mostly curated by M.T.S. (thanks!)
 
 A bene placito - At one's pleasure  
 Ad astra: To the stars  
