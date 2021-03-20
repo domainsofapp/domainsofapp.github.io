@@ -17,4 +17,4 @@ x = -2:.001:2; y=(sqrt(cos(x)).\*cos(200\*x)+sqrt(abs(x))-0.7).\*(4-x.\*x).^0.01
 ## Wolfram Alpha
 y = |sin(x)| + 5\*exp(-x^100)\*cos(x) from -3 to 3
 
-:--)
+;--P
