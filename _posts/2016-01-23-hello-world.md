@@ -10,7 +10,7 @@ title: Hello World!
 
 This is a test. This is only...a test.
 
-This blog is intended to eventually host files (or links to files) of the following types:
+This personal, experimental Internet filter blog is intended to eventually host files (or links to files) of the following types:
 
 * Audio
 * GIF
