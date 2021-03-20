@@ -222,9 +222,9 @@ by Robert Frost
 
 ## Existence
 I laugh at the absurdity of life,  
-and once I stop, I get back to work,  
-and then I laugh at the absurdity of my hypocricy.  
-Some people today might think I'm crazy;  
+& once I stop, I get back to work,  
+& then I laugh at the absurdity of my hypocrisy.  
+Some people think I'm crazy;  
 I suppose I'm not.
 
 by Irving Washington
