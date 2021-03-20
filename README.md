@@ -1,4 +1,5 @@
 # README for Code Repository "domainsofapp.github.io"
+Personal, experimental Internet filter blog
 
 ## Introduction to "domainsofapp.github.io"
 This code repository "domainsofapp.github.io" hosts the data for my personal experimental Internet filter blog: Domains of Applicability. The website is primarily targeted for my own personal access, reference, and use across multiple Internet-connected devices and machines.
