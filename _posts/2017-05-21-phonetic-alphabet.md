@@ -8,9 +8,9 @@ title: Phonetic Alphabet
 
 <p class="meta">21 May 2017 - Berkeley, CA</p>
 
-Courtesy of M.T.S.
+OG courtesy of M.T.S. (since edited)
 
-A, Alpha (AL fah)  
+A, Alfa (AL fah) (edited from "Alpha")  
 B, Bravo (BRAH VOH)  
 C, Charlie (CHAR lee)  
 D, Delta (DELL tah)  
@@ -19,7 +19,7 @@ F, Foxtrot (FOKS trot)
 G, Golf (GOLF)  
 H, Hotel (hoh TELL)  
 I, India (IN dee ah)  
-J, Juliett (JEW lee ETT)  
+J, Juliett (JEW lee ETT) (not "Juliet")  
 K, Kilo (KEY loh)  
 L, Lima (LEE mah)  
 M, Mike (MIKE)  
