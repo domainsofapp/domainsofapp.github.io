@@ -36,7 +36,7 @@ The traveling salesman problem is at the root of all navigation optimization alg
 
 Any smoke detector on the market should be proven to have an extremely low false positive AND false negative rate in terms of when it goes off. Also, it should not go off as if there is a fire when the battery is low (especially in the middle of the night, ugh).
 
-Perhaps the difference between love and lust is analagous to that of the symbiotic and parasitic.
+Perhaps the difference between love and lust is analogous to that of the symbiotic and parasitic.
 
 Writing legalese and raising a child are like programming (writing code) -- you must define the terminology before you can work with it.
 
@@ -86,7 +86,7 @@ Historically, we only had a physical house to maintain. Nowadays, we have both p
 
 Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
 
-Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, morgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
+Incidentally, I agree that the library system, hair and nail salons, restaurants, bars, all sorts of non-essential businesses, etc. should not be open (as they all presently are) during a global pandemic. (Also, I agree that we need welfare to compensate lost revenues, health care, mortgage/rent/loan support, etc.) The only alternative is to actively make our collective situation worse.
 
 What is technical debt? It is all that remains to be done when you decide, "Screw it." on a project and stop working on it and move to something else--anything else--even if it is something brainless like a Netflix film or true crime podcast.
 
@@ -96,7 +96,7 @@ There is a fundamental difference between working on tools themselves (e.g., com
 
 Rhetorical question: Have you ever met a corporate employee who is both genuinely happy to be working and also highly intelligent? I have not.
 
-If no one designed or built prisons, there wouldn't be any. If no one deisgned or built ads, there wouldn't be any. Responsibility lies in the eye (and hands) of the beholder.
+If no one designed or built prisons, there wouldn't be any. If no one designed or built ads, there wouldn't be any. Responsibility lies in the eye (and hands) of the beholder.
 
 ## False Positive Paradox
 <https://en.wikipedia.org/wiki/False_positive_paradox/>
