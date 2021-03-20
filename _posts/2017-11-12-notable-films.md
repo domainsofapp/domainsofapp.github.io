@@ -28,8 +28,12 @@ Workingman's Death
 ## Drama
 Battle Royale  
 Border  
+Groundhog Day  
+Enter the Void  
+Eternal Sunshine of the Spotless Mind  
 Last Life in the Universe  
 Let The Right One In  
+Lost in Translation  
 Paterson  
 Us and Them
 
