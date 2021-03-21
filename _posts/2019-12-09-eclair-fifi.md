@@ -8,7 +8,7 @@ title: Eclair Fifi
 
 <p class="meta">09 Dec 2019 - Berkeley, CA</p>
 
-Dear Eclair: I stood next to you against the wall behind the stage after your set in San Francisco, CA (2019-11-27); I was wearing a Grateful Dead hat. I'm sorry I didn't say anything to you. I meant to say, "Great set!". I recorded some of it on my phone. I plan to upload it to SoundCloud someday.
+Dear Eclair: I stood next to you against the wall behind the stage after your set in San Francisco, CA (2019-11-27); I was wearing a Grateful Dead hat. I'm sorry I didn't say anything to you. I meant to say, "Great set!". I recorded some of it on my phone. I plan to upload it to SoundCloud someday. Thanks for the good show!
 
 ## Other DJ Names
 Chestnut Chamber  
