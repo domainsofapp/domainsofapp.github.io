@@ -80,7 +80,7 @@ Think before you act. Will this action hurt someone? If so, try a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates, housemates, apartmentmates, etc.). While we're at it, avoid nicotine, tobacco, and credit card debt like The Plague. Someone told me the latter when I was a kid--I want to pay it forward.
 
-Sounds selfish; it's not: Do. Every. Single. Thing. For. Yourself. First and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (i.e., Don your own floaties & oxygen mask first; then get to helping others.)
+Sounds selfish; it's not: Do. Every. Single. Thing. For. Yourself--first and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else--your partner will appreciate it (i.e., Don your own floaties & oxygen mask first; then get to helping others.)
 
 You get what you measure.
 
