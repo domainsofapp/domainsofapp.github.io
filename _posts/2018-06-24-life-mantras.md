@@ -180,7 +180,7 @@ Every day, do at least one activity that genuinely scares you (& makes you sweat
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
 
-Another day, more B.S.--another challenge. Great, you now know what to expect. Embrace it!
+Another day, more B.S.--another challenge. Great. Now you know what to expect--embrace it!
 
 Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it!).
 
