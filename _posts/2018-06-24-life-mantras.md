@@ -110,7 +110,7 @@ I double dog dare you not to ever complain to anyone about any issue no matter h
 
 Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it. Fix it later as needed.
 
-You're going to get through it even if you're all on your own.
+You're going to get through it, even if you're all on your own.
 
 It's one (bad) thing to be an a-hole; it's altogether another to be a dirtbag aka scumbag. Avoid any hint of scumbaggery at all times like The Plague.
 
