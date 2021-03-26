@@ -198,4 +198,6 @@ Math is math.
 
 If it ain't broke, don't fix it.
 
-Not doing is doing. (i.e., Not doing something is doing something--this includes meditation.)
+Not doing is doing. (i.e., Not doing something is doing something--this includes all variants of meditation incl. mindlessness.)
+
+To each her own. What works for you may not work for others. Don't knock it 'til you try it. Judge not. Just focus on doing what floats your boat!
