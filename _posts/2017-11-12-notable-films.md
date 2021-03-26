@@ -31,7 +31,9 @@ Border
 Groundhog Day  
 Enter the Void  
 Eternal Sunshine of the Spotless Mind  
+Fear and Loathing in Las Vegas  
 Last Life in the Universe  
+Leaving Las Vegas  
 Let The Right One In  
 Lost in Translation  
 Paterson  
