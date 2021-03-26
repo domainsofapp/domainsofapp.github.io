@@ -19,8 +19,12 @@ Real Genius
 ## Documentary
 Avicii: True Stories  
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
+Good Night Sugar Babe  
 If You Build It  
 Last Train Home  
+Rikers: An American Jail (PBS)  
+Stevie  
+The Wild and Wonderful Whites of West Virginia  
 Up the Yangtze  
 Wild China  
 Workingman's Death
