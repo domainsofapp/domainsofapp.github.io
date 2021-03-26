@@ -197,3 +197,5 @@ Close friends are the family you choose.
 Math is math.
 
 If it ain't broke, don't fix it.
+
+Not doing is doing. (i.e., Not doing something is doing something--this includes meditation.)
