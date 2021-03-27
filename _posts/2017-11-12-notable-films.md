@@ -41,6 +41,8 @@ Leaving Las Vegas
 Let The Right One In  
 Lost in Translation  
 Paterson  
+The Descendants  
+Up in the Air  
 Us and Them
 
 ## Erotica
