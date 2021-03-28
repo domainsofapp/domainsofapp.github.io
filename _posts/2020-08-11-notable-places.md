@@ -10,7 +10,7 @@ title: Notable Places
 
 NB: Curated from various random sources.
 
-NB: "Notable" has no meaning except the literal (namely, I noted it down). "Notable" does not necessarily mean "good" although it can.
+NB: "Notable" has no meaning except the literal (namely, I noted it down). "Notable" does not necessarily mean "good", although it can.
 
 Black Waterfalls, West Virginia  
 Buzzard's Roost, AZ  
