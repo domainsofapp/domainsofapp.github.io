@@ -8,4 +8,8 @@ title: Notable Physics
 
 <p class="meta">06 Aug 2020 - Berkeley, CA</p>
 
-To apply a voltage, you need two terminals and a ground.
+## Conservation of Momentum (Newtonian Physics)
+A body in motion stays in motion. A body rest stays at rest.
+
+## Electricity
+To apply a voltage, you need two (2) terminals and one (1) ground.
