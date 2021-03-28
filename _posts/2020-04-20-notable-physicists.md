@@ -11,7 +11,7 @@ title: Notable Physicists
 Karen Barad  
 Niels Bohr  
 Alfred Einstein  
-Richard Feynmann  
+Richard Feynman  
 Werner Heisenberg  
 Ernst Mach  
 James Clerk Maxwell  
