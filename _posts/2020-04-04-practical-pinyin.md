@@ -8,7 +8,7 @@ title: Practical Pinyin
 
 <p class="meta">04 Apr 2020 - Berkeley, CA</p>
 
-liang ping Tsingdao - two bottles of Tsingdao beer; all other quantities except "two" ("er") are the same as regarlar counting (yi, not er!, san, se, etc.)
+liang ping Tsingdao - two bottles of Tsingdao beer; all other quantities except "two" ("er") are the same as regular counting (yi, not er!, san, se, etc.)
 
 lingdao ni hao <<insert leader's name>> - hello leader <<leader's name>>
 
