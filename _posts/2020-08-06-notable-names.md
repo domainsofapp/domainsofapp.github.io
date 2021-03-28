@@ -33,6 +33,8 @@ Syringa
 Extra Billy  
 Skeeter  
 Hannelore  
+Hans  
+Wolfgang  
 Jeremiah  
 Wyatt  
 Keesa  
