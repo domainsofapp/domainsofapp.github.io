@@ -452,7 +452,7 @@ Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
 
 You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
 
-Looking back is narcissism; looking forward is fantasy. --S.M. from friend and colleague
+Looking back is narcissism; looking forward is fantasy. --S.M.'s colleague & friend (personal conversation)
 
 Wrap the leader around the tippet. Four, five, six times. Tuck the end between the lines. Tighten. And...trim. --Will Graham character in Hannibal (TV series), S2:E4, Takiawase
 
@@ -465,3 +465,5 @@ Daughter, Son: God gave you a mouth. Learn how to use it. --Source TBD, quoted i
 Liberté, égalité, fraternité. --Maximilien Robespierre, French lawyer (& highly influential figure of the French Revolution)
 
 If it ain't baroque, don't fix it. --Ms. Bach (my former music teacher)
+
+There's no such thing as a synonym. No two words are exact synonyms. --S.M. (personal conversation)
