@@ -201,3 +201,5 @@ If it ain't broke, don't fix it.
 Not doing is doing. (i.e., Not doing something is doing something--this includes all variants of meditation incl. mindlessness.)
 
 To each her own. What works for you may not work for others. Don't knock it 'til you try it. Judge not. Just focus on doing what floats your boat!
+
+Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, whole-hearted, to-the-bone (hence, "Life Mantras") self-acceptance is absolutely, first & foremost, foundational, fundamental, key, & pivotal to mental (psychological) stability & well-being.
