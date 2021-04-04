@@ -69,6 +69,7 @@ Housecoat
 Irreverent  
 Jowly  
 Kanpai!  
+Karaoke: Translates to "empty orchestra"  
 Khazars  
 Kinfolk  
 Lachrymose  
