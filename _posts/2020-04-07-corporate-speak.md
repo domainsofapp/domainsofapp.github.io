@@ -91,6 +91,7 @@ Decision points
 Deep dive  
 Deliverable  
 Derail  
+Dig deep  
 Digitalization  
 Disconnect  
 Dive in  
@@ -288,6 +289,7 @@ Quick and dirty
 Rabbit hole  
 Raise the bar  
 Raise the stakes  
+Raises the question  
 Re  
 Ready for prime time  
 Regroup  
