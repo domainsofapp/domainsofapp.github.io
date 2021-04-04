@@ -50,6 +50,7 @@ Brass tacks
 Break the bank  
 Brick and mortar  
 Bridge the gap  
+Bring it home  
 Bring to light  
 Bring to the fore  
 Bring to the table  
@@ -119,6 +120,7 @@ End-to-end (E2E)
 Exploratory  
 Eyesore  
 Fake it 'til you make it  
+Fall on deaf ears  
 Fall through the cracks  
 Feed the beast  
 File it away  
