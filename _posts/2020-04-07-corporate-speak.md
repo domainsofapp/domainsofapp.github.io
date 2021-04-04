@@ -298,11 +298,13 @@ Put [a/the] nail in the coffin
 Put your money where your mouth is  
 Quick and dirty  
 Rabbit hole  
+Raise a red flag  
 Raise the bar  
 Raise the stakes  
 Raises the question  
 Re  
 Ready for prime time  
+Red flag  
 Regroup  
 Resilience  
 Resiliency  
@@ -342,6 +344,7 @@ Spun up
 Stage-gate  
 Stakeholder  
 Start from scratch  
+State of affairs  
 State of the union  
 Step up game  
 Step up to plate  
@@ -402,6 +405,7 @@ Value-add
 Vanguard  
 Vision statement  
 Walk the walk  
+Wedge issue  
 Wheelhouse  
 White elephant  
 Wipe the slate clean  
