@@ -14,6 +14,7 @@ Cajón
 Calliope  
 Clavier  
 Cristal baschet  
+Daf drum (e.g., played by Yazidis in Iraq & neighboring regions)  
 Didgeridoo  
 Dulcimer  
 Erhu  
