@@ -37,6 +37,8 @@ Benchmark
 Best bang for the buck  
 Best, <<insert_name>>  
 Between a rock and a hard place  
+Big picture  
+Big ticket items  
 Black box  
 Black sheep  
 Blow through  
@@ -72,6 +74,7 @@ Challenges and opportunities
 Cherry-pick  
 Churn  
 Circle back  
+Clean slate  
 Cohesive  
 Comes full circle  
 Cookie-cutter  
@@ -133,6 +136,7 @@ Fire up
 First pass  
 Follow up  
 Follow-up  
+Fresh start  
 Front-end  
 Front-line  
 Full circle  
@@ -229,6 +233,7 @@ My calendar is up-to-date
 My schedule is open  
 Nail out  
 Need-to-know basis  
+New era  
 Nice segue  
 No quarter  
 Noodle it  
@@ -327,7 +332,8 @@ Spin-off
 Spin up  
 Spin up an instance  
 Spit-balling  
-Spits out
+Spits out  
+Splitting hairs  
 Spun up  
 Stage-gate  
 Stakeholder  
@@ -393,6 +399,7 @@ Vision statement
 Walk the walk  
 Wheelhouse  
 White elephant  
+Wipe the slate clean  
 Within the business  
 Wrap up  
 Wrap it up  
