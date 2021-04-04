@@ -27,7 +27,7 @@ Back to square one
 Back to the drawing board  
 Back-end  
 Backdrop  
-Ball in their court  
+Ball is in [their] court  
 Bandwidth  
 Base case  
 Baseline  
@@ -52,11 +52,11 @@ Brass tacks
 Break the bank  
 Brick and mortar  
 Bridge the gap  
-Bring it home  
+Bring it all together  
+Bring it [back] home  
 Bring to light  
 Bring to the fore  
 Bring to the table  
-Brings it all together  
 Build off  
 Building off  
 Bullish  
@@ -194,7 +194,7 @@ Jump on a call
 Jump through hoops  
 Just-in-time  
 Kaizen  
-Keep me posted  
+Keep [me] posted  
 Key on it  
 Key performance indices (KPIs)  
 Kick off  
@@ -207,6 +207,7 @@ Leaps and bounds
 Left holding the bag  
 Lessons learned  
 Let people filter in  
+Leaving mark  
 Lever  
 Levers  
 Leverage  
@@ -261,6 +262,7 @@ Out of the loop
 Out of the hopper  
 Pain points  
 Par for the course  
+Part & parcel  
 Paradigm shift  
 Pass the ball  
 Pass the buck  
@@ -286,12 +288,13 @@ Plug-and-play
 Pound out  
 Power lunch  
 Power through  
+Primary mission  
 Prime time  
 Punch through  
 Push forward  
 Push through  
-Put the issue or matter to rest or to bed  
-Put the nail in the coffin  
+Put the [issue/matter] to [bed/rest]  
+Put [a/the] nail in the coffin  
 Put your money where your mouth is  
 Quick and dirty  
 Rabbit hole  
@@ -312,6 +315,7 @@ Safe harbor
 Seamless  
 Seamless integration  
 Seed an idea  
+Segue  
 Selling points  
 Set the stage  
 Sidebar  
@@ -362,7 +366,7 @@ Take a crack at it
 Take a stab at it  
 Take a step back  
 Take it offline  
-Take it to the bank  
+Take [it/that] to that bank  
 Take the lead  
 Take the reins  
 Takeaway  
@@ -371,10 +375,11 @@ Talk the talk
 Tangent  
 Tangential  
 Tender  
+Testament to  
 That ship has sailed  
 That's the ticket  
 The buck stops here  
-The market  
+The Market  
 Thought leadership  
 Throw under the bus  
 Timelines  
