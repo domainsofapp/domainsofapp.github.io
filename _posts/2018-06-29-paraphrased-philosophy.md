@@ -239,6 +239,6 @@ Ideology is like a coordinate transform of our experienced reality.
 ## Uncanny Valley
 Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and thereby always sounds "off-key", so to speak, in reference to the original).
 
-Dogs: Seeing dogs go at it is incredibly awkward not because you are "violating their privacy" but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
+Animals doing it: Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
 
 Electronic DJ: Everything is great--dancing, partying, all sorts of fun--until the computer suddenly freezes and everyone realizes that everyone is going crazy over a computer playing a track (likely made by a computer).
