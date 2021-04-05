@@ -113,6 +113,7 @@ Drive the point home
 Drop a line  
 Drop the ball  
 Easy peasy (lemon squeezy)  
+Echo that  
 EBITDA  
 Embark  
 End all be all  
@@ -136,6 +137,7 @@ Fire up
 First pass  
 Follow up  
 Follow-up  
+Framework  
 Fresh start  
 Front-end  
 Front-line  
@@ -143,6 +145,7 @@ Full circle
 FYI only  
 FYR only  
 Game changing  
+Gave a nod to  
 Gap analysis  
 Get down to brass tacks  
 Get in the game  
@@ -177,6 +180,7 @@ Hit the nail on the head
 Hop on a call  
 Housekeeping items  
 Huddle up  
+I'd be remiss if I didn't...  
 If it only were  
 Imagineer  
 Imagineering  
@@ -291,6 +295,7 @@ Power through
 Primary mission  
 Prime time  
 Punch through  
+Pushback  
 Push forward  
 Push through  
 Put the [issue/matter] to [bed/rest]  
@@ -382,11 +387,13 @@ Testament to
 That ship has sailed  
 That's the ticket  
 The buck stops here  
+The clock is ticking  
 The Market  
 Thought leadership  
 Throw under the bus  
-Timelines  
+Time is ticking  
 Time slot  
+Timelines  
 Tip of the iceberg  
 Toolbox  
 Top of the funnel  
