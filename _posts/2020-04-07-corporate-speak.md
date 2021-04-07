@@ -20,22 +20,29 @@ Ad hoc
 Agenda  
 Agile  
 Ahead of the eight ball  
+Alpha  
+Arbiter  
 As per  
 ASAP  
 At the end of the day  
+At the forefront  
+At the table  
 Back to square one  
 Back to the drawing board  
 Back-end  
 Backdrop  
 Ball is in [their] court  
 Bandwidth  
+Bare minimum  
 Base case  
 Baseline  
+Bear the brunt of [it]  
 Bearish  
 Become a research or science project  
 Benchmark  
 Best bang for the buck  
 Best, <<insert_name>>  
+Beta  
 Between a rock and a hard place  
 Big picture  
 Big ticket items  
@@ -54,6 +61,7 @@ Brick and mortar
 Bridge the gap  
 Bring it all together  
 Bring it [back] home  
+Bring to bear  
 Bring to light  
 Bring to the fore  
 Bring to the table  
@@ -65,6 +73,8 @@ Business as usual
 Business-to-business (B2B)  
 Business-to-consumer (B2C)  
 Button up  
+By any stretch of the imagination  
+By the same token  
 Call an audible  
 CapEx  
 Carry the bag  
@@ -75,6 +85,7 @@ Cherry-pick
 Churn  
 Circle back  
 Clean slate  
+Closing in [on]  
 Cohesive  
 Comes full circle  
 Cookie-cutter  
@@ -88,6 +99,8 @@ Cross-pollination
 Cross-talk  
 Crunch  
 Crystal clear  
+Cultivate  
+Cutting edge  
 C.Y.A.  
 Daily grind  
 Debrief  
@@ -96,6 +109,7 @@ Deep dive
 Deliverable  
 Derail  
 Dig deep  
+Dig into [it]  
 Digitalization  
 Disconnect  
 Dive in  
@@ -112,6 +126,9 @@ Drive up
 Drive the point home  
 Drop a line  
 Drop the ball  
+Dying on the vine  
+Dynamic  
+Dynamics  
 Easy peasy (lemon squeezy)  
 Echo that  
 EBITDA  
@@ -130,11 +147,13 @@ Feed the beast
 File it away  
 Fill a gap  
 Fill a need  
+Final product  
 Finger on the pulse  
 Finger on the trigger  
 Fire off  
 Fire up  
 First pass  
+First rodeo  
 Follow up  
 Follow-up  
 Framework  
@@ -169,6 +188,7 @@ Hamstring
 Hamstrung  
 Hang self out to dry  
 Hard stop  
+Hard and fast  
 Harmonization  
 Hats off  
 Head in the game  
@@ -177,10 +197,11 @@ Heavy lifting
 High level  
 High-level  
 Hit the nail on the head  
+Hodge-podge  
 Hop on a call  
 Housekeeping items  
 Huddle up  
-I'd be remiss if I didn't...  
+I'd be remiss if [I didn't]...  
 If it only were  
 Imagineer  
 Imagineering  
@@ -192,20 +213,28 @@ In our wheelhouse
 In the hopper  
 In the loop  
 In the same boat  
+In the works  
 It is what it is  
+Join the conversation  
 Juggling too many  
 Jump on a call  
 Jump through hoops  
 Just-in-time  
 Kaizen  
 Keep [me] posted  
+Key concepts  
+Key ideas  
 Key on it  
 Key performance indices (KPIs)  
+Key themes  
 Kick off  
 Kick-off  
 Kudos  
 Launch  
 Launchpad  
+Lay out  
+Layout  
+Laying it out  
 Lead the charge  
 Leaps and bounds  
 Left holding the bag  
@@ -229,6 +258,7 @@ Meetings
 Metrics  
 Mileage  
 Milestones  
+Minimum viable product  
 Minority share  
 Mission statement  
 Motto  
@@ -237,10 +267,13 @@ My calendar is open
 My calendar is up-to-date  
 My schedule is open  
 Nail out  
+Narrative  
 Need-to-know basis  
+Negotiate  
 New era  
 Nice segue  
 No quarter  
+Non-negotiable  
 Noodle it  
 Nose to the grindstone  
 Off the map  
@@ -252,6 +285,8 @@ Off-the-shelf
 On deck  
 On the ball  
 On the docket  
+On the ground  
+On the horizon  
 On the map  
 On the plate  
 On the radar  
@@ -285,6 +320,7 @@ Plan of show
 Plant the seed  
 Play a key role  
 Players  
+Plays out  
 Plow through 'em  
 Plug away  
 Plug-and-chug  
@@ -311,16 +347,20 @@ Re
 Ready for prime time  
 Red flag  
 Regroup  
+Reinforce  
 Resilience  
 Resiliency  
+Rich  
 Rinse and repeat  
 Roles and responsibilities (R&R)  
+Roll back  
 Roll out  
 Roll-out  
 Rubber hits the road  
 Safe harbor  
 Seamless  
 Seamless integration  
+Seat at the table  
 Seed an idea  
 Segue  
 Selling points  
@@ -338,6 +378,7 @@ Skin in the game
 Slipperiness  
 Smash-up  
 Social capital  
+Soundboard  
 Spin off  
 Spin-off  
 Spin up  
