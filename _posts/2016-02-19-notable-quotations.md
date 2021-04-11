@@ -462,7 +462,8 @@ Wrap the leader around the tippet. Four, five, six times. Tuck the end between t
 
 Focus on the horizon, and rock with the sea. --Source TBD (on how to avoid seasickness)
 
-Jealousy's a motherf**cker, you weak jealous motherf**ckers! --The Notorious B.I.G., American Rapper, in My Downfall (song), in Life After Death (album)
+Jealousy's a motherf\*cker, you weak jealous motherf\*ckers! --The Notorious
+B.I.G., American Rapper, in My Downfall (song), in Life After Death (album)
 
 Daughter, Son: God gave you a mouth. Learn how to use it. --Source TBD, quoted in TBD Small Town Murder podcast
 
