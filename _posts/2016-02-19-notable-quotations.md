@@ -482,3 +482,5 @@ Freedom fighters don't always win, but they're always right. --Molly Ivins, Amer
 Sometimes we need stories more than we need food. --Barry Lopez, American author
 
 Look to the helpers. --Mother of Fred Rogers, American television host
+
+Typing is no substitute for thinking. (My version: Trying is no substitute for thinking.) --Original BASIC manual
