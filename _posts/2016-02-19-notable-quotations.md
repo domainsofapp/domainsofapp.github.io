@@ -467,3 +467,7 @@ Liberté, égalité, fraternité. --Maximilien Robespierre, French lawyer (& hig
 If it ain't baroque, don't fix it. --Ms. Bach (my former music teacher)
 
 There's no such thing as a synonym. No two words are exact synonyms. --S.M. (personal conversation)
+
+If you love something, give it away. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
+
+I'm happy just because I found out I'm really no one. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
