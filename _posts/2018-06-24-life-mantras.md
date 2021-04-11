@@ -209,3 +209,5 @@ Bees don't look up, so they get trapped in the honey traps.n
 If you play with fire, you're gonna get burnt.
 
 How to cook: Put food on stove. Apply heat. Eat.
+
+Trying is no substitute for thinking.
