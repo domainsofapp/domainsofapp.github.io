@@ -471,7 +471,7 @@ Liberté, égalité, fraternité. --Maximilien Robespierre, French lawyer (highl
 
 If it ain't baroque, don't fix it. --Ms. Bach (my former music teacher)
 
-There's no such thing as a synonym. No two words are exact synonyms. --S.M. (personal conversation)
+There's no such thing as a synonym. No two words are exact synonyms. No two words are the same. --S.M. (personal conversation)
 
 If you love something, give it away. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
 
