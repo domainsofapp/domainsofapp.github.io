@@ -211,3 +211,7 @@ If you play with fire, you're gonna get burnt.
 How to cook: Put food on stove. Apply heat. Eat.
 
 Trying is no substitute for thinking.
+
+Tit for tat: Tit for tat is the proven, most effective life strategy. It may not be the happiest one, though! If and when you seek increased happiness, try different approaches to life.
+
+It's O-K if you're not happy all of the time.
