@@ -484,3 +484,5 @@ Sometimes we need stories more than we need food. --Barry Lopez, American author
 Look to the helpers. --Mother of Fred Rogers, American television host
 
 Typing is no substitute for thinking. (My version: Trying is no substitute for thinking.) --Original BASIC manual
+
+Sit down & don't touch sh!t. The master of the house will be w/ you shortly. He's vacuuming. --Anthony Mason, American basketball player
