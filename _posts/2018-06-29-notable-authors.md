@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notable Authors
+title: Notable Books
 ---
 
 {{ page.title }}
@@ -8,14 +8,17 @@ title: Notable Authors
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-## Fiction
+## Author(s) - Fiction
 Cormac McCarthy  
 Irving Washington
 
-## Journalism
+## Author(s) - Journalism
 Hunter S. Thompson
 
-## Philosophy
+## Author(s) - Philosophy
 Alain Badiou  
 Karen Barad  
 Slavoj Žižek
+
+## Book(s)
+Zorba the Greek by Nikos Kazantzakis
