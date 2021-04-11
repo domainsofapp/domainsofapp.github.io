@@ -37,6 +37,9 @@ Waiting for Godot: Nothing, or the wait for something that is never going to hap
 
 Source: <https://www.urbandictionary.com/define.php?term=Godot>
 
+## Game Theory
+Tit for tat is the proven, most effective life strategy.
+
 ## George Boole, Mathematics Educator
 1 + 1 = 1 (Boolean logic: True + True = True)
 
