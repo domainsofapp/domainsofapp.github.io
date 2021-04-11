@@ -158,7 +158,7 @@ Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 
 Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
 
-Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer
+Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer, primary author & creator of Linux & Git
 
 Winter ends. --S. Foundling, American Artist (personal conversation)
 
