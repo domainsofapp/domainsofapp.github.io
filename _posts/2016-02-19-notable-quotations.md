@@ -288,7 +288,7 @@ You think darkness is your ally? You merely adopted the dark. I was born in it; 
 
 It is because of the beauty that is why a woman holds her breasts when she runs, not because the breast is going to fall [to the ground]. --Fela Kuti, Nigerian Multi-instrumentalist, quoting a Ghanaian saying in the album "Gentleman" (Original saying: The running woman holds her breasts for beauty's sake, not because she thinks she'll lose them. --Twi Proverb)
 
-The desire for more positive experience is in itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. --Mark Mason, American Author, in "The Subtle Art Of Not Giving A F****k"
+The desire for more positive experience is in itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. --Mark Mason, American Author, in "The Subtle Art Of Not Giving A F\*\*k"
 
 I never let a statue tell me how nice I am. --A Tribe Called Quest, Hip Hop Group
 
@@ -306,7 +306,7 @@ Nani mo ka mo mechakucha da. (Everything is messed up.) --Japanese Proverb
 
 To understand the "artist," you must study his "art." --John E. Douglas, Retired Special Agent and Unit Chief in the United States (U.S.) Federal Bureau of Investigation (FBI), in "Mindhunter: Inside the FBI's Elite Serial Crime Unit"
 
-I drop it on the one, f****k the two three. --Redman, American Rapper, in "Can't Wait"
+I drop it on the one, f\*\*k the two three. --Redman, American Rapper, in "Can't Wait"
 
 There's pork chop in every beer. --J.W. (personal conversation)
 
@@ -366,7 +366,7 @@ They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Faceboo
 
 In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
 
-The key to good system design is to have a good engineer. --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
+The key to good system design is to have a good engineer. (To choose a good product and design a good system, you need a good engineer.) --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
 
 In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage & Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
 
