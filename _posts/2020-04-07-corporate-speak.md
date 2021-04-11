@@ -121,6 +121,7 @@ Down the line
 Draw straws  
 Draw the line  
 Drill down  
+Drink the Kool-Aid  
 Drive down  
 Drive up  
 Drive the point home  
