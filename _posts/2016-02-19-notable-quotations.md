@@ -362,7 +362,7 @@ The best hobbies are the ones that take us furthest from our primary occupation.
 
 You're stirring up dangerous undercurrents in the otherwise placid waters of my pants. --James Pietragallo in Small Town Murder, E130, "I Killed the Devil...You're Welcome"
 
-They trust me. Dumb f--ks. --Mark Zuckerberg, Chief Executive Officer of Facebook
+They trust me. Dumb f\*\*ks. --Mark Zuckerberg, Chief Executive Officer CEO of Facebook
 
 In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
 
