@@ -152,6 +152,8 @@ Every thin film PV module is a PhD project. --Sarah K., Research Fellow and Prof
 
 Take your losses like your gains. --William G. (personal conversation)
 
+You can't go broke on a profit. --William G. (personal conversation)
+
 Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 
 Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
@@ -250,7 +252,9 @@ I would prefer not to. (I'd prefer not to.) --Bartleby, the Scrivener
 
 When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
 
-If you don't like smoke, don't play with fire. --Origin Unknown (me?)
+If you don't like smoke, don't play with fire. --Origin Unknown
+
+If you play with fire, you're going to get burnt. --Origin Unknown
 
 Smoke 'em if you've got 'em. (Smoke it if you've got it.) --Origin Unknown
 
@@ -475,3 +479,5 @@ I'm happy just because I found out I'm really no one. --Conor Oberst, American s
 Freedom fighters don't always win, but they're always right. --Molly Ivins, American columnist
 
 Sometimes we need stories more than we need food. --Barry Lopez, American author
+
+Look to the helpers. --Mother of Fred Rogers, American television host
