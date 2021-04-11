@@ -471,3 +471,7 @@ There's no such thing as a synonym. No two words are exact synonyms. --S.M. (per
 If you love something, give it away. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
 
 I'm happy just because I found out I'm really no one. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
+
+Freedom fighters don't always win, but they're always right. --Molly Ivins, American columnist
+
+Sometimes we need stories more than we need food. --Barry Lopez, American author
