@@ -59,12 +59,13 @@ Brass tacks
 Break the bank  
 Brick and mortar  
 Bridge the gap  
+Bridge the gulf  
 Bring it all together  
 Bring it [back] home  
 Bring to bear  
 Bring to light  
 Bring to the fore  
-Bring to the table  
+Bring [on]to the table  
 Build off  
 Building off  
 Bullish  
@@ -167,6 +168,7 @@ FYR only
 Game changing  
 Gave a nod to  
 Gap analysis  
+Gear up [for] [it]  
 Get down to brass tacks  
 Get in the game  
 Get out of a rut  
@@ -332,9 +334,12 @@ Power through
 Primary mission  
 Prime time  
 Punch through  
+Punt [it]  
 Pushback  
+Push [it] down the field  
 Push forward  
 Push through  
+Put on the table  
 Put the [issue/matter] to [bed/rest]  
 Put [a/the] nail in the coffin  
 Put your money where your mouth is  
@@ -358,6 +363,7 @@ Roll back
 Roll out  
 Roll-out  
 Rubber hits the road  
+Run it downfield  
 Safe harbor  
 Seamless  
 Seamless integration  
@@ -446,7 +452,7 @@ Track record
 Triple bottom line  
 Turn the crank  
 Underserved  
-Unpack   
+Unpack [that]   
 Up to speed  
 Use it or lose it  
 Value chain  
@@ -457,6 +463,7 @@ Walk the walk
 Wedge issue  
 Wheelhouse  
 White elephant  
+Wiggle room  
 Wipe the slate clean  
 Within the business  
 Wrap up  
