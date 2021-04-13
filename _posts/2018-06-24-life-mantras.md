@@ -219,3 +219,5 @@ It's O-K if you're not happy all of the time.
 Beauty fades; intelligence lasts longer.
 
 Fail fast. (Credit to M.D.)
+
+One day at a time. One step at a time.
