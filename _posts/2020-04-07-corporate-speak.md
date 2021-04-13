@@ -39,6 +39,7 @@ Baseline
 Bear the brunt of [it]  
 Bearish  
 Become a research or science project  
+Beefy  
 Benchmark  
 Best bang for the buck  
 Best, <<insert_name>>  
@@ -50,6 +51,7 @@ Black box
 Black sheep  
 Blow through  
 Boilerplate  
+Bolster  
 Boom boom boom  
 Boots on the ground  
 Bottleneck  
@@ -132,6 +134,7 @@ Drop the ball
 Dying on the vine  
 Dynamic  
 Dynamics  
+Earmarked  
 Easy peasy (lemon squeezy)  
 Echo that  
 EBITDA  
@@ -157,6 +160,7 @@ Fire off
 Fire up  
 First pass  
 First rodeo  
+Flashpoints  
 Follow up  
 Follow-up  
 Framework  
@@ -219,6 +223,7 @@ In the hopper
 In the loop  
 In the same boat  
 In the works  
+Intertwine  
 It is what it is  
 Join the conversation  
 Juggling too many [projects/things]  
@@ -330,6 +335,7 @@ Plow through 'em
 Plug away  
 Plug-and-chug  
 Plug-and-play  
+Plug in  
 Pound out  
 Power lunch  
 Power through  
@@ -358,8 +364,10 @@ Regroup
 Reinforce  
 Resilience  
 Resiliency  
+Resilient  
 Rich  
 Rinse and repeat  
+Robust  
 Roles and responsibilities (R&R)  
 Roll back  
 Roll out  
@@ -384,6 +392,7 @@ Shed light on
 Shelf docs  
 Shift gears  
 Shoot yourself in the foot  
+Shy away from  
 Skin in the game  
 Slipperiness  
 Smash-up  
@@ -432,8 +441,10 @@ Take the reins
 Takeaway  
 Take-home message  
 Talk the talk  
+Talking points  
 Tangent  
 Tangential  
+TBD  
 Tender  
 Testament to  
 That ship has sailed  
@@ -450,7 +461,8 @@ Tip of the iceberg
 Toolbox  
 Top of the funnel  
 Top of the hour  
-Top-line revenue  
+Top-level  
+Top-line [revenue]  
 Touch base  
 Track record  
 Triple bottom line  
