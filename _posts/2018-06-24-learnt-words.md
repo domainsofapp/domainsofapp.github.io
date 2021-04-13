@@ -48,6 +48,7 @@ Cornucopia
 Corsage  
 Creel  
 Crotchety  
+Crucible  
 Debutante  
 Docent  
 ​Duende  
@@ -78,6 +79,7 @@ Lothario
 Micturate  
 Parallax  
 Peugeot  
+Phlebotomy  
 Pietas  
 Pig iron  
 Piggly Wiggly  
