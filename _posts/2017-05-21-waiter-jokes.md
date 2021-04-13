@@ -80,6 +80,10 @@ I've got good news and bad news. The bad news is that there is no good news. --T
 What does a dog say before breakfast? Bone appétit! --Ivan, in S3:E7 "General Store"
 
 ## From Small Town Murder
-A drunk man gets thrown out of a bar.  
-"Sir, you are BANISHED!" yells the bartender.  
-"Even when I'm sober?" asks the drunk man.
+A drunk woman gets thrown out of a bar.  
+"Ma'am, you're BANISHED!" yells the bartender.  
+"Even when I'm sober?" asks the drunk woman.
+
+## From This American Life
+Why did the nurse bring a red pen to work?  
+B/c he had to draw blood.
