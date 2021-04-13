@@ -66,6 +66,7 @@ Bring to bear
 Bring to light  
 Bring to the fore  
 Bring [on]to the table  
+Broad strokes  
 Build off  
 Building off  
 Bullish  
@@ -172,6 +173,7 @@ Gear up [for] [it]
 Get down to brass tacks  
 Get in the game  
 Get out of a rut  
+Get over the hump  
 Get the ball rolling  
 Getting to yes  
 Give it a gander  
@@ -362,6 +364,7 @@ Roles and responsibilities (R&R)
 Roll back  
 Roll out  
 Roll-out  
+Roped into  
 Rubber hits the road  
 Run [it] downfield  
 Safe harbor  
@@ -419,6 +422,7 @@ Synergy
 Tackle  
 Tailwinds  
 Take a crack at it  
+Take a hard look at  
 Take a stab at it  
 Take a step back  
 Take it offline  
@@ -461,6 +465,7 @@ Vanguard
 Vision statement  
 Walk the walk  
 Wedge issue  
+Weigh in [on]  
 Wheelhouse  
 White elephant  
 Wiggle room  
