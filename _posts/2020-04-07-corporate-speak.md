@@ -387,7 +387,7 @@ Sidebar
 Sh!t a brick  
 Sh!t or get off the pot  
 Sh!t the bed  
-Shake things up  
+Shake [things] up  
 Shed light on  
 Shelf docs  
 Shift gears  
