@@ -91,7 +91,7 @@ Circle back
 Clean slate  
 Closing in [on]  
 Cohesive  
-Comes full circle  
+Come full circle  
 Cookie-cutter  
 Cooking the books  
 Core values  
