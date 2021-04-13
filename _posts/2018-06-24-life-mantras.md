@@ -217,3 +217,5 @@ Tit for tat: Tit for tat is the proven, most effective life strategy. It may not
 It's O-K if you're not happy all of the time.
 
 Beauty fades; intelligence lasts longer.
+
+Fail fast. (Credit to M.D.)
