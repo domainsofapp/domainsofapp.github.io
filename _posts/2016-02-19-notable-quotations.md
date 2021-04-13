@@ -490,3 +490,5 @@ Sit down & don't touch sh!t. The master of the house will be with you shortly. H
 You can't be funny at the beach. --Jerry Seinfeld via James Pietragallo, both American comedians
 
 The best way to control the opposition is to lead it ourselves. --Vladimir Lenin, Former Premier of the Soviet Union
+
+We do for today what we can't do for forever. --Mother of Mitchell S. Jackson, American writer
