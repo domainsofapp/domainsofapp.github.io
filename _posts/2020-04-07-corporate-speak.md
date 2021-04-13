@@ -412,7 +412,7 @@ Start from scratch
 State of affairs  
 State of the union  
 Step up game  
-Step up to plate  
+Step up to the plate  
 Stickiness  
 Stopping horse  
 Straw man  
