@@ -221,7 +221,7 @@ In the same boat
 In the works  
 It is what it is  
 Join the conversation  
-Juggling too many  
+Juggling too many [projects/things]  
 Jump on a call  
 Jump through hoops  
 Just-in-time  
