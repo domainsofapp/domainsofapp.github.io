@@ -221,3 +221,5 @@ Beauty fades; intelligence lasts longer.
 Fail fast. (Credit to M.D.)
 
 One day at a time. One step at a time.
+
+Break the cycle.
