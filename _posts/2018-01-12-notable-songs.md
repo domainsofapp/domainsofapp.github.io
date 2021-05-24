@@ -410,6 +410,8 @@ Ambient
 Anthem House  
 Atmospheric  
 Avant-garde  
+Bakosó  
+Calypso  
 Chillwave  
 Chopped and Screwed  
 Cloud  
@@ -447,6 +449,7 @@ Rock
 Sad  
 Sadcore  
 Sesh  
+Soca  
 SoundCloud Rap  
 Terror Metal  
 Trance﻿  
