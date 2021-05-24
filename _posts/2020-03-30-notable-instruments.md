@@ -9,6 +9,7 @@ title: Notable Instruments
 <p class="meta">30 Mar 2020 - Berkeley, CA</p>
 
 ## Instruments
+Akai MPC  
 Babatoni  
 Cajón  
 Calliope  
@@ -34,6 +35,7 @@ Pipa
 Recorder  
 San xian  
 Saz  
+Shakuhachi  
 Sitar  
 Theremin  
 Tumba  
