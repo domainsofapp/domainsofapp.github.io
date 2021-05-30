@@ -492,3 +492,7 @@ You can't be funny at the beach. --Jerry Seinfeld via James Pietragallo, both Am
 The best way to control the opposition is to lead it ourselves. --Vladimir Lenin, Former Premier of the Soviet Union
 
 We do for today what we can't do for forever. --Mother of Mitchell S. Jackson, American writer
+
+A manager sets objectives - A manager organizes - A manager motivates and communicates - A manager, by establishing yardsticks, measures - A manager develops people. (Paraphrased: You can't manage what you can't measure.) --Peter Drucker, Austrian Consultant (in The Practice of Management, 1954, p. 344)
+
+If you cannot measure it, you cannot improve it. --William Thomson, 1st Baron Kelvin, British Mathematician
