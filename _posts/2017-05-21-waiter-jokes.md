@@ -84,6 +84,9 @@ A drunk woman gets thrown out of a bar.
 "Ma'am, you're BANISHED!" yells the bartender.  
 "Even when I'm sober?" asks the drunk woman.
 
-## From This American Life
+## From This American Life, Ep. 735
 Why did the nurse bring a red pen to work?  
 B/c he had to draw blood.
+
+## From This American Life, Ep. 738
+Things I would like to see are answers to Big Questions: Is there intelligent life in this universe? There's none on Earth. --Edward "Ed" Hacker (stepfather of Sean Cole, Journalist)
