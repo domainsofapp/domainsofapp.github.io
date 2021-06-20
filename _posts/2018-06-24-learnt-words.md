@@ -39,8 +39,9 @@ Caddy
 Cantankerous  
 Cattle raiding aka cattle rustling  
 Cenotaph  
-​Chiaroscuro  
-​Cholo  
+Chiaroscuro  
+Cholo  
+Chyron  
 Concision: The minimization of words while conveying an idea.  
 Comedown  
 Compunction  
@@ -51,7 +52,7 @@ Crotchety
 Crucible  
 Debutante  
 Docent  
-​Duende  
+Duende  
 Duvet  
 Echolalia  
 Elision  
