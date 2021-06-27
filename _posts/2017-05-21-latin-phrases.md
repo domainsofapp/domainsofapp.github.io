@@ -8,7 +8,7 @@ title: Latin Phrases
 
 <p class="meta">21 May 2017 - Berkeley, CA</p>
 
-Mostly curated by M.T.S. (thanks!)
+Original OG content curated by M.T.S. (thanks!); since added & edited content.
 
 A bene placito - At one's pleasure  
 Ad astra: To the stars  
@@ -23,7 +23,7 @@ Ex animo - From the heart (sincerely)
 Fortitudine vincimus - By endurance we conquer  
 Habetis bona deum - Have a nice day  
 Hic et nunc - Here and now  
-In casu extremae necessitatis omnia sunt communia - In case of extreme necessity everything is common (paraphrased Latin adage: Everything is common.)
+In casu extremae necessitatis omnia sunt communia - In case of extreme necessity everything is common (paraphrased Latin adage: Everything is common.)  
 In cavda venenvm - In the tail poison (Watch out for what you don't see)  
 In medias res - Into the midst of things  
 In totidem verbis - In so many words  
