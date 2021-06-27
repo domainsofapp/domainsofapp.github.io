@@ -8,43 +8,47 @@ title: Notable Names
 
 <p class="meta">06 Aug 2020 - Berkeley, CA</p>
 
-TODO: Add more names from other sources, and alphabetize.
+TODO: Add more names from other sources, and continue to alphabetize.
 
-Amygrace  
-Johnnymichael  
-Page  
-Silvia  
-Silvana  
-India  
-Hajini  
-Simonetta  
-Kerie  
-Wyatt Earp  
 Adelina  
 America  
-Liberty  
-Caven  
-Rassmusson  
-Hezekiah Butterworth  
+Amygrace  
 Capobianco  
-Ryu  
-Hal  
-Syringa  
+Caven  
+Dolly  
 Extra Billy  
-Skeeter  
+Hajini  
+Hal  
 Hannelore  
 Hans  
-Wolfgang  
+Hezekiah Butterworth  
+India  
+Jala  
 Jeremiah  
-Wyatt  
+Johnnymichael  
+Jurg  
 Keesa  
+Kerie  
 Kisa  
 Lemule  
-Toshio  
-Dolly  
-Rei  
+Liberty  
 Oric  
+Page  
+Paige  
+Rassmusson  
+Rei  
+Ryu  
+Silvana  
+Silvia  
+Simonetta  
+Skeeter  
+Sylvana  
+Syringa  
+Te  
 Thimm  
-Zeljko  
-Jurg  
-Jala
+Toshio  
+Wolfgang  
+Wyatt  
+Wyatt Earp  
+Wyatt Erp  
+Zeljko
