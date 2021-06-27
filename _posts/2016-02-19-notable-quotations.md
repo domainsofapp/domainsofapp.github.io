@@ -498,3 +498,5 @@ A manager sets objectives - A manager organizes - A manager motivates and commun
 If you cannot measure it, you cannot improve it. --William Thomson, 1st Baron Kelvin, British Mathematician
 
 Lean into the things that make you weird...that's where all of the gold is. --Sammus, American Record Producer
+
+Batteries do gigawatts GWs; hydrogen does terawatts TWs. --Dr. Todd G. Deutsch, Senior Scientist, Chemistry, National Renewable Energy Laboratory (NREL)
