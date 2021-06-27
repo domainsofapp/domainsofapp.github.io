@@ -23,14 +23,16 @@ Ex animo - From the heart (sincerely)
 Fortitudine vincimus - By endurance we conquer  
 Habetis bona deum - Have a nice day  
 Hic et nunc - Here and now  
+In casu extremae necessitatis omnia sunt communia - In case of extreme necessity everything is common (paraphrased Latin adage: Everything is common.)
 In cavda venenvm - In the tail poison (Watch out for what you don't see)  
 In medias res - Into the midst of things  
 In totidem verbis - In so many words  
+Gelatus - Frozen; gel; gelatinous (ge-latin-ous, heh);
 Justitia omnibus - Justice for all  
 Liberae sunt nostrae cogitationes - Our thoughts are free (Cicero)  
 Maximus in minimis - Great in little things  
 Ne quid nimis - Nothing in excess (Terence)  
-Non scholæ sed vitæ discimus - Not for school but for life  
+Non scholae sed vitae discimus - Not for school but for life  
 Pactum serva - Keep the faith  
 Paucis verbis - In a few words  
 Pax et bonum! - Peace and salvation!  
