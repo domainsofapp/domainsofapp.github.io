@@ -184,7 +184,7 @@ Another day, more B.S.--another challenge. Great. Now you know what to expect--e
 
 Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it!).
 
-Less fussin', mo' tussin.
+Less fussin', mo' tussin. (The best "tussin" is culture; even better is "deep culture" - culture you must dig deep to find.)
 
 News flash: The to-do list will never get shorter. Get used to it. Also, the more you know, the less you know.
 
