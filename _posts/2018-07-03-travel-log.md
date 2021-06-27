@@ -15,4 +15,4 @@ Arguably the two best parts of traveling are the adrenaline rush and the need to
 Foreignness to the self is discovered in foreign places.
 
 ## Moving Abroad
-To move abroad is to induce a Cartesian return to the a priori, which in theory should help one gain a better understanding of oneself.
+To move abroad is to induce a Cartesian return to the a priori which in theory helps one gain a better understanding of oneself.
