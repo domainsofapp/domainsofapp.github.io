@@ -8,6 +8,7 @@ title: Notable Books
 
 <p class="meta">04 Jan 2018 - Berkeley, CA</p>
 
+Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
 The Gate of Heavenly Peace by Jonathan Spence  
 House of Leaves by Mark Z. Danielewski  
