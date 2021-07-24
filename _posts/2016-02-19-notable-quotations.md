@@ -250,7 +250,7 @@ Between a high, solid wall and an egg that breaks against it, I will always stan
 
 I would prefer not to. (I'd prefer not to.) --Bartleby, the Scrivener
 
-When there's smoke, there's fire. --Origin Unknown (dates back to 43 BCE)
+If there's smoke, then there's fire. --Origin Unknown (dates back to 43 BCE)
 
 If you don't like smoke, don't play with fire. --Origin Unknown
 
