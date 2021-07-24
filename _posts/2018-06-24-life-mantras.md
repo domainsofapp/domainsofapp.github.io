@@ -204,7 +204,7 @@ To each her own. What works for you may not work for others. Don't knock it 'til
 
 Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, whole-hearted, to-the-bone (hence, "Life Mantras") self-acceptance is absolutely, first & foremost, foundational, fundamental, key, & pivotal to mental (psychological) stability & well-being.
 
-Bees don't look up, so they get trapped in the honey traps.n
+Bees don't look up, so they get trapped in the honey traps.
 
 If you play with fire, you're gonna get burnt.
 
