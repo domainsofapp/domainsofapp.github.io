@@ -206,8 +206,6 @@ Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times,
 
 Bees don't look up, so they get trapped in the honey traps.
 
-If you play with fire, you're gonna get burnt.
-
 How to cook: Put food on stove. Apply heat. Eat.
 
 Trying is no substitute for thinking.
