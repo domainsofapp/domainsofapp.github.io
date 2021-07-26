@@ -11,6 +11,9 @@ title: Notable Instruments
 ## Instruments
 Akai MPC  
 Babatoni  
+Baglamas (baglamadaki)  
+Balalaika  
+Balkan tambura  
 Bandoneon  
 Cajón  
 Calliope  
