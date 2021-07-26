@@ -11,6 +11,7 @@ title: Notable Instruments
 ## Instruments
 Akai MPC  
 Babatoni  
+Bandoneon  
 Cajón  
 Calliope  
 Clavier  
