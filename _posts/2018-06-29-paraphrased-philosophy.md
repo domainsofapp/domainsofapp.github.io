@@ -37,9 +37,6 @@ Waiting for Godot: Nothing, or the wait for something that is never going to hap
 
 Source: <https://www.urbandictionary.com/define.php?term=Godot>
 
-## Game Theory
-Tit for tat is the proven, most effective life strategy.
-
 ## George Boole, Mathematics Educator
 1 + 1 = 1 (Boolean logic: True + True = True)
 
@@ -93,6 +90,9 @@ Analogy between quantum physics and computer game. Once you get to quantum level
 
 ## Richard Feynman, American Physicist
 Don't obsess over the names or naming of things (i.e., pure memorization); rather, focus on understanding the thing itself and how it works to the best of your abilities.
+
+## Game Theory
+Tit for tat is the proven, most effective life strategy.
 
 ## Kurt Gödel, Logician
 This statement cannot be proved.
