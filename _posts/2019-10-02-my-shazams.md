@@ -10,9 +10,9 @@ title: My Shazams
 
 NB: Language warning throughout; such is music and culture.
 
-My Shazams (from the last few months) are listed below.
+My Shazams - songs from the last few months & years - are listed below.
 
-P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--(
+P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--( And, the fact that it's very difficult to obtain an exported copy of this list!
 
 Below is the new list.
 
@@ -26,9 +26,131 @@ No label means I haven't checked/decided yet (i.e., TBD).
 
 Oddly, LOWER numbers represent NEWER Shazams.
 
-## Phone 2 Library 2
+## Phone 2 Library 2 - INSERT DATE
 <br>
 
+x. Radiance (Original Mix) by 
+x. Keep Your Head Up by Ben Howard
+x. L'esperanza (Ame Reinterpretation) by Sven Väth
+x. Your Love/Run Theme (Live) by Simian Mobile Disco
+x. My Father's Father by The Civil Wars
+x. Lullaby Love by Roo Panes
+x. Wizbot by Sea Of Bees
+x. Different Forces by Phantom Horse
+x. She/Swimming by Moon Ate The Dark
+x. Courage by Villagers
+
+<br>
+<br>
+
+## Phone 2 Library 2 - INSERT DATE
+x. Afslapningsniveau 60 by Aksel Joergensen
+x. Spiraalit by NIEMI
+x. The Road by Old Man Canyon
+
+<br>
+<br>
+
+## Phone 2 Library 2 - INSERT DATE
+x. Bilgewater by Brown Bird
+x. 1904 by The Tallest Man On Earth
+x. The Flood by Joshua Hyslop
+x. Wake Me by Mandolin Orange
+x. Dancing On Our Graves by The Cave Singers
+x. Carry Me Ohio by Sun Kil Moon
+
+<br>
+<br>
+
+## Phone 2 Library 2 - INSERT DATE
+x. El Cuarto De Tula by Buena Vista Social Club
+x. De Camino A La Vereda by Buena Vista Social Club
+x. Private Investigations by Dire Straits
+x. Tunnel Of Love (Intro: The Carousel Waltz) by Dire Straits
+x. Lady Writer by Dire Straits
+x. Loving You by Oscar Lopez
+
+<br>
+<br>
+
+## Phone 2 Library 2 - INSERT DATE
+x. Meantime by Alucidnation
+x. Que Tiro Foi Esse by Jojo Maronttinni
+x. Legends (Robin Bright Disco Mix) by Julian Woods
+x. Investigations by Guitarist Denis Taaffe
+
+<br>
+<br>
+
+## Phone 2 Library 2
+69. Homage To Edgar Allan Poe (The Arrival Of Re...) by Marco Lo Muscio
+68. Hey Jude by Wilson Pickett
+67. How Long Do I Have To Wait For You? by Sharon Jones & The Dap-Kings
+66. Hubble Eyes by Kumo
+65. Tested by Fascinating Earthbound Objects
+64. Un World Mysteriouse by Dimitri From Paris
+63. Darkness/Earth In Search Of A Sun by Jan Hammer
+62. Northern Sunsets by Vibrasphere
+61. Just Like You by Babble
+60. A IV (Silky Wave Remix) by Thomas Lemmer
+59. Moonshot by Eguana
+58. Palm by Satoshi Fumi
+57. Shut Up Dub by Soehngen
+56. Turn On Switch Off (Starring Valerie Trebe...) by Static
+55. Tension On Sight by 7 Hurtz
+54. Your Song (Tim "Love" Lee's Semi Bearded Re...) by Groove Armada
+53. The Band From Atlantis by Pan Electric & Ishq
+52. Flyball by Moss
+51. Cabrillo Hwy by Euphonic Traveller
+50. Fragile Ladders (Groove Yantra's Eclectic, Psyc...) by Pitch Black
+49. Panorama by Amanaska
+48. The Bicycle Of The Sky by OTT
+47. Ojopati by Open Canvas
+46. The Brazilian Hipster by Fort Knox Five
+45. Progress by Tony Allen With Africa 70
+44. I Miss The Old U by Blackbear
+43. Birth Of The Atom by Eguana
+42. Jumbo by Underworld
+41. Ippo by Ikokai
+40. Soul Archeology by Steve Roach
+39. Outpost by Bruce Kaphan
+38. Mossfield (Edit) by Marconi Union
+37. Invocation by Omneity
+36. Tigri Adventures by Oxala'
+35. Capella by Mizar B
+34. Comes Love by Connie Evingson
+33. Gene Takes A Drink by Bang On A Can All-Stars
+32. Turning Point (Original Mix) by Sage
+31. Jaan Sadi by Nirmal Sidhu
+30. Albedo by Jarguna & Uzbazur
+29. Living World by Spacecraft
+28. Midnight Angel by Band Ane
+27. Fly Me To The Moon by Jazzamor
+26. Demi by Analog '82
+25. Stabat Mater: Cujus Animam Gementem by Riccardo Muti
+24. Mayasong by Relac'Soundfactory
+23. Resurrexi by Andrew Cash Feat. Uri Polski
+22. Hope by Nitin Sawhney
+21. Mysteries of Love by Angelo Badalamenti
+20. Spiral by Bombay Dub Orchestra
+19. Louder Than Bombs by Karsh Kale
+18. Bante by Bill Laswell & Gigi
+17. Piano Concerto No. 3: Movement II by Simone Dinnerstein & A Far Cry
+16. Fuel To Fire (David Lynch Remix) by Agnes Obel
+15. Step Right Up by Tom Waits
+14. Mamadou Kanda Keita by Toumani Diabaté & London Symphony Orchestra
+13. Model D (Extended) by Greg Helden
+12. Rings of Saturn by John Sherwood
+11. Notturno In E Flat, D. 897-Adagio by Royal Philharmonic...
+10. Bu Dünya Bir Pencere by Emin İgüs
+9. 3a3By4aNN XKano6HO AKKopAbl by WaHCOH bNIO3 beHA (unknown - Russian?)
+8. Mad Rush by Steffen Schleiermacher
+7. On The Beach by Richard Rossbach
+6. Les Vitrines by Kid Francescoli
+5. The Player by Kid Francescoli
+4. You Can't Always Get What You Want (Live) by The Rolling Stones
+3. Eclipse by This Is Me & Kloser
+2. Tonada De Luna Llena by Simón Díaz
 1. Twirl Me (Pumpkin Remix) by Wildlight
 
 <br>
@@ -160,7 +282,7 @@ To be continued...
 526. Hyperbolicsylla bicsesquedaly... by Isaac Hayes (n) (s)
 525. Back That Azz Up by Juvenile, Lil Wayne...
 524. Dreadlock Holiday by 10cc
-523. Hawa Dolo by Ali Farka Toure & Toumani Diabate (n) (s)
+523. Hawa Dolo by Ali Farka Toure & Toumani Diabaté (n) (s)
 522. Triggered (Dance Mix) by Jhene Aiko F... (n)
 521. Icy Grl (Bae Mix) by Saweetie Feat. Kehlani (n)
 520. Money In The Grave by Drake Feat. Rick Ross
