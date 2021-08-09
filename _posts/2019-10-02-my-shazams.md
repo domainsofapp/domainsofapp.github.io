@@ -26,6 +26,14 @@ No label means I haven't checked/decided yet (i.e., TBD).
 
 Oddly, LOWER numbers represent NEWER Shazams.
 
+## Phone 2 Library 2 2021-04-26
+6. Sunrise by Aylior & Sebastian Kamae
+5. Black Sands by Bonobo
+4. Garnet by Monma & cocabona
+3. The Boys Are Back In Town by Thin Lizzy
+2. Reflection by Purple Cat
+1. Loves Dissonance by Lofty, Pointy Features & Quist
+
 ## Phone 2 Library 2 - INSERT DATE
 <br>
 
@@ -73,7 +81,7 @@ x. Loving You by Oscar Lopez
 <br>
 <br>
 
-## Phone 2 Library 2 - INSERT DATE
+## Phone 2 Library 2 2021-03-08
 x. Meantime by Alucidnation
 x. Que Tiro Foi Esse by Jojo Maronttinni
 x. Legends (Robin Bright Disco Mix) by Julian Woods
