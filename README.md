@@ -36,7 +36,7 @@ The following directories and their contents are "Copyright Kenneth J. Sauer", i
 Therefore, you may not reproduce the original content therein without my prior expressed permission. All other directories and files are MIT Licensed. Please feel free to use the HTML and CSS files as you please. If you use them, please kindly link back to Refs. [1]-[2].
 
 ## Let It Snow
-Thanks to Christine Dodrill for letting it snow [3] on my blog and for the additional explanations provided on Lobsters (https://lobste.rs) [4]. Happy Holidays!
+Thanks to Christine Dodrill (new name: Xe) for letting it snow [3] on my blog and for the additional explanations provided on Lobsters (https://lobste.rs) [4]. Happy Holidays!
 
 ## References
 [1] https://github.com/mojombo/mojombo.github.io/
