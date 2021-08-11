@@ -36,6 +36,25 @@ Oddly, LOWER numbers represent NEWER Shazams.
 <br>
 <br>
 
+## Phone 2 Library 2 2021-04-09
+<br>
+<br>
+
+## Phone 2 Library 2 2021-04-07
+11. Give Me Jesus by Jeremy Camp
+10. Weightless by Marconi Union
+9. Pelvic by DC Pryor
+8. Bellatrix (Fakefunk Remix) by Moon Rovers
+7. Incantation And Nervousness by Relaxation Music Laboratory
+6. Starfall (Extended Mix) by AxelPolo & DJ Indian
+5. Move Into Light (Teen Daze Remix) by Juventa Feat. Erica Curran
+4. Sucker Punch (Craig Connelly Remix) by Johan Ekman
+3. L'esperanza by Airscape
+2. Lightwarrior by Mirko-Kosmos
+1. Thank U by David Amo & Julio Navas
+<br>
+<br>
+
 ## Phone 2 Library 2 2021-04-02
 10. Roots And Culture by Mikey Dread
 9. Back To Africa by ASWAD
@@ -47,10 +66,14 @@ Oddly, LOWER numbers represent NEWER Shazams.
 3. Morning Meditation by James Cockerham
 2. Zeit & Raum (Abgt394) by Ben Böhmer
 1. Midnight Secrets (Original Mix) by Feri
+<br>
+<br>
 
 ## Phone 2 Library 2 2021-03-31
 2. Scientific Discoveries, Pt. 3 by CARLOS
 1. Nicky's Theme (Original Mix) by Mac Monroe
+<br>
+<br>
 
 ## Phone 2 Library 2 2021-03-23
 31. Red Dust by James Vincent McMorrow
