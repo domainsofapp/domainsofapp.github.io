@@ -36,6 +36,24 @@ Oddly, LOWER numbers represent NEWER Shazams.
 <br>
 <br>
 
+## Phone 2 Library 2 2021-04-10
+14. Eyes (Extended Version) by Kushal Singh
+13. Lionheart by Emancipator
+12. Minotaur by Foog
+11. Eyes On You (Extended Mix) by Audioboy
+10. Future Vibes by K.Safo & Alex Skrindo Feat. Stewart Wallace
+9. Ameno (Club Mix) by DJ Quicksilver
+8. Caraibes (Original Mix) by Aron Scott & Paul Ventimila
+7. Sans Joy (Original Mix) by Richard Young
+6. Try Me Out by Corona
+5. What Is The Problem Now by King Juan Mutant
+4. Femme Deaux by Rogue Jury
+3. Obstructions by Haiku Salut
+2. Summer Sunset by Anything But Broke
+1. Late Nights (Akira Kayosa And Eldritch Pr...) by Andy Tau
+<br>
+<br>
+
 ## Phone 2 Library 2 2021-04-09
 23. Sofa Rockers (Richard Dorfmeister Remix) by Sofa Surfers
 22. Dark Thoughts In A Fluorescent Room by B. Hayes
