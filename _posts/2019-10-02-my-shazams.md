@@ -33,9 +33,10 @@ Oddly, LOWER numbers represent NEWER Shazams.
 3. The Boys Are Back In Town by Thin Lizzy
 2. Reflection by Purple Cat
 1. Loves Dissonance by Lofty, Pointy Features & Quist
+<br>
+<br>
 
 ## Phone 2 Library 2 - INSERT DATE
-<br>
 
 x. Radiance (Original Mix) by 
 x. Keep Your Head Up by Ben Howard
@@ -47,7 +48,6 @@ x. Wizbot by Sea Of Bees
 x. Different Forces by Phantom Horse
 x. She/Swimming by Moon Ate The Dark
 x. Courage by Villagers
-
 <br>
 <br>
 
@@ -55,7 +55,6 @@ x. Courage by Villagers
 x. Afslapningsniveau 60 by Aksel Joergensen
 x. Spiraalit by NIEMI
 x. The Road by Old Man Canyon
-
 <br>
 <br>
 
@@ -66,27 +65,26 @@ x. The Flood by Joshua Hyslop
 x. Wake Me by Mandolin Orange
 x. Dancing On Our Graves by The Cave Singers
 x. Carry Me Ohio by Sun Kil Moon
-
 <br>
 <br>
 
-## Phone 2 Library 2 - INSERT DATE
-x. El Cuarto De Tula by Buena Vista Social Club
-x. De Camino A La Vereda by Buena Vista Social Club
-x. Private Investigations by Dire Straits
-x. Tunnel Of Love (Intro: The Carousel Waltz) by Dire Straits
-x. Lady Writer by Dire Straits
-x. Loving You by Oscar Lopez
-
+## Phone 2 Library 2 2021-03-16
+8. El Cuarto De Tula by Buena Vista Social Club
+7. De Camino A La Vereda by Buena Vista Social Club
+6. Chan Chan by Buena Vista Social Club
+5. Private Investigations by Dire Straits
+4. Tunnel Of Love (Intro: The Carousel Waltz) by Dire Straits
+3. Lady Writer by Dire Straits
+2. Sultans of Swing by Dire Straits
+1. Loving You by Oscar Lopez
 <br>
 <br>
 
 ## Phone 2 Library 2 2021-03-08
-x. Meantime by Alucidnation
-x. Que Tiro Foi Esse by Jojo Maronttinni
-x. Legends (Robin Bright Disco Mix) by Julian Woods
-x. Investigations by Guitarist Denis Taaffe
-
+4. Meantime by Alucidnation
+3. Que Tiro Foi Esse by Jojo Maronttinni
+2. Legends (Robin Bright Disco Mix) by Julian Woods
+1. Investigations by Guitarist Denis Taaffe
 <br>
 <br>
 
@@ -160,26 +158,21 @@ x. Investigations by Guitarist Denis Taaffe
 3. Eclipse by This Is Me & Kloser
 2. Tonada De Luna Llena by Simón Díaz
 1. Twirl Me (Pumpkin Remix) by Wildlight
-
 <br>
 <br>
 
 ## Phone 2 Library 1
-<br>
-
 5. Sour Soul by BADBADNOTGOOD & Ghostface Killah (x)
 4. Crown by Run The Jewels Feat. Diane Coffee
 3. Amphetamine by Smino (x)
 2. In The Morning by Jay Prince
 1. D'evils by Sir (x)
-
 <br>
 <br>
 To be continued...
 <br>
 
 ## Phone 1 Library 1
-<br>
 帝都の闇 by 岩崎琢 (Teito No Yami by Taku Iwasaki)
 <br>
 
@@ -816,7 +809,6 @@ Dawn by Koriki
 3. Karvai by Tarsem Jassar (n) (s)
 2. Thank You (Falettinme Be... by Sly & the ... (s)
 1. Sweet Illusions by Ryan Adams & The Cardinals (n) (s)
-
 <br>
 <br>
 To be continued...
