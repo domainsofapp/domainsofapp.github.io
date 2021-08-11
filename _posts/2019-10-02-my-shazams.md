@@ -36,6 +36,22 @@ Oddly, LOWER numbers represent NEWER Shazams.
 <br>
 <br>
 
+## Phone 2 Library 2 2021-04-02
+10. Roots And Culture by Mikey Dread
+9. Back To Africa by ASWAD
+8. Deal for Life by Aramitama
+7. Daft Krunk by Sadistek
+6. Pelvic by DC Pryor
+5. Yozakura by Michiru Aoyama
+4. Stop Thinking, Try Feeling (Mihai Christia...) by G.S.R. Vs. Metaverse
+3. Morning Meditation by James Cockerham
+2. Zeit & Raum (Abgt394) by Ben Böhmer
+1. Midnight Secrets (Original Mix) by Feri
+
+## Phone 2 Library 2 2021-03-31
+2. Scientific Discoveries, Pt. 3 by CARLOS
+1. Nicky's Theme (Original Mix) by Mac Monroe
+
 ## Phone 2 Library 2 2021-03-23
 31. Red Dust by James Vincent McMorrow
 30. I Was An Eagle by Laura Marling
