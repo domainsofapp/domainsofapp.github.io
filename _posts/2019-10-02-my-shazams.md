@@ -12,7 +12,7 @@ NB: Language warning throughout; such is music and culture.
 
 My Shazams - songs from the last few months & years - are listed below.
 
-P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--( And, the fact that it's very difficult to obtain an exported copy of this list!
+P.S. Thank you Shazam for your services! Except that one time when my original Shazam library disappeared forever :'--( And, the fact that it's very difficult to export a copy of one's Shazam library!
 
 Below is the new list.
 
@@ -22,7 +22,7 @@ Legend:
 (x) Language warning  
 (s) Safe for work
 
-No label means I haven't checked/decided yet (i.e., TBD).
+No label means I haven't checked or decided yet (i.e., TBD).
 
 Oddly, LOWER numbers represent NEWER Shazams.
 
