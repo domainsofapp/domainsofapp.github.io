@@ -36,24 +36,38 @@ Oddly, LOWER numbers represent NEWER Shazams.
 <br>
 <br>
 
-## Phone 2 Library 2 - INSERT DATE
-x. Radiance (Original Mix) by 
-x. Keep Your Head Up by Ben Howard
-x. L'esperanza (Ame Reinterpretation) by Sven Väth
-x. Your Love/Run Theme (Live) by Simian Mobile Disco
-x. My Father's Father by The Civil Wars
-x. Lullaby Love by Roo Panes
-x. Wizbot by Sea Of Bees
-x. Different Forces by Phantom Horse
-x. She/Swimming by Moon Ate The Dark
-x. Courage by Villagers
-<br>
-<br>
-
-## Phone 2 Library 2 - INSERT DATE
-x. Afslapningsniveau 60 by Aksel Joergensen
-x. Spiraalit by NIEMI
-x. The Road by Old Man Canyon
+## Phone 2 Library 2 2021-03-23
+31. Red Dust by James Vincent McMorrow
+30. I Was An Eagle by Laura Marling
+29. Rye Whiskey by Punch Brothers
+28. All I Want by Joni Mitchell
+27. Michigan by The Milk Carton Kids
+26. The Ghost On The Shore by Lord Huron
+25. Holocene by Bon Iver
+24. Funeral by Phoebe Bridgers
+23. Call It Dreaming by Iron & Wine
+22. Last Hurrah by Vetiver
+21. Master Pretender by First Aid Kit
+20. For Beginners by M. Ward
+19. A Bright New Life by Escort
+18. (Re)Confinement by Lorenz
+17. Improvisation Choral (Live) by Eric Dalest
+16. Stay Gold by First Aid Kit
+15. On That Day by Ásgeir
+14. Radiance (Original Mix) by State Of Matter & Luke Terry Present Surrogate Saviour
+13. Keep Your Head Up by Ben Howard
+12. L'esperanza (Ame Reinterpretation) by Sven Väth
+11. Your Love/Run Theme (Live) by Simian Mobile Disco
+10. My Father's Father by The Civil Wars
+9. Lullaby Love by Roo Panes
+8. Wizbot by Sea Of Bees
+7. Different Forces by Phantom Horse
+6. She/Swimming by Moon Ate The Dark
+5. Courage by Villagers
+4. The Only Living Boy In New York by Simon & Garfunkel
+3. Afslapningsniveau 60 by Aksel Joergensen
+2. Spiraalit by NIEMI
+1. The Road by Old Man Canyon
 <br>
 <br>
 
