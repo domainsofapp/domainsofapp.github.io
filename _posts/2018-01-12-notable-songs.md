@@ -491,7 +491,10 @@ Yung 6 Speed - Black Kray
 ## Hip Hop Rap 01
 bladee - Trash Star
 
-## Hip Hop Rap
+## Hip Hop Rap Albums
+Immortal Technique Revolutionary Volumes 1 & 2
+
+## Hip Hop Rap Songs
 0 to 100 / The Catch Up - Drake  
 1 Train (ft. Kendrick Lamar, Joey Bada$$, Yelawolf, Big Krit and more) - A$AP Rocky  
 All B!tches Aint Women - Too $hort  
