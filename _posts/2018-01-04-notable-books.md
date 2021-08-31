@@ -8,6 +8,19 @@ title: Notable Books
 
 <p class="meta">04 Jan 2018 - Berkeley, CA</p>
 
+## Author(s) - Fiction
+Cormac McCarthy  
+Irving Washington
+
+## Author(s) - Journalism
+Hunter S. Thompson
+
+## Author(s) - Philosophy
+Alain Badiou  
+Karen Barad  
+Slavoj Žižek
+
+## Book(s)
 A Clockwork Orange by Anthony Burgess  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
@@ -20,4 +33,5 @@ The Plague by Albert Camus
 The Proud Highway by Hunter S. Thompson  
 Reconstructing Earth by Braden R. Allenby  
 Stories of Your Life and Others by Ted Chiang  
-Why Does the World Exist? by Jim Holt
+Why Does the World Exist? by Jim Holt  
+Zorba the Greek by Nikos Kazantzakis
