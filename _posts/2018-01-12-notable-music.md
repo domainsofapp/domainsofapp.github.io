@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Notable Songs
+title: Notable Music
 ---
 
 {{ page.title }}
 ================
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
+
+Contents: Albums, mixes, & songs
 
 NB: Language warning throughout; such is music and culture.
 
