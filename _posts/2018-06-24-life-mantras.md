@@ -221,3 +221,5 @@ Fail fast. (Credit to M.D.)
 One day at a time. One step at a time.
 
 Break the cycle.
+
+The cure to existential boredom: Immerse yourself in culture & nature. Publish.
