@@ -22,6 +22,7 @@ Slavoj Žižek
 
 ## Book(s)
 A Clockwork Orange by Anthony Burgess  
+The Day of the Jackal by Frederick Forsyth  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
 The Gate of Heavenly Peace by Jonathan Spence  
