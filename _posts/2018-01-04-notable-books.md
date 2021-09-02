@@ -32,6 +32,7 @@ One Flew Over the Cookoo's Nest by Ken Kesey
 The Plague by Albert Camus  
 The Proud Highway by Hunter S. Thompson  
 Reconstructing Earth by Braden R. Allenby  
+Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
 Why Does the World Exist? by Jim Holt  
 Zorba the Greek by Nikos Kazantzakis
