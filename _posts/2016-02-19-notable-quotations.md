@@ -390,11 +390,11 @@ The English word "idiot" comes from the Greek for a person who did not participa
 
 "C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter
 
-F. --Internet slang in solidarity for all is terrible in the world
+F. --Internet slang in solidarity for all that's terrible in the world
 
-It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra in David Lynch's Dune (film).
+It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra, in David Lynch's "Dune" film
 
-It is by caffeine alone I set my mind in motion. It is by the beans of Java that thoughts acquire speed, the hands acquire shakes, the shakes become a warning. It is by caffeine alone I set my mind in motion. --The Programmer's Mantra (parodied from the Mentat Mantra in David Lynch's Dune (film).)
+It is by caffeine alone I set my mind in motion. It is by the beans of Java that thoughts acquire speed, the hands acquire shakes, the shakes become a warning. It is by caffeine alone I set my mind in motion. --The Programmer's Mantra (parodied from the Mentat Mantra in David Lynch's "Dune" film)
 
 Back to life, back to reality. --Soul II Soul, Musical Group
 
@@ -402,7 +402,7 @@ Ee mara tom tee tok maky cheesa. (You should have paid him when you had the chan
 
 He who learns must suffer. And even in our sleep pain, which cannot forget, falls drop by drop upon the heart, until, in our own despair, against our will, comes wisdom through the awful grace of God. --Aeschylus, Tragedian
 
-[I'm reminded of what] Abraham Lincoln said about the man who was carried out on a steel rail, out of the city, "Except for the honor, I'd like to have passed it up." --Robert Kennedy in Oregon in 1968
+[I'm reminded of what] Abraham Lincoln said about the man who was carried out on a steel rail, out of the city, "Except for the honor, I'd like to have passed it up." --Robert Kennedy in Oregon (1968)
 
 I feel like the man who was tarred and feathered and ridden out of town on a rail. To the man who asked him how he liked it, he said: "If it wasn’t for the honor of the thing, I'd rather walk." --Abraham Lincoln
 
@@ -426,7 +426,7 @@ The thought of suicide is a great consolation: by means of it one gets through m
 
 Remember that the future is not yet written. So when things look dark, do as my mighty mom would insist. Lace up your dancing shoes, and get to work. --Bruce Springsteen, American Singer-songwriter, in Springsteen on Broadway
 
-Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should. --Dr. Ian Malcolm character in Jurassic Park
+Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should. --Dr. Ian Malcolm, fictional character in Jurassic Park
 
 Everyone gets the experience. Some get the lesson. --T. S. Eliot, American-British Poet
 
@@ -440,11 +440,11 @@ God, grant me the serenity to accept the things I cannot change, courage to chan
 
 Trust, but verify. --Suzanne Massie, American Scholar
 
-D'oh! --Homer Simpson, fictional character in The Simpsons
+D'oh! --Homer Simpson, fictional character in "The Simpsons"
 
-Jeepers! Zoinks! --Scooby-Doo, fictional character in Scooby-Doo
+Jeepers! Zoinks! --Scooby-Doo, fictional character in "Scooby-Doo"
 
-Narf! --Pinky, fictional character in Pinky and the Brain
+Narf! --Pinky, fictional character in "Pinky and the Brain"
 
 That'll do, pig. That'll do. --Farmer Arthur Hoggett, fictional character in the film "Babe" (1995)
 
@@ -452,46 +452,45 @@ One, if by land, and two, if by sea. --Henry Wadsworth Longfellow, American Poet
 
 Data is gold! --TBD hedge fund
 
-Don't force it. --James Pietragallo, Small Town Murder podcast, Ep. 160
+Don't force it. --James Pietragallo, American Comedian (in Small Town Murder podcast Ep. 160)
 
-You're gifted with the talent that brings people to you. --Jimmie Whisman, Small Town Murder podcast, Ep. 179
+You're gifted with the talent that brings people to you. --Jimmie Whisman, American Comedian (in Small Town Murder podcast Ep. 179)
 
-Looking back is narcissism; looking forward is fantasy. --S.M.'s colleague & friend (personal conversation)
+Looking back is narcissism; looking forward is fantasy. --S.M.'s Colleague & Friend (personal conversation)
 
 Wrap the leader around the tippet. Four, five, six times. Tuck the end between the lines. Tighten. And...trim. --Will Graham character in Hannibal (TV series), S2:E4, Takiawase
 
 Focus on the horizon, and rock with the sea. --Source TBD (on how to avoid seasickness)
 
-Jealousy's a motherf\*cker, you weak jealous motherf\*ckers! --The Notorious
-B.I.G., American Rapper, in My Downfall (song), in Life After Death (album)
+Jealousy's a motherf\*cker, you weak jealous motherf\*ckers! --The Notorious B.I.G., American Rapper (in My Downfall song, which is in Life After Death album)
 
-Daughter, Son: God gave you a mouth. Learn how to use it. --Source TBD, quoted in TBD Small Town Murder podcast
+Daughter, Son: God gave you a mouth. Learn how to use it. --Source TBD (quoted in TBD Small Town Murder podcast)
 
-Liberté, égalité, fraternité. --Maximilien Robespierre, French lawyer (highly influential figure of the French Revolution)
+Liberté, égalité, fraternité. --Maximilien Robespierre, French Lawyer (highly influential figure of the French Revolution)
 
 If it ain't baroque, don't fix it. --Ms. Bach (my former music teacher)
 
 There's no such thing as a synonym. No two words are exact synonyms. No two words are the same. --S.M. (personal conversation)
 
-If you love something, give it away. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
+If you love something, give it away. --Conor Oberst, American Singer-songwriter (& lead singer of rock band "Bright Eyes")
 
-I'm happy just because I found out I'm really no one. --Conor Oberst, American singer-songwriter, lead singer of rock band "Bright Eyes"
+I'm happy just because I found out I'm really no one. --Conor Oberst, American Singer-songwriter (& lead singer of rock band "Bright Eyes")
 
-Freedom fighters don't always win, but they're always right. --Molly Ivins, American columnist
+Freedom fighters don't always win, but they're always right. --Molly Ivins, American Columnist
 
-Sometimes we need stories more than we need food. --Barry Lopez, American author
+Sometimes we need stories more than we need food. --Barry Lopez, American Author
 
-Look to the helpers. --Mother of Fred Rogers, American television host
+Look to the helpers. --Mother of Fred Rogers, American Television TV Host
 
 Typing is no substitute for thinking. (My version: Trying is no substitute for thinking.) --Original BASIC manual
 
-Sit down & don't touch sh!t. The master of the house will be with you shortly. He's vacuuming. --Anthony Mason, American basketball player
+Sit down & don't touch sh!t. The master of the house will be with you shortly. He's vacuuming. --Anthony Mason, American Basketball Player
 
-You can't be funny at the beach. --Jerry Seinfeld via James Pietragallo, both American comedians
+You can't be funny at the beach. --Jerry Seinfeld via James Pietragallo, both American Comedians
 
 The best way to control the opposition is to lead it ourselves. --Vladimir Lenin, Former Premier of the Soviet Union
 
-We do for today what we can't do for forever. --Mother of Mitchell S. Jackson, American writer
+We do for today what we can't do for forever. --Mother of Mitchell S. Jackson, American Writer
 
 A manager sets objectives - A manager organizes - A manager motivates and communicates - A manager, by establishing yardsticks, measures - A manager develops people. (Paraphrased: You can't manage what you can't measure.) --Peter Drucker, Austrian Consultant (in The Practice of Management, 1954, p. 344)
 
@@ -502,3 +501,5 @@ Lean into the things that make you weird...that's where all of the gold is. --Sa
 Batteries do gigawatts GWs; hydrogen does terawatts TWs. --Dr. Todd G. Deutsch, Senior Scientist, Chemistry, National Renewable Energy Laboratory (NREL)
 
 This too shall pass. --Persian Adage
+
+You can, for you shall. --Immanuel Kant, Philosopher
