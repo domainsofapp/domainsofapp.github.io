@@ -32,6 +32,8 @@ Workingman's Death
 ## Drama
 Battle Royale  
 Border  
+The Descendants  
+The Great Escape  
 Groundhog Day  
 Enter the Void  
 Eternal Sunshine of the Spotless Mind  
@@ -41,7 +43,6 @@ Leaving Las Vegas
 Let The Right One In  
 Lost in Translation  
 Paterson  
-The Descendants  
 Up in the Air  
 Us and Them
 
