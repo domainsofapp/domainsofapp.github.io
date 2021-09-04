@@ -36,4 +36,5 @@ Reconstructing Earth by Braden R. Allenby
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
 Why Does the World Exist? by Jim Holt  
+You Shall Know Our Velocity! by Dave Eggers  
 Zorba the Greek by Nikos Kazantzakis
