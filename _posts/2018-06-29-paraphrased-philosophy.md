@@ -43,6 +43,9 @@ Source: <https://www.urbandictionary.com/define.php?term=Godot>
 ## Fred Brooks, American Software Engineer
 The Mythical Man-Month: Adding a new person to a late project will make the project later.
 
+## Brené Brown, American Professor
+Be vulnerable, or live with regrets.
+
 ## Albert Camus, French Philosopher
 At bottom, everything's meaningless. Nonetheless, you can make meaning.
 
