@@ -41,6 +41,7 @@ San xian
 Saz  
 Shakuhachi  
 Sitar  
+Tanpura  
 Theremin  
 Tumba  
 Zhong ruan
