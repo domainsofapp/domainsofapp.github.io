@@ -223,3 +223,7 @@ One day at a time. One step at a time.
 Break the cycle.
 
 The cure to existential boredom: Immerse yourself in culture & nature. Publish.
+
+Trust statistics - it's essential to have faith in statistics.
+
+Trace the source.
