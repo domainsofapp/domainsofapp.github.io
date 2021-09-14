@@ -503,3 +503,5 @@ Batteries do gigawatts GWs; hydrogen does terawatts TWs. --Dr. Todd G. Deutsch, 
 This too shall pass. --Persian Adage
 
 You can, for you shall. --Immanuel Kant, Philosopher
+
+Safe journeys, space fans...wherever you are. --Stephen Hill, Radio Producer ("Hearts of Space")
