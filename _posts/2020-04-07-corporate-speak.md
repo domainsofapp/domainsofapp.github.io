@@ -255,6 +255,7 @@ Lever
 Levers  
 Leverage  
 Leveraging  
+Life cycle  
 Light at end of tunnel  
 Looped in  
 Lose your shirt  
