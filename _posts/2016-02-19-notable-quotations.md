@@ -390,6 +390,8 @@ The English word "idiot" comes from the Greek for a person who did not participa
 
 "C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter
 
+Goes to show, you don't ever know. --Jerry Garcia, American Singer-songwriter & Lead Guitarist of the Grateful Dead (from the 1972 song "Deal [Evening]")
+
 F. --Internet slang in solidarity for all that's terrible in the world
 
 It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion. --Mentat Mantra, in David Lynch's "Dune" film
