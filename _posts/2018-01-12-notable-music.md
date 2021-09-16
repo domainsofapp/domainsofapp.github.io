@@ -467,13 +467,13 @@ Vaporwave
 Wave  
 Witch House
 
-## Greatful Dead et al.
-Althea - Greatful Dead  
-Brown Eyed Women - Greatful Dead  
+## Grateful Dead et al.
+Althea - Grateful Dead  
+Brown Eyed Women - Grateful Dead  
 Forever Young - Grateful Dead ft. Neil Young  
-Scarlet Begonias into Fire on the Mountain - Greatful Dead  
+Scarlet Begonias into Fire on the Mountain - Grateful Dead  
 Sparks (MANDY Remix)  
-Terrapin Station - Greatful Dead  
+Terrapin Station - Grateful Dead  
 The Lonesome Death of Hattie Carroll - Bob Dylan
 
 ## Happy
