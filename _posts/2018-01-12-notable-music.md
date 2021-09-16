@@ -48,7 +48,7 @@ Bones - BlastZone
 $uicideboy$ - 2nd Hand  
 Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor
 
-## Pure Emptiness and Depression Mix 01
+## Pure Emptiness & Existential Depression Mix 01
 Lil Peep - In Dis Empty Club  
 Lil Peep - We'll Be Fine  
 JGRXXN x GHOSTEMANE x LiL PEEP - Words You Hear On A Sinking Ship  
@@ -74,17 +74,17 @@ Bones - SameOldStory
 Bones - SadlyThatsJustTheWayThingsAre  
 Xavier Wulf & Bones - CrashLanding
 
-## Anxiety/Emptiness/Existential Crisis/Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Rap Artists
+## Anxiety/Emptiness/Existential Crisis & Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Rap Artists
 NB: Add song lists later.  
 $uicideboy$  
-Bladee  
+Bladee (select songs)  
 Bones  
-Ecco2k  
+Ecco2k (select songs)  
 Lil Peep (select songs)  
 SICKBOYRARI AKA BLACK KRAY  
 Whitearmor  
 Xavier Wulf  
-Yung Lean
+Yung Lean/Yung Sherman/Yung Gud (Gud)
 
 Ref. [1]: <https://www.urbandictionary.com/define.php?term=Sad+Boi>  
 Ref. [2]: <https://www.urbandictionary.com/define.php?term=sad%20boy>
@@ -93,7 +93,8 @@ Ref. [2]: <https://www.urbandictionary.com/define.php?term=sad%20boy>
 RZA - Baby ft. Maurice
 
 ## Live DJ Hip Hop Mix 09 (Draft)
-ASAP Rocky - Canal St. ft. Bones
+ASAP Rocky - Canal St. ft. Bones  
+To be continued TBC
 
 ## Live DJ Hip Hop Mix 08 (Draft)
 Sam Cooke - What A Wonderful World  
@@ -364,7 +365,7 @@ I'm Still Standing - Elton John
 September - Earth, Wind & Fire
 
 ## Classical
-​On the Nature of Daylight - Max Richter  
+On the Nature of Daylight - Max Richter  
 Partita No. 1 for Solo Cello, "Songs & Poems": Movement VI - Philip Glass and Matt Haimovitz
 
 ## Dance
@@ -384,7 +385,7 @@ Props to: YouTube user "iasoe"
 24:56 MHD - AFRO TRAP Part.2  
 26:33 Kamixlo - Lariat (Visionist remix)  
 28:23 ENDGAME - luxury riddim (vocals unknown)  
-31:56 Future - Magic﻿
+31:56 Future - Magic
 
 ## Electronic DJ
 Active Denial System II - WWWINGS ft. Svengali  
@@ -581,7 +582,7 @@ Waiting All Night
 Walls of the Cave  
 Water in the Sky  
 When the Circus Comes to Town  
-You Enjoy Myself (YEM)
+You Enjoy Myself (Y.E.M.)
 
 ## R&B
 Pray You Catch Me - Beyonce
