@@ -85,6 +85,7 @@ Carry the bag
 Carry the torch  
 Case closed  
 Challenges and opportunities  
+Change/changing the conversation  
 Cherry-pick  
 Churn  
 Circle back  
@@ -436,6 +437,7 @@ Take a hard look at
 Take a stab at it  
 Take a step back  
 Take it offline  
+Take [it/that] to another level  
 Take [it/that] to that bank  
 Take the lead  
 Take the reins  
