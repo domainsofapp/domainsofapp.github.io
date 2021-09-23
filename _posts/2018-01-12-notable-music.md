@@ -458,7 +458,7 @@ Sesh
 Soca  
 SoundCloud Rap  
 Terror Metal  
-Trance﻿  
+Trance  
 Trap  
 Trillwave  
 Trip Hop  
