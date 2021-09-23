@@ -509,3 +509,5 @@ You can, for you shall. --Immanuel Kant, Philosopher
 Safe journeys, space fans...wherever you are. --Stephen Hill, Radio Producer ("Hearts of Space")
 
 Everything under heaven is in utter chaos; the situation is excellent. --Mao Zedong (Mao Tse-tung), Former President of the People's Republic of China & Mass Murderer (killed millions of people - many more millions than Hitler & Stalin combined)
+
+There would be no prisons without architects willing to build them. --Me
