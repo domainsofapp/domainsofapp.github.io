@@ -141,7 +141,7 @@ As humanity evolves, so does its reasoning and ability to reason. You cannot sto
 Master-slave dialectic: The boy is father to the man (or, the girl is mother to the woman); the "master" is slave to the slave.
 
 ## Heraclitus, Greek Philosopher
-The only thing constant is change.
+The only constant is change.
 
 ## Immanuel Kant, Philosopher
 How can we explain what we know except through the senses?
