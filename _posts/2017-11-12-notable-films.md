@@ -14,7 +14,8 @@ Koyaanisqatsi
 Sans Soleil
 
 ## Comedy
-Real Genius
+Real Genius  
+Tampopo (Ramen noodle Western)
 
 ## Documentary
 Avicii: True Stories  
@@ -43,7 +44,7 @@ Leaving Las Vegas
 Let The Right One In  
 Lost in Translation  
 Paterson  
-También la lluvia  
+También la lluvia (Even the Rain)  
 Up in the Air  
 Us and Them
 
