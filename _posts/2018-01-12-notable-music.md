@@ -93,10 +93,13 @@ Ref. [2]: <https://www.urbandictionary.com/define.php?term=sad%20boy>
 RZA - Baby ft. Maurice
 
 ## Live DJ Hip Hop Mix 09 (Draft)
+To Me ft. Yung Lean - Luckaleannn  
 ASAP Rocky - Canal St. ft. Bones  
+Self Control - Frank Ocean  
+Black Kray - Born Alone Die Alone  
 To be continued TBC
 
-## Live DJ Hip Hop Mix 08 (Draft)
+## Live DJ Hip Hop Mix 08 - Part 3 (Ready)
 Sam Cooke - What A Wonderful World  
 Rapsody - Ibtihaj ft. D'Angelo, GZA  
 OutKast - B.O.B.  
@@ -165,7 +168,7 @@ Drowning - A Boogie Wit Da Hoodie ft. Kodak Black
 Kendrick Lamar - LOVE. ft. Zacari  
 Khalid - OTW ft. 6LACK, Ty Dolla $ign
 
-## Live DJ Hip Hop Mix 08 Backup 02
+## Live DJ Hip Hop Mix 08 - Part 2 (Ready)
 Lil Peep x $UICIDEBOY$ - Cross  
 2Pac - Letter 2 My Homeboys (Prod. Johnny J & DJ Skandalous)  
 Mount Sinai - $uicideboy$  
@@ -193,7 +196,7 @@ Pouya - Void
 SICKBOYRARI - HANGIN OUT LIKE 30  
 Umfang - Ok
 
-## Live DJ Hip Hop Mix 08 Backup 01
+## Live DJ Hip Hop Mix 08 - Part 1 (Ready)
 Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
 Jhené Aiko - Triggered Remix ft. 21 Savage & Summer Walker  
