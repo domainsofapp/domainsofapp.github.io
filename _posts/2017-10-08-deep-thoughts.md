@@ -82,7 +82,7 @@ I wonder why quotation marks, e.g., "’" vs. "'", maintain their formatting whe
 
 What cools down a bowl of soup the fastest: Removing the solids or the liquids? I am guessing the answer involves calculations of thermal mass, coefficients of conductivity, and whatnot.
 
-Historically, we only had a physical house to maintain. Nowadays, we have both physical and digital houses to maintain. Thus, times are indeed more complex now than before. Perhaps in the social arena, metaphorically parallel to the second law of thermodynamics, time is us moving towards increasing complexity.
+Historically, we only had a physical house to maintain. Nowadays, we have both physical and digital houses to maintain. Thus, times are indeed more complex now than before - at least twice as complex (or more, scaling w/ the number of "houses" requiring constant attention & maintenance). Perhaps, in the social arena - metaphorically parallel to the second law of thermodynamics -, time is us moving towards (mostly ever-)increasing complexity.
 
 Brita LP should probably overbuild their replaceable water filters knowing that everyone keeps using each one at least 20% more than it is supposed to be used (i.e., for 20% longer after the pitcher says to replace it).
 
