@@ -334,6 +334,8 @@ In skating over thin ice, our safety is in our speed. --Ralph Waldo Emerson, Ame
 
 There's no such thing as too cold weather. Only insufficient clothing. --Finnish Proverb
 
+Freedom is just another word for nothing left to lose. --Janis Joplin, American singer-songwriter, in the song "Me and Bobby McGee"
+
 Freedom is just another word for one more way to get f--ked. --Officer Gerard in Dexter, S1:E5, "Love American Style"
 
 A lo mejor los pescados te encuentran. (Maybe the fish will find you.) --Dexter in Dexter, S1:E5, "Love American Style"
