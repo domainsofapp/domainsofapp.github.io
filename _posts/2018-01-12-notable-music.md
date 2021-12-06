@@ -8,7 +8,7 @@ title: Notable Music
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
-Contents: Albums, mixes, & songs
+Contents: Albums, DJ mixes, & songs
 
 NB: Language warning throughout; such is music and culture.
 
@@ -16,7 +16,17 @@ Please look up songs on YouTube unless otherwise noted.
 
 Right click on YouTube video to loop it.
 
-## Sad Boys & Drain Gang & Gravity Boys & Smög Boys & Shield Gang Mix 01
+## Africa DJ Mix 01
+Zé Manel - História Fala  
+Sorron Rensóde - Cordas Do Sol  
+Woshanda - Monoswezi  
+To be continued TBC
+
+## Brasiliera Brazilian DJ Mix 01
+Vinicius Cantuária - Amor Brasileiro  
+To be continued TBC
+
+## Sad Boys/Drain Gang/Gravity Boys/Smög Boys/Shield Gang DJ Mix 01
 bladee - Decay  
 Bones - Dirt  
 Ecco2K - Peroxide  
@@ -29,7 +39,7 @@ bladee & ECCO2K - Obedient
 Yung Lean - Creep Creeps  
 Yung Lean - Lost Verse
 
-## Hard-hitting Mix 01
+## Hard-hitting DJ Mix 01
 $UICIDEBOY$ - Sunshine Ext  
 GHOSTEMANE - Mercury  
 Pouya x GHOSTEMANE 1000 Rounds  
@@ -48,7 +58,7 @@ Bones - BlastZone
 $uicideboy$ - 2nd Hand  
 Pouya ft. Ghostemane, Shakewell & Erick The Architect-Death - Dishonor
 
-## Pure Emptiness & Existential Depression Mix 01
+## Pure Emptiness & Existential Depression DJ Mix 01
 Lil Peep - In Dis Empty Club  
 Lil Peep - We'll Be Fine  
 JGRXXN x GHOSTEMANE x LiL PEEP - Words You Hear On A Sinking Ship  
@@ -89,17 +99,18 @@ Yung Lean/Yung Sherman/Yung Gud (Gud)
 Ref. [1]: <https://www.urbandictionary.com/define.php?term=Sad+Boi>  
 Ref. [2]: <https://www.urbandictionary.com/define.php?term=sad%20boy>
 
-## Live DJ R&B Mix 01
+## Live R&B DJ Mix 01
 RZA - Baby ft. Maurice
 
-## Live DJ Hip Hop Mix 09 (Draft)
+## Live Hip Hop DJ Mix 09 (Draft)
 To Me ft. Yung Lean - Luckaleannn  
 ASAP Rocky - Canal St. ft. Bones  
 Self Control - Frank Ocean  
 Black Kray - Born Alone Die Alone  
+Styles P/Termanology/Q-tip - Stop, Look, and Listen  
 To be continued TBC
 
-## Live DJ Hip Hop Mix 08 - Part 3 (Ready)
+## Live Hip Hop DJ Mix 08 - Part 3 (Ready)
 Sam Cooke - What A Wonderful World  
 Rapsody - Ibtihaj ft. D'Angelo, GZA  
 OutKast - B.O.B.  
@@ -168,7 +179,7 @@ Drowning - A Boogie Wit Da Hoodie ft. Kodak Black
 Kendrick Lamar - LOVE. ft. Zacari  
 Khalid - OTW ft. 6LACK, Ty Dolla $ign
 
-## Live DJ Hip Hop Mix 08 - Part 2 (Ready)
+## Live Hip Hop DJ Mix 08 - Part 2 (Ready)
 Lil Peep x $UICIDEBOY$ - Cross  
 2Pac - Letter 2 My Homeboys (Prod. Johnny J & DJ Skandalous)  
 Mount Sinai - $uicideboy$  
@@ -196,7 +207,7 @@ Pouya - Void
 SICKBOYRARI - HANGIN OUT LIKE 30  
 Umfang - Ok
 
-## Live DJ Hip Hop Mix 08 - Part 1 (Ready)
+## Live Hip Hop DJ Mix 08 - Part 1 (Ready)
 Ghostface Killers - 21 Savage & Metro...  
 lil peep - gym class  
 Jhené Aiko - Triggered Remix ft. 21 Savage & Summer Walker  
@@ -205,7 +216,7 @@ Rap Saved Me - 21 Savage
 Disco D - High Noon  
 Tunnel Vision -  Kodak Black
 
-## Live DJ Hip Hop Mix 07
+## Live Hip Hop DJ Mix 07
 My Music - Album34  
 Young Thug - High ft. Elton John  
 Sweet November - SZA  
@@ -243,7 +254,7 @@ Pressa - Authentic (Press A Brick)
 Sabyr - Late Morning Aneurysm  
 BluntsFromTheCrypt1 - IDLEGLANCE
 
-## Live DJ Hip Hop Mix 06
+## Live Hip Hop DJ Mix 06
 Jidenna - Classic Man ft. Roman GianArthur  
 Ultra Eko Thunder Lightning  
 Soulja Boy - Nu Religion  
@@ -283,7 +294,7 @@ uLtRa_Eko - Thunder Lightning Nicotine
 Ruby Ibarra ft. Rocky Rivera, Klassy, & Faith Santilla - Us  
 Ruby Ibarra - Playbill$
 
-## Live DJ Hip Hop Mix 05
+## Live Hip Hop DJ Mix 05
 6IX9INE - Gotti  
 Noname - Song 32  
 Noname - Reality Check ft. Eryn Allen Kane & Akenya  
@@ -302,11 +313,11 @@ Crown - Run The Jewels ft. Diane Coffee
 In The Morning - Jay Prince  
 SiR - D'Evils
 
-## Live DJ Hip Hop Mix 04
+## Live Hip Hop DJ Mix 04
 Do It To Ya - YG ft. TeeFLii  
 Thank You (Falettinme Be... - Sly & the ...
 
-## Live DJ Hip Hop Mix 03
+## Live Hip Hop DJ Mix 03
 21 Savage - a lot ft. J. Cole  
 Calid B. - Mansa Musa (ft. Limitless Soundz, Cheri Soul & Sleepybrotha)  
 Mobb Deep - Snitch (If These Walls Could Talk)  
@@ -317,14 +328,14 @@ Ari Lennox, J. Cole - Shea Butter Baby
 Earl Sweatshirt - Shattered Dreams  
 Amphetamine - Smino (7:49 min.)
 
-## Live DJ Hip Hop Mix 02
+## Live Hip Hop DJ Mix 02
 June - Copywrite  
 Hackman - Close  
 Toot my Sh!t - Vixen Ent.  
 Company Flow - 8 Steps to Perfection  
 Dear David - I've Been Waiting (EDM)
 
-## Live DJ Hip Hop Mix 01
+## Live Hip Hop DJ Mix 01
 Tiana - Batty Rider - Bike Ryda Riddim  
 The Hundred In The Hands - Commotion  
 G Mo - Ballin'  
@@ -417,7 +428,7 @@ Ambient
 Anthem House  
 Atmospheric  
 Avant-garde  
-Bakosó  
+Bakosó (means eternal)  
 Calypso  
 Chillwave  
 Chopped and Screwed  
@@ -437,6 +448,7 @@ Euro Trance
 Hip Hop  
 House  
 Hypnotic  
+Indie Bedroom Pop  
 Indie Rock  
 Intelligent Dance Music (IDM)  
 Jungle  
@@ -458,6 +470,8 @@ Rock
 Sad  
 Sadcore  
 Sesh  
+Sexy  
+Shoegaze  
 Soca  
 SoundCloud Rap  
 Terror Metal  
@@ -591,6 +605,11 @@ You Enjoy Myself (Y.E.M.)
 
 ## R&B
 Pray You Catch Me - Beyonce
+
+## Sexy
+James Brown  
+Minnie Riperton  
+Ronnie Walker - Someday album
 
 ## Slow
 Anything But Me - Phish  
