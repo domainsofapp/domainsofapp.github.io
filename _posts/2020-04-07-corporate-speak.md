@@ -10,7 +10,7 @@ title: Corporate Speak
 
 Use it or lose it, folks!
 
-(Or, take on the Corporate Speak challenge: See if you can avoid the use of any of these like The Plague and still succeed in your career.)
+(Or, take on the Corporate Speak challenge: See if you can avoid using any of these vapid words & phrases like The Plague and still succeed in your career!)
 
 30,000-foot view  
 Above my pay grade  
@@ -40,6 +40,7 @@ Bear the brunt of [it]
 Bearish  
 Become a research or science project  
 Beefy  
+Behind closed doors  
 Benchmark  
 Best bang for the buck  
 Best, <<insert_name>>  
@@ -291,6 +292,7 @@ Nose to the grindstone
 Off the map  
 Off the plate  
 Off the radar  
+Off the rails  
 Off the table  
 Off to the races  
 Off-the-shelf  
@@ -305,6 +307,7 @@ On the radar
 On the same page  
 On the table  
 OoO: Out of Office  
+Open the kimono  
 OpEx  
 Opportunity cost  
 Organic  
@@ -368,6 +371,7 @@ Resilience
 Resiliency  
 Resilient  
 Rich  
+Right out the gate  
 Rinse and repeat  
 Robust  
 Roles and responsibilities (R&R)  
@@ -470,6 +474,7 @@ Touch base
 Track record  
 Triple bottom line  
 Turn the crank  
+Under the hood  
 Underserved  
 Unpack [that]   
 Up to speed  
