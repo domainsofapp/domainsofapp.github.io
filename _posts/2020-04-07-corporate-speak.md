@@ -87,6 +87,7 @@ Carry the torch
 Case closed  
 Challenges and opportunities  
 Change/changing the conversation  
+Chase down  
 Cherry-pick  
 Churn  
 Circle back  
@@ -94,6 +95,7 @@ Clean slate
 Closing in [on]  
 Cohesive  
 Come full circle  
+Connect the dots  
 Cookie-cutter  
 Cooking the books  
 Core values  
@@ -122,6 +124,7 @@ Dive in
 Diving in  
 Dog and pony show (i.e., Pressing of the flesh, greasing of the palms. --Roland, in Schitt's Creek, S2:E10, "Ronnie's Party")  
 Don't give them the rope to hang you with  
+Dot the i's and cross the t's  
 Dovetail  
 Down the line  
 Draw straws  
@@ -163,6 +166,7 @@ Fire up
 First pass  
 First rodeo  
 Flashpoints  
+Flesh out  
 Follow up  
 Follow-up  
 Framework  
@@ -210,6 +214,7 @@ High-level
 Hit the nail on the head  
 Hodge-podge  
 Hop on a call  
+Horror stories  
 Housekeeping items  
 Huddle up  
 I'd be remiss if [I didn't]...  
@@ -260,8 +265,9 @@ Leveraging
 Life cycle  
 Light at end of tunnel  
 Looped in  
+Lose-lose  
 Lose your shirt  
-Low hanging fruit  
+Low-hanging fruit  
 Macro trends  
 Majority share  
 March on  
@@ -289,6 +295,7 @@ No quarter
 Non-negotiable  
 Noodle it  
 Nose to the grindstone  
+Off the charts  
 Off the map  
 Off the plate  
 Off the radar  
@@ -324,7 +331,9 @@ Pay dividends
 Pay to play  
 Peel back the onion  
 Pencils down  
+Phase-gate  
 Pick-and-shovel play  
+Pick and choose your battles  
 Piggyback off someone  
 Piggybacking  
 Pillars  
@@ -346,6 +355,7 @@ Power lunch
 Power through  
 Primary mission  
 Prime time  
+Pull back the curtain  
 Punch through  
 Punt [it]  
 Pushback  
@@ -489,6 +499,7 @@ Weigh in [on]
 Wheelhouse  
 White elephant  
 Wiggle room  
+Win-win  
 Wipe the slate clean  
 Within the business  
 Wrap up  
