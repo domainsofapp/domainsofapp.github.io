@@ -429,6 +429,7 @@ Anthem House
 Atmospheric  
 Avant-garde  
 Bakosó (means eternal)  
+Bedroom Pop  
 Calypso  
 Chillwave  
 Chopped and Screwed  
@@ -448,7 +449,7 @@ Euro Trance
 Hip Hop  
 House  
 Hypnotic  
-Indie Bedroom Pop  
+Indie Pop  
 Indie Rock  
 Intelligent Dance Music (IDM)  
 Jungle  
@@ -458,7 +459,8 @@ Metal
 Minimalism  
 Murder House  
 Mushrooom Rap  
-Neo Trance  
+Neo-ambient  
+Neo-trance  
 Neurofunk  
 Old School  
 Phonk  
@@ -479,6 +481,7 @@ Trance
 Trap  
 Trillwave  
 Trip Hop  
+UK Garage  
 Vapo  
 Vapor  
 Vaportrap  
