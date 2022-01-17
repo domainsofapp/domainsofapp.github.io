@@ -8,7 +8,7 @@ title: Life Mantras
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
-...aka me (as an adult) talking to myself as a kid.
+...aka me (now, as an adult) talking to myself as a kid. This is *not* just another lame self-help guide. JK, it totally is!
 
 !!Cliché Warning!! (throughout this document):
 
@@ -202,7 +202,7 @@ Not doing is doing. (i.e., Not doing something is doing something - this include
 
 To each her own. What works for you may not work for others. Don't knock it 'til you try it. Judge not. Just focus on doing what floats your boat!
 
-Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, whole-hearted, to-the-bone (hence, "Life Mantras") self-acceptance is absolutely, first & foremost, foundational, fundamental, key, & pivotal to mental (psychological) stability & well-being.
+Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, wholehearted, to-the-bone, at-the-core (hence, "Life Mantras") self-acceptance is absolutely, first & foremost, foundational, fundamental, key, & pivotal to mental (psychological) stability & well-being.
 
 Bees don't look up, so they get trapped in the honey traps.
 
@@ -224,7 +224,7 @@ Break the cycle.
 
 The cure to existential boredom: Immerse yourself in culture & nature. Publish.
 
-Trust statistics - it's essential to have faith in statistics.
+Trust statistics. It's essential to have faith in statistics. Statistics is the basis of Truth.
 
 Trace the source.
 
@@ -237,3 +237,39 @@ If possible, you should try not to use use the words "if possible", should", or 
 At any given moment, it's best to look within & do whatever you feel like doing, even if that's nothing at all. (Obviously, sometime "life" gets in the way.)
 
 FOCUS. Keep coding!
+
+ABR: Always be recording (compliments of Heavyweight podcast)
+
+ABP: Always be publishing (my own variant)
+
+The more mistakes you make, the faster you're making progress. Mistakes are a direct corollary of progress. Embrace mistakes. No replies, no regrets.
+
+If ain't baroque, don't fix it (compliments of Ms. Bach, my middle school music teacher, who taught me how to use a digital audio workstation DAW).
+
+Focus on doing your own thing well. Eventually, people will gravitate towards it (and, thus, you) (compliments of James Pietragallo & Jimmie Whisman, American comedians).
+
+Procrastination is not a bug, it's a feature. Put absolute faith into your procrastination skills. They'll get you where you need to be/go.
+
+Don't knock it 'til you try it.
+
+Walk Planet Earth like an animal (because you are one). Do things with purpose. Pay attention to your here & now.
+
+20/20/20 rule: Every 20 minutes, stare at something 20 feet away for 20 seconds.
+
+Bravery. Care. Compassion. Courage. Ethics. Faith/fidelity. Generosity. Gratitude. Honesty. Integrity. Justice. Kindness. Morality. Passion. Solidarity. Truth.
+
+Pace yourself. Maximum efficiency, minimum effort. No frills, no B.S.
+
+Trust yourself. Trust your gut.
+
+It's A-OK to joke to cope.
+
+Ask & sometimes (oftentimes) ye shall receive.
+
+Dishes in the sink mean more than you think.
+
+You might feel like cr@p today. If so, don't worry, fear not, & don't despair: Chances are you'll probably feel better tomorrow (or shortly thereafter).
+
+Trace the source. And, in journalism, follow the money $.
+
+Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankful for them (& such opportunities).
