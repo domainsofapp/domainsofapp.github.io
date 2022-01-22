@@ -9,8 +9,8 @@ title: Notable Podcasts
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
 Crime in Sports  
-Heavyweight: Jesse, Moby, and Rob (funny)  
-Mystery Show: Belt Buckle starring Hans Jordi, swiss cowboy  
+Heavyweight: Jesse, Moby, Rob (funny), & The Sharing Place  
+Mystery Show: Belt Buckle starring Hans Jordi, Swiss cowboy  
 The Partially Examined Life  
 Radiolab  
 Small Town Murder  
