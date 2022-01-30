@@ -12,7 +12,7 @@ Shout-out to Danny E. (RIP), my best gaming buddy. Thanks for all the fun memori
 
 Amazon Trail  
 Hard Hat Mack  
-James Bond 007  
+James Bond 007 GoldenEye (slappers only mode, heh)  
 NHL '95  
 Oregon Trail  
 Rainbow Six: Rogue Spear  
