@@ -16,9 +16,11 @@ Exit with Grace
 Festivus for the Rest of Us  
 Funky Vibes, Perseid Skies  
 Magic Diamond Sauce  
+Max Morning Height  
 Midnight Perseids  
 No Coffee, Just Wine  
 Orbital Bone  
 Perhaps Some Cookies?  
 The New Normal  
+Total Astral Projection  
 Valid Alibi
