@@ -10,7 +10,7 @@ title: Africa Mix
 
 KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
 
-Courtesy of Shazam
+Compliments of Shazam
 
 (y) means highly recommended by me
 
