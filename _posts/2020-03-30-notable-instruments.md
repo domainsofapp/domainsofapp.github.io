@@ -29,6 +29,7 @@ Guqin
 Guzheng  
 Harpsichord  
 Kalimba  
+Kantele  
 Kora  
 Liuqin  
 Lyricon (e.g., Shadowfax Album 1982)  
