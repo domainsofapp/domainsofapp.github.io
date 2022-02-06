@@ -273,3 +273,5 @@ You might feel like cr@p today. If so, don't worry, fear not, & don't despair: C
 Trace the source. And, in journalism, follow the money $.
 
 Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankful for them (& such opportunities).
+
+Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course w/ a broad, robust foundation & then building upon that.
