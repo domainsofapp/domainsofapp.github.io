@@ -16,7 +16,34 @@ Compliments of Shazam
 
 (y) means highly recommended by me
 
-## 2022-01-22 - Edwin Okong'o
+## 2022-02-05 Edwin Okong'o
+1. Que Ne Numera El Son by Franco & Le T.P.O.K. Jazz Feat. Vicky
+2. Wonda Wonda by Ndere Troupe
+3. Yündüya Weyu (The Sun Has Set) by Umalali
+4. Anywhere by Naomi Wachira
+5. Mwambieni by Zuchu
+6. Utu by Alikiba
+7. Wasakara by Oliver Mtukudzi
+8. Seli Pere by Tshala Muana
+9. Ulimilwami/My Language by Busi Ncube
+10. I Want To Sing For Them All by Meklit Feat. Andrew Bird
+11. My Baby by Mbongeni Ngema
+12. Obangaina by Ykee Benda (see video also)
+13. Nyako Konya by Orchestre Les Mangelepa
+14. Roger Milla by Pépé Kallé
+15. Tchakou Show by Shimita El Diego
+16. Sans Pitié by Néné Tchakou
+17. Cissey by Néné Tchakou
+18. Wapi by Néné Tchakou
+<br>
+<br>
+
+## 2022-01-29 Emmanuel Nado
+TBD
+<br>
+<br>
+
+## 2022-01-22 Edwin Okong'o
 1. Ndakuvara by Oliver "Tuku" Mtukudzi
 2. Tapera (Live) by Oliver "Tuku" Mtukudzi
 3. Ndiyak'khumbula by Freshlyground Feat. Oliver Mtukudzi
@@ -39,6 +66,3 @@ Compliments of Shazam
 20. Bazo by Soukous Star & Yondo Syster
 <br>
 <br>
-
-## 2022-01-29 - Emmanuel Nado
-TBD
