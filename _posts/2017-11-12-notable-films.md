@@ -31,6 +31,7 @@ Wild China
 Workingman's Death
 
 ## Drama
+Amadeus  
 Battle Royale  
 Border  
 The Descendants  
