@@ -8,8 +8,7 @@ title: Notable Instruments
 
 <p class="meta">30 Mar 2020 - Berkeley, CA</p>
 
-## Instruments
-Akai MPC  
+## Analog Musical Instruments
 Babatoni  
 Baglamas (baglamadaki)  
 Balalaika  
@@ -27,6 +26,8 @@ Fife
 Flugelhorn  
 Guqin  
 Guzheng  
+Harmoniboard  
+Harmonium  
 Harpsichord  
 Kalimba  
 Kantele  
@@ -34,6 +35,8 @@ Kora
 Liuqin  
 Lyricon (e.g., Shadowfax Album 1982)  
 Mbira  
+Melodica  
+Melody horn  
 Nyatiti - means "daughter of the clan (family)"  
 Ocarina  
 Pipa  
@@ -45,7 +48,11 @@ Sitar
 Tanpura  
 Theremin  
 Tumba  
+Ute  
 Zhong ruan
+
+## Digital Musical Instruments (e.g., Synthesizers)
+Akai MPC
 
 ## Speakers and Amplifiers
 Klipschorn  
