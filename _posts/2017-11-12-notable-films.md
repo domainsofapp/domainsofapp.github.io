@@ -34,12 +34,14 @@ Workingman's Death
 Amadeus  
 Battle Royale  
 Border  
+Chungking Express  
 The Descendants  
-The Great Escape  
-Groundhog Day  
 Enter the Void  
 Eternal Sunshine of the Spotless Mind  
 Fear and Loathing in Las Vegas  
+The Great Escape  
+Groundhog Day  
+In the Mood for Love  
 Last Life in the Universe  
 Leaving Las Vegas  
 Let The Right One In  
@@ -66,3 +68,6 @@ Train to Busan
 ## Notable Actors
 Tony Leung Chiu-wai  
 Klaus Kinski
+
+## Notable Directors
+Wong Kar-wai
