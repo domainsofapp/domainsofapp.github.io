@@ -12,9 +12,13 @@ KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
-Compliments of Shazam
+Compliments of Shazam & personal searching
 
 (y) means highly recommended by me
+
+Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
+
+Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
 ## 2022-02-05 Edwin Okong'o
 1. Que Ne Numera El Son by Franco & Le T.P.O.K. Jazz Feat. Vicky
@@ -39,7 +43,27 @@ Compliments of Shazam
 <br>
 
 ## 2022-01-29 Emmanuel Nado
-TBD
+1. We Stand for Africa by Salatiel, Samini, Timi Dakolo, Assia, Hakim, Jaylann, Rayen Youssef, Tukkiman, Imilo...
+2. Ewonbè by Dora Décca
+3. Uwa Bia Kiribe Nayoka by Oliver Nayoka
+4. Njiri Mara Mu Bu Egwu by Oliver Nayoka
+5. Twa Zan by Boulpik
+6. 3ème dose by Tiken Jah Fakoly
+7. Gouvernement 20 ans by Tiken Jah Fakoly
+8. African Reggae Fever by Rocky Dawuni
+9. Lalumbe by West African Blues Project
+10. Mosese by Orchestra Makassy
+11. La Bamba by Playing for Change Feat. Cesar Rosas, David Hidalgo, & Andrés Calamaro
+12. Lindas Africanas by Africando
+13. Mind My Business by Travis World, Dan Evens, & Patrice Roberts
+14. Mobali Na Ngai Wana by Mbilia Bel
+15. J'ai mal au cœur by Déesse Mukangi
+16. Folklore Mbala by Désse Mukangi
+17. Grand-Béréby by Josée Delatour (y)
+18. Manangu Ni Maman by Donat Mwanza
+19. Acquitté by Koffi Olomide
+20. Imagination by Mack Macaire
+21. Missing unknown (good) closing song! (y)
 <br>
 <br>
 
