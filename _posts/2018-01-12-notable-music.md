@@ -8,7 +8,7 @@ title: Notable Music
 
 <p class="meta">12 Jan 2018 - Berkeley, CA</p>
 
-Contents: Albums, DJ mixes, & songs
+Contents: Music albums, DJ mixes, genres, & songs
 
 NB: Language warning throughout; such is music and culture.
 
@@ -85,7 +85,7 @@ Bones - SadlyThatsJustTheWayThingsAre
 Xavier Wulf & Bones - CrashLanding
 
 ## Anxiety/Emptiness/Existential Crisis & Depression/Sad Boi [1]/Sad Boy [2]/Sadboy Catharsis Rap Artists
-NB: Add song lists later.  
+TODO: Add song lists later.  
 $uicideboy$  
 Bladee (select songs)  
 Bones  
@@ -367,7 +367,7 @@ Street Dancer - Avicii
 Sunshine w Florence and The Machine - Spectrum (Acappella) - David Guetta & Avicii  
 Talk to Myself - Avicii  
 The Nights - Avicii  
-Without You “Audio” ft. Sandro Cavazza - Avicii
+Without You "Audio" ft. Sandro Cavazza - Avicii
 
 ## Bluegrass
 Old & In the Way  
@@ -419,22 +419,27 @@ Wake The Town 8/14/13 (Wake The Town Radio)
 Where You Are - Portico (ft. in Halt and Catch Fire, Season 2, Episode 5, 21:47)
 
 ## Folk
-N/A
+TODO: Add later.
 
 ## Genres
 Aesthetic  
+Afrobeat  
 Alternative R&B  
 Ambient  
 Anthem House  
 Atmospheric  
 Avant-garde  
 Bakosó (means eternal)  
+Bantu Jazz  
+Bantu Soul  
 Bedroom Pop  
 Calypso  
+Cameroon Makossa  
 Chillwave  
 Chopped and Screwed  
 Cloud  
 Cloud Rap  
+Congolese Rumba  
 D&B  
 Dancehall  
 Downtempo  
@@ -446,12 +451,15 @@ Electronic Dance Music (EDM)
 Emo Rap  
 Experimental  
 Euro Trance  
+Ghana Highlife (Hilife)  
 Hip Hop  
 House  
+Humanized Minimalism  
 Hypnotic  
 Indie Pop  
 Indie Rock  
 Intelligent Dance Music (IDM)  
+Isolationist Ambient  
 Jungle  
 Kwaito  
 Lo-Fi  
@@ -467,6 +475,7 @@ Phonk
 Progressive House  
 Psychedelic  
 Psychedelic Trance  
+Reggae  
 Reggaeton  
 Rock  
 Sad  
@@ -475,6 +484,7 @@ Sesh
 Sexy  
 Shoegaze  
 Soca  
+Soukous  
 SoundCloud Rap  
 Terror Metal  
 Trance  
