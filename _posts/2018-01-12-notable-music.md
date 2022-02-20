@@ -429,10 +429,11 @@ Ambient
 Anthem House  
 Atmospheric  
 Avant-garde  
-Bakosó (means eternal)  
+Bakosó (from Cuba; means eternal)  
 Bantu Jazz  
 Bantu Soul  
 Bedroom Pop  
+Bomba (from Puerto Rico)  
 Calypso  
 Cameroon Makossa  
 Chillwave  
@@ -451,7 +452,7 @@ Electronic Dance Music (EDM)
 Emo Rap  
 Experimental  
 Euro Trance  
-Ghana Highlife (Hilife)  
+Ghana Highlife (i.e., Hilife)  
 Hip Hop  
 House  
 Humanized Minimalism  
@@ -463,6 +464,7 @@ Isolationist Ambient
 Jungle  
 Kwaito  
 Lo-Fi  
+Makossa (from Cameroon)  
 Metal  
 Minimalism  
 Murder House  
@@ -484,7 +486,7 @@ Sesh
 Sexy  
 Shoegaze  
 Soca  
-Soukous  
+Soukous (from Congo-Kinshasa and Congo-Brazzaville)  
 SoundCloud Rap  
 Terror Metal  
 Trance  
