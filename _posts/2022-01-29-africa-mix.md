@@ -20,6 +20,39 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-02-12 Emmanuel Nado
+1. Survival by Bob Marley and the Wailers
+2. Buffalo Soldier by Bob Marley and the Wailers
+3. Redemption Song by Bob Marley & The Wailers
+4. Ah Ndiya by Oumou Sangaré
+5. Sarama by Oumou Sangaré
+6. Ta Ma by Zoumana Diarra
+7. Unknown at 31-min. See Voice Memos New Recording 3752. (y)
+8. Yurumei by Aurelio
+Documentary OST start -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
+9. De pie nos mantenemos by El Hijo de Borikén
+10. Preludio (Ejiogbe) by ÌFÉ
+11. Se Va Complicando by El Individuo Feat. JD Asere & DJ Lápiz
+Documentary OST end -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
+12. Mayahuabá by Aurelio
+13. Chekeleke by Ifé
+14. Sowa by Fatoumata Diawara & Robert Fonseca
+15. Amineta Ndiaye by Ablaye Thiossane
+16. From Medina by Birahim
+17. Dabbaax by Youssou N'Dour
+18. Daande Lenol by Baaba Maal
+19. Xaleyi by Youssou N'Dour
+20. Manko by Ismaël Lô
+21. Um Canto Forte by Ara Ketu
+22. Coche Viejo by Os Paralamas Do Sucesso
+23. Felicidad by Ara Ketu
+24. Soul De Salvador by Atila Lima
+25. Segura Este Samba by Umbada
+26. Icha by Syran Mbenza
+27. Molatisi by Syran Mbenza
+<br>
+<br>
+
 ## 2022-02-05 Edwin Okong'o
 1. Que Ne Numera El Son by Franco & Le T.P.O.K. Jazz Feat. Vicky
 2. Wonda Wonda by Ndere Troupe
@@ -63,7 +96,7 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 18. Manangu Ni Maman by Donat Mwanza
 19. Acquitté by Koffi Olomide
 20. Imagination by Mack Macaire
-21. Missing unknown (good) closing song! (y)
+21. Missing unknown (good) closing song! See Voice Memos New Recording 3734. (y)
 <br>
 <br>
 
