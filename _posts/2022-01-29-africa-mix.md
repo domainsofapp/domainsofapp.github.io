@@ -12,7 +12,7 @@ KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
-Compliments of Shazam & personal searching
+Compliments of personal searching & Shazam
 
 (y) means highly recommended by me
 
