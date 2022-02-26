@@ -14,11 +14,34 @@ KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
 
 Compliments of personal searching & Shazam
 
-(y) means highly recommended by me
+(y) means highly recommended by me  
+(ok) means pretty good
 
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-02-19 Edwin Okong'o
+1. Kimono De Want by Ras Kimono
+2. Poze by Lakou Mizik
+3. Sengno (Monday) by Aster Aweke (ok)
+4. Mobali Na Ngai Wana by Mbilia Bel
+5. My Special Desire by Mbongeni Ngema
+6. Mario Non Stop by Franco & TP OK Jazz
+7. People Like Me by K'naan
+8. No Agreement (Part 2) by Fela Kuti
+9. La Vida Es Un Carnaval (Bomba Estereo Remix) by Angélique Kidjo
+10. Huu Ni Nani G by Kantai
+11. Santero by Novalima (ok)
+12. Jeje by Diamond Platnumz
+13. Style Zo (Kadondo) by Eddy Kenzo
+14. Adunia by Asmara All Stars (ok)
+15. Aye by Davido
+16. Belinda by Nene Tchakou
+17. Kidogo Kidogo (Little by Little) by Remmy Ongala
+18. Isambe by Kanda Bongo Man
+<br>
+<br>
 
 ## 2022-02-12 Emmanuel Nado
 1. Survival by Bob Marley and the Wailers
