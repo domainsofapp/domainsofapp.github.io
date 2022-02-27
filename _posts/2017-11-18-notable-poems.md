@@ -8,6 +8,16 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## This World Is Not My Home
+Do we really exist at all?  
+This world is not my home.  
+I'm only passing through.  
+My treasures and my hopes are all beyond the sky.  
+I've many friends and kindreds that's gone along before.  
+And I can't feel at home in this world anymore.
+
+--James Agee, in Let Us Now Praise Famous Men, 1941
+
 ## Assorted Lullabies
 Bye baby Bunting,  
 Daddy's gone a-hunting,  
