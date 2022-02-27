@@ -515,3 +515,5 @@ Everything under heaven is in utter chaos; the situation is excellent. --Mao Zed
 There would be no prisons without architects willing to build them. --Me
 
 If you see me, weep. --Hunger Stone
+
+Et tu, Brute? (Et tu, Brutus?) --Julius Caesar, Roman dictator, in Act 3 Scene 1 of William Shakespeare's play "Julius Caesar"
