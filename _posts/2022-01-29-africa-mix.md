@@ -8,11 +8,15 @@ title: Africa Mix
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
+NB: I cannot find KALW Africa Mix Tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here.
+
 KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
+
+(The tracklist is the subset of songs from the playlist that is actually played.)
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
-Compliments of personal searching & Shazam
+Compliments of Shazam & (laborious) personal searching
 
 (y) means highly recommended by me  
 (ok) means pretty good
@@ -20,6 +24,34 @@ Compliments of personal searching & Shazam
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-02-26 Emmanuel Nado
+1. Kalú Pu by Bonga
+2. Kintal da Banda by Bonga
+3. Saida et Djamil by Kay Motamo
+4. UNKNOWN (19:25-min. - 24 min.) - see Voice Memos New Recording 3762 (y)
+5. Salama (Remix Radio Edit) by Nawal & DJ Click (y)
+6. Le Roi La Reine by Elijah & Otentik Groove
+7. Akan by Aly Keita
+8. Na Gode by Yemi Alade Feat. Selebobo
+9. I Choose You by Yemi Alade Feat. Dadju
+10. Wetin Dey (Remix) by Rayce Feat. Davido
+12. UNKNOWN (45-min. - 48-min.) - see Voice Memos New Recording 3770
+12. Dancina by Yemi Alade
+13. Kilometre by Burna Boy
+14. Gambia by Sona Jobarteh (ok)
+15. Arabama Di by Natu Camara
+16. Obiara Bewu by African Rhythm Messengers
+17. Three Little Birds by Bob Marley & The Wailers
+18. UNKNOWN (1:16:40 - 1:19:40)- The Dulce Band (?) of Mozambique - see Voice Memos New Recording 3763 (y)
+19. Descarga Potpourri No. 2 by Lou Perez (Bon Bon de Chocolate!)
+20. El Que Siembra Su Maiz by Afro Cuban Jazz Project
+21. Guajira Guantanamera by Estrellas De Areito
+22. Afrique by Shiko Mawatu
+23. Allo by Evizo Stars (y)
+24. Zekira by Zaïko Langa Langa
+<br>
+<br>
 
 ## 2022-02-19 Edwin Okong'o
 1. Kimono De Want by Ras Kimono
@@ -50,16 +82,16 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 4. Ah Ndiya by Oumou Sangaré
 5. Sarama by Oumou Sangaré
 6. Ta Ma by Zoumana Diarra
-7. Unknown at 31-min. See Voice Memos New Recording 3752. (y)
+7. UNKNOWN (31-min.) - see Voice Memos New Recording 3752 (y)
 8. Yurumei by Aurelio
 <br>
-START Documentary OST -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
+START Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
 <br>
 9. De pie nos mantenemos by El Hijo de Borikén
 10. Preludio (Ejiogbe) by ÌFÉ
 11. Se Va Complicando by El Individuo Feat. JD Asere & DJ Lápiz
 <br>
-END Documentary OST -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
+END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
 <br>
 12. Mayahuabá by Aurelio
 13. Chekeleke by Ifé
@@ -92,7 +124,7 @@ END Documentary OST -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mari
 9. Ulimilwami/My Language by Busi Ncube
 10. I Want To Sing For Them All by Meklit Feat. Andrew Bird
 11. My Baby by Mbongeni Ngema
-12. Obangaina by Ykee Benda (see video also)
+12. Obangaina by Ykee Benda (see music video also)
 13. Nyako Konya by Orchestre Les Mangelepa
 14. Roger Milla by Pépé Kallé
 15. Tchakou Show by Shimita El Diego
@@ -123,7 +155,7 @@ END Documentary OST -> We Still Here by Eli and Kahlil Jacobs-Fantauzzi and Mari
 18. Manangu Ni Maman by Donat Mwanza
 19. Acquitté by Koffi Olomide
 20. Imagination by Mack Macaire
-21. Missing unknown (good) closing song! See Voice Memos New Recording 3734. (y)
+21. UNKNOWN (good) closing song! See Voice Memos New Recording 3734. (y)
 <br>
 <br>
 
