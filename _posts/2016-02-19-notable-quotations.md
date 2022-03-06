@@ -517,3 +517,9 @@ There would be no prisons without architects willing to build them. --Me
 If you see me, weep. --Hunger Stone
 
 Et tu, Brute? (Et tu, Brutus?) --Julius Caesar, Roman dictator, in Act 3 Scene 1 of William Shakespeare's play "Julius Caesar"
+
+Creativity is the ability to sell your sadness. (Paraphrased mine: Art is the ability to sell your sadness. Art is the ability to sell your pain. Art is how good you can sell your pain.) --Elvis Presley, American Singer
+
+Suffering is the university of egocentrism. --Milan Kundera, Czech Writer, in "Immortality"
+
+Einmal ist keinmal. What happens but once might as well not have happened at all. --Milan Kundera, Czech Writer, in "The Unbearable Lightness of Being"
