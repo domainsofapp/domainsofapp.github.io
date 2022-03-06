@@ -22,19 +22,19 @@ Slavoj Žižek
 
 ## Book(s)
 A Clockwork Orange by Anthony Burgess  
-The Day of the Jackal by Frederick Forsyth  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
-The Gate of Heavenly Peace by Jonathan Spence  
 House of Leaves by Mark Z. Danielewski  
 Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain  
 Let the Right One In by John Ajvide Lindqvist  
 One Flew Over the Cookoo's Nest by Ken Kesey  
-The Plague by Albert Camus  
-The Proud Highway by Hunter S. Thompson  
 Reconstructing Earth by Braden R. Allenby  
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
+The Day of the Jackal by Frederick Forsyth  
+The Gate of Heavenly Peace by Jonathan Spence  
+The Plague by Albert Camus  
+The Proud Highway by Hunter S. Thompson  
 Why Does the World Exist? by Jim Holt  
 You Shall Know Our Velocity! by Dave Eggers  
 Zorba the Greek by Nikos Kazantzakis
