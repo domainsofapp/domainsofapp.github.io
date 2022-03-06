@@ -8,19 +8,19 @@ title: Notable Books
 
 <p class="meta">04 Jan 2018 - Berkeley, CA</p>
 
-## Author(s) - Fiction
+## Notable Author(s) - Fiction
 Cormac McCarthy  
 Irving Washington
 
-## Author(s) - Journalism
+## Notable Author(s) - Journalism
 Hunter S. Thompson
 
-## Author(s) - Philosophy
+## Notable Author(s) - Philosophy
 Alain Badiou  
-Karen Barad  
+Karen Barad (philosopher-physicist)  
 Slavoj Žižek
 
-## Book(s)
+## Notable Book(s)
 A Clockwork Orange by Anthony Burgess  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
