@@ -22,7 +22,7 @@ A watt saved is better than a watt generated, which is better than a watt genera
 
 Moral law is an invention of (wo)mankind for the disenfranchisement of the powerful in favor of the weak. --Cormac McCarthy, Novelist
 
-If the company didn't exist, would there be any need to create it? --PhilWright (username), Hacker News
+If the company didn't exist, would there be any need to create it? --PhilWright (username), User of Hacker News
 
 Nothing is the ground state of a gapped quantum system. --Eva Silverstein, Physicist
 
@@ -523,3 +523,5 @@ Creativity is the ability to sell your sadness. (Paraphrased mine: Art is the ab
 Suffering is the university of egocentrism. --Milan Kundera, Czech Writer, in "Immortality"
 
 Einmal ist keinmal. What happens but once might as well not have happened at all. --Milan Kundera, Czech Writer, in "The Unbearable Lightness of Being"
+
+A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrency is also used for sponsoring terrorism incl. state-sponsored terrorism.) --dandare (username), User of Hacker News
