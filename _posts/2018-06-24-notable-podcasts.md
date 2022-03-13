@@ -8,6 +8,7 @@ title: Notable Podcasts
 
 <p class="meta">24 Jun 2018 - Berkeley, CA</p>
 
+Africa Straight Talk  
 Crime in Sports  
 Heavyweight: Jesse, Moby, Rob (funny), & The Sharing Place  
 Mystery Show: Belt Buckle starring Hans Jordi, Swiss cowboy  
