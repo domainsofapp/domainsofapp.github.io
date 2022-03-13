@@ -122,7 +122,7 @@ Cyperspace vs. meatspace
 Death rattle  
 Eggy soldiers  
 Jazz cigarettes  
-Grease monkey: Mechanic (origin = child labor in Great Britain during industrial revolution [2]).  
+Grease monkey: Mechanic (origin: child labor in Great Britain during industrial revolution [2]).  
 On the lam.  
 Pruno  
 Scrapper  
