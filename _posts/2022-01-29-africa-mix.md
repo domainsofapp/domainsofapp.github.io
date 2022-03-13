@@ -221,8 +221,10 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 
 Shout-outs to notable African musicians (men; see women list above):  
 Fela Kuti  
+Oliver Mtukudzi  
 Pepe Kalle  
 Sam Mangwana  
-Tabu Ley Rochereau
+Tabu Ley Rochereau  
+Youssou N'Dour
 <br>
 <br>
