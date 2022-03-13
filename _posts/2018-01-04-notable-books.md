@@ -21,7 +21,9 @@ Karen Barad (philosopher-physicist)
 Slavoj Žižek
 
 ## Notable Book(s)
+101 Things I Learned In... series by multiple authors (e.g., Engineering by John Kuprenas and Matthew Frederick)  
 A Clockwork Orange by Anthony Burgess  
+A Very Short Introduction series by multiple authors (e.g., Thermodynamics by Peter Atkins)  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
 House of Leaves by Mark Z. Danielewski  
@@ -38,6 +40,7 @@ The Gate of Heavenly Peace by Jonathan Spence
 The Plague by Albert Camus  
 The Proud Highway by Hunter S. Thompson  
 The Serial: A Year in the Life of Marin County by Cyra McFadden  
+The Unwritten Laws of Engineering by W.J. King (revised by James G. Skakoon) (a related trade edition was published as The Unwritten Laws of Business)  
 Why Does the World Exist? by Jim Holt  
 You Shall Know Our Velocity! by Dave Eggers  
 Zen Mind, Beginner's Mind by Shunryū Suzuki (author) and Trudy Dixon (RIP) & Richard Baker (editors) (ok)  
