@@ -18,6 +18,8 @@ KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
 
 Compliments of Shazam & (laborious) personal searching
 
+And, of course, a million thank yous to Emmanuel Nado & Edwin Okong'o, co-hosts of KALW's Africa Mix!
+
 (y) means highly recommended by me  
 (ok) means pretty good
 
