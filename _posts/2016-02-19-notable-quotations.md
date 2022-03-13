@@ -529,3 +529,5 @@ A stable crypto-currency will not attract any investment. Crypto is useless for 
 For the war to be won, of any war, you have to bring some of the people that you perceive as the enemy to be on your side. Slavery could not have ended without white people joining the fight. The women's rights: not going to be won without men - the good men. So, you need those allies. --Edwin O'Kongo, Co-host of KALW's Africa Mix, in Episode 2022-03-05
 
 'Tis as easy as lying. --William Shakespeare, English Playwright, in Hamlet, Act 3, Scene 2
+
+Hear me, Lord. Help me, Lord, I'm feeling low. --Oliver Mtukudzi, Zimbabwean Musician, in his song "Hear Me, Lord"
