@@ -527,3 +527,5 @@ Einmal ist keinmal. What happens but once might as well not have happened at all
 A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrency, like conventional currencies, is also used for sponsoring terrorists, incl. state-sponsored terrorism, while directly accelerating catastrophic climate change all the while. Namely, it's by no means a panacea deserving of the frequent cultish/religious Internet praise that it presently receives.) --dandare (username), User of Hacker News
 
 For the war to be won, of any war, you have to bring some of the people that you perceive as the enemy to be on your side. Slavery could not have ended without white people joining the fight. The women's rights - not going to be won without men - the good men. So, you need those allies. --Edwin O'Kongo, Co-host of KALW's Africa Mix, on Episode 2022-03-05
+
+'Tis as easy as lying. --William Shakespeare, English Playwright, in Hamlet, Act 3, Scene 2
