@@ -21,7 +21,7 @@ Karen Barad (philosopher-physicist)
 Slavoj Žižek
 
 ## Notable Book(s)
-101 Things I Learned In * School series by multiple authors (e.g., Business School by Michael W. Preis; Engineering School by John Kuprenas and Matthew Frederick; Law School By Vibeke Norgaard Martin)  
+101 Things I Learned in * School series by multiple authors (e.g., Business School by Michael W. Preis; Engineering School by John Kuprenas and Matthew Frederick; Law School By Vibeke Norgaard Martin)  
 A Clockwork Orange by Anthony Burgess  
 A Very Short Introduction series by multiple authors (e.g., Thermodynamics by Peter Atkins)  
 Devil in the White City by by Erik Larson  
