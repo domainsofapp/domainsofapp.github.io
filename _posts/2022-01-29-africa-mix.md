@@ -25,6 +25,40 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-03-05 Edwin Okong'o - Celebration of African Women Musicians
+1. Msondo by Bi Kidudé
+2. Se Me Van Los Pies by Susana Baca
+3. Abatina by Calypso Rose (y)
+4. Ndaya by M'Pongo Love (ok)
+5. La Vida Es Un Carnaval (Bomba Estereo Remix) by Angélique Kidjo
+6. Huu Ni Nani G by Kantai
+7. Novalima Mix Ducha Perucha by Ducha Perucha Feat. Novalima
+8. Shekere by Yemi Alade Feat. Angélique Kidjo
+9. Pamodzi by Marsha Moyo (ok)
+10. Zen (Live Re-Recording) by Rokia Traoré
+11. Sukari by Zuchu (ok)
+12. Egzotik by Princess Eud, Emeline Michel, & Riva Precil (Haiti)
+13. Nakeyi Nairobi by M'bilia Bel
+14. Ekwe by Onyeka Onwenu
+15. See Me by Teta Diana (ok)
+16. One Draw by Rita Marley
+<br>
+<br>
+
+Shout-outs to notable African woman musicians:
+Abeti Masikini  
+Angélique Kidjo  
+Bi Kidudé  
+Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban music)  
+Faya Tess  
+M'bilia Bel  
+Miriam Makeba  
+Rokia Traoré  
+Tshala Muana (extra special shout-out)  
+Yemi Alade
+<br>
+<br>
+
 ## 2022-02-26 Emmanuel Nado
 1. Kalú Pu by Bonga
 2. Kintal da Banda by Bonga
@@ -180,5 +214,13 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 18. Zvichapera by Chiwoniso
 19. Mama by Yemi Alade
 20. Bazo by Soukous Star & Yondo Syster
+<br>
+<br>
+
+Shout-outs to notable African musicians (men):
+Fela Kuti  
+Pepe Kalle  
+Sam Mangwana  
+Tabu Ley Rochereau
 <br>
 <br>
