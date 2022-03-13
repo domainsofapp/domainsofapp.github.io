@@ -20,6 +20,7 @@ Tampopo (Ramen noodle Western)
 ## Documentary
 Avicii: True Stories  
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
+Edvard Munch  
 Good Night Sugar Babe  
 If You Build It  
 Last Train Home  
@@ -48,6 +49,7 @@ Let The Right One In
 Lost in Translation  
 Paterson  
 También la lluvia (Even the Rain)  
+They Live  
 Up in the Air  
 Us and Them
 
