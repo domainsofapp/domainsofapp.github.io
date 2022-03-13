@@ -29,6 +29,7 @@ Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain
 Let the Right One In by John Ajvide Lindqvist  
 One Flew Over the Cookoo's Nest by Ken Kesey  
 Reconstructing Earth by Braden R. Allenby  
+Rhinoceros by Eugène Ionesco  
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
 The Autobiography of Malcolm X by Alex Haley and Malcolm X  
