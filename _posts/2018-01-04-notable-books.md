@@ -21,7 +21,7 @@ Karen Barad (philosopher-physicist)
 Slavoj Žižek
 
 ## Notable Book(s)
-101 Things I Learned In... series by multiple authors (e.g., Engineering by John Kuprenas and Matthew Frederick)  
+101 Things I Learned In * School series by multiple authors (e.g., Business School by Michael W. Preis; Engineering School by John Kuprenas and Matthew Frederick; Law School By Vibeke Norgaard Martin)  
 A Clockwork Orange by Anthony Burgess  
 A Very Short Introduction series by multiple authors (e.g., Thermodynamics by Peter Atkins)  
 Devil in the White City by by Erik Larson  
@@ -31,7 +31,7 @@ Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain
 Let the Right One In by John Ajvide Lindqvist  
 One Flew Over the Cookoo's Nest by Ken Kesey  
 Reconstructing Earth by Braden R. Allenby  
-Rework by David Heinemeier Hansson and Jason Fried  
+Rework by Jason Fried and David Heinemeier Hansson  
 Rhinoceros by Eugène Ionesco  
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
