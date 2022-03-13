@@ -31,9 +31,11 @@ Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain
 Let the Right One In by John Ajvide Lindqvist  
 One Flew Over the Cookoo's Nest by Ken Kesey  
 Reconstructing Earth by Braden R. Allenby  
+Rework by David Heinemeier Hansson and Jason Fried  
 Rhinoceros by Eugène Ionesco  
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
+The Art of Living by Epictetus (retold by Sharon Lebell)  
 The Autobiography of Malcolm X by Alex Haley and Malcolm X  
 The Day of the Jackal by Frederick Forsyth  
 The Gate of Heavenly Peace by Jonathan Spence  
