@@ -45,7 +45,7 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 <br>
 <br>
 
-Shout-outs to notable African woman musicians:
+Shout-outs to notable African woman musicians:  
 Abeti Masikini  
 Angélique Kidjo  
 Bi Kidudé  
@@ -217,7 +217,7 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 <br>
 <br>
 
-Shout-outs to notable African musicians (men):
+Shout-outs to notable African musicians (men):  
 Fela Kuti  
 Pepe Kalle  
 Sam Mangwana  
