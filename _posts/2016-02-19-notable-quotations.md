@@ -524,7 +524,7 @@ Suffering is the university of egocentrism. --Milan Kundera, Czech Writer, in "I
 
 Einmal ist keinmal. What happens but once might as well not have happened at all. --Milan Kundera, Czech Writer, in "The Unbearable Lightness of Being"
 
-A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrencies, like conventional currencies, are also used for sponsoring terrorists, incl. state-sponsored terrorism, while directly accelerating catastrophic climate change all the while. Namely, cryptocurrency's by no means a panacea deserving of the frequent, gushing, cultish/religious Internet praise that it presently receives.) --dandare (username), User of Hacker News
+A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrencies, like conventional currencies, are also used for sponsoring terrorists, incl. state-sponsored terrorism, intrinsically & directly accelerating catastrophic climate change all the while. Namely, cryptocurrency's by no means a panacea deserving of the frequent, gushing, cultish/religious Internet praise that it presently receives.) --dandare (username), User of Hacker News
 
 For the war to be won, of any war, you have to bring some of the people that you perceive as the enemy to be on your side. Slavery could not have ended without white people joining the fight. The women's rights: not going to be won without men - the good men. So, you need those allies. --Edwin O'Kongo, Co-host of KALW's Africa Mix, in Episode 2022-03-05
 
