@@ -531,3 +531,5 @@ For the war to be won, of any war, you have to bring some of the people that you
 'Tis as easy as lying. --William Shakespeare, English Playwright, in Hamlet, Act 3, Scene 2
 
 Hear me, Lord. Help me, Lord, I'm feeling low. --Oliver Mtukudzi, Zimbabwean Musician, in his song "Hear Me, Lord"
+
+We have a soul even though it's electronic & mathematic. (Paraphrased: The [human] soul is electronic & mathematic.) --Kraftwerk, Band
