@@ -95,6 +95,7 @@ Clean slate
 Closing in [on]  
 Cohesive  
 Come full circle  
+Come into play  
 Connect the dots  
 Cookie-cutter  
 Cooking the books  
