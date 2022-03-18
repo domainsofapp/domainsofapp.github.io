@@ -275,3 +275,5 @@ Trace the source. And, in journalism, follow the money $.
 Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankful for them (& such opportunities).
 
 Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course w/ a broad, robust foundation & then building upon that.
+
+Don't do any work that you can viably outsource to someone else who's more qualified than you. Any other strategy is purely driven by ego. Lose the ego - you'll be infinitely more productive.
