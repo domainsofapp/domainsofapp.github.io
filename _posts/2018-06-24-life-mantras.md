@@ -48,7 +48,7 @@ Pursue hobbies and interests according to your heroes, role models, or inspirati
 
 Never boast (unless you're hungry) - you'll eat your words.
 
-If anything in life is easy, you're doing it wrong. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
+If anything in life is easy, you're not doing it right (i.e., you're doing it wrong). Nothing's easy if done well. (More realistically, if anything in life is easy, you're either doing it sub-optimally, or you've already learned how to do it optimally.)
 
 Strive for excellence. Whether you achieve it or not doesn't matter. 'Tis the strive that counts. Also, do it for yourself - no one else ultimately cares, and if for some reason they do, it's equally possible they want you to fail as succeed (ignore 'em!).
 
