@@ -27,6 +27,30 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-03-12 Emmanuel Nado - Continuation of Celebration of African Women Musicians
+1. Women of the World by Mahotella Queens
+2. Women of Africa by Namu Lwanga
+3. Portas by Marisa Monte
+4. Em Qualquer Tom by Marisa Monte
+5. A Língua dos Animals by Marisa Monte
+6. Fadjamou by Oumou Sangaré (not Twotek Remix)
+7. Sebai Bai by Mahotella Queens
+8. Ola Ta Dyskola by Anastasia Moutsatsou
+9. Manita Uribe by Totó La Momposina
+10. Funana Ca Tem Frontera by Maria De Barros
+11. Welela by Miriam Makeba (aka "Mama Africa")
+12. Habibi Ta'al by Amira Kheir
+13. Anna Maria by Mousta Largo
+14. Two (Rivers in the Desert) by Naima Shalhoub Feat. Excentrik
+15. Mentirosa by Buika
+16. Hortense by Faya Tess
+17. Mongali/Chez Là Bas by Faya Tess
+18. Congo Rumba by Barbara Kanam
+19. Zinha by Cesaria Evora
+20. Yeselam Ayer by Minyeshu
+<br>
+<br>
+
 ## 2022-03-05 Edwin Okong'o - Celebration of African Women Musicians
 1. Msondo by Bi Kidudé
 2. Se Me Van Los Pies by Susana Baca
