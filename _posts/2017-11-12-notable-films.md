@@ -13,6 +13,10 @@ Hiroshima Mon Amour
 Koyaanisqatsi  
 Sans Soleil
 
+## Biography
+Blaze  
+Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him)?
+
 ## Comedy
 Real Genius  
 Tampopo (Ramen noodle Western)
