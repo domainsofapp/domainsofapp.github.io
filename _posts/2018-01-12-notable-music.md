@@ -522,7 +522,8 @@ Vapor
 Vaportrap  
 Vaporwave  
 Wave  
-Witch House
+Witch House  
+Yardcore
 
 ## Grateful Dead et al.
 Althea - Grateful Dead  
