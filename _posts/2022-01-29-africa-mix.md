@@ -35,7 +35,7 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 5. This Was Made Here by Meklit
 6. Ato Lagoh by Fely Tchaco
 7. Godo by Piwai
-8. UNKNOWN (47:30 - 51:15) - see Voice Memos New Recording 3809
+8. Unknown (47:30 - 51:15) - see Voice Memos New Recording 3809
 9. Build by Rupa & The April Fishes (Rupa Marya)
 10. Un Americaine A Paris by Rupa & The April Fishes
 11. Pata Pata by Miriam Makeba
@@ -123,21 +123,21 @@ Yemi Alade
 1. Kalú Pu by Bonga
 2. Kintal da Banda by Bonga
 3. Saida et Djamil by Kay Motamo
-4. UNKNOWN (19:25-min. - 24 min.) - see Voice Memos New Recording 3762 (y)
+4. Unknown (19:25-min. - 24 min.) - see Voice Memos New Recording 3762 (y)
 5. Salama (Remix Radio Edit) by Nawal & DJ Click (y)
 6. Le Roi La Reine by Elijah & Otentik Groove
 7. Akan by Aly Keita
 8. Na Gode by Yemi Alade Feat. Selebobo
 9. I Choose You by Yemi Alade Feat. Dadju
 10. Wetin Dey (Remix) by Rayce Feat. Davido
-12. UNKNOWN (45-min. - 48-min.) - see Voice Memos New Recording 3770
+12. Unknown (45-min. - 48-min.) - see Voice Memos New Recording 3770
 12. Dancina by Yemi Alade
 13. Kilometre by Burna Boy
 14. Gambia by Sona Jobarteh (ok)
 15. Arabama Di by Natu Camara
 16. Obiara Bewu by African Rhythm Messengers
 17. Three Little Birds by Bob Marley & The Wailers
-18. UNKNOWN (1:16:40 - 1:19:40)- The Dulce Band (?) of Mozambique - see Voice Memos New Recording 3763 (y)
+18. Unknown (1:16:40 - 1:19:40)- The Dulce Band (?) of Mozambique - see Voice Memos New Recording 3763 (y)
 19. Descarga Potpourri No. 2 by Lou Perez (Bon Bon de Chocolate!)
 20. El Que Siembra Su Maiz by Afro Cuban Jazz Project
 21. Guajira Guantanamera by Estrellas De Areito
@@ -176,7 +176,7 @@ Yemi Alade
 4. Ah Ndiya by Oumou Sangaré
 5. Sarama by Oumou Sangaré
 6. Ta Ma by Zoumana Diarra
-7. UNKNOWN (31-min.) - see Voice Memos New Recording 3752 (y)
+7. Unknown (31-min.) - see Voice Memos New Recording 3752 (y)
 8. Yurumei by Aurelio
 <br>
 START Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
@@ -249,7 +249,7 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 18. Manangu Ni Maman by Donat Mwanza
 19. Acquitté by Koffi Olomide
 20. Imagination by Mack Macaire
-21. UNKNOWN (good) closing song! See Voice Memos New Recording 3734. (y)
+21. Unknown (good) closing song! See Voice Memos New Recording 3734. (y)
 <br>
 <br>
 
