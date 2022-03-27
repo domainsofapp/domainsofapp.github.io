@@ -27,6 +27,40 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-03-19 Edwin Okong'o - Continuation of Celebration of African Women Musicians
+1. Let's Go by Calypso Rose
+2. Miziki by Dobet Gnahoré
+3. Matsotsi by Chiwoniso
+4. Pamela by Pascal Arito
+5. This Was Made Here by Meklit
+6. Ato Lagoh by Fely Tchaco
+7. Godo by Piwai
+8. UNKNOWN (47:30 - 51:15) - see Voice Memos New Recording 3809
+9. Build by Rupa & The April Fishes (Rupa Marya)
+10. Un Americaine A Paris by Rupa & The April Fishes
+11. Pata Pata by Miriam Makeba
+12. Batonga by Angélique Kidjo
+13. Wa Yeîna by Oumou Sangare
+14. Mérua by Umalali Feat. Garifuna Collective
+15. Poor People's Song by Patra
+16. La Vida Es Un Carnaval by Celia Cruz
+17. Nakupenda (I Love You) by Brenda Fassie
+18. To Zion by Lauren Hill Feat. Carlos Santana
+19. Nhamoimbiri by Stella Chiweshe
+20. Warek by Nyaruach
+21. Dis-Moi by Yondo Sister
+<br>
+<br>
+
+Dance Hall Shout-outs
+Chaka Demus & Pliers  
+Bunny Wailer  
+Burning Spear  
+Don Carlos  
+Shabba Ranks
+<br>
+<br>
+
 ## 2022-03-12 Emmanuel Nado - Continuation of Celebration of African Women Musicians
 1. Women of the World by Mahotella Queens
 2. Women of Africa by Namu Lwanga
