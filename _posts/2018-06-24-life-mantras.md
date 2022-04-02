@@ -10,7 +10,7 @@ title: Life Mantras
 
 ...aka me (now, as an adult) talking to myself as a kid. This is *not* just another lame self-help guide. JK, it totally is!
 
-!!Cliché Warning!! (throughout this document):
+!!Cliché Warning!! !!Banal Platitudes Warning!! (throughout this document - so deep!):
 
 Rhetoric is bad. Avoid it like The Plague.
 
@@ -225,8 +225,6 @@ Break the cycle.
 The cure to existential boredom: Immerse yourself in culture & nature. Publish.
 
 Trust statistics. It's essential to have faith in statistics. Statistics is the basis of Truth.
-
-Trace the source.
 
 Always leave things - incl. the world - in a better state than how you found it.
 
