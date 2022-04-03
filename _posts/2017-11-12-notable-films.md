@@ -62,6 +62,9 @@ Us and Them
 The Handmaiden  
 Lucia y el Sexo
 
+## Horror
+The Thing
+
 ## Indie
 Me and Earl and the Dying Girl
 
