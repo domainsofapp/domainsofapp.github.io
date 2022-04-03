@@ -8,11 +8,11 @@ title: Africa Mix
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
-NB: I cannot find KALW Africa Mix Tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here.
+NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here.
 
-KALW Africa Mix Tracklists (sometimes incorrectly referred to as playlists)
+KALW's Africa Mix Tracklists
 
-(The tracklist is the subset of songs from the playlist that is actually played.)
+(NB: Tracklists are sometimes incorrectly referred to as playlists. A tracklist is the actually DJ-played subset of songs from a longer playlist.)
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
@@ -26,6 +26,33 @@ And, of course, a million thank yous to Emmanuel Nado & Edwin Okong'o, co-hosts 
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-03-26 Emmanuel Nado - Continuation of Celebration of African Women Musicians
+1. Hasta La Miel Amarga by Sarah La Morena
+2. La Revancha by La Dame Blanche
+3. Nuqui (Te Quiero Para Mi) by ChocQuibTown
+4. Regalame Un Minuto by Carmen Delia Dipini (y)
+5. Barübana Yagien by Umalali & The Garifuna Collective (y)
+6. Pepper Soup by Calypso Rose (y)
+7. Rosa Negra by Daniela Mercury
+8. Portas by Marisa Monte
+9. Baho Kende Y Palo Mayimbe by Susana Baca
+10. Azucar De Caña by Eva Ayllón
+11. You Give Me Hope by Alaine
+12. La Vida Vale La Pena by Uproot Andy
+13. Africa by Chachi Tadesse
+14. Maliba by Fatoumata Diawara
+15. Oh Woman by Onyeka Onwenu
+16. Children of the World by Mona Finnih (People of the World by Lijadu Sisters)
+17. Big Blind Country by Sandra Izsadore
+18. Nzima by Simphiwe Dana
+19. W'akajanja by Juliana Kanyomozi
+20. Nguva Ye Kufara by Chiwoniso
+21. Antina by Mounira Mitchala
+22. Stostoke by Afia Mala (y)
+23. Unknown (1:57:30 - 1:58:30) - see Voice Memos New Recording 3830
+<br>
+<br>
 
 ## 2022-03-19 Edwin Okong'o - Continuation of Celebration of African Women Musicians
 1. Let's Go by Calypso Rose
