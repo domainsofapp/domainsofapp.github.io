@@ -114,6 +114,7 @@ CZ - Turn the Tide
 Boys Like You - Kids at Midnight  
 Palmistry - Lifted  
 Sport - Nicholas Nicholas  
+Not Waving - Hold On ft. Marie Davidson  
 Linear - Sending All My Love
 
 ## Live R&B DJ Tracklist 01 (Draft)
