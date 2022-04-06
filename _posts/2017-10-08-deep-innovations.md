@@ -57,3 +57,5 @@ Windows: When you delete a folder or file, Windows should specifically warn you 
 Gmail: When you delete a draft, why not move it to the trash?
 
 Baby clothes (e.g., shirts, onesies aka infant bodysuits) with a handle on the back so you can carry them like a briefcase (hehe jk!).
+
+Legal Pirate Bay: Pirate Bay for content that is approved by authoring artists & Copyright holders to spread on the platform via torrent files. Do it for the advertisement, dissemination, & preservation (general spreading & backup in a decentralized way) of artistic culture.
