@@ -27,6 +27,29 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-04-02 Edwin Okong'o - Anti-violence & Anti-war Themes
+1. Fight Fi Power by Super Cat
+2. War and Crime by Lucky Dube
+3. Tribal War by Buju Banton (Tony Rebel, Terry Ganzie, & Buju Banton)
+4. Wavin' Flag by K'naan
+5. Reggae Calling by Beres Hammond
+6. Neutron Bomb by Eek-A-Mouse
+7. Chawasarira by The KTO Project (Mbira dzaSoko: Salani Wamkanganise and Friends) (y)
+8. Mbube by The Mahotella Queens
+9. Kyarenga by Bobi Wine
+10. Senior Citizen Day by Calypso Rose
+11. Wouslou El Aersan by Fares Karam
+12. Bye Bye by Anita Macuacua
+13. Yoolelle-Maman by Baaba Maal (y)
+14. Cabra Preta by Fogo Fogo
+15. Mapenzi Ya Pesa by Stivo simple boy (No money, no love; but it'll take you under...)
+16. Mirai Neni by Suluman "Chopper" Chimbetu & The Orchestra Dendera Kings
+17. Ce Chale Carnaval by Pepe Kalle
+18. Kabibi by Syran Mbenza
+19. Riziki by Ja & Mnazi Afrika
+<br>
+<br>
+
 ## 2022-03-26 Emmanuel Nado - Continuation of Celebration of African Women Musicians
 1. Hasta La Miel Amarga by Sarah La Morena
 2. La Revancha by La Dame Blanche
@@ -136,11 +159,14 @@ Shout-outs to notable African woman musicians:
 Abeti Masikini  
 Angélique Kidjo  
 Bi Kidudé  
+Calypso Rose  
 Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban music)  
 Faya Tess  
 M'bilia Bel  
 Miriam Makeba  
+Patra  
 Rokia Traoré  
+Susana Baca  
 Tshala Muana (extra special shout-out)  
 Yemi Alade
 <br>
