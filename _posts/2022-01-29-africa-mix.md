@@ -103,9 +103,9 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 <br>
 
 Dance Hall Shout-outs:  
-Chaka Demus & Pliers  
 Bunny Wailer  
 Burning Spear  
+Chaka Demus & Pliers  
 Don Carlos  
 Shabba Ranks
 <br>
