@@ -38,3 +38,5 @@ If you'd like to contribute programmatically or logistically to the site, here a
 Finally, as the Internet is a fickle beast, please point out any broken links to me. Thanks for reading.
 
 P.S. Please click the "Fork me on GitHub" ribbon in the upper right, fork the GitHub repository, replace my content with yours, create your own blog, email me the link, and continue to pay it forward! This was my original intent (for this minimalist and free setup to spread). Celebrate individuality & inherent, intrinsic uniqueness. O-K. Cheers. Thanks again. :--)
+
+P.P.S. I'd like to think of this blog as my humbly small contribution (uniquely mine) to the Akashic records (thanks to K.D. for pointing me to this).
