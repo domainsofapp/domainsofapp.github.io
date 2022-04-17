@@ -20,6 +20,7 @@ Clavier
 Cristal baschet  
 Daf drum (e.g., played by Yazidis in Iraq & neighboring regions)  
 Didgeridoo  
+Doso Ngoni  
 Dulcimer  
 Erhu  
 Fife  
@@ -30,18 +31,22 @@ Harmoniboard
 Harmonium  
 Harpsichord  
 Kalimba  
+Kamele Ngoni  
 Kantele  
 Kora  
 Liuqin  
+Lute  
 Lyricon (e.g., Shadowfax Album 1982)  
 Mbira  
 Melodica  
 Melody horn  
+Mohan veena  
 Nyatiti - means "daughter of the clan (family)"  
 Ocarina  
 Pipa  
 Recorder  
 San xian  
+Santur  
 Saz  
 Shakuhachi  
 Sitar  
