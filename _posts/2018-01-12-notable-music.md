@@ -469,6 +469,7 @@ Cloud Rap
 Congolese Rumba  
 D&B  
 Dancehall  
+Desert Blues  
 Downtempo  
 Drift  
 Drone Logic  
@@ -500,6 +501,7 @@ Neo-trance
 Neurofunk  
 Old School  
 Phonk  
+Plena (from Puerto Rico)  
 Progressive House  
 Psychedelic  
 Psychedelic Trance  
