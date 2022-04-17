@@ -27,6 +27,27 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-04-09 Emmanuel Nado
+1. Allah Léno by Omar Sosa & Seckou Keita (y)
+2. Maam by Omar Sosa & Seckou Keita (y)
+3. Gniri Balma by Omar Sosa & Seckou Keita
+4. Aï Haïra by Vieux Farka Touré
+5. Imidiwanine (My Friends) by Idan Raichel feat. Bombino
+6. It's Time by Alma Afrobeat Ensemble
+7. DJar Fogo by Neuza
+8. Puerto Rico by Plena Libre
+9. Richie's Jala Jala by Richie Ray & Bobby Cruz
+10. Ohawha by Eyuphuro (y)
+11. Sina Makosa by Les Wanyika
+12. Mado by Kasumai (y)
+13. Zunguluke by 4 Étoiles (y)
+14. Elections by Woya
+15. Tolinga Virunga by Samba Mapangala & Orchestra Virunga (y)
+16. Africa Mokili Mobimba by Sam Mangwana
+17. Phénomene by Mbilia Bel
+<br>
+<br>
+
 ## 2022-04-02 Edwin Okong'o - Anti-violence & Anti-war Themes
 1. Fight Fi Power by Super Cat
 2. War and Crime by Lucky Dube
@@ -155,7 +176,7 @@ Shabba Ranks
 <br>
 <br>
 
-Shout-outs to notable African woman musicians:  
+Shout-outs to notable (classic) African woman musicians:  
 Abeti Masikini  
 Angélique Kidjo  
 Bi Kidudé  
@@ -330,12 +351,19 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 <br>
 <br>
 
-Shout-outs to notable African musicians (men; see women list above):  
+Shout-outs to notable (classic) African musicians (men; see women list above):  
 Fela Kuti  
 Oliver Mtukudzi  
 Pepe Kalle  
 Sam Mangwana  
 Tabu Ley Rochereau  
 Youssou N'Dour
+
+More shout-outs:  
+Kelly Takunda Orphan  
+Omar Sosa  
+Richard Bona  
+Salani Wamkanganise  
+Seckou Keita  
 <br>
 <br>
