@@ -37,6 +37,9 @@ Waiting for Godot: Nothing, or the wait for something that is never going to hap
 
 Source: <https://www.urbandictionary.com/define.php?term=Godot>
 
+## Jeremy Bentham, English Philosopher and Social Theorist
+Panopticon: Allows authorities maximum control of the populace with minimum effort
+
 ## George Boole, Mathematics Educator
 1 + 1 = 1 (Boolean logic: True + True = True)
 
