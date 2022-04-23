@@ -18,6 +18,10 @@ iTunes for music sharing over a shared network (early versions)
 LimeWire for media & software sharing  
 Napster for media sharing (early versions)  
 P!rate B@y for media & software sharing (via torrent file distribution)  
-Tor Browser for anonymity & security (e.g., for social justice whistle-blowers)  
+Signal for end-to-end encrypted chat  
+Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)  
 VLC Media Player for universal media playing & viewing  
-WikiLeaks for anonymous & secure social justice whistle-blowing
+WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
+
+## Notably Bad Software
+Apple iCloud (not end-to-end encrypted!)
