@@ -27,6 +27,34 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-04-16 Edwin Okong'o - Gospel Music - Music of Spirituality & Praise
+1. Hear Me Lord by Oliver Mtukudzi (y)
+2. Iron Lion Zion by Bob Marley & The Wailers
+3. Jesus Is The Only Answer by Béla Fleck w/ Ateso Jazz Band from Uganda
+4. Sitolia by Gloria Muliro
+5. Coffin For Head Of State (Part 2) by Fela Kuti
+6. Voodoo Child (Slight Return) by Angélique Kidjo
+7. Heaven And Hell by William Onyeabor
+8. Sidi Mansour/Baba Bahri by Ez-Zouhour
+9. Abangoma by Hugh Masekela
+10. Gospel Time by Beenie Man
+11. Nzambe Lamuka by Shimita El Diego
+12. African Woman by Ebo Taylor
+13. Aye Africa by Manu Dibango & Courtney Pine Feat. Baaba Maal & Coco Mbassi
+14. Africa by Salif Keita
+15. Sum' Bulala by Brenda Fassie
+16. Wawah by Kisii All Stars & Chris Embarambamba
+17. Mama Africa by Colombiafrica & The Mystic Orchestra
+18. Kabibi by Syran Mbenza
+19. Jo by Yondo Sister
+<br>
+<br>
+
+Special shout-outs:  
+Nene Tchalou (RIP)
+<br>
+<br>
+
 ## 2022-04-09 Emmanuel Nado
 1. Allah Léno by Omar Sosa & Seckou Keita (y)
 2. Maam by Omar Sosa & Seckou Keita (y)
