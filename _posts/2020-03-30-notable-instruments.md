@@ -10,7 +10,7 @@ title: Notable Instruments
 
 ## Analog Musical Instruments
 Babatoni  
-Baglamas (baglamadaki)  
+Bağlama (saz) (Greece: Baglamadaki)  
 Balalaika  
 Balkan tambura  
 Bandoneon  
@@ -21,10 +21,12 @@ Cristal baschet
 Daf drum (e.g., played by Yazidis in Iraq & neighboring regions)  
 Didgeridoo  
 Doso Ngoni  
+Duduk  
 Dulcimer  
 Erhu  
 Fife  
 Flugelhorn  
+Gimbri (bass lute)  
 Guqin  
 Guzheng  
 Harmoniboard  
@@ -34,6 +36,7 @@ Kalimba
 Kamele Ngoni  
 Kantele  
 Kora  
+Koto  
 Liuqin  
 Lute  
 Lyricon (e.g., Shadowfax Album 1982)  
@@ -45,9 +48,10 @@ Nyatiti - means "daughter of the clan (family)"
 Ocarina  
 Pipa  
 Recorder  
+Rubab  
 San xian  
 Santur  
-Saz  
+Sarangi  
 Shakuhachi  
 Sitar  
 Tanpura  
