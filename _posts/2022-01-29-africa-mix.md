@@ -27,6 +27,44 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## Emmanuel Nado 2022-04-23 - Golden Age of African Music After Breaking Chains of Colonization
+1. Khaley Etoile by Etoile De Dakar
+2. Soumba by Super Rail Band De Bamako
+3. N'na Soba by Balla Et Ses Balladins (Bembeya Jazz National of Guinea)
+4. Independence Cha Cha by Grand Kalle & L'African Jazz
+5. Dear Si Abatar by Ramblers Dance Band (Ghana Highlife Pioneers)
+6. Dounya by Etoile De Dakar Feat. Youssou N'Dour
+7. Rail Band by Rail Band
+8. Bolingo Ya Bougie by Franco & Le Tpok Jazz
+9. On Verra Ça by Orchestra Baobab
+10. Be Ni Son by Les Amazones De Guinée
+11. Unknown (54:10-57:50) Nigerian King Sunny Adé - The Imperial Majesty of Juju Music - See Voice Memos New Recording 3870
+12. Aye Mama by Chief Stephen Osita Osadebe (Highlife Pioneer) [end of Golden Age theme]
+13. Trabessado by Neuza
+14. Amiga MIA by Los Van Van
+15. Yeselam Ayer by Minyeshu
+16. Tamala Maiga by Abdoulaye Alhassane
+17. Gabou Ni Tie by Vieux Farka Touré
+18. Olinga Olinga Te (Ngoma Beat) by Chris Babingui
+19. Mistic by Shimita El Diego
+20. Evelyne by Aurlus Mabélé
+21. Polygamie by 4 Étoiles
+22. Soukous Boogie by Johnny Tezano
+<br>
+<br>
+
+Special shout-outs:  
+Vieux Farka Touré (son of Ali Farka Touré)  
+Los Van Van  
+Habib Koité  
+Fatoumata Diawara  
+Salif Keita  
+Anacaona (Latin band from Cuba)  
+Orquesta América (additions mine: Julio Bravo y su Orquesta Salsabor, Orquesta Bembé)  
+Said Tichiti, Moroccan Blues
+<br>
+<br>
+
 ## 2022-04-16 Edwin Okong'o - Gospel Music - Music of Spirituality & Praise
 1. Hear Me Lord by Oliver Mtukudzi (y)
 2. Iron Lion Zion by Bob Marley & The Wailers
