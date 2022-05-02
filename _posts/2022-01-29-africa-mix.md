@@ -27,7 +27,7 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
-## Emmanuel Nado 2022-04-23 - Golden Age of African Music After Breaking Chains of Colonization
+## 2022-04-23 Emmanuel Nado - Golden Age of African Music After Breaking Chains of Colonization
 1. Khaley Etoile by Etoile De Dakar
 2. Soumba by Super Rail Band De Bamako
 3. N'na Soba by Balla Et Ses Balladins (Bembeya Jazz National of Guinea)
