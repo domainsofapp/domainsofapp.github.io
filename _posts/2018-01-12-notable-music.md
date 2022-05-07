@@ -462,6 +462,7 @@ Bomba (from Puerto Rico)
 Bullerengue  
 Calypso  
 Cameroon Makossa  
+Champeta (Colombiana)  
 Chillwave  
 Chopped and Screwed  
 Cloud  
@@ -477,8 +478,9 @@ Electro
 Electronic  
 Electronic Dance Music (EDM)  
 Emo Rap  
-Experimental  
+Ethio-jazz (Ethiopia)  
 Euro Trance  
+Experimental  
 Ghana Highlife (i.e., Hilife)  
 Hip Hop  
 House  
