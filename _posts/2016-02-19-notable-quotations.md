@@ -533,3 +533,9 @@ For the war to be won, of any war, you have to bring some of the people that you
 Hear me, Lord. Help me, Lord, I'm feeling low. --Oliver Mtukudzi, Zimbabwean Musician, in his song "Hear Me, Lord"
 
 We have a soul even though it's electronic & mathematic. (Paraphrased: The [human] soul is electronic & mathematic.) --Kraftwerk, Band
+
+I am human. Therefore, nothing human is foreign to me. --Publius Terentius Afer aka Terence, Roman African playwright during the Roman Republic
+
+I am a human being. Nothing human can be alien to me. --Maya Angelou, American Poet, in her Cornell University Class of 2008 Commencement Speech
+
+First, do no harm. (Primum non nocere.) (Primum nil nocere.) --Physician's (Doctor's) Mantra (As to diseases, make a habit of two things — to help, or at least, to do no harm. --Hippocrates, Greek Physician, in Epidemics, Book I, Ch. 2) (Variant translation: The physician must be able to tell the antecedents, know the present, and foretell the future — must mediate these things, and have two special objects in view with regard to disease, namely, to do good or to do no harm.) (Paraphrased variant: Wherever a doctor cannot do good, he must be kept from doing harm. --Viking Book of Aphorisms: A Personal Selection (1988) by W. H. Auden and Louis Kronenberger, p. 213.)
