@@ -21,7 +21,10 @@ P!rate B@y for media & software sharing (via torrent file distribution)
 Signal for end-to-end encrypted chat  
 Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)  
 VLC Media Player for universal media playing & viewing  
-WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
+WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing  
+Many more...
 
-## Notably Bad Software
-Apple iCloud (not end-to-end encrypted!)
+## Notably Bad (Intentionally Evil?) Software
+Alphabet (Google) Gmail (not end-to-end encrypted)  
+Apple iCloud (not end-to-end encrypted!)  
+Many more...
