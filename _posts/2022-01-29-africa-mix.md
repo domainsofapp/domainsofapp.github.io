@@ -8,7 +8,7 @@ title: Africa Mix
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
-NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here.
+NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here. (To be clear, I don't want to do this! I'll stop as soon as I can find an alternative source of these tracklists on the Internet!)
 
 KALW's Africa Mix Tracklists
 
@@ -26,6 +26,38 @@ And, of course, a million thank yous to Emmanuel Nado & Edwin Okong'o, co-hosts 
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-04-30 Edwin Okong'o - Theme is Kenya (specifically, near Makairo, Edwin's rural birthplace, a village nestled in the Gusii highlands of southwestern Kenya near Kisii)
+1. Yovensia (Moraa) by Christopher Monyoncho (bwa Araka) (RIP) (Kegogi New Jazz)
+2. Karen Mecha by Christopher Monyoncho (bwa Araka) (RIP) (Kegogi New Jazz)
+3. Haicia Bendera by Gitau (Vienna Boys Band)
+4. Kisumo 100 by Suzanna Owiyo
+5. Pole Musa by Daudi Kabaka
+6. Melodi Ya Mamelodi by Vusi Mahlasela
+7. Lembe by Bixiga 70
+8. Esketa Dance (Taken From Inspiration Information) by Mulatu Astatke & The Heliocentrics
+9. Lalla by Rokia Traore (y)
+10. Usacheme by Jah Prayzah (y)
+11. Jaloux Jaloux by Colombiafrica The Mystic Orchestra
+12. La Vida Es Un Carnaval (Bomba Estereo Remix) by Angélique Kidjo
+13. Hakuna Kulala by Zuchu
+14. Zamba Malato by Peru Negro
+15. Temba, Tumba, Timba by Los Van Van
+16. Nakupenda (I Love You) by Brenda Fassie
+17. El Mandon by Melchor El Cruel (ok)
+18. L.A. by Habib Koité
+19. Mayo Mayo by Kampi Moto & George Phiri (y)
+20. Africa by Salif Keita (y)
+21. Wake Up (It's Africa Calling) by Youssou N'Dour (y)
+22. Africa by Yemi Alade Feat. Sauti Sol (ok)
+23. Palm Wine Sound by Fela Kuti (y)
+<br>
+<br>
+
+Special shout-outs:  
+Dally Kimoko (guitarist)
+<br>
+<br>
 
 ## 2022-04-23 Emmanuel Nado - Golden Age of African Music After Breaking Chains of Colonization
 1. Khaley Etoile by Etoile De Dakar
