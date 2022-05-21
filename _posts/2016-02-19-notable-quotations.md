@@ -8,6 +8,8 @@ title: Notable Quotations
 
 <p class="meta">19 Feb 2016 - San Francisco, CA</p>
 
+Life itself is a quotation. --Jorge Luis Borges
+
 To those whom the gods wish to destroy, they give unlimited resources. --Twyla Tharp, Dancer
 
 Complex systems tend to oppose their intended function. --Le Chatelier's Principle
@@ -539,3 +541,7 @@ I am human. Therefore, nothing human is foreign to me. --Publius Terentius Afer 
 I am a human being. Nothing human can be alien to me. --Maya Angelou, American Poet, in her Cornell University Class of 2008 Commencement Speech
 
 First, do no harm. (Primum non nocere.) (Primum nil nocere.) --Physician's (Doctor's) Mantra (As to diseases, make a habit of two things — to help, or at least, to do no harm. --Hippocrates, Greek Physician, in Epidemics, Book I, Ch. 2) (Variant translation: The physician must be able to tell the antecedents, know the present, and foretell the future — must mediate these things, and have two special objects in view with regard to disease, namely, to do good or to do no harm.) (Paraphrased variant: Wherever a doctor cannot do good, he must be kept from doing harm. --Viking Book of Aphorisms: A Personal Selection (1988) by W. H. Auden and Louis Kronenberger, p. 213.)
+
+Markets will remain irrational longer than you can remain solvent. --A. Gary Shilling, American Financial Analyst and Commentator
+
+Re: Gross National Product GNP (and Gross Domestic Product GDP): It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. --Robert F. Kennedy, Former United States Attorney General, Remarks at the University of Kansas, March 18, 1968
