@@ -32,6 +32,7 @@ If you'd like to contribute programmatically or logistically to the site, here a
 * Add donations button so I can earn income (ha), make it my job, and spend more time building out the site (I have several thousand items that are yet to be added)
 * Convince Jason Kottke of Kottke Dot Org to hire me to be his Internet filter blogging protégé
 * Convince a publisher to contract me to write a book based in part on the contents herein
+* Find a benefactor or sponsor to pay me to do this full-time (I have enough cultural content aka Internet filter blog fodder awaiting addition to last a lifetime)
 
 <br>Please note: I recommend refreshing the pages via F5 on the keyboard or the refresh icon in your Internet browser. Otherwise, you may be viewing old content from your previous or original page visit(s).
 
