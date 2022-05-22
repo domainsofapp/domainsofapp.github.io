@@ -8,17 +8,17 @@ title: Africa Mix
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
-NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here. (To be clear, I don't want to do this! I'll stop as soon as I can find an alternative source of these tracklists on the Internet!)
+NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here (to the extent that I can). (To be clear, I don't want to do this! I'll stop as soon as I can find an alternative source of these tracklists on the Internet!)
 
 KALW's Africa Mix Tracklists
 
-(NB: Tracklists are sometimes incorrectly referred to as playlists. A tracklist is the actually DJ-played subset of songs from a longer playlist.)
+(NB: Tracklists are sometimes incorrectly referred to as playlists. A tracklist is the actually DJ-played subset of songs chosen from a longer playlist.)
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
 Compliments of Shazam & (laborious) personal searching
 
-And, of course, a million thank yous to Emmanuel Nado & Edwin Okong'o, co-hosts of KALW's Africa Mix!
+And, of course, a million thank yous to the brilliant Emmanuel Nado & Edwin Okong'o, co-hosts of KALW's Africa Mix! As well as to all the artists (musicians) played or featured on the show (& to artists in general working to sustain rich culture and a life worth living for us all). Finally, please forgive me for any bugs or errors herein (& throughout this blog), of which there are likely many.
 
 (y) means highly recommended by me  
 (ok) means pretty good
@@ -26,6 +26,80 @@ And, of course, a million thank yous to Emmanuel Nado & Edwin Okong'o, co-hosts 
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-05-14 Edwin Okong'o - Theme is DJ Improvisation
+1. Sarama by Oumou Sangaré (y)
+2. Ato Lagoh by Fely Tchaco
+3. Cawe Yoko by Fely Tchaco (y)
+4. This Was Made Here by Meklit
+5. Eagle Woman by The KTO Project (Kelly Takunda Orphan)
+6. Ndiyani Waparadza Musha (Who Has Destroyed Our Hom...) by Thomas Mapfumo & The Blacks Unlimited
+7. Nyoka Musango by Thomas Mapfumo
+8. Zanzibar by Taj Mahal & Angélique Kidjo
+9. Sabali by Rokia Traoré
+10. Rwendo Rwauya by Sam Mtukudzi
+11. Nguva Ye Kufara by Chiwoniso
+12. San Antonio by Novalima
+13. Banan by Jesse Sahbi
+14. Sweet Mother by Prince Nico Mbarga
+15. Kata by Teta
+16. Tchanzan by Jesse Sahbi
+17. Ziblanta by Jesse Sahbi
+18. Kata by Teta (again, partial)
+19. Tanga Agetego by Teta Diana
+20. Mérua by Umalali
+21. Fik Ya Aachik Zine by Fella Ababssa
+22. Samra by Ez-Zouhour
+23. Mamou II by Franco (ok)
+24. Naribangue by Papa L'amour
+<br>
+<br>
+
+Special shout-outs:  
+Dr. Claude (Jean Claude Yamuremye)
+<br>
+<br>
+
+## 2022-05-07 Emmanuel Nado - Theme is Celebration of Mothers
+1. Mother Nature by Angélique Kidjo (feat. Sting)
+2. Mama (Mother) by George Mutinda
+3. Mama by Sawt El Atlas
+4. Mama Watoto (Mother of My Children) by UBWE (Kenya) (from Album NYUMBANI)
+5. Nia (Mothers) by Anansy Cissé
+6. Worship Mother Earth by Fra Fra Sound
+7. I Remember My Mother (feat. Rhodessa Jones) by Naima Shalhoub
+8. A New Mother's Day Poem (feat. Tameika "Chocolate Chip" Smith) by Naima Shalhoub
+9. Sweet Mother by Prince Nico Mbarga
+10. Family Movement by Tilda & Rocafil Jazz International
+11. Lagos Night/Sweet Mother/Christiana/Aki Special/Stella/Wellenga/Oh Death/Lagos Night by Lokassa Et Soukous Stars
+12. Avelo (Ghost) by Tarika
+13. A Song For Mama by Boyz II Men
+14. Mama by Kanvee Adams (y)
+15. Thank U Mamma by Sizzla
+16. Mama by Christopher Martin
+17. Thank You Lord For Mama by Endurance
+18. Mama by Ifé
+19. Manangu Ni Maman by Donat Mwanza
+20. Unknown 1:51:00-1:54:00 - see Voice Memos New Recording 3891
+21. Mama Kambo by Monicah Ng'ang'a
+<br>
+<br>
+
+Special shout-outs - Africa-inspired music radio programs:  
+Afro Spirit Weekend - DJ Vince Gbenga - KKUP Radio 91.5 FM  
+Afrodicia - DJ Nnamdi Moweta - KPFK Radio 90.7 FM  
+Echoes of Africa - DJ Emmanuel Nado - KKUP Radio 91.5 FM  
+First World Music - DJ Akenataa Hammagaadji - WVKR Radio 91.3 FM @ Vassar College  
+Music of Africa - DJ Doug Paterson - KBCS Radio 91.3 @ Bellevue College
+<br>
+<br>
+
+Additional special shout-outs:  
+Soji and the Afrobeat Band  
+Femi Kuti, Baba Ken Okulolo (Nigerian bassist), Babatunde Olatunji, Orlando Julius Ekemode, and the Afrobeat group Kotoja  
+Tosin Aribisala (Nigerian drummer)
+<br>
+<br>
 
 ## 2022-04-30 Edwin Okong'o - Theme is Kenya (specifically, near Makairo, Edwin's rural birthplace, a village nestled in the Gusii highlands of southwestern Kenya near Kisii)
 1. Yovensia (Moraa) by Christopher Monyoncho (bwa Araka) (RIP) (Kegogi New Jazz)
@@ -59,7 +133,7 @@ Dally Kimoko (guitarist)
 <br>
 <br>
 
-## 2022-04-23 Emmanuel Nado - Golden Age of African Music After Breaking Chains of Colonization
+## 2022-04-23 Emmanuel Nado - Theme is Golden Age of African Music After Breaking Chains of Colonization
 1. Khaley Etoile by Etoile De Dakar
 2. Soumba by Super Rail Band De Bamako
 3. N'na Soba by Balla Et Ses Balladins (Bembeya Jazz National of Guinea)
@@ -70,7 +144,7 @@ Dally Kimoko (guitarist)
 8. Bolingo Ya Bougie by Franco & Le Tpok Jazz
 9. On Verra Ça by Orchestra Baobab
 10. Be Ni Son by Les Amazones De Guinée
-11. Unknown (54:10-57:50) Nigerian King Sunny Adé - The Imperial Majesty of Juju Music - See Voice Memos New Recording 3870
+11. Unknown (54:10-57:50) Nigerian King Sunny Adé - The Imperial Majesty of Juju Music - see Voice Memos New Recording 3870
 12. Aye Mama by Chief Stephen Osita Osadebe (Highlife Pioneer) [end of Golden Age theme]
 13. Trabessado by Neuza
 14. Amiga MIA by Los Van Van
@@ -97,7 +171,7 @@ Said Tichiti, Moroccan Blues
 <br>
 <br>
 
-## 2022-04-16 Edwin Okong'o - Gospel Music - Music of Spirituality & Praise
+## 2022-04-16 Edwin Okong'o - Theme is Gospel Music: Music of Spirituality & Praise
 1. Hear Me Lord by Oliver Mtukudzi (y)
 2. Iron Lion Zion by Bob Marley & The Wailers
 3. Jesus Is The Only Answer by Béla Fleck w/ Ateso Jazz Band from Uganda
@@ -221,7 +295,7 @@ Nene Tchalou (RIP)
 <br>
 <br>
 
-Dance Hall Shout-outs:  
+Special Dance Hall shout-outs:  
 Bunny Wailer  
 Burning Spear  
 Chaka Demus & Pliers  
@@ -254,7 +328,7 @@ Shabba Ranks
 <br>
 <br>
 
-## 2022-03-05 Edwin Okong'o - Celebration of African Women Musicians
+## 2022-03-05 Edwin Okong'o - Theme is Celebration of African Women Musicians
 1. Msondo by Bi Kidudé
 2. Se Me Van Los Pies by Susana Baca
 3. Abatina by Calypso Rose (y)
@@ -449,19 +523,21 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 <br>
 <br>
 
-Shout-outs to notable (classic) African musicians (men; see women list above):  
+Special shout-outs to notable (classic) African musicians (men; see women list above):  
 Fela Kuti  
 Oliver Mtukudzi  
 Pepe Kalle  
 Sam Mangwana  
 Tabu Ley Rochereau  
 Youssou N'Dour
+<br>
+<br>
 
-More shout-outs:  
+Additional special shout-outs:  
 Kelly Takunda Orphan  
 Omar Sosa  
 Richard Bona  
 Salani Wamkanganise  
-Seckou Keita  
+Seckou Keita
 <br>
 <br>
