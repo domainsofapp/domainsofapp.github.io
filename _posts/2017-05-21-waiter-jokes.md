@@ -45,7 +45,7 @@ I wouldn't know, sir. I'm a waiter, not a fortune-teller.
 
 Waiter, is this a lamb chop or a pork chop?  
 Can't you tell by the taste?  
-No, I can't  
+No, I can't.  
 Then what does it matter?
 
 Waiter, how long have you been here?  
@@ -68,7 +68,7 @@ Not to worry - he won't last long in there.
 ## My Own Stupid Non-waiter Joke
 Me: I have a long-distance girlfriend.  
 Friend: Oh yea?  
-Me: Yea. I'm not sure what she looks like, though, because she is so far away that the light of her image has not reached me yet.
+Me: Yea. I'm not sure what she looks like, though; she's so far away the light of her image and sound of her voice haven't reached me yet.
 
 ## From Giri/Haji aka Duty/Shame
 Rodney: Know what the secret to a long marriage is?  
