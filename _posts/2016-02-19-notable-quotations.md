@@ -8,7 +8,7 @@ title: Notable Quotations
 
 <p class="meta">19 Feb 2016 - San Francisco, CA</p>
 
-Life itself is a quotation. --Jorge Luis Borges
+Life itself is a quotation. --Jorge Luis Borges, Argentine Short Story Writer
 
 To those whom the gods wish to destroy, they give unlimited resources. --Twyla Tharp, Dancer
 
