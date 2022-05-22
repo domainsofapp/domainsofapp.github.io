@@ -9,11 +9,13 @@ title: Notable Excerpts
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
 ## Excerpt from Remarks at the University of Kansas (Mar. 18, 1968)
+
 And this is one of the great tasks of leadership for us, as individuals and citizens this year. But even if we act to erase material poverty, there is another greater task, it is to confront the poverty of satisfaction - purpose and dignity - that afflicts us all. Too much and for too long, we seemed to have surrendered personal excellence and community values in the mere accumulation of material things. Our Gross National Product, now, is over $800 billion dollars a year, but that Gross National Product - if we judge the United States of America by that - that Gross National Product counts air pollution and cigarette advertising, and ambulances to clear our highways of carnage. It counts special locks for our doors and the jails for the people who break them. It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. It counts napalm and counts nuclear warheads and armored cars for the police to fight the riots in our cities. It counts Whitman's rifle and Speck's knife, and the television programs which glorify violence in order to sell toys to our children. Yet the gross national product does not allow for the health of our children, the quality of their education or the joy of their play. It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials. It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country, it measures everything in short, except that which makes life worthwhile. And it can tell us everything about America except why we are proud that we are Americans.
 
 by Robert F. Kennedy, Former United States Attorney General
 
 ## Excerpt from Letter to Mrs. Bixby (Nov. 21, 1864)
+
 I feel how weak and fruitless must be any word of mine which should attempt to beguile you from the grief of a loss so overwhelming. But I cannot refrain from tendering you the consolation that may be found in the thanks of the Republic they died to save.
 
 I pray that our Heavenly Father may assuage the anguish of your bereavement, and leave you only the cherished memory of the loved and lost, and the solemn pride that must be yours to have laid so costly a sacrifice upon the altar of freedom.
@@ -21,6 +23,7 @@ I pray that our Heavenly Father may assuage the anguish of your bereavement, and
 by Abraham Lincoln, 16th U.S. President
 
 ## Excerpts from Macbeth
+
 Whence is that knocking?—  
 How is’t with me, when every noise appals me?  
 What hands are here! Ha, they pluck out mine eyes.  
@@ -50,6 +53,7 @@ blood in him.
 by William Shakespeare, English Playwright
 
 ## Excerpt from Ulysses (1842) 54-62
+
 The lights begin to twinkle from the rocks;  
 The long day wanes; the slow moon climbs; the deep  
 Moans round with many voices.  
@@ -64,6 +68,7 @@ Of all the western stars, until I die.
 by Alfred, Lord Tennyson, English Poet
 
 ## Excerpt from House of Leaves
+
 ...la verdad, cuya madre es la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir. (...truth, whose mother is history, who is the rival of time, depository of deeds, witness of the past, example and lesson to the present, and warning to the future.) --Miguel de Cervantes, Writer [from Don Quixote, Part One, Chapter Nine, according to Page 42 of the remastered full-color edition of House of Leaves by Mark Z. Danielewski, copyright 2000]
 
 ...the habit of photographic seeing -- of looking at reality as an array of potential photographs -- creates estrangement from, rather than union with, nature. --Susan Sontag, On Photography from House of Leaves by Mark Z. Danielewski
@@ -113,6 +118,7 @@ I will remember you. --You Shall Be My Roots
 by Mark Z. Danielewski, American Author
 
 ## Excerpt from The Laws of Thermodynamics
+
 On Boltzmann's expression: At a given temperature - in the bulk sense - a collection of atoms consists of some in their lowest energy state (their "ground state"), some in the next higher energy state, and so on, with populations that diminish in progressively higher energy states. When the populations of the states have settled down into their "equilibrium" populations, although atoms continue to jump between energy levels, there is no net change in the populations [and] it turns out that these populations can be calculated from a knowledge of the energies of the states and a single parameter, beta.
 
 More on The Second Law of Thermodynamics: Time moves towards increasing one direction: increasing entropy.
@@ -122,6 +128,7 @@ by Peter Atkins, English Chemist
 Source: <https://www.perell.com/blog/50-ideas-that-changed-my-life/>
 
 ## Excerpt from The Sunset Limited
+
 White:
 
 The one thing I wont give up is giving up. I expect that to carry me through. I'm depending on it. The things I believed in were very frail. As I said. They wont be around for long and neither will I. But I dont think that's really the reason for my decision. I think it goes deeper. You can acclimate yourself to loss. You have to. You give up the world line by line. Stoically. And then one day you realize that your courage is farcical. It doesnt mean anything. You've become an accomplice in your own annihilation and there is nothing you can do about it. Everything you do closes a door somewhere ahead of you. And finally there is only one door left.
