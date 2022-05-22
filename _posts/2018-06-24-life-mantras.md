@@ -232,7 +232,7 @@ Don't be afraid of your own success (or failure for that matter).
 
 If possible, you should try not to use use the words "if possible", should", or "try". ;--)
 
-At any given moment, it's best to look within & do whatever you feel like doing, even if that's nothing at all. (Obviously, sometime "life" gets in the way.)
+At any given moment, it's best to look within & do whatever you feel like doing, even if that's nothing at all. (Obviously, sometimes "life" gets in the way.)
 
 FOCUS. Keep coding!
 
