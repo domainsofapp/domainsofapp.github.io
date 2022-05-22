@@ -34,7 +34,7 @@ Harmonium
 Harpsichord  
 Kalimba  
 Kamele Ngoni  
-Kantele  
+Kantele (Finnish)  
 Kora  
 Koto  
 Liuqin  
