@@ -391,6 +391,13 @@ Talk to Myself - Avicii
 The Nights - Avicii  
 Without You "Audio" ft. Sandro Cavazza - Avicii
 
+## Bildungsroman
+Arcade Fire  
+Belle & Sebastian  
+Modest Mouse  
+Sufjan Stevens  
+The National
+
 ## Bluegrass
 Old & In the Way  
 Jerry Garcia Band
@@ -458,6 +465,7 @@ Bakosó (from Cuba; means eternal)
 Bantu Jazz  
 Bantu Soul  
 Bedroom Pop  
+Bildungsroman (idea mine)  
 Bomba (from Puerto Rico)  
 Bullerengue  
 Calypso  
