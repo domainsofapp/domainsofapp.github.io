@@ -8,7 +8,7 @@ title: Notable Games
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
-Shout-out to Danny E. (RIP), my best gaming buddy. Thanks for all the fun memories.
+Shout-out to Danny E., my best friend in life & gaming buddy. Thanks for all the fun memories. RIP brother.
 
 Amazon Trail  
 Hard Hat Mack  
