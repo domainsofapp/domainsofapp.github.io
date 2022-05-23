@@ -10,6 +10,9 @@ title: Paraphrased Philosophy
 
 NB: Rumor has it that all Wikipedia links ultimately lead to "Philosophy".
 
+## Giorgio Agamben, Italian Philosopher
+Introduced the concept of "Homo Sacer" (Latin phrase), representing bare human rights. Homo sacer: Philosophical concept (term) relating to the reduction/stripping of the human being to her most bare/fundamental human rights without killing her (e.g., USA prisoners at Guantanamo Bay who are tortured for years and have yet to be charged with any crime or put on trial; illegal immigrants in the USA; or, sans-papiers in France - those who are uncounted by the state).
+
 ## Anthropic Principle
 The universe had to be such as to allow for observers to evolve within it. A universe without conscious observers would be logically inconsistent. No surprise that the universe is "improbably" tuned for life.
 
