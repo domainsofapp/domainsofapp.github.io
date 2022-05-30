@@ -27,6 +27,34 @@ Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 
+## 2022-05-21 Emmanuel Nado - Asian American and Pacific Islander Heritage Month 2022 in the USA (also, dedicated to those recently lost in Buffalo, NY - RIP)
+1. Oggun by Yilian Cañizares
+2. Sommer für Sommer by Dota Kehr
+3. A Tu Lado by Jasmine Feat. Victor Hernandez
+4. Sikungilunga (When I Close My Eyes) by Joey Nowyuk
+5. Cumplicidades by Língua Terra, Paulo Flores & Manecas Costa Feat. Lenna Bahule, Beth Beli, Jackie Cun...
+6. Ivuenu by Bonga
+7. Aï Haïra by Vieux Farka Touré
+8. Get Up, Stand Up by Bob Marley & The Wailers
+9. Bakonoba by Fatoumata Diawara (Malian neo-griot)
+10. Le Guide De La Révolution by Bako Dagnon (y) (Malian griot)
+11. Stostoke by Afia Mala (y)
+12. Nguva Ye Kufara by Chiwoniso (y)
+13. Busybody by Tony Allen (y)
+14. Absua Bone by Akompi (Highlife of Ghana)
+15. Unknown (58:30-59:50) - see Voice Memos New Recording 3907
+16. Kele Mani (Fighting Is Not Good) by Sierra Leone's Refugee All Stars
+17. Good Lovin' by Miguel & Oscar Y La Fantasia
+18. Pacific Mambo Dance by Pacific Mambo Orchestra
+19. Culu Culu by Porfi Jimenez
+20. Juliana by Cuco Valoy
+21. Kimpa Kisanga Meni by Franco
+22. Mela by Vata Mombassa
+23. Lunch Time by Gabriel Omollo
+24. Kusanga Ema by Wawali Bonane With Yoka Nzenze
+25. Unknown (1:49:45-1:54:30) - see Voice Memos New Recording 3910
+26. Mutoto Wafrica by Matchatcha
+
 ## 2022-05-14 Edwin Okong'o - Theme is DJ Improvisation
 1. Sarama by Oumou Sangaré (y)
 2. Ato Lagoh by Fely Tchaco
@@ -96,7 +124,7 @@ Music of Africa - DJ Doug Paterson - KBCS Radio 91.3 @ Bellevue College
 
 Additional special shout-outs:  
 Soji and the Afrobeat Band  
-Femi Kuti, Baba Ken Okulolo (Nigerian bassist), Babatunde Olatunji, Orlando Julius Ekemode, and the Afrobeat group Kotoja  
+Femi Kuti, Babá Ken Okulolo (Nigerian bassist), Babatunde Olatunji, Orlando Julius Ekemode, and the Afrobeat group Kotoja  
 Tosin Aribisala (Nigerian drummer)
 <br>
 <br>
@@ -357,6 +385,7 @@ Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban 
 Faya Tess  
 M'bilia Bel  
 Miriam Makeba  
+Oumou Sangaré  
 Patra  
 Rokia Traoré  
 Susana Baca  
