@@ -27,6 +27,7 @@ Erhu
 Fife  
 Flugelhorn  
 Gimbri (bass lute)  
+Guitalin  
 Guqin  
 Guzheng  
 Harmoniboard  
