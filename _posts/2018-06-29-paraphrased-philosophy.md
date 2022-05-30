@@ -164,6 +164,8 @@ Mind equipped with "categories" of knowledge outside our sensory conceptualizati
 
 Space and time are symbolic tools of the human consciousness for relating matter and symbolic meaning.
 
+Categorical imperative: "Act only according to that maxim whereby you [would], at the same time, will that it [] become a universal law." (Paraphrased: Act in such a way that the maxim of your action would become a universal law.)
+
 ## Jacques Lacan, French Psychoanalyst
 The world is a fantasy through which thought sustains itself.
 
