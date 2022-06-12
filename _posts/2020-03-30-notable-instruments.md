@@ -16,6 +16,7 @@ Balkan tambura
 Bandoneon  
 Cajón  
 Calliope  
+Clanks (worn on ankles, e.g., in Kenya)  
 Clavier  
 Cristal baschet  
 Daf drum (e.g., played by Yazidis in Iraq & neighboring regions)  
@@ -30,6 +31,7 @@ Gimbri (bass lute)
 Guitalin  
 Guqin  
 Guzheng  
+Handpan  
 Harmoniboard  
 Harmonium  
 Harpsichord  
@@ -45,9 +47,11 @@ Mbira
 Melodica  
 Melody horn  
 Mohan veena  
-Nyatiti - means "daughter of the clan (family)"  
+Nyatiti - means "daughter of the clan (family)" (from Kenya)  
+Oboe da caccia  
 Obokano (from Kenya)  
 Ocarina  
+Orutu (from Kenya)  
 Pipa  
 Recorder  
 Rubab  
