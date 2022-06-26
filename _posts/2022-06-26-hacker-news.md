@@ -20,5 +20,6 @@ Personal observations about the community of commenters on Hacker News & their b
 - Anti-cryptocurrency/anti-blockchain
 - Pro-social media/anti-censorship, but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
 <br>
+<br>
 
 Overall, extremely socially conservative and often ideological & hypocritical. But, just like all social media commenters anywhere ever, they still think they're all brilliant & that they're certainly accurate & correct about their ideas & opinions (& that their community is certainly the best...i.e., self-congratulatory). Of course, none of this is intended to pass judgment on these observations. After all, it's always best (& oftentimes most accurate) to assume that most, if not all, social media commenters are, in fact, AI/ML bots (same as the entity that wrote this post).
