@@ -14,7 +14,7 @@ Personal observations about the community of commenters on Hacker News & their b
 - Pro-capitalism
 - Sometimes pro-libertarian; very "Silicon Valley", i.e., pro-Si Valley tech mind (Y Combinator case in point)/pro- tech will save the world, not end it
 - Pro-life/pro-kids/anti-Malthus (anti- population is too high)
-- Pro-Eastern fake (non-scientific) medicine (stress kills; reduce stress via meditation, recalibrate your mind, etc.)
+- Pro-"Eastern" fake (non-scientific) medicine (stress kills; reduce stress via meditation, recalibrate your mind, etc.)
 - Religious (Christian)/pro-G0d/pro-Jesus
 - Pro-nuclear (pro-baseload)/anti-renewables (anti-intermittent)
 - Anti-cryptocurrency/anti-blockchain
