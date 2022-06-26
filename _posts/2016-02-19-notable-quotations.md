@@ -545,3 +545,5 @@ First, do no harm. (Primum non nocere.) (Primum nil nocere.) --Physician's (Doct
 Markets will remain irrational longer than you can remain solvent. --A. Gary Shilling, American Financial Analyst and Commentator
 
 Re: Gross National Product GNP (and Gross Domestic Product GDP): It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. --Robert F. Kennedy, Former United States Attorney General, Remarks at the University of Kansas, March 18, 1968
+
+We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
