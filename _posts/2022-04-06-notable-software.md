@@ -38,6 +38,7 @@ To be continued...
 - Immutable (esp. for ledgers that require immutability)
 - Uncensored/uncontrolled content (each user can block what they don't wish to see)
 <br>
+<br>
 
 We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
 
