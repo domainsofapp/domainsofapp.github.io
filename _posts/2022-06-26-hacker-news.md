@@ -18,7 +18,7 @@ Personal observations about the community of commenters on Hacker News & their b
 - Religious (Christian)/pro-G0d/pro-Jesus
 - Pro-nuclear (pro-baseload)/anti-renewables (anti-intermittent)
 - Anti-cryptocurrency/anti-blockchain
-- Pro-social media/anti-censorship, but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
+- Pro-social media (& anti-censorship), but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
 <br>
 <br>
 
