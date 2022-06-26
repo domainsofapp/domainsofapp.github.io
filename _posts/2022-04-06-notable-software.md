@@ -18,13 +18,22 @@ iTunes for music sharing over a shared network (early versions)
 LimeWire for media & software sharing  
 Napster for media sharing (early versions)  
 P!rate B@y for media & software sharing (via torrent file distribution)  
-Signal for end-to-end encrypted chat (text messaging)  
+Signal for end-to-end encrypted chat (text messaging) -> Not quite, though, b/c it is centralized (both the AWS servers and the company which rents them)  
 Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)  
 VLC Media Player for universal media playing & viewing  
 WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing  
 To be continued...
 
 And, an appeal to any engineers & other stakeholders with the power to change the following software for the better (& for the betterment of society at large):
+
+## Features of Notable Software Programs
+- Standalone EXE whenever possible
+- Decentralized and distributed (not centralized)
+- End-to-end encrypted (esp. for communications)
+- Immutable (esp. for ledgers that require immutability)
+- Uncensored/uncontrolled content (each user can block what they don't wish to see)
+
+We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
 
 ## Notably Bad (Intentionally Evil?) Software
 Alphabet (Google) Gmail (not end-to-end encrypted)  
