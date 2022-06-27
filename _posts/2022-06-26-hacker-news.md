@@ -12,7 +12,7 @@ Personal observations about the community of commenters on Hacker News & their b
 
 - Anti-alcohol/anti-drugs
 - Pro-capitalism
-- Sometimes pro-libertarian; very "Silicon Valley", i.e., pro-Si Valley tech mind (Y Combinator case in point)/pro- tech will save the world, not end it
+- Sometimes pro-libertarian; very "Silicon Valley", i.e., pro-Si Valley tech mind (Y Combinator case in point)/pro- tech will save/preserve the world as we know it, not destroy/end it
 - Pro-life/pro-kids/anti-Malthus (anti- population is too high)
 - Pro-"Eastern" fake (non-scientific) medicine (stress kills; reduce stress via meditation, recalibrate your mind, etc.)
 - Religious (Christian)/pro-G0d/pro-Jesus
