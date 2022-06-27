@@ -9,6 +9,7 @@ title: Notable Instruments
 <p class="meta">30 Mar 2020 - Berkeley, CA</p>
 
 ## Analog Musical Instruments
+Autoharp  
 Babatoni  
 Bağlama (saz) (Greece: Baglamadaki)  
 Balalaika  
@@ -53,6 +54,7 @@ Obokano (from Kenya)
 Ocarina  
 Orutu (from Kenya)  
 Pipa  
+Qanun  
 Recorder  
 Rubab  
 San xian  
@@ -64,7 +66,8 @@ Tanpura
 Theremin  
 Tumba  
 Ute  
-Zhong ruan
+Zhong ruan  
+Zither
 
 ## Digital Musical Instruments (e.g., Synthesizers)
 Akai MPC
