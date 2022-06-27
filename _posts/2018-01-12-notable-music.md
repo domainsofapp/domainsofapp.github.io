@@ -465,6 +465,7 @@ Bakosó (from Cuba; means eternal)
 Bantu Jazz  
 Bantu Soul  
 Bedroom Pop  
+Benga (Kenya)  
 Bildungsroman (idea mine)  
 Bomba (from Puerto Rico)  
 Bullerengue  
@@ -538,7 +539,8 @@ Vaportrap
 Vaporwave  
 Wave  
 Witch House  
-Yardcore
+Yardcore  
+Zouk (Martinique and Guadeloupe)
 
 ## Grateful Dead et al.
 Althea - Grateful Dead  
