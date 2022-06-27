@@ -36,6 +36,7 @@ Handpan
 Harmoniboard  
 Harmonium  
 Harpsichord  
+Jal tarang  
 Kalimba  
 Kamele Ngoni  
 Kantele (Finnish)  
