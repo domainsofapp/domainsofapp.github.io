@@ -29,7 +29,7 @@ I used to implement Google Analytics on the site. I removed it to keep the site 
 ## Copyright Notice
 This section was also inspired by Ref. [1].
 
-The following directories and their contents are "Copyright Kenneth J. Sauer", i.e., they consist of original content (All Rights Reserved):
+The following directories and their contents are "Copyright domainsofapp", i.e., they consist of original content (All Rights Reserved):
 
 * \_posts/
 
