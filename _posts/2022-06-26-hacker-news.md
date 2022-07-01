@@ -19,7 +19,7 @@ Personal observations about the community of commenters on Hacker News & their b
 - Pro-nuclear (pro-baseload)/anti-renewables (anti-intermittent)
 - Anti-cryptocurrency/anti-blockchain
 - Pro-social media (& anti-censorship), but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
-- Anti-government/anti-federal government regulation (pro dismantle the federal regulatory apparatus)
+- Anti-government/anti-federal government regulation (pro- dismantle the federal regulatory apparatus)
 <br>
 <br>
 
