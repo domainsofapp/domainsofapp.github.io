@@ -8,6 +8,25 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## First They Came
+First they came for the Communists  
+And I did not speak out  
+Because I was not a Communist  
+Then they came for the Socialists  
+And I did not speak out  
+Because I was not a Socialist  
+Then they came for the trade unionists  
+And I did not speak out  
+Because I was not a trade unionist  
+Then they came for the Jews  
+And I did not speak out  
+Because I was not a Jew  
+Then they came for me  
+And there was no one left  
+To speak out for me
+
+by Pastor Martin Niemöller, German Theologian
+
 ## This World Is Not My Home
 Do we really exist at all?  
 This world is not my home.  
@@ -16,7 +35,7 @@ My treasures and my hopes are all beyond the sky.
 I've many friends and kindreds that's gone along before.  
 And I can't feel at home in this world anymore.
 
---James Agee, in Let Us Now Praise Famous Men, 1941
+--James Agee, American Novelist, in Let Us Now Praise Famous Men, 1941
 
 ## Assorted Lullabies
 Bye baby Bunting,  
@@ -24,13 +43,13 @@ Daddy's gone a-hunting,
 Gone to find a rabbit skin,  
 To wrap the baby Bunting in.
 
---Sonya, in Dexter, S5:E3, "Practically Perfect"
+--Sonya, Character in Dexter, S5:E3, "Practically Perfect"
 
 Flies in the buttermilk, shoo fly shoo.  
 Lost my partner, what'll I do?  
 Skip to the Lou, my Darling.
 
---Sonya, in Dexter, S5:E6, "Everything is Illumenated"
+--Sonya, Character in Dexter, S5:E6, "Everything is Illumenated"
 
 ## Paul Revere's Ride
 LISTEN, my children, and you shall hear  
@@ -177,7 +196,7 @@ The people will waken and listen to hear
 The hurrying hoof-beat of that steed,  
 And the midnight-message of Paul Revere.
 
-by Henry Wadsworth Longfellow, 1860  
+by Henry Wadsworth Longfellow, American Poet, 1860  
 Source: <http://www.paul-revere-heritage.com/poem.html>
 
 ## The Second Coming
@@ -205,7 +224,7 @@ Were vexed to nightmare by a rocking cradle,
 And what rough beast, its hour come round at last,  
 Slouches towards Bethlehem to be born?
 
-by William Butler Yeats
+by William Butler Yeats, Former Senator of the Irish Free State
 
 ## The Raven
 Once upon a midnight dreary, while I pondered, weak and weary,  
@@ -215,7 +234,7 @@ as of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—  
             only this and nothing more.”
 
-by Edgar Allan Poe
+by Edgar Allan Poe, American Writer
 
 ## Fire and Ice
 Some say the world will end in fire,  
@@ -228,7 +247,7 @@ to say that for destruction ice
 is also great  
 and would suffice.
 
-by Robert Frost
+by Robert Frost, American Poet
 
 ## Existence
 I laugh at the absurdity of life,  
@@ -237,7 +256,7 @@ I laugh at the absurdity of life,
 Some people think I'm crazy;  
 I suppose I'm not.
 
-by Irving Washington
+by Irving Washington, Author & Poet
 
 ## Shī Shì shí shī shǐ
 Shíshì shīshì Shī Shì, shì shī, shì shí shí shī.  
@@ -367,7 +386,7 @@ indifference rejoices
 while nothing holds court with jesters of time  
 Nothing waits, and waits.
 
-by Heidi Sweets
+by Heidi Sweets, Poet
 
 ## A Poem About Anxiety
 Ms Green didn’t believe her mind  
@@ -390,7 +409,7 @@ one song in deep-grooved vinyl—
 today she learned to pick up the needle  
 and move it a little to the right—.
 
-by Amanda Beth Peery
+by Amanda Beth Peery, Author & Poet
 
 Source: <https://www.3quarksdaily.com/3quarksdaily/2018/08/a-poem-about-anxiety.html/>
 
@@ -467,7 +486,7 @@ We shall put you in front of a good wall and shoot you
 with a good bullet from a good gun and bury you  
 with a good shovel in the good earth.
 
-by Bertolt Brecht, Theatre practitioner  
+by Bertolt Brecht, Theatre Practitioner  
 Discovered in: Slavoj Žižek's "Violence"
 
 ## Now Is The Winter Of Our Discontent
