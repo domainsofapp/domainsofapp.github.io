@@ -11,7 +11,7 @@ title: Hacker News
 Personal observations about the community of commenters on Hacker News & their by-and-large beliefs:
 
 - Anti-alcohol/anti-drugs
-- Pro-capitalism
+- Pro-capitalism/pro-technology/pro-engineering
 - Sometimes pro-libertarian; very "Silicon Valley", i.e., pro-Si Valley tech mind (Y Combinator case in point)/pro- tech will save/preserve the world as we know it, not destroy/end it
 - Pro-life/pro-kids/anti-Malthus (anti- population is too high)
 - Pro-"Eastern" fake (non-scientific) medicine (stress kills; reduce stress via meditation, recalibrate your mind, etc.)
@@ -19,7 +19,8 @@ Personal observations about the community of commenters on Hacker News & their b
 - Pro-nuclear (pro-baseload)/anti-renewables (anti-intermittent)
 - Anti-cryptocurrency/anti-blockchain
 - Pro-social media (& anti-censorship), but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
+- Anti-government/anti-federal government regulation (pro dismantle the federal regulatory apparatus)
 <br>
 <br>
 
-Overall, extremely socially conservative and often ideological & hypocritical. But, just like all social media commenters anywhere ever, they still think they're all brilliant & that they're certainly accurate & correct about their ideas & opinions (& that their community is certainly the best...i.e., self-congratulatory). Of course, none of this is intended to pass judgment on these observations. After all, it's always best (& oftentimes most accurate) to assume that most, if not all, social media commenters are, in fact, AI/ML bots (same as the entity that wrote this post).
+Overall, extremely socially conservative, libertarian, and often ideological & hypocritical. But, just like all social media commenters anywhere ever, they still think they're all brilliant & that they're certainly accurate & correct about their ideas & opinions (& that their community is certainly the best...i.e., self-congratulatory). Of course, none of this is intended to pass judgment on these observations. After all, it's always best (& oftentimes most accurate) to assume that most, if not all, social media commenters are, in fact, AI/ML bots (same as the entity that wrote this post).
