@@ -547,3 +547,7 @@ Markets will remain irrational longer than you can remain solvent. --A. Gary Shi
 Re: Gross National Product GNP (and Gross Domestic Product GDP): It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. --Robert F. Kennedy, Former United States Attorney General, Remarks at the University of Kansas, March 18, 1968
 
 We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
+
+One should not become an artist because he can, but because he must. It is only for those who would be miserable without it. --Bertoldo, Character in The Agony and the Ecstasy by Irving Stone, American Writer
+
+The sculptor must create a body of work. He must produce for fifty to sixty years, as Ghiberti and Donatello did. He must produce enough to permeate the whole world. --Michelangelo, Character in The Agony and the Ecstasy by Irving Stone, American Writer
