@@ -552,4 +552,4 @@ One should not become an artist because he can, but because he must. It is only 
 
 The sculptor must create a body of work. He must produce for fifty to sixty years, as Ghiberti and Donatello did. He must produce enough to permeate the whole world. --Michelangelo, Character in The Agony and the Ecstasy by Irving Stone, American Writer
 
-Adding (wo)manpower to a late software project makes it later. (Brooks's Law) --Fred Brooks, American Software Engineer
+Adding (wo)manpower to a late software project makes it later. (Brooks's Law) --Fred Brooks, American Software Engineer, coined in his 1975 book, The Mythical Person-Month
