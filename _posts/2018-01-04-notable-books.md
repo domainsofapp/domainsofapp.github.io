@@ -39,9 +39,11 @@ The Art of Living by Epictetus (retold by Sharon Lebell)
 The Autobiography of Malcolm X by Alex Haley and Malcolm X  
 The Day of the Jackal by Frederick Forsyth  
 The Gate of Heavenly Peace by Jonathan Spence  
+The Mythical Person-Month by Fred Brooks  
 The Plague by Albert Camus  
 The Proud Highway by Hunter S. Thompson  
 The Serial: A Year in the Life of Marin County by Cyra McFadden  
+The Soul of a New Machine by Tracy Kidder  
 The Unwritten Laws of Engineering by W.J. King (revised by James G. Skakoon) (a related trade edition was published as The Unwritten Laws of Business)  
 Why Does the World Exist? by Jim Holt  
 You Shall Know Our Velocity! by Dave Eggers  
