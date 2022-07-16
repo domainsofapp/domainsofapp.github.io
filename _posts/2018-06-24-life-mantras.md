@@ -24,7 +24,7 @@ Follow your compulsions while deciding to be good. Your compulsions are unique a
 
 In any task, do only what's necessary.
 
-If you had one year left to live, what would you do right now?
+If you had one year left to live, what would you do right now? O-K, now do it!
 
 When there's (attractive) magnetism between people, it's clear, and you'll know it - just like how two magnets with opposite poles "know it" and attract. Sometimes - just like what happens with the magnetic poles on Earth - the polarity switches during one’s lifetime, and that's one of the many sad inevitabilities of biological life on Earth (and perhaps elsewhere also and again not limited to "living" organisms). General rule-of-thumb in life: If something feels even remotely forced, it's time to move forward and onward with pride - there's a whole, new world out there!
 
