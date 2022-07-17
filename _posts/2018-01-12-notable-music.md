@@ -366,7 +366,7 @@ William Onyeabor - Good Name (10:05 min.)
 ## Artistic
 The Pledge (Eternal Sunshine) - Jay Electronica
 
-## Avicii EDM House
+## Avicii Electronic Dance Music EDM House
 Adele - Someone Like You - Avicii (Live at Pier 94 NYE)  
 A Sky Full of Stars - Coldplay - Avicii  
 Beautiful Heartbeat - MORTEN ft. Frida Sundemo - Avicii  
@@ -437,6 +437,7 @@ Props to: YouTube user "iasoe"
 Active Denial System II - WWWINGS ft. Svengali  
 Bashful - Shanti  
 Headlock - Lotic  
+Not Waving - Hold On ft. Marie Davidson  
 Quartz - Bloom  
 Soda Plains - Destroyment
 
@@ -445,6 +446,9 @@ Essential Mix - DJ Shadow
 I Miss You  
 ParisDJs 1972  
 Wake The Town 8/14/13 (Wake The Town Radio)
+
+## Electronic Dance Music EDM DJ
+RÜFÜS DU SOL - Innerbloom
 
 ## Ethereal
 101 - Portico  
@@ -488,7 +492,7 @@ Drift
 Drone Logic  
 Electro  
 Electronic  
-Electronic Dance Music (EDM)  
+Electronic Dance Music EDM  
 Emo Rap  
 Ethio-jazz (Ethiopia)  
 Euro Trance  
