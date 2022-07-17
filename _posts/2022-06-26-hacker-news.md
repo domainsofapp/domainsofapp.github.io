@@ -15,7 +15,7 @@ Personal observations about the community of commenters on Hacker News & their b
 - Sometimes pro-libertarian; very "Silicon Valley", i.e., pro-Si Valley tech mind (Y Combinator case in point)/pro- tech will save/preserve the world as we know it, not destroy/end it
 - Pro-life/pro-kids (or else ur life is a complete, shameful failure)/anti-Malthus (anti- population is too high)
 - Pro-"Eastern" fake (non-scientific) medicine (stress kills; reduce stress via meditation, recalibrate your mind, etc.); have real physical pain? Just change your mindset, maaan! It worked for me - I guarantee it! Tell 10 people & u'll have even less pain! HACKer News, indeed (SMH)...
-- Religious (Christian)/pro-G0d/pro-Jesus; The Bible (New Testament) is the best book of all time
+- Religious (Christian)/pro-G0d/pro-Jesus; The Bible (New Testament) iseth the bestest booketh of all timeth
 - Pro-nuclear (pro-baseload)/anti-renewables (anti-intermittent)
 - Anti-cryptocurrency/anti-blockchain
 - Pro-social media (& anti-censorship), but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
