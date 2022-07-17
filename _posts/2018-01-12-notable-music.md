@@ -218,7 +218,7 @@ NACHO PICASSO & BSBD - '89 DOPE SPOT
 NACHO PICASSO & BSBD - IN A TRANCE  
 NACHO PICASSO & BSBD - MOUTH FULL OF GOLD  
 Future - Mask Off  
-21 Savage - X Bitch (ft. Future)  
+21 Savage - X B!tch (ft. Future)  
 21 Savage & Metro Boomin - X ft. Future  
 21 Savage & Metro Boomin - No Heart  
 21 Savage - Bank Account  
