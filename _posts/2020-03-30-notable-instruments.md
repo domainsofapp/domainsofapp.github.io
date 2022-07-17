@@ -15,6 +15,7 @@ Bağlama (saz) (Greece: Baglamadaki)
 Balalaika  
 Balkan tambura  
 Bandoneon  
+Berimbau  
 Cajón  
 Calliope  
 Clanks (worn on ankles, e.g., in Kenya)  
