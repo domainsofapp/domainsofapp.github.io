@@ -69,8 +69,8 @@ The Thing
 Me and Earl and the Dying Girl
 
 ## Philosophy
-The Pervert's Guide to Cinema  
-The Pervert's Guide to Ideology
+Slavoj Žižek's The Pervert's Guide to Cinema  
+Slavoj Žižek's The Pervert's Guide to Ideology
 
 ## Zombie
 Train to Busan
