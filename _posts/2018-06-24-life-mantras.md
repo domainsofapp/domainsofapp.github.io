@@ -108,7 +108,7 @@ Never look up matters of health online (on the Internet). If you do, you'll find
 
 I double dog dare you not to ever complain to anyone about any issue no matter how large or small you perceive it to be; rather, report it to a professional who can actually help the problem that you may or may not have. Turn every would-be complaint into a professional reporting process (as well as a learning experience).
 
-Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it & fix it later as needed.
+Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it, & fix it later as needed.
 
 You're going to get through it, even if you're all on your own.
 
