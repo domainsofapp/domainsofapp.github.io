@@ -194,7 +194,7 @@ Yes! That's right! You lost it! You lost all of it! And it'll never come back. A
 
 Close friends are the family you choose.
 
-Math is math.
+Math is math. (You can't argue w/ it w/out bringing the whole system down, a la logician Kurt Gödel.)
 
 If it ain't broke, don't fix it.
 
