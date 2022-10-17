@@ -190,11 +190,11 @@ News flash: The to-do list will never get shorter. Get used to it. Also, the mor
 
 Don't attempt to fail; if you do, you'll succeed (which defeats the point).
 
-Yes! That's right! You lost it! You lost all of it! And it'll never come back. And you'll never see it again. It's gone...forever! What was once shall never be again. It's a done-deal. So, better get used to it. Time to move on - immediately. Get over it - it's water under the bridge. Chin up (don't think about what you can't change). Remain strong - stay strong. Stand tall, soldier. Move on - move forward. Get on with it. Get up & on w/ it, now. Forget about it. Don't dawdle. Get back to it, & stop ponderin' it. Stop thinkin' about it. Life goes on...life goes on; time to move on...move on!
+Yes! That's right! You lost it! You lost all of it! And it'll never come back. And you'll never see it again. It's gone...forever! What was once shall never be again. It's a done-deal. So, better get used to it. Time to move on - immediately. Get over it - it's water under the bridge. Chin up (don't think about what you can't change). Remain strong - stay strong. Stand tall, soldier. Move on - move forward. Get on with it. Get up & on with it, now. Forget about it. Don't dawdle. Get back to it, & stop ponderin' it. Stop thinkin' about it. Life goes on...life goes on; time to move on...move on!
 
 Close friends are the family you choose.
 
-Math is math. (You can't argue w/ it w/out bringing the whole system down, a la logician Kurt Gödel.)
+Math is math. (In this case, not merely a platitude; you can't argue with math without bringing the whole system down, a la logician Kurt Gödel.)
 
 If it ain't broke, don't fix it.
 
@@ -272,6 +272,6 @@ Trace the source. And, in journalism, follow the money $.
 
 Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankful for them (& such opportunities).
 
-Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course w/ a broad, robust foundation & then building upon that.
+Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course with a broad, robust foundation & then building upon that.
 
 Don't do any work that you can viably outsource to someone else who's more qualified than you. Any other strategy is purely driven by ego. Lose the ego - you'll be infinitely more productive.
