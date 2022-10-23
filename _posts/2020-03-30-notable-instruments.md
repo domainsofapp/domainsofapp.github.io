@@ -16,6 +16,7 @@ Balalaika
 Balkan tambura  
 Bandoneon  
 Berimbau  
+Bouzouki (Greece)  
 Cajón  
 Calliope  
 Clanks (worn on ankles, e.g., in Kenya)  
@@ -29,7 +30,7 @@ Dulcimer
 Erhu  
 Fife  
 Flugelhorn  
-Gimbri (bass lute)  
+Gimbri (aka bass lute)  
 Guitalin  
 Guqin  
 Guzheng  
@@ -40,7 +41,7 @@ Harpsichord
 Jal tarang  
 Kalimba  
 Kamele Ngoni  
-Kantele (Finnish)  
+Kantele (Finland)  
 Kora  
 Koto  
 Liuqin  
@@ -50,11 +51,12 @@ Mbira
 Melodica  
 Melody horn  
 Mohan veena  
-Nyatiti - means "daughter of the clan (family)" (from Kenya)  
+Nyatiti - means "daughter of the clan (family)" (Kenya)  
 Oboe da caccia  
-Obokano (from Kenya)  
+Obokano (Kenya)  
 Ocarina  
-Orutu (from Kenya)  
+Orutu (Kenya)  
+Oud (Greece)
 Pipa  
 Qanun  
 Recorder  
