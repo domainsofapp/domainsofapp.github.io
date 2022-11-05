@@ -12,7 +12,7 @@ Personal observations about the community of commenters on Hacker News & their b
 
 - Anti-alcohol/anti-drugs
 - Anti-hippie/pro-yuppie
-- Anti-hydrogen economy (pro-batteries)
+- Anti-hydrogen economy (pro-batteries & electric vehicles EVs)
 - Pro-capitalism/pro-technology/pro-engineering/pro-capitalistic job/pro-capitalistic work
 - Anti-work from home anti-WFH
 - Pro-billionaires/pro-El0n Musk (in line with the pro-libertarian bent)
