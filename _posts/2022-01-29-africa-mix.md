@@ -49,6 +49,8 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 19. Myriam by Soukous Stars of Rumba Soukous Album (Shimita - Lead Singer)
 20. Rita M by Bilenge Musica Du Zaire (Rumba is Rumba)
 21. Obi Cubana by Oliver Noyoka
+<br>
+<br>
 
 ## 2022-06-11 Emmanuel Nado
 0. Improvisation by Dr. Djobi
@@ -70,6 +72,8 @@ Closing song: One Love/People Get Ready by Bob Marley & The Wailers
 16. Unknown (1:48:30-1:54:00) - see Voice Memos New Recording 3939
 17. Zenab by Aurlus Mabélé
 18. Mère Théresa by Loketo Feat. Blandin Wabacha
+<br>
+<br>
 
 Special shout-outs:
 - DJ Nnamdi Moweta - Afrodicia
@@ -99,6 +103,8 @@ Special shout-outs:
 17. Libala by Reddy Amisi
 18. Cap Soukous by Synthez
 19. Yonde Love Me by Kanda Bongo Man
+<br>
+<br>
 
 ## 2022-05-28 Edwin Okong'o - Theme is Mass Shootings in the USA (dedicated to those recently lost in Uvalde, TX - RIP)
 1. When You Come Back (Live) by Vusi Mahlasela & Louis Mhlanga
