@@ -431,7 +431,7 @@ Special shout-outs:
 <br>
 <br>
 
-Special Dance Hall shout-outs:
+Special shout-outs (Dance Hall):
 - Bunny Wailer
 - Burning Spear
 - Chaka Demus & Pliers
@@ -484,7 +484,7 @@ Special Dance Hall shout-outs:
 <br>
 <br>
 
-Shout-outs to notable (classic) African woman musicians:
+Special shout-outs to notable (classic) African woman musicians:
 - Abeti Masikini
 - Angélique Kidjo
 - Bi Kidudé
