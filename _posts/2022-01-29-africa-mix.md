@@ -8,7 +8,7 @@ title: Africa Mix
 
 <p class="meta">29 Jan 2022 - New York, NY</p>
 
-NB: I cannot find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin to post my own versions of them here (to the extent that I can). (To be clear, I don't want to do this! I'll stop as soon as I can find an alternative source of these tracklists on the Internet!)
+NB: I can't find KALW's Africa Mix tracklists listed anywhere online. So, until I'm able to locate them, I'll begin posting my own, imperfect versions of them here (to the extent that I can). (To be clear, I don't want to do this!!! I'll stop as soon as I can find an alternative source of these tracklists somewhere on the Internet.) Even better: Please upload full recordings of the show a la Hearts of Space on PRX!
 
 KALW's Africa Mix Tracklists
 
@@ -16,16 +16,116 @@ KALW's Africa Mix Tracklists
 
 <https://player.streamguys.com/kalw/sgplayer/player.php>
 
-Compliments of Shazam & (laborious) personal searching
+Compliments of Shazam & hours of laborious searching
 
-And, of course, a million thank yous to the brilliant Emmanuel Nado & Edwin Okong'o, co-hosts of KALW's Africa Mix! As well as to all the artists (musicians) played or featured on the show (& to artists in general working to sustain rich culture and a life worth living for us all). Finally, please forgive me for any bugs or errors herein (& throughout this blog), of which there are likely many.
+And, of course, a million thank you's to the brilliant Emmanuel Nado & Edwin Okong'o, co-hosts of KALW's Africa Mix! As well as to all the artists (musicians) featured on the show (& to artists in general working to sustain rich culture and a life worth living for us all). Finally, please forgive me for any bugs, typos, or other errors herein (& throughout this blog) of which there are undoubtedly many.
 
 (y) means highly recommended by me  
-(ok) means pretty good
+(ok) means purdy darn good
 
 Opening song: Africa, One of a Kind by Angélique Kidjo, Mr Eazi, & Salif Keita
 
 Closing song: One Love/People Get Ready by Bob Marley & The Wailers
+
+## 2022-06-18 Emmanuel Nado - Theme is Celebration of Music and Culture
+1. Youwale by Africa Soli
+2. Africa by Habib Koite (ok)
+3. Hapana Kuti Mbijana by Oliver "Tuku" Mtukudzi
+4. Unknown (17:00-21:20) live song by Dominic Kakolobango - see Voice Memos New Recording 3952
+5. La Couleur De L'afrique De Ma Chanson by Pierre Akendengue
+6. Mamidi by Gabin Dabire
+7. Aduna (The World) by Alpha YaYa Diallo (ok)
+8. The Afro-Fusion Sound (Pt. II) by The Play House Feat. Tedd Josiah into Kisumu 100 by Suzanna Owiyo (ok) (Leading Woman Singer of Old Generation)
+9. Alemoush Mambo by Addis Acoustic Project
+10. Somali by Qwanqwa
+11. Jogo De Angola by Clara Nunes
+12. Kali by Sierra Leone's Refugee All Stars
+13. Tamagbondorsu (The Rich Mock aka Laugh at The Poor) by Sierra Leone's Refugee All Stars (ok)
+14. Belle Femme by Samba Mapangala & Orchestra Virunga
+15. Exil Au Soleil (Exile to the Sun) by Cocktail Paradise (Zouk Style)
+16. Calypso by Africa News (Middle Ocean of Mega Zouk)
+17. Felicite by Sam Mangwana
+18. Sal' by Oliver N'Goma
+19. Myriam by Soukous Stars of Rumba Soukous Album (Shimita - Lead Singer)
+20. Rita M by Bilenge Musica Du Zaire (Rumba is Rumba)
+21. Obi Cubana by Oliver Noyoka
+
+## 2022-06-11 Emmanuel Nado
+0. Improvisation by Dr. Djobi
+1. Zaouli by Fely Tchaco
+2. Abidjan Godeba by Meiway (y)
+3. Bami Power by Meiway (y)
+4. Unknown (44:15-48:00) live song by Dominic Kakolobango - see Voice Memos New Recording 3935 (sounds like Home on the Train by Phish) (ok) - Zambian guitarist & songwriter
+5. Koukou (Moussolou) by Salif Keita (y)
+6. Double Double by Rudeboy Feat. Phyno & Olamide
+7. Arezú by Ricardo Lemvo & Makina Loca
+8. Cali Ají by Alberto Barros from Colombia
+9. Fallen In Love by Chidinma from Nigeria
+10. Calée by Daphne (French for "Stuck" on love) of Cameroon
+11. Désolé by Mbilia Bel Feat. Rigo Star (Congolese rumba)
+12. Nzele by Madilu System (ok)
+13. Unknown (1:28:00-1:32:40) - see Voice Memos New Recording 3938
+14. Mutoto Wafrica by Matchatcha
+15. Soukous Stars by Dally Komoko
+16. Unknown (1:48:30-1:54:00) - see Voice Memos New Recording 3939
+17. Zenab by Aurlus Mabélé
+18. Mère Théresa by Loketo Feat. Blandin Wabacha
+
+Special shout-outs:
+- DJ Nnamdi Moweta - Afrodicia
+- Fely Tchacho
+- Master Drummers and Musicians Eric Bli Bi, Atito Gohi, Malli Tagba, Emmanuel Djo Bi, and Irie Simon Djobi
+- Zoblazo by Meiway (y)
+<br>
+<br>
+
+## 2022-06-04 Emmanuel Nado - Theme is Canvas of African Continent & its Diaspora in Music
+1. Oldies Are Goodies by Papa Wemba
+2. In Kadugli by Joseph Modi
+3. Hwehwe Mu Na Yi Wo Mpena by K. Frimpong & His Cuban Fiestas
+4. Al Amal by Noori & Hi Dorpa Band
+5. Goumou by Khaira Arby
+6. Jika Jive by Sipho 'Hotstix' Mabuse
+7. Kumnyama Endlini by Mahotella Queens
+8. Kite Kitere by Samite (ok)
+9. Famou (Dance Remix) Sékouba Bambino
+10. (Cha Cha Cha by Chocolate Caliente) Popurrí de Cha Cha Cha (Potpourri of Cha Cha Cha) by Tradicuba
+11. Africa Cha Onda by Boncana Maiga
+12. Amame Mama (Club Remix) by Ricardo Lemvo
+13. Ngiyakuthanda Papa Wemba by Brenda Fassie
+14. (Full Option by Stefano Arnaldi) Full Option by Pépé Kallé & Empire Bakuba
+15. (1:38-1:43) Samedi Soir (Satuday Night) Ghana - see Voice Memos New Recording 3930
+16. Putting Up Resistance by Beres Hammond
+17. Libala by Reddy Amisi
+18. Cap Soukous by Synthez
+19. Yonde Love Me by Kanda Bongo Man
+
+## 2022-05-28 Edwin Okong'o - Theme is Mass Shootings in the USA (dedicated to those recently lost in Uvalde, TX - RIP)
+1. When You Come Back (Live) by Vusi Mahlasela & Louis Mhlanga
+2. Sungura: Live by Samba Mapangala & Virunga (Rabbit, the Cunning Hair in Swahili - Slow Down, Tread Carefully)
+3. Omosaiga by Kamatana Feat. Stephen Kent
+4. Chikonzero (Live) by Thomas Mapfumo (Sanctuary for Independent Media)
+5. La Beauté D'une Femme by Mbilia Bel
+6. Tesa Moyo Wangu by Maryam Said Hamdun (y)
+7. Papa Ndiaye by Orchestra Baobab
+8. Move It Like This (Shake It Like That) by Baha Men
+9. Dunia by Kampi Moto & George Phiri (The Universe or The World, wherever your horizon begins or ends or beyond - this world is crazy)
+10. Iwanyu by Teta Diana (ok)
+11. Yaphel' Imali Yami (Live) by Jabu Khanyile & Busi Mhlongo
+12. Hatupangwingwi by Gotta City (y)
+13. Pss Pss Hallo by Oliver "Tuku" Mtukudzi (y)
+14. Man Down by Rihanna
+15. Sabali by Rokia Traoré (y)
+16. Sowa by Fatoumata Diawara (y)
+17. Shengerera by Akothee (y)
+<br>
+<br>
+
+Special shout-outs:  
+Nick Vest - multi-instrumentalist  
+Snow (Darrin Kenneth O'Brien) - Informer (song)
+<br>
+<br>
 
 ## 2022-05-21 Emmanuel Nado - Asian American and Pacific Islander Heritage Month 2022 in the USA (also, dedicated to those recently lost in Buffalo, NY - RIP)
 1. Oggun by Yilian Cañizares
@@ -110,7 +210,7 @@ Dr. Claude (Jean Claude Yamuremye)
 17. Thank You Lord For Mama by Endurance
 18. Mama by Ifé
 19. Manangu Ni Maman by Donat Mwanza
-20. Unknown 1:51:00-1:54:00 - see Voice Memos New Recording 3891
+20. Unknown (1:51:00-1:54:00) - see Voice Memos New Recording 3891
 21. Mama Kambo by Monicah Ng'ang'a
 <br>
 <br>
@@ -164,7 +264,7 @@ Dally Kimoko (guitarist)
 <br>
 
 ## 2022-04-23 Emmanuel Nado - Theme is Golden Age of African Music After Breaking Chains of Colonization
-1. Khaley Etoile by Etoile De Dakar
+1. (Start of Golden Age theme) Khaley Etoile by Etoile De Dakar
 2. Soumba by Super Rail Band De Bamako
 3. N'na Soba by Balla Et Ses Balladins (Bembeya Jazz National of Guinea)
 4. Independence Cha Cha by Grand Kalle & L'African Jazz
@@ -175,7 +275,7 @@ Dally Kimoko (guitarist)
 9. On Verra Ça by Orchestra Baobab
 10. Be Ni Son by Les Amazones De Guinée
 11. Unknown (54:10-57:50) Nigerian King Sunny Adé - The Imperial Majesty of Juju Music - see Voice Memos New Recording 3870
-12. Aye Mama by Chief Stephen Osita Osadebe (Highlife Pioneer) [end of Golden Age theme]
+12. Aye Mama by Chief Stephen Osita Osadebe (Highlife Pioneer) (End of Golden Age theme)
 13. Trabessado by Neuza
 14. Amiga MIA by Los Van Van
 15. Yeselam Ayer by Minyeshu
@@ -296,7 +396,7 @@ Nene Tchalou (RIP)
 20. Nguva Ye Kufara by Chiwoniso
 21. Antina by Mounira Mitchala
 22. Stostoke by Afia Mala (y)
-23. Unknown (1:57:30 - 1:58:30) - see Voice Memos New Recording 3830
+23. Unknown (1:57:30-1:58:30) - see Voice Memos New Recording 3830
 <br>
 <br>
 
@@ -308,7 +408,7 @@ Nene Tchalou (RIP)
 5. This Was Made Here by Meklit
 6. Ato Lagoh by Fely Tchaco
 7. Godo by Piwai
-8. Unknown (47:30 - 51:15) - see Voice Memos New Recording 3809
+8. Unknown (47:30-51:15) - see Voice Memos New Recording 3809
 9. Build by Rupa & The April Fishes (Rupa Marya)
 10. Un Americaine A Paris by Rupa & The April Fishes
 11. Pata Pata by Miriam Makeba
@@ -400,21 +500,21 @@ Yemi Alade
 1. Kalú Pu by Bonga
 2. Kintal da Banda by Bonga
 3. Saida et Djamil by Kay Motamo
-4. Unknown (19:25-min. - 24 min.) - see Voice Memos New Recording 3762 (y)
+4. Unknown (19:25-24:00) - see Voice Memos New Recording 3762 (y)
 5. Salama (Remix Radio Edit) by Nawal & DJ Click (y)
 6. Le Roi La Reine by Elijah & Otentik Groove
 7. Akan by Aly Keita
 8. Na Gode by Yemi Alade Feat. Selebobo
 9. I Choose You by Yemi Alade Feat. Dadju
 10. Wetin Dey (Remix) by Rayce Feat. Davido
-12. Unknown (45-min. - 48-min.) - see Voice Memos New Recording 3770
+12. Unknown (45:00-48:00) - see Voice Memos New Recording 3770
 12. Dancina by Yemi Alade
 13. Kilometre by Burna Boy
 14. Gambia by Sona Jobarteh (ok)
 15. Arabama Di by Natu Camara
 16. Obiara Bewu by African Rhythm Messengers
 17. Three Little Birds by Bob Marley & The Wailers
-18. Unknown (1:16:40 - 1:19:40)- The Dulce Band (?) of Mozambique - see Voice Memos New Recording 3763 (y)
+18. Unknown (1:16:40-1:19:40)- The Dulce Band (?) of Mozambique - see Voice Memos New Recording 3763 (y)
 19. Descarga Potpourri No. 2 by Lou Perez (Bon Bon de Chocolate!)
 20. El Que Siembra Su Maiz by Afro Cuban Jazz Project
 21. Guajira Guantanamera by Estrellas De Areito
@@ -453,7 +553,7 @@ Yemi Alade
 4. Ah Ndiya by Oumou Sangaré
 5. Sarama by Oumou Sangaré
 6. Ta Ma by Zoumana Diarra
-7. Unknown (31-min.) - see Voice Memos New Recording 3752 (y)
+7. Unknown (31:00) - see Voice Memos New Recording 3752 (y)
 8. Yurumei by Aurelio
 <br>
 START Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Mariangelie Ortiz
