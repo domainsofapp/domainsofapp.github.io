@@ -127,9 +127,9 @@ Special shout-outs:
 <br>
 <br>
 
-Special shout-outs:  
-Nick Vest - multi-instrumentalist  
-Snow (Darrin Kenneth O'Brien) - Informer (song)
+Special shout-outs:
+- Nick Vest - multi-instrumentalist
+- Snow (Darrin Kenneth O'Brien) - Informer (song)
 <br>
 <br>
 
@@ -191,8 +191,8 @@ Snow (Darrin Kenneth O'Brien) - Informer (song)
 <br>
 <br>
 
-Special shout-outs:  
-Dr. Claude (Jean Claude Yamuremye)
+Special shout-outs:
+- Dr. Claude (Jean Claude Yamuremye)
 <br>
 <br>
 
@@ -221,19 +221,19 @@ Dr. Claude (Jean Claude Yamuremye)
 <br>
 <br>
 
-Special shout-outs - Africa-inspired music radio programs:  
-Afro Spirit Weekend - DJ Vince Gbenga - KKUP Radio 91.5 FM  
-Afrodicia - DJ Nnamdi Moweta - KPFK Radio 90.7 FM  
-Echoes of Africa - DJ Emmanuel Nado - KKUP Radio 91.5 FM  
-First World Music - DJ Akenataa Hammagaadji - WVKR Radio 91.3 FM @ Vassar College  
-Music of Africa - DJ Doug Paterson - KBCS Radio 91.3 @ Bellevue College
+Special shout-outs - Africa-inspired music radio programs:
+- Afro Spirit Weekend - DJ Vince Gbenga - KKUP Radio 91.5 FM
+- Afrodicia - DJ Nnamdi Moweta - KPFK Radio 90.7 FM
+- Echoes of Africa - DJ Emmanuel Nado - KKUP Radio 91.5 FM
+- First World Music - DJ Akenataa Hammagaadji - WVKR Radio 91.3 FM @ Vassar College
+- Music of Africa - DJ Doug Paterson - KBCS Radio 91.3 @ Bellevue College
 <br>
 <br>
 
-Additional special shout-outs:  
-Soji and the Afrobeat Band  
-Femi Kuti, Babá Ken Okulolo (Nigerian bassist), Babatunde Olatunji, Orlando Julius Ekemode, and the Afrobeat group Kotoja  
-Tosin Aribisala (Nigerian drummer)
+Additional, special shout-outs:
+- Soji and the Afrobeat Band
+- Femi Kuti, Babá Ken Okulolo (Nigerian bassist), Babatunde Olatunji, Orlando Julius Ekemode, and the Afrobeat group Kotoja
+- Tosin Aribisala (Nigerian drummer)
 <br>
 <br>
 
@@ -264,8 +264,8 @@ Tosin Aribisala (Nigerian drummer)
 <br>
 <br>
 
-Special shout-outs:  
-Dally Kimoko (guitarist)
+Special shout-outs:
+- Dally Kimoko (guitarist)
 <br>
 <br>
 
@@ -295,15 +295,15 @@ Dally Kimoko (guitarist)
 <br>
 <br>
 
-Special shout-outs:  
-Vieux Farka Touré (son of Ali Farka Touré)  
-Los Van Van  
-Habib Koité  
-Fatoumata Diawara  
-Salif Keita  
-Anacaona (Latin band from Cuba)  
-Orquesta América (additions mine: Julio Bravo y su Orquesta Salsabor, Orquesta Bembé)  
-Said Tichiti, Moroccan Blues
+Special shout-outs:
+- Vieux Farka Touré (son of Ali Farka Touré)
+- Los Van Van
+- Habib Koité
+- Fatoumata Diawara
+- Salif Keita
+- Anacaona (Latin band from Cuba)
+- Orquesta América (additions mine: Julio Bravo y su Orquesta Salsabor, Orquesta Bembé)
+- Said Tichiti, Moroccan Blues
 <br>
 <br>
 
@@ -330,8 +330,8 @@ Said Tichiti, Moroccan Blues
 <br>
 <br>
 
-Special shout-outs:  
-Nene Tchalou (RIP)
+Special shout-outs:
+- Nene Tchalou (RIP)
 <br>
 <br>
 
@@ -431,12 +431,12 @@ Nene Tchalou (RIP)
 <br>
 <br>
 
-Special Dance Hall shout-outs:  
-Bunny Wailer  
-Burning Spear  
-Chaka Demus & Pliers  
-Don Carlos  
-Shabba Ranks
+Special Dance Hall shout-outs:
+- Bunny Wailer
+- Burning Spear
+- Chaka Demus & Pliers
+- Don Carlos
+- Shabba Ranks
 <br>
 <br>
 
@@ -484,21 +484,21 @@ Shabba Ranks
 <br>
 <br>
 
-Shout-outs to notable (classic) African woman musicians:  
-Abeti Masikini  
-Angélique Kidjo  
-Bi Kidudé  
-Calypso Rose  
-Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban music)  
-Faya Tess  
-M'bilia Bel  
-Miriam Makeba  
-Oumou Sangaré  
-Patra  
-Rokia Traoré  
-Susana Baca  
-Tshala Muana (extra special shout-out)  
-Yemi Alade
+Shout-outs to notable (classic) African woman musicians:
+- Abeti Masikini
+- Angélique Kidjo
+- Bi Kidudé
+- Calypso Rose
+- Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban music)
+- Faya Tess
+- M'bilia Bel
+- Miriam Makeba
+- Oumou Sangaré
+- Patra
+- Rokia Traoré
+- Susana Baca
+- Tshala Muana (extra special shout-out)
+- Yemi Alade
 <br>
 <br>
 
@@ -660,21 +660,21 @@ END Documentary OST of "We Still Here" by Eli and Kahlil Jacobs-Fantauzzi and Ma
 <br>
 <br>
 
-Special shout-outs to notable (classic) African musicians (men; see women list above):  
-Fela Kuti  
-Oliver Mtukudzi  
-Pepe Kalle  
-Sam Mangwana  
-Tabu Ley Rochereau  
-Youssou N'Dour
+Special shout-outs to notable (classic) African musicians (men; see women list above):
+- Fela Kuti
+- Oliver Mtukudzi
+- Pepe Kalle
+- Sam Mangwana
+- Tabu Ley Rochereau
+- Youssou N'Dour
 <br>
 <br>
 
-Additional special shout-outs:  
-Kelly Takunda Orphan  
-Omar Sosa  
-Richard Bona  
-Salani Wamkanganise  
-Seckou Keita
+Additional special shout-outs:
+- Kelly Takunda Orphan
+- Omar Sosa
+- Richard Bona
+- Salani Wamkanganise
+- Seckou Keita
 <br>
 <br>
