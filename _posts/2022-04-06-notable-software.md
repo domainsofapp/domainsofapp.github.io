@@ -11,32 +11,38 @@ title: Notable Software
 Thanks to the authors, innovators, and others involved in creating & maintaining the following list of ingenious software programs (& associated, supporting hardware & software infrastructures).
 
 ## Notable Software Programs
-AOL Instant Messenger AIM for chatting  
-DC++ for media & software sharing  
-ICQ for chatting  
-iTunes for music sharing over a shared network (early versions)  
-LimeWire for media & software sharing  
-Napster for media sharing (early versions)  
-P!rate B@y for media & software sharing (via torrent file distribution)  
-Signal for end-to-end encrypted chat (text messaging) -> Not quite, though, b/c it is centralized (both the AWS servers and the company which rents them)  
-Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)  
-VLC Media Player for universal media playing & viewing  
-WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing  
+- AOL Instant Messenger AIM for chatting
+- DC++ for media & software sharing
+- ICQ for chatting
+- iTunes for music sharing over a shared network (early versions)
+- LimeWire for media & software sharing
+- Napster for media sharing (early versions)
+- P!rate B@y for media & software sharing (via torrent file distribution)
+- Signal for end-to-end encrypted chat (text messaging) -> Not quite, though, b/c it is centralized (both the AWS servers and the company which rents them)
+- Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)
+- VLC Media Player for universal media playing & viewing
+- WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
 To be continued...
 
 And, an appeal to any engineers & other stakeholders with the power to change the following software for the better (& for the betterment of society at large):
 
-## Notably Bad (Intentionally Evil?) Software
-Alphabet (Google) Gmail (not end-to-end encrypted)  
-Apple iCloud (not end-to-end encrypted! So, even though Apple iMessage is end-to-end encrypted, this most basic privacy requirement goes away if you sync it to iCloud, which I assume most people do so they don't lose their text messages if something happens to their phones.)  
+## Notably Bad (Intentionally Evil/Evil by Design?) Software
+- Alphabet (Google) Gmail (not end-to-end encrypted)
+- Apple iCloud (not end-to-end encrypted! So, even though Apple iMessage is end-to-end encrypted, this most basic privacy requirement goes away if you sync it to iCloud, which I assume most people do so they don't lose their text messages if something happens to their phones.)
 To be continued...
 
 ## Features of Notable Software Programs
-- Standalone EXE whenever possible
 - Decentralized and distributed (not centralized)
 - End-to-end encrypted (esp. for communications)
 - Immutable (esp. for ledgers that require immutability)
+- Standalone EXE whenever possible
 - Uncensored/uncontrolled content (each user can block what they don't wish to see)
+<br>
+<br>
+
+## Revolutionary Concepts in Software
+- Data transparency (e.g., open-source data, open-source code)
+- End-to-end encryption
 <br>
 <br>
 
