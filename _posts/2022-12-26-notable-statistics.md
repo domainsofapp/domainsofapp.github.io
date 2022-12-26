@@ -38,5 +38,5 @@ USA: No requirements. 25% of employees receive no paid vacay or holidays
 1/50,000 people are psychopaths  
 Avg. person walks by 6 murderers in her lifetime
 
->27,000,000 slaves today in 2022 (~30MM)
+>27,000,000 slaves today in 2022 (~30MM)  
 13,000,000 slaves traded throughout 350 years of transatlantic slave trade
