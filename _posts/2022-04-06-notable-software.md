@@ -24,8 +24,6 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 - WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
 
 To be continued...
-<br>
-<br>
 
 And, an appeal to any engineers & other stakeholders with the power to change the following software for the better (& for the betterment of society at large):
 
@@ -34,8 +32,6 @@ And, an appeal to any engineers & other stakeholders with the power to change th
 - Apple iCloud (not end-to-end encrypted! So, even though Apple iMessage is end-to-end encrypted, this most basic privacy requirement goes away if you sync it to iCloud, which I assume most people do so they don't lose their text messages if something happens to their phones.)
 
 To be continued...
-<br>
-<br>
 
 ## Features of Notable Software Programs
 - Decentralized and distributed (not centralized)
