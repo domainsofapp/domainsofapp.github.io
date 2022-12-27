@@ -29,7 +29,7 @@ Mortgages up >6%
 
 Avg. person sends >12 emails/day
 
-3 MM Americans have had encounters w/ aliens  
+3MM Americans have had encounters w/ aliens  
 300k were women who were not only abducted but g@ng r@p3d
 
 EU: Mandatory 13 paid public holidays, 4 weeks paid vacation, 10 days paid annual leave  
