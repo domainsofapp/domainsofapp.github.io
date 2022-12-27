@@ -8,11 +8,12 @@ title: Notable Physicists
 
 <p class="meta">20 Apr 2020 - Berkeley, CA</p>
 
+
+Albert Einstein  
+Ernst Mach  
+Eva Silverstein  
+James Clerk Maxwell  
 Karen Barad  
 Niels Bohr  
-Alfred Einstein  
 Richard Feynman  
-Werner Heisenberg  
-Ernst Mach  
-James Clerk Maxwell  
-Eva Silverstein
+Werner Heisenberg
