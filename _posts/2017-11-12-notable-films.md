@@ -32,20 +32,21 @@ Rikers: An American Jail (PBS)
 Stevie  
 The Wild and Wonderful Whites of West Virginia  
 Up the Yangtze  
+Verde como el oro (Greener than Gold)  
 Wild China  
 Workingman's Death  
 Yung Lean: In My Head
 
 ## Drama
+A Clockwork Orange  
 Amadeus  
+Apocalypse Now  
 Battle Royale  
 Border  
 Chungking Express  
-The Descendants  
 Enter the Void  
 Eternal Sunshine of the Spotless Mind  
 Fear and Loathing in Las Vegas  
-The Great Escape  
 Groundhog Day  
 In the Mood for Love  
 Last Life in the Universe  
@@ -54,7 +55,11 @@ Let The Right One In
 Lost in Translation  
 Paterson  
 También la lluvia (Even the Rain)  
+The Deer Hunter  
+The Descendants  
+The Great Escape  
 They Live  
+Trainspotting  
 Up in the Air  
 Us and Them
 
