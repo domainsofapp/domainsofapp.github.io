@@ -27,10 +27,12 @@ A Very Short Introduction series by multiple authors (e.g., Thermodynamics by Pe
 Cosmopolis by Don DeLillo  
 Devil in the White City by by Erik Larson  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
+Heart of Darkness by Novella by Joseph Conrad  
 House of Leaves by Mark Z. Danielewski  
 Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain  
 Let the Right One In by John Ajvide Lindqvist  
 One Flew Over the Cookoo's Nest by Ken Kesey  
+Pedagogy of the Oppressed by Paulo Freire  
 Reconstructing Earth by Braden R. Allenby  
 Rework by Jason Fried and David Heinemeier Hansson  
 Rhinoceros by Eugène Ionesco  
@@ -39,14 +41,18 @@ Stories of Your Life and Others by Ted Chiang
 Suttree by Cormac McCarthy  
 The Art of Living by Epictetus (retold by Sharon Lebell)  
 The Autobiography of Malcolm X by Alex Haley and Malcolm X  
+The Comedians by Graham Greene  
 The Day of the Jackal by Frederick Forsyth  
 The Gate of Heavenly Peace by Jonathan Spence  
 The Mythical Person-Month by Fred Brooks  
+The Night of the Iguana by Tennessee Williams  
 The Plague by Albert Camus  
 The Proud Highway by Hunter S. Thompson  
 The Serial: A Year in the Life of Marin County by Cyra McFadden  
 The Soul of a New Machine by Tracy Kidder  
 The Unwritten Laws of Engineering by W.J. King (revised by James G. Skakoon) (a related trade edition was published as The Unwritten Laws of Business)  
+The Wretched of the Earth by Frantz Fanon  
+To Kill a Mockingbird by Harper Lee  
 Why Does the World Exist? by Jim Holt  
 You Shall Know Our Velocity! by Dave Eggers  
 Zen Mind, Beginner's Mind by Shunryū Suzuki (author) and Trudy Dixon (RIP) & Richard Baker (editors) (ok)  
