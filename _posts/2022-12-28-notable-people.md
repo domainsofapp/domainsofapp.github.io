@@ -62,6 +62,7 @@ Guido van Rossum, Dutch programmer
 Harriet Tubman, American abolitionist  
 Heraclitus, Greek philosopher  
 Hunter S. Thompson, American journalist  
+Immanuel Kant, Philosopher  
 Isaac Newton, English mathematician  
 James Clerk Maxwell, Scottish mathematician  
 Jason Kottke, American blogger  
