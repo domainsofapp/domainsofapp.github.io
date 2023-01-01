@@ -553,3 +553,9 @@ One should not become an artist because he can, but because he must. It is only 
 The sculptor must create a body of work. He must produce for fifty to sixty years, as Ghiberti and Donatello did. He must produce enough to permeate the whole world. --Michelangelo, Character in The Agony and the Ecstasy by Irving Stone, American Writer
 
 Adding (wo)manpower to a late software project makes it later. (Brooks's Law) --Fred Brooks, American Software Engineer, coined in his 1975 book, The Mythical Person-Month
+
+There will be out castes [Untouchables] as long as there are castes. --Bhimrao Ramji Ambedkar (Dr. B. R. Ambedkar), Former Minister of State for Law and Justice, Government of India (Paraphrased: There are no castes without outcasts. Alternate: There are no outcasts without castes. --Slavoj Žižek, Slovenian philosopher, in his book, "Less Than Nothing: Hegel and the Shadow of Dialectical Materialism")
+
+The owl of Minerva spreads its wings only with the falling of the dusk. --Georg Wilhelm Friedrich Hegel, Philosopher (Paraphrased: The owl takes wing at dusk.)
+
+The Truth is out there. --Tagline of the TV show, "The X-Files"
