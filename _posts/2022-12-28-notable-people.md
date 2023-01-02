@@ -114,6 +114,7 @@ Robin Williams, American actor
 Roger Ebert, American film critic  
 Ross Ihaka, New Zealand statistician  
 Salvador Dalí, Spanish artist  
+Sigmund Freud, Austrian neurologist  
 Slavoj Žižek, Slovenian philosopher  
 Socrates, Philosopher  
 Steve Jobs, American entrepreneur  
