@@ -24,6 +24,10 @@ Personal observations about the community of commenters on Hacker News & their b
 - Anti-cryptocurrency/anti-blockchain
 - Pro-social media (& anti-censorship), but anti- spending time on social media (despite spending time & participating on the Hacker News social media website)
 - Anti-government/anti-federal government regulation (wishes to dismantle the federal regulatory apparatus)
+- Pro-working on (engineering, software development, etc.) projects which have nothing to do with protecting everyday people or the planet (Earth - not Mars) in any meaningful or essential way (no existentially significant meaning)
+- Mars- and general travel-to-space-obsessed (again, part of the Musk delusions)
+- Self-driving car-obsessed (see point above re delusions)/public transit-agnostic (seemingly could care less)
+- Pro-batteries (-battery)/pro-electric vehicles EVs/anti-hydrogen economy (again, see points above re Musk delusions), seemingly ignorant of the corresponding multitudes (multiple forms of) slavery and catastrophic (disastrous), long-lasting impacts of precious + rare-earth metal mining
 <br>
 <br>
 
