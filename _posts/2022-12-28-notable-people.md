@@ -10,6 +10,8 @@ title: Notable People
 
 Major shout-out to all those who've made me want to read, write, laugh, play (incl. games & musical instruments), think about politics (i.e., make improvements in government/policy/politics), generally contemplate/think/meditate/philosophize deeply, compose/produce music, do science & engineering, make art, dress cool (at times/on occasion or so I think...), dance, code/computer-program, be creative, etc. at some point in my life. Namely, this list is merely a testament to the individuals' degree of influence on me in general in a motivational sense and is by no means an explication of said individuals' personalities, personal belief systems, etc. (I've not taken the time to thoroughly vet the latter). Surely, I'll add more names in the future as I think of the many I've undoubtedly/unfortunately forgotten and as I discover or (G0d-willing) meet more individuals who - by nature of their innate, intrinsic being/modus operandi M.O. - incidentally drum up a positive influence on me or just so happen to (inadvertently) acquire my deepest/profoundest admiration & respect.
 
+Whenever you're feeling bored or down, I suggest turning on the films, lectures, music, etc. of some of these great innovators & intellectuals for an immediate creativity and energy (aka neurological) boost, e.g., beginning with the lectures of Alan Watts, Slavoj Žižek, and Werner Herzog. Remember: Internet Archive (<https://archive.org/>) is your friend!
+
 ## Keywords
 Heroes, Idols, Influencers, Inspirational, or Motivators
 
@@ -50,6 +52,7 @@ Edgar Allan Poe, American writer
 Edward Snowden, American-Russian consultant  
 Elton John, British singer  
 Epictetus, Philosopher  
+Erin Timony (Goodnight Moon), Makeup & ASMR artist  
 Ernst Mach, Austrian physicist  
 Eva Silverstein, American physicist  
 Frantz Fanon, French psychiatrist  
