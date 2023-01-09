@@ -559,3 +559,5 @@ There will be out castes [Untouchables] as long as there are castes. --Bhimrao R
 The owl of Minerva spreads its wings only with the falling of the dusk. --Georg Wilhelm Friedrich Hegel, Philosopher (Paraphrased: The owl takes wing at dusk.)
 
 The Truth is out there. --Tagline of the TV show, "The X-Files"
+
+"...where they burn [/ban] books, they will ultimately burn [/ban] people also." --Heinrich Heine, German poet, in his play "Almansor" (1821)
