@@ -275,3 +275,5 @@ Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankfu
 Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course with a broad, robust foundation & then building upon that.
 
 Don't do any work that you can viably outsource to someone else who's more qualified than you. Any other strategy is purely driven by ego. Lose the ego - you'll be infinitely more productive.
+
+Let it go! It's perhaps the most important and practical/useful (also, for some people, the most difficult) life lesson of all to genuinely learn & practice how to bravely/courageously/nobly let ALL things go.
