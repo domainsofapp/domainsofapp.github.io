@@ -219,6 +219,9 @@ The growth of the bacterium could be analyzed as a reduction in the entropy of i
 ## Max Weber, Sociologist
 The collapse of values proliferates in capitalism.
 
+## Alan Watts, Writer
+There aren't the millions of dishes ahead of you to wash. There's only the one dish in front of you that you must wash now. (In other words, it's a call to live in the moment. You can only do one thing at a time, and that's enough to occupy your focus for the time being. Try not to let other thoughts in to distract you from the singular task at the given, present time.)
+
 ## John Archibald Wheeler, American Physicist
 "It from bit."
 
