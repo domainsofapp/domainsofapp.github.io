@@ -127,7 +127,7 @@ Self Control - Frank Ocean
 Black Kray - Born Alone Die Alone  
 Styles P/Termanology/Q-tip - Stop, Look, and Listen  
 gin - Chynna Rogers  
-Chynna Rogers - Xternal Locus  
+Chynna Rogers (& Oklou) - Xternal Locus  
 To be continued TBC
 
 ## Live Hip Hop DJ Mix 08 - Part 3 (Ready)
