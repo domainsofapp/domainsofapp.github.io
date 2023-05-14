@@ -8,6 +8,13 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## Der Schwer Gefasste Entschluss (The Difficult Resolution aka The Elusive Decision)
+Muss es sein? (Must it be?)  
+Es muss sein! (It must be!)  
+Es muss sein! (It must be!)
+
+by Ludwig van Beethoven, German Composer
+
 ## First They Came
 First they came for the Communists  
 And I did not speak out  
