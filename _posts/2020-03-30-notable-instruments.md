@@ -25,7 +25,7 @@ Cristal baschet
 Daf drum (e.g., played by Yazidis in Iraq & neighboring regions)  
 Didgeridoo  
 Doso Ngoni  
-Duduk  
+Duduk (Armenia)  
 Dulcimer  
 Erhu  
 Fife  
