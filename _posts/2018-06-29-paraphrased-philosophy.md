@@ -199,6 +199,9 @@ Looking at something from radically different perspectives; the only way to brea
 ## Willard Van Orman Quine, American Philosopher
 Words only have meaning insofar as we humans place meaning in them.
 
+## Anatol Rapoport, American Mathematician
+Tit-for-tat is the winning strategy (to the Prisoner's Dilemma invented by Merrill M. Flood, American Mathematician and Albert W. Tucker, Canadian Mathematician).
+
 ## John Rawls, American Philosopher
 How would you want the world to be if before you were born you did not know your place in it?
 
