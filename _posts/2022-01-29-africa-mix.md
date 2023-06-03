@@ -488,6 +488,7 @@ Special shout-outs to notable (classic) African woman musicians:
 - Abeti Masikini
 - Angélique Kidjo
 - Bi Kidudé
+- Brenda Fassie
 - Calypso Rose
 - Celia Cruz (e.g., "La Vida Es Un Carnaval") (Cuban-American singer) (Afro-Cuban music)
 - Faya Tess
