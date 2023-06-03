@@ -33,7 +33,7 @@ The avg. person sends >12 emails/day.
 300k were women who were not only abducted but g@ng r@p3d.
 
 EU: Mandatory 13 paid public holidays, 4 weeks paid vacation, 10 days paid annual leave  
-USA: No requirements. 25% of employees receive no paid vacay or holidays
+USA: No requirements. 25% of employees receive no paid vacay or holidays.
 
 1/50,000 people are psychopaths.  
 The avg. person walks by 6 murderers in her lifetime.
