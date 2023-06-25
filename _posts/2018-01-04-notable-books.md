@@ -10,6 +10,7 @@ title: Notable Books
 
 ## Notable Author(s) - Fiction
 Cormac McCarthy  
+John Steinbeck  
 Irving Washington
 
 ## Notable Author(s) - Journalism
