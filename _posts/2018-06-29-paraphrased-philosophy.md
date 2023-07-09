@@ -44,7 +44,7 @@ Source: <https://www.urbandictionary.com/define.php?term=Godot>
 Panopticon: Allows authorities maximum control of the populace with minimum effort
 
 ## Tim Bergling (Avicii), Swedish DJ
-From Tim's own writings, as documented in the book "Tim: The Official Biography of Avicii" by Måns Mosesson:
+From Tim's own writings, as documented in the book "Tim: The Official Biography of Avicii" by Måns Mosesson:  
 """And love is the feeling we love, the perfect compass to keep the system in balance and to remember our purpose even when we don't know it.
 
 So the purpose of this system we call life has to be to, as cheesy as it sounds, to follow love.
