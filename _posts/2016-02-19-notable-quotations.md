@@ -561,3 +561,7 @@ The owl of Minerva spreads its wings only with the falling of the dusk. --Georg 
 The Truth is out there. --Tagline of the TV show, "The X-Files"
 
 "...where they burn [/ban] books, they will ultimately burn [/ban] people also." --Heinrich Heine, German poet, in his play "Almansor" (1821)
+
+People changes. --Stevie (Steve James), in the 2002 film "Stevie"
+
+F. --A popular symbol (meme) of sadness and regret commonly used in text-based communications on the Internet (repeat of above with a different description)
