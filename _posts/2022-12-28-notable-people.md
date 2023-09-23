@@ -39,6 +39,7 @@ Bernhard Riemann, German mathematician
 Bernie Sanders, United States Senator  
 Bertolt Brecht, German theatre practitioner  
 Bhimrao Ramji Ambedkar (Dr. B. R. Ambedkar), Former Minister of State for Law and Justice, Government of India  
+Björk, Icelandic singer-songwriter and composer  
 Bruce Chatwin, English travel writer  
 Carl-Mikael Göran "Micke" Berlander (Gud, formerly Yung Gud), Swedish DJ  
 Charles Babbage, Polymath  
