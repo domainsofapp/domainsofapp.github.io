@@ -30,6 +30,7 @@ Alan Watts, Writer
 Albert Einstein, Theoretical physicist  
 Alexandra Elbakyan, Kazakhstani computer programmer  
 Alexandria Ocasio-Cortez AOC, United States Representative  
+Alfred Russel Wallace, Naturalist and explorer  
 Anthony (Tony) Bourdain, American chef  
 Antonio Salieri, Italian composer  
 Axel Tufvesson (Yung Sherman), Musician  
@@ -60,8 +61,9 @@ Friedrich Engels, Philosopher
 Friedrich Nietzsche, Philosopher  
 Georg Cantor, German mathematician  
 Georg Wilhelm Friedrich Hegel, Philosopher  
-Greta Thunberg, Swedish activist  
+Gottfried Wilhelm Leibniz, Mathematician and philosopher  
 Gottlob Frege, German philosopher  
+Greta Thunberg, Swedish activist  
 Guido van Rossum, Dutch programmer  
 Harriet Tubman, American abolitionist  
 Heraclitus, Greek philosopher  
@@ -121,6 +123,7 @@ Sigmund Freud, Austrian neurologist
 Sinéad O'Connor, Irish singer-songwriter  
 Slavoj Žižek, Slovenian philosopher  
 Socrates, Philosopher  
+Srinivasa Ramanujan, Indian mathematician  
 Steve Jobs, American entrepreneur  
 Sufjan Stevens, American singer  
 Tim Bergling (Avicii), Swedish DJ  
