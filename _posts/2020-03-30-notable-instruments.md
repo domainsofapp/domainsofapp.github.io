@@ -67,6 +67,7 @@ Santur
 Sarangi  
 Shakuhachi  
 Sitar  
+Sousaphone  
 Tanpura  
 Theremin  
 Tumba  
