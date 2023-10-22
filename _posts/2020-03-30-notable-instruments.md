@@ -19,6 +19,7 @@ Berimbau
 Bouzouki (Greece)  
 Cajón  
 Calliope  
+Charango  
 Clanks (worn on ankles, e.g., in Kenya)  
 Clavier  
 Cristal baschet  
