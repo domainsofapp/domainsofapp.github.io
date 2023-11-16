@@ -20,4 +20,6 @@ yi ping pijiu - a bottle of beer
 
 yi, er, san, si, wu, liu, qi, ba, jiu, shi - one, two, three, four, five, six, seven, eight, nine, ten
 
+Yi lu shun feng - have a pleasant journey
+
 zaijian - bye
