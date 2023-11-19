@@ -39,12 +39,15 @@ To be continued...
 - Immutable (esp. for ledgers that require immutability)
 - Standalone EXE whenever possible
 - Uncensored/uncontrolled content (each user can block what they don't wish to see)
+<br>
+<br>
 
 ## Revolutionary Concepts in Software
 - Data transparency (e.g., open-source data, open-source code)
 - End-to-end encryption
 <br>
 <br>
+
 We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
 
 
