@@ -25,6 +25,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 <br>
 <br>
 To be continued...
+<br>
 
 And, an appeal to any engineers & other stakeholders with the power to change the following software for the better (& for the betterment of society at large):
 
@@ -34,6 +35,7 @@ And, an appeal to any engineers & other stakeholders with the power to change th
 <br>
 <br>
 To be continued...
+<br>
 
 ## Features of Notable Software Programs
 - Decentralized and distributed (not centralized)
@@ -50,5 +52,5 @@ To be continued...
 <br>
 <br>
 We don't want companies; we want foundations that simply disappear after everything is distributed. --John McAfee, Computer Programmer
-
+<br>
 NB: Without end-to-end encryption, assume there is a third party in between the sender & recipient who has access to (listen, read, record, etc.) the entire message information, similar to switchboard operators in the early days of telephoning. Unfortunately, this practice has by no means gone away; in fact, it's ubiquitous (e.g., the vast majority of Internet traffic, Google searching, etc.); it's merely become more esoteric to the general public (barring the technically savvy who know about it). These software design & implementation decisions constitute serious matters of basic human rights-to-privacy violations which enable large-scale espionage of the general public (surveillance state), as proven by the likes of Edward Snowden & others, enacted under the guise of corporate profiteering (via personalized advertisement campaigns) by private industry and terrorism prevention by governments (a la USA Patriot Act). It is never ethical, just, moral, or wise to sacrifice basic human rights for the perception of a possible gain, monetary or otherwise; in fact, this is the road towards a Big Brother dystopia. A significant percentage of the Western canon of literature warns us not to embark down such roads and depicts the negative (& often ultimately catastrophic & deleterious) implications of what results from ignoring or actively & decidedly overruling this general rule of thumb which many of us (at least, in Western societies) are taught in school, especially during our youth. Politically, Europe is doing right by its citizens by attempting to gradually restore some of the privacy rights that Internet technology giants, governments, & others have eroded over the last few decades. In closing, to ironically quote Google, a key privacy violator - namely, their own original motto, taken from their original code of conduct (long since removed) -, "Don't be evil."
