@@ -23,6 +23,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 - VLC Media Player for universal media playing & viewing
 - WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
 
+
 To be continued...
 
 And, an appeal to any engineers & other stakeholders with the power to change the following software for the better (& for the betterment of society at large):
@@ -30,6 +31,7 @@ And, an appeal to any engineers & other stakeholders with the power to change th
 ## Notably Bad (Intentionally Evil/Evil by Design?) Software
 - Alphabet (Google) Gmail (not end-to-end encrypted)
 - Apple iCloud (not end-to-end encrypted! So, even though Apple iMessage is end-to-end encrypted, this most basic privacy requirement goes away if you sync it to iCloud, which I assume most people do so they don't lose their text messages if something happens to their phones.)
+
 
 To be continued...
 
