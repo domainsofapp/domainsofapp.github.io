@@ -93,6 +93,7 @@ Lesley Gore, American singer
 Linus Torvalds, Finnish software engineer  
 Louis de Broglie, French physicist  
 Ludwig Boltzmann, Austrian physicist  
+Marek Edelman, Polish political activist and cardiologist  
 Marie Curie, Polish-French physicist  
 Maurits Cornelis M. C. Escher, Dutch graphic artist  
 Max Planck, German theoretical physicist  
