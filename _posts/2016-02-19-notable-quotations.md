@@ -556,7 +556,7 @@ Adding (wo)manpower to a late software project makes it later. (Brooks's Law) --
 
 There will be out castes [Untouchables] as long as there are castes. --Bhimrao Ramji Ambedkar (Dr. B. R. Ambedkar), Former Minister of State for Law and Justice, Government of India (Paraphrased: There are no castes without outcasts. Alternate: There are no outcasts without castes. --Slavoj Žižek, Slovenian philosopher, in his book, "Less Than Nothing: Hegel and the Shadow of Dialectical Materialism")
 
-The owl of Minerva spreads its wings only with the falling of the dusk. --Georg Wilhelm Friedrich Hegel, Philosopher (Paraphrased: The owl takes wing at dusk.)
+The owl of Minerva spreads its wings only with the falling of the dusk. --Georg Wilhelm Friedrich Hegel, German Philosopher (Paraphrased: The owl takes wing at dusk.)
 
 The Truth is out there. --Tagline of the TV show, "The X-Files"
 
@@ -565,3 +565,5 @@ The Truth is out there. --Tagline of the TV show, "The X-Files"
 People changes. --Stevie (Steve James), in the 2002 film "Stevie"
 
 F. --A popular symbol (meme) of sadness and regret commonly used in text-based communications on the Internet (repeat of above with a different description)
+
+We learn from history that we don't learn from history. --Georg Wilhelm Friedrich Hegel, German Philosopher
