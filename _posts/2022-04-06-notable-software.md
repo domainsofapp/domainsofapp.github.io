@@ -24,6 +24,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 - VLC Media Player for universal media playing & viewing
 - WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
 
+
 [1] The most compelling reason to use Firefox Sync is that it is client-side encrypted. Mozilla stores opaque encrypted blobs that it is entirely unable to decrypt. Law enforcement agencies request that data from time to time, hoping to obtain browsing history, only to be turned down thanks to the encryption. (disclaimer: former Mozilla security) --jvehent (<https://news.ycombinator.com/item?id=38793414>)
 
 To be continued...
