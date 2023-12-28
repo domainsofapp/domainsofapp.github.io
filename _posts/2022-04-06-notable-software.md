@@ -13,6 +13,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 ## Notable Software Programs
 - AOL Instant Messenger AIM for chatting
 - DC++ for media & software sharing
+- Firefox Sync (client-side encrypted! [1])
 - ICQ for chatting
 - iTunes for music sharing over a shared network (early versions)
 - LimeWire for media & software sharing
@@ -22,6 +23,8 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 - Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)
 - VLC Media Player for universal media playing & viewing
 - WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
+
+[1] The most compelling reason to use Firefox Sync is that it is client-side encrypted. Mozilla stores opaque encrypted blobs that it is entirely unable to decrypt. Law enforcement agencies request that data from time to time, hoping to obtain browsing history, only to be turned down thanks to the encryption. (disclaimer: former Mozilla security) --jvehent (<https://news.ycombinator.com/item?id=38793414>)
 
 To be continued...
 
