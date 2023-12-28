@@ -36,6 +36,7 @@ And, an appeal to any engineers & other stakeholders with the power to change th
 - Apple iCloud (not end-to-end encrypted! So, even though Apple iMessage is end-to-end encrypted, this most basic privacy requirement goes away if you sync it to iCloud, which I assume most people do so they don't lose their text messages if something happens to their phones.)
 - Apple iPhone espionage backdoor (see: Operation Triangulation)
 
+<br>
 To be continued...
 
 ## Features of Notable Software Programs
