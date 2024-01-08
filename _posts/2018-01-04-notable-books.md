@@ -28,6 +28,7 @@ A Very Short Introduction series by multiple authors (e.g., Thermodynamics by Pe
 Child of God by Cormac McCarthy  
 Cosmopolis by Don DeLillo  
 Devil in the White City by by Erik Larson  
+Every Man for Himself and God Against All: A Memoir by Werner Herzog  
 Factory Girls: From Village to City in a Changing China by Leslie T. Chang  
 Heart of Darkness by Novella by Joseph Conrad  
 House of Leaves by Mark Z. Danielewski  
@@ -41,6 +42,7 @@ Rhinoceros by Eugène Ionesco
 Siddhartha by Hermann Hesse  
 Stories of Your Life and Others by Ted Chiang  
 Suttree by Cormac McCarthy  
+Tim - The Official Biography of Avicii by Måns Mosesson  
 The Art of Living by Epictetus (retold by Sharon Lebell)  
 The Autobiography of Malcolm X by Alex Haley and Malcolm X  
 The Comedians by Graham Greene  
@@ -59,3 +61,6 @@ Why Does the World Exist? by Jim Holt
 You Shall Know Our Velocity! by Dave Eggers  
 Zen Mind, Beginner's Mind by Shunryū Suzuki (author) and Trudy Dixon (RIP) & Richard Baker (editors) (ok)  
 Zorba the Greek by Nikos Kazantzakis
+
+## Notable Comics
+Calvin and Hobbes by Bill Watterson
