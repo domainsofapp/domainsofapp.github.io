@@ -15,6 +15,7 @@ Sans Soleil
 
 ## Biography
 Blaze  
+Edvard Munch  
 Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him)?
 
 ## Comedy
@@ -40,6 +41,7 @@ Yung Lean: In My Head
 ## Drama
 A Clockwork Orange  
 Amadeus  
+Another Round (Druk)  
 Apocalypse Now  
 Battle Royale  
 Border  
@@ -51,8 +53,8 @@ Groundhog Day
 In the Mood for Love  
 Last Life in the Universe  
 Leaving Las Vegas  
-Let The Right One In  
 Lost in Translation  
+Network  
 Paterson  
 También la lluvia (Even the Rain)  
 The Deer Hunter  
@@ -68,6 +70,7 @@ The Handmaiden
 Lucia y el Sexo
 
 ## Horror
+Let The Right One In  
 The Thing
 
 ## Indie
