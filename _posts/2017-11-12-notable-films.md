@@ -8,6 +8,9 @@ title: Notable Films
 
 <p class="meta">12 Nov 2017 - Berkeley, CA</p>
 
+## Action-Thriller
+Oldboy (Korean)
+
 ## Artistic
 Hiroshima Mon Amour  
 Koyaanisqatsi  
@@ -19,6 +22,7 @@ Edvard Munch
 Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him)?
 
 ## Comedy
+Chunking Express  
 Real Genius  
 Tampopo (Ramen noodle Western)
 
@@ -39,6 +43,7 @@ Workingman's Death
 Yung Lean: In My Head
 
 ## Drama
+2046  
 A Clockwork Orange  
 Amadeus  
 Another Round (Druk)  
@@ -46,6 +51,7 @@ Apocalypse Now
 Battle Royale  
 Border  
 Chungking Express  
+Days of Being Wild  
 Enter the Void  
 Eternal Sunshine of the Spotless Mind  
 Fear and Loathing in Las Vegas  
