@@ -80,6 +80,9 @@ The city is architecture's "Other" (capital "O"); that which supports and drives
 
 Truth is to be found in the void. Emptiness is the space that defines the space of the real.
 
+## Dexter
+Dexter's "Slice of Life": Every human being's experience is a mere "slice" of life--or, more precisely--a random slice of the universe while existing with human consciousness.
+
 ## Diogenes, Greek Philosopher
 Cynicism requires perspective of life lost.
 
@@ -272,9 +275,14 @@ There is a truth, and not everything is relative, but this truth is the truth of
 
 Ideology is like a coordinate transform of our experienced reality.
 
-## Uncanny Valley (Ideas Mine)
+## Theorem of Truth (ideas & paraphrasing mine)
+Theorem of truth means consistency with a given set of rules; however, the fact that it is true (the "trueness", or the quality of Truth) is not derivable from the rules themselves.
+
+## Uncanny Valley - Everyday (Common Mundane/Worldly) Examples (ideas & paraphrasing mine)
+Animals doing it: Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" (an absurd premise) but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
+
 Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and thereby always sounds "off-key", so to speak, in reference to the original).
 
-Animals doing it: Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
-
 Electronic DJ: Everything is great--dancing, partying, all sorts of fun--until the computer suddenly freezes and everyone realizes that everyone is going crazy over a computer playing a track (likely made by a computer).
+
+Freudian slip: The inevitable Freudian slip. Everyone's gonna do it. You, too. And yea, it's weird. And it's real. That's the uncanny valley, baby! Even more uncanny: When someone makes a Freudian slip and the other person(s) actually knows what that is (and has the good sense to properly psychoanalyze it as such)!
