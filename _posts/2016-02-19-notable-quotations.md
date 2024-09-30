@@ -567,3 +567,9 @@ People changes. --Stevie (Steve James), in the 2002 film "Stevie"
 F. --A popular symbol (meme) of sadness and regret commonly used in text-based communications on the Internet (repeat of above with a different description)
 
 The only thing we learn from history is that we don't [otherwise] learn from history. --Georg Wilhelm Friedrich Hegel, German Philosopher (paraphrased)
+
+A cynic is a (wo)man who knows the price of everything and the value of nothing. --Oscar Wilde, Irish Poet and Playwright
+
+[Imago is] the last stage of a transformation. It's also a term from the dead religion of psychoanalysis. An imago is an image of a loved one, buried in the unconscious, carried with us all our lives. --Dr. Hannibal Lecter, Forensic Psychiatrist & Psychopathic Serial Killer & Cannibal, character, in S2E13 of TV series "Hannibal"
+
+Don't fear the reaper. --Blue Oyster Cult, Rock Band
