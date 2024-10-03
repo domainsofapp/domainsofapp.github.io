@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Excerpts
+title: Notable Excerpts
 ---
 
 {{ page.title }}
