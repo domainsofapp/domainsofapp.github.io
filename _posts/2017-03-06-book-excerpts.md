@@ -8,6 +8,14 @@ title: Book Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
+## Excerpt from All the Pretty Horses
+- (Duena Alfonsa) We'll see what fate has in store for us, won't we?
+- (John Grady Cole) I thought you didn't believe in fate. (Grady)
+She waved her hand.
+- (Duena Alfonsa) It's not so much that I don't believe in it - I don't subscribe to its nomination. If fate is the law, then is fate also subject to that law? At some point we cannot escape naming responsibility - it's in our nature. Sometimes I think we are all like that myopic coiner at his press, taking the blind slugs one by one from the tray, all of us bent so jealously at our work, determined that not even chaos be outside of our own making.
+
+by Cormac McCarthy, American Writer and Author of Novels
+
 ## Excerpt from Remarks at the University of Kansas (Mar. 18, 1968)
 And this is one of the great tasks of leadership for us, as individuals and citizens this year. But even if we act to erase material poverty, there is another greater task, it is to confront the poverty of satisfaction - purpose and dignity - that afflicts us all. Too much and for too long, we seemed to have surrendered personal excellence and community values in the mere accumulation of material things. Our Gross National Product, now, is over $800 billion dollars a year, but that Gross National Product - if we judge the United States of America by that - that Gross National Product counts air pollution and cigarette advertising, and ambulances to clear our highways of carnage. It counts special locks for our doors and the jails for the people who break them. It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. It counts napalm and counts nuclear warheads and armored cars for the police to fight the riots in our cities. It counts Whitman's rifle and Speck's knife, and the television programs which glorify violence in order to sell toys to our children. Yet the gross national product does not allow for the health of our children, the quality of their education or the joy of their play. It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials. It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country, it measures everything in short, except that which makes life worthwhile. And it can tell us everything about America except why we are proud that we are Americans.
 
