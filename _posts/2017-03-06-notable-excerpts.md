@@ -10,9 +10,10 @@ title: Notable Excerpts
 
 ## Excerpt from All the Pretty Horses
 - (Duena Alfonsa) We'll see what fate has in store for us, won't we?
-- (John Grady Cole) I thought you didn't believe in fate. (Grady)  
+- (John Grady Cole) I thought you didn't believe in fate.  
 She waved her hand.
 - (Duena Alfonsa) It's not so much that I don't believe in it - I don't subscribe to its nomination. If fate is the law, then is fate also subject to that law? At some point we cannot escape naming responsibility - it's in our nature. Sometimes I think we are all like that myopic coiner at his press, taking the blind slugs one by one from the tray, all of us bent so jealously at our work, determined that not even chaos be outside of our own making.
+
 
 by Cormac McCarthy, American Writer and Author of Novels
 
