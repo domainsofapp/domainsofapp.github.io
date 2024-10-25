@@ -19,6 +19,9 @@ The universe had to be such as to allow for observers to evolve within it. A uni
 ## Apriorism
 Belief in categories of knowledge as simple givens; irreducible and immanent in the human by virtue of its inherent makeup (as opposed to, say, empiricism).
 
+## Julian Assange, Australian Editor
+Full transparency leads to global peace.
+
 ## Alain Badiou, French Philosopher
 Truths that force knowledge lead to new truths; thus, old truths are ancestors of new truths; thus, old truths are eternalized when conceived (an Evental moment).
 
@@ -39,6 +42,9 @@ Consider how words, acts, policies, etc. will be seen 50, 100, etc. years from n
 Waiting for Godot: Nothing, or the wait for something that is never going to happen.
 
 Source: <https://www.urbandictionary.com/define.php?term=Godot>
+
+## Walter Benjamin, German Philosopher
+History changes the past.  ("History" changes how the past is present today as part of our historical memory.)
 
 ## Jeremy Bentham, English Philosopher and Social Theorist
 Panopticon: Allows authorities maximum control of the populace with minimum effort
@@ -105,6 +111,11 @@ Investigates the origin, nature, methods, and limits of human knowledge.
 ## Existentialism
 Existence precedes essence.
 
+## Frantz Fanon, French Psychiatrist
+Decolonialization is always good - a return to what's real.
+
+Colonization is a violent process which can only be defeated with equal or greater, reciprocal violence.
+
 ## Michael Faraday, Scientist
 Matter can only be recognized by forces acting on it.
 
@@ -115,6 +126,13 @@ Analogy between quantum physics and computer game. Once you get to quantum level
 Don't obsess over the names or naming of things (i.e., pure memorization); rather, focus on understanding the thing itself and how it works to the best of your abilities.
 
 Science is imagination in a straight jacket.
+
+## Michel Foucault, French Historian
+There is no such thing as "human" or "creativity".
+
+Power determines right vs. wrong.
+
+Those who are marginalized experience power in ways that try to usurp that power.
 
 ## Game Theory
 Tit for tat is the proven, most effective life strategy.
@@ -159,6 +177,9 @@ As humanity evolves, so does its reasoning and ability to reason. You cannot sto
 
 Master-slave dialectic: The boy is father to the man (or, the girl is mother to the woman); the "master" is slave to the slave.
 
+## Martin Heidegger, German Philosopher
+Everyone is the other, and no one is herself.
+
 ## Heraclitus, Greek Philosopher
 The only constant is change.
 
@@ -177,7 +198,14 @@ Mind equipped with "categories" of knowledge outside our sensory conceptualizati
 
 Space and time are symbolic tools of the human consciousness for relating matter and symbolic meaning.
 
+Correlation does not imply causation.
+
 Categorical imperative: "Act only according to that maxim whereby you [would], at the same time, will that it [] become a universal law." (Paraphrased: Act in such a way that the maxim of your action would become a universal law.)
+
+Categorical imperative: Always act so that you can will the rule of your action to be a universal law. (Always act so you can will the rule of your action into universal law.)
+
+## Søren Kierkegaard, Danish Theologian and Philosopher
+I know that God exists, but I will act as if (S)He doesn't.
 
 ## Jacques Lacan, French Psychoanalyst
 The world is a fantasy through which thought sustains itself.
@@ -260,7 +288,7 @@ PhD thesis related to cellular-genetic approach of embedding within something th
 Physics is inherently a computation in the form of cellular automata.
 Source: <https://news.ycombinator.com/item?id=23520632>
 
-## Slavoj Žižek, Slovenian Philosopher
+## Slavoj Žižek (Zizek), Slovenian Philosopher
 Climate change is an existential crisis for humanity.
 
 A choice is always a meta-choice--a choice of the modality of the choice itself. (Modality: The mode in which something exists or is experienced or expressed.)
@@ -275,10 +303,20 @@ There is a truth, and not everything is relative, but this truth is the truth of
 
 Ideology is like a coordinate transform of our experienced reality.
 
-## Theorem of Truth (ideas & paraphrasing mine)
+History is not an objective development but a dialectical process in which what really goes on is inextricably mediated by its ideological symbolization. (From "Heaven in Disorder")
+
+Kierkegaard: I know that God exists, but I will act as if (S)He doesn't. Now replace God with Scientific Determinism: Yes, I know science is telling us that we are not free, but I will do crazy things - I will act as if I am free.
+
+Language, at its most basic dimension, is an instrument of lying. To tell the truth, you have to think in language against language. (From Robinson's Podcast, Ep. 213, ~24-min.)
+
+On Sigmund Freud's Fetishist Disavowal: Follows the formula, "I know very well, but..."
+
+On Hegel's Determinate Negation: Coffee without cream is not the same as coffee without milk.
+
+## Theorem of Truth - Ideas and Paraphrasing Mine
 Theorem of truth means consistency with a given set of rules; however, the fact that it is true (the "trueness", or the quality of Truth) is not derivable from the rules themselves.
 
-## Uncanny Valley - Everyday (Common Mundane/Worldly) Examples (ideas & paraphrasing mine)
+## Uncanny Valley - Everyday (Common Mundane/Worldly) Examples - Ideas and Paraphrasing Mine
 Animals doing it: Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" (an absurd premise) but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
 
 Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and thereby always sounds "off-key", so to speak, in reference to the original).
