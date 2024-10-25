@@ -160,7 +160,7 @@ Goosebumps are real. --Swedish House Mafia, Creamfields 2010 BBC interview
 
 Cream rises. --Anthony Bourdain, American Chef, Kitchen Confidential
 
-Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer, primary author & creator of Linux & Git
+Bad programmers worry about the code. Good programmers worry about data structures and their relationships. --Linus Torvalds, Finnish Software Engineer, primary author and creator of Linux and Git
 
 Winter ends. --S. Foundling, American Artist (personal conversation)
 
@@ -170,7 +170,7 @@ No regrets, no replies. --Zephyr (band), in the song "Winter Always Finds Me"
 
 There is a raw truth that is visible here. --SamManero, YouTube user, in response to Werner Herzog's "On the Jungle and Nature"
 
-Say could, not should. (I'd personally add & amend as follows: Don't use the words "if possible", "should", or "try".) --John Elliott, Musical Artist (personal conversation)
+Say could, not should. (I'd personally add and amend as follows: Don't use the words "if possible", "should", or "try".) --John Elliott, Musical Artist (personal conversation)
 
 It's a feature, not a bug. --Source Unknown
 
@@ -368,11 +368,11 @@ You're stirring up dangerous undercurrents in the otherwise placid waters of my 
 
 They trust me. Dumb f\*\*ks. --Mark Zuckerberg, Chief Executive Officer CEO of Facebook
 
-In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, & Utilities
+In the world of cloud storage, a large storm is equivalent to Black Friday. --Casey Werth, IBM Cloud Leader - Energy, Environment, and Utilities
 
 The key to good system design is to have a good engineer. (To choose a good product and design a good system, you need a good engineer.) --Sen Zhang, Senior Vice President, Engineering at Wärtsilä, in fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
 
-In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage & Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
+In IT, the first step is to lock the user out. In OT, locking the user (asset) out is exactly what the hackers wish to achieve. --Andy Tang, Vice President of Energy Storage and Optimization at Wärtsilä, in a fireside chat with Julian Spector on 2020-09-01 as part of GTM Storage Focus
 
 You come for the spice; you stay for the wonk. --Katherine Hamilton, Chair of 38 North Solutions, in a GTM Solar Energy Gang Podcast on 2020-08-25
 
@@ -394,7 +394,7 @@ The English word "idiot" comes from the Greek for a person who did not participa
 
 "C'est la vie", say the old folks, it goes to show you never can tell. --Chuck Berry, American Singer-songwriter
 
-Goes to show, you don't ever know. --Jerry Garcia, American Singer-songwriter & Lead Guitarist of the Grateful Dead (from the 1972 song "Deal [Evening]")
+Goes to show, you don't ever know. --Jerry Garcia, American Singer-songwriter and Lead Guitarist of the Grateful Dead (from the 1972 song "Deal [Evening]")
 
 F. --Internet slang in solidarity for all that's terrible in the world
 
@@ -462,7 +462,7 @@ Don't force it. --James Pietragallo, American Comedian (in Small Town Murder pod
 
 You're gifted with the talent that brings people to you. --Jimmie Whisman, American Comedian (in Small Town Murder podcast Ep. 179)
 
-Looking back is narcissism; looking forward is fantasy. --S.M.'s Colleague & Friend (personal conversation)
+Looking back is narcissism; looking forward is fantasy. --S.M.'s Colleague and Friend (personal conversation)
 
 Wrap the leader around the tippet. Four, five, six times. Tuck the end between the lines. Tighten. And...trim. --Will Graham character in Hannibal (TV series), S2:E4, Takiawase
 
@@ -478,9 +478,9 @@ If it ain't baroque, don't fix it. --Ms. Bach (my former music teacher)
 
 There's no such thing as a synonym. No two words are exact synonyms. No two words are the same. --S.M. (personal conversation)
 
-If you love something, give it away. --Conor Oberst, American Singer-songwriter (& lead singer of rock band "Bright Eyes")
+If you love something, give it away. --Conor Oberst, American Singer-songwriter (Lead Singer of Rock Band "Bright Eyes")
 
-I'm happy just because I found out I'm really no one. --Conor Oberst, American Singer-songwriter (& lead singer of rock band "Bright Eyes")
+I'm happy just because I found out I'm really no one. --Conor Oberst, American Singer-songwriter (Lead Singer of Rock Band "Bright Eyes")
 
 Freedom fighters don't always win, but they're always right. --Molly Ivins, American Columnist
 
@@ -490,7 +490,7 @@ Look to the helpers. --Mother of Fred Rogers, American Television TV Host
 
 Typing is no substitute for thinking. (My version: Trying is no substitute for thinking.) --Original BASIC manual
 
-Sit down & don't touch sh!t. The master of the house will be with you shortly. He's vacuuming. --Anthony Mason, American Basketball Player
+Sit down and don't touch sh!t. The master of the house will be with you shortly. He's vacuuming. --Anthony Mason, American Basketball Player
 
 You can't be funny at the beach. --Jerry Seinfeld via James Pietragallo, both American Comedians
 
@@ -512,7 +512,7 @@ You can, for you shall. --Immanuel Kant, Philosopher
 
 Safe journeys, space fans...wherever you are. --Stephen Hill, Radio Producer ("Hearts of Space")
 
-Everything under heaven is in utter chaos; the situation is excellent. --Mao Zedong (Mao Tse-tung), Former President of the People's Republic of China & Mass Murderer (killed millions of people - many more millions than Hitler & Stalin combined)
+Everything under heaven is in utter chaos; the situation is excellent. --Mao Zedong (Mao Tse-tung), Former President of the People's Republic of China and Mass Murderer (killed millions of people - many more millions than Hitler and Stalin combined)
 
 There would be no prisons without architects willing to build them. --Me
 
@@ -526,7 +526,7 @@ Suffering is the university of egocentrism. --Milan Kundera, Czech Writer, in "I
 
 Einmal ist keinmal. What happens but once might as well not have happened at all. --Milan Kundera, Czech Writer, in "The Unbearable Lightness of Being"
 
-A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrencies, like conventional currencies, are also used for sponsoring terrorists, incl. state-sponsored terrorism, intrinsically & directly accelerating catastrophic climate change all the while. Namely, cryptocurrency's by no means a panacea deserving of the frequent, gushing, cultish/religious Internet praise that it presently receives.) --dandare (username), User of Hacker News
+A stable crypto-currency will not attract any investment. Crypto is useless for anything but money laundering and speculation. (My addition: Cryptocurrencies, like conventional currencies, are also used for sponsoring terrorists, incl. state-sponsored terrorism, intrinsically and directly accelerating catastrophic climate change all the while. Namely, cryptocurrency's by no means a panacea deserving of the frequent, gushing, cultish/religious Internet praise that it presently receives.) --dandare (username), User of Hacker News
 
 For the war to be won, of any war, you have to bring some of the people that you perceive as the enemy to be on your side. Slavery could not have ended without white people joining the fight. The women's rights: not going to be won without men - the good men. So, you need those allies. --Edwin O'Kongo, Co-host of KALW's Africa Mix, in Episode 2022-03-05
 
@@ -534,7 +534,7 @@ For the war to be won, of any war, you have to bring some of the people that you
 
 Hear me, Lord. Help me, Lord, I'm feeling low. --Oliver Mtukudzi, Zimbabwean Musician, in his song "Hear Me, Lord"
 
-We have a soul even though it's electronic & mathematic. (Paraphrased: The [human] soul is electronic & mathematic.) --Kraftwerk, Band
+We have a soul even though it's electronic and mathematic. (Paraphrased: The [human] soul is electronic and mathematic.) --Kraftwerk, Band
 
 I am human. Therefore, nothing human is foreign to me. --Publius Terentius Afer aka Terence, Roman African playwright during the Roman Republic
 
@@ -570,6 +570,10 @@ The only thing we learn from history is that we don't [otherwise] learn from his
 
 A cynic is a (wo)man who knows the price of everything and the value of nothing. --Oscar Wilde, Irish Poet and Playwright
 
-[Imago is] the last stage of a transformation. It's also a term from the dead religion of psychoanalysis. An imago is an image of a loved one, buried in the unconscious, carried with us all our lives. --Dr. Hannibal Lecter, Forensic Psychiatrist & Psychopathic Serial Killer & Cannibal, character, in S2E13 of TV series "Hannibal"
+[Imago is] the last stage of a transformation. It's also a term from the dead religion of psychoanalysis. An imago is an image of a loved one, buried in the unconscious, carried with us all our lives. --Dr. Hannibal Lecter, Forensic Psychiatrist and Psychopathic Serial Killer and Cannibal, character, in S2E13 of TV series "Hannibal"
 
 Don't fear the reaper. --Blue Oyster Cult, Rock Band
+
+That the sun will not rise tomorrow is no less intelligible a proposition, and implies no more contradiction, than the affirmation, that it will rise. --David Hume, Scottish Philosopher and Historian
+
+Law is the ultimate science. --Frank Herbert, American Author, in "Dune"
