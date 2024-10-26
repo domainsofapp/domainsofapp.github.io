@@ -134,6 +134,9 @@ Power determines right vs. wrong.
 
 Those who are marginalized experience power in ways that try to usurp that power.
 
+## Sigmund Freud, Austrian Neurologist
+There is Truth to be extracted from every Freudian slip.
+
 ## Game Theory
 Tit for tat is the proven, most effective life strategy.
 
@@ -324,3 +327,6 @@ Cover band: It is more weird when a cover band sounds just like the real band bu
 Electronic DJ: Everything is great--dancing, partying, all sorts of fun--until the computer suddenly freezes and everyone realizes that everyone is going crazy over a computer playing a track (likely made by a computer).
 
 Freudian slip: The inevitable Freudian slip. Everyone's gonna do it. You, too. And yea, it's weird. And it's real. That's the uncanny valley, baby! Even more uncanny: When someone makes a Freudian slip and the other person(s) actually knows what that is (and has the good sense to properly psychoanalyze it as such)!
+
+## William Butler Yeats, Former Senator of the Irish Free State
+Antithetical mask: Put on to discover your completeness. Throw off the one you were born with, that your parents gave you, that your friends gave you, that the principal gave you. (Compliments of James Pietragallo, from Ep. 71 of the podcast "Crime in Sports", ~76 min.)
