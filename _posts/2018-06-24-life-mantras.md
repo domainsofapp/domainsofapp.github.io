@@ -62,7 +62,7 @@ Unleash the power of the brain/consciousness/mind.
 
 Strive for continuous improvement; it's good enough for all intents and purposes.
 
-The best engineer is completely replaceable by another human; even better, by an algorithm. Thus, a good engineer strives for (and ideally achieves) self-automation. In fact, the Good Engineer successfully self-automates herself out of a job (oops!) - it's the necessary self-sacrifice for the greater cause of Good Engineering. Write & deploy (hand off) the engineering specification of yourself (what you do in your job).
+The best engineer is completely replaceable by another human; even better, by an algorithm. Thus, a good engineer strives for (and ideally achieves) self-automation. In fact, the Good Engineer successfully self-automates herself out of a job (oops!) - it's the necessary self-sacrifice for the greater cause of Good Engineering. Write and deploy (hand off) the engineering specification of yourself (what you do in your job).
 
 MYOB (and BYOB): Mind your own business (and, while you're at it, bring your own dang brrr).
 
@@ -80,7 +80,7 @@ Think before you act. Will this action hurt someone? If so, use a different appr
 
 Don't sh!t where you eat. (Avoid dating colleagues, roommates, housemates, apartmentmates, etc.). While we're at it, avoid nicotine, tobacco, and credit card debt like The Plague. Someone told me the latter when I was a kid - I want to pay it forward.
 
-Sounds selfish; it's not: Do. Every. Single. Thing. For. Yourself - first and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else - your partner will appreciate it (i.e., Don your own floaties & oxygen mask first; then get to helping others.)
+Sounds selfish; it's not: Do. Every. Single. Thing. For. Yourself - first and foremost. Align your goals with helping and doing good for others. Take. Care. Of. Yourself. First. This applies even if you're with someone. e.g., Buy your own groceries and cook for yourself, even if you're with someone else - your partner will appreciate it (i.e., Don your own floaties and oxygen mask first; then get to helping others.)
 
 You get what you measure.
 
@@ -108,7 +108,7 @@ Never look up matters of health online (on the Internet). If you do, you'll find
 
 I double dog dare you not to ever complain to anyone about any issue no matter how large or small you perceive it to be; rather, report it to a professional who can actually help the problem that you may or may not have. Turn every would-be complaint into a professional reporting process (as well as a learning experience).
 
-Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it, & fix it later as needed.
+Don't let perfect be the enemy of good. It's already at or beyond 80%. Ship it, and fix it later as needed.
 
 You're going to get through it, even if you're all on your own.
 
@@ -176,13 +176,13 @@ May I please get an "F." for the homies? Esp. for all the fallen soldiers. ("F."
 
 You do you, and don't disturb others in the process. Embrace what's uniquely you. Don't be afraid to let it out, even if others happen to see and judge you for it. Make it good!
 
-Every day, do at least one activity that genuinely scares you (& makes you sweat).
+Every day, do at least one activity that genuinely scares you (and makes you sweat).
 
 At work: What needs to get done, will get done, and you'll know it. Everything else is gravy.
 
 Another day, more B.S. - another challenge. Great. Now you know what to expect - embrace it!
 
-Focus on doing your job & doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it!). Gotta make a living somehow someway.
+Focus on doing your job and doing it well. You're getting paid for a reason. At the same time, don't allow employment to rob you of your entire (one) life (just the majority of the waking part of it!). Gotta make a living somehow someway.
 
 Less fussin', mo' tussin. (The best "tussin" is culture; even better is "deep culture" - culture you must dig deep to find.)
 
@@ -190,7 +190,7 @@ News flash: The to-do list will never get shorter. Get used to it. Also, the mor
 
 Don't attempt to fail; if you do, you'll succeed (which defeats the point).
 
-Yes! That's right! You lost it! You lost all of it! And it'll never come back. And you'll never see it again. It's gone...forever! What was once shall never be again. It's a done-deal. So, better get used to it. Time to move on - immediately. Get over it - it's water under the bridge. Chin up (don't think about what you can't change). Remain strong - stay strong. Stand tall, soldier. Move on - move forward. Get on with it. Get up & on with it, now. Forget about it. Don't dawdle. Get back to it, & stop ponderin' it. Stop thinkin' about it. Life goes on...life goes on; time to move on...move on!
+Yes! That's right! You lost it! You lost all of it! And it'll never come back. And you'll never see it again. It's gone...forever! What was once shall never be again. It's a done-deal. So, better get used to it. Time to move on - immediately. Get over it - it's water under the bridge. Chin up (don't think about what you can't change). Remain strong - stay strong. Stand tall, soldier. Move on - move forward. Get on with it. Get up and on with it, now. Forget about it. Don't dawdle. Get back to it, and stop ponderin' it. Stop thinkin' about it. Life goes on...life goes on; time to move on...move on!
 
 Close friends are the family you choose.
 
@@ -202,11 +202,13 @@ Not doing is doing. (i.e., Not doing something is doing something - this include
 
 To each her own. What works for you may not work for others. Don't knock it 'til you try it. Judge not. Just focus on doing what floats your boat!
 
-Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, wholehearted, to-the-bone, at-the-core (hence, "Life Mantras") self-acceptance is absolutely, first & foremost, foundational, fundamental, key, & pivotal to mental (psychological) stability & well-being.
+Self-acceptance, self-acceptance, self-acceptance. 100%, absolute, at-all-times, deep-down, fundamental, wholehearted, to-the-bone, at-the-core (hence, "Life Mantras") self-acceptance is absolutely, first and foremost, foundational, fundamental, key, and pivotal to mental (psychological) stability and well-being.
 
 Bees don't look up, so they get trapped in the honey traps.
 
-How to cook: Put food on stove. Apply heat. Eat.
+How to cook (simple): 1. Put food on stove, 2. Apply heat, 3. Wait. Now eat up!
+
+How to cook (complex): 1. Add ingredients, 2. Apply heat, 3. Wait. Mangia! Bon appetit!
 
 Trying is no substitute for thinking.
 
@@ -222,7 +224,7 @@ One day at a time. One step at a time.
 
 Break the cycle.
 
-The cure to existential boredom: Immerse yourself in culture & nature. Publish.
+The cure to existential boredom: Immerse yourself in culture and nature. Publish.
 
 Trust statistics. It's essential to have faith in statistics. Statistics is the basis of Truth.
 
@@ -232,7 +234,7 @@ Don't be afraid of your own success (or failure for that matter).
 
 If possible, you should try not to use use the words "if possible", should", or "try". ;--)
 
-At any given moment, it's best to look within & do whatever you feel like doing, even if that's nothing at all. (Obviously, sometimes "life" gets in the way.)
+At any given moment, it's best to look within and do whatever you feel like doing, even if that's nothing at all. (Obviously, sometimes "life" gets in the way.)
 
 FOCUS. Keep coding!
 
@@ -244,13 +246,13 @@ The more mistakes you make, the faster you're making progress. Mistakes are a di
 
 If ain't baroque, don't fix it (compliments of Ms. Bach, my middle school music teacher, who taught me how to use a digital audio workstation DAW).
 
-Focus on doing your own thing well. Eventually, people will gravitate towards it (and, thus, you) (compliments of James Pietragallo & Jimmie Whisman, American comedians).
+Focus on doing your own thing well. Eventually, people will gravitate towards it (and, thus, you) (compliments of James Pietragallo and Jimmie Whisman, American comedians).
 
 Procrastination is not a bug, it's a feature. Put absolute faith into your procrastination skills. They'll get you where you need to be/go.
 
 Don't knock it 'til you try it.
 
-Walk Planet Earth like an animal (because you are one). Do things with purpose. Pay attention to your here & now.
+Walk Planet Earth like an animal (because you are one). Do things with purpose. Pay attention to your here and now.
 
 20/20/20 rule: Every 20 minutes, stare at something 20 feet away for 20 seconds.
 
@@ -262,18 +264,34 @@ Trust yourself. Trust your gut.
 
 It's A-OK to joke to cope.
 
-Ask & sometimes (oftentimes) ye shall receive.
+Ask and sometimes (oftentimes) ye shall receive.
 
 Dishes in the sink mean more than you think.
 
-You might feel like cr@p today. If so, don't worry, fear not, & don't despair: Chances are you'll probably feel better tomorrow (or shortly thereafter).
+You might feel like cr@p today. If so, don't worry, fear not, and don't despair: Chances are you'll probably feel better tomorrow (or shortly thereafter).
 
-Trace the source. And, in journalism, follow the money $.
+Trace the source. In journalism: Follow the money $.
 
-Regrets are the only way to learn, grow, & improve. Embrace regrets & be thankful for them (& such opportunities).
+Regrets are the only way to learn, grow, and improve. Embrace regrets and be thankful for them (and such opportunities).
 
-Continuously build your mountain carefully, purposely, slowly, & steadily, one rock at a time, beginning of course with a broad, robust foundation & then building upon that.
+Continuously build your mountain carefully, purposely, slowly, and steadily, one rock at a time, beginning of course with a broad, robust foundation and then building upon that.
 
 Don't do any work that you can viably outsource to someone else who's more qualified than you. Any other strategy is purely driven by ego. Lose the ego - you'll be infinitely more productive.
 
-Let it go! It's perhaps the most important and practical/useful (also, for some people, the most difficult) life lesson of all to genuinely learn & practice how to bravely/courageously/nobly let ALL things go.
+Let it go! It's perhaps the most important and practical/useful (also, for some people, the most difficult) life lesson of all to genuinely learn and practice how to bravely/courageously/nobly let ALL things go.
+
+If it doesn't make you weep (feel deep emotion), don't publish it. (Paraphrased: Don't publish!t).
+
+Target micro-progress.
+
+Start the jigsaw puzzle at the corners.
+
+Immerse yourself in culture and exercise-work (mental and physical).
+
+Exploit easy distractibility to your ultimate progress-advantage: Purposefully vary it up.
+
+Each day, try to do at least ONE thing you dread to do; if possible, THE thing you dread to do the most.
+
+It's better to underpromise than underdeliver.
+
+Missed thoughts are O-K (not always bad). Let the best thoughts percolate to the top. Let forgetfulness be the filter of good ideas. Cream rises.
