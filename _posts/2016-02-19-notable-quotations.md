@@ -577,3 +577,7 @@ Don't fear the reaper. --Blue Oyster Cult, Rock Band
 That the sun will not rise tomorrow is no less intelligible a proposition, and implies no more contradiction, than the affirmation, that it will rise. --David Hume, Scottish Philosopher and Historian
 
 Law is the ultimate science. --Frank Herbert, American Author, in "Dune"
+
+Perhaps a little more housework and a little less mouse work might do you some good. --Moira Rose, in TV show "Schitt's Creek", S06E10 "Sunrise, Sunset" (2015)
+
+You can never be worse than your problems. --Agent of Jarrett Jack, American Basketball Player
