@@ -295,3 +295,29 @@ Each day, try to do at least ONE thing you dread to do; if possible, THE thing y
 It's better to underpromise than underdeliver.
 
 Missed thoughts are O-K (not always bad). Let the best thoughts percolate to the top. Let forgetfulness be the filter of good ideas. Cream rises.
+
+EVERYTHING you do, including all of your "mistakes", you do for a reason. Much of the time, if not all, it's unconscious. Because of this, there's no reason to worry about everything (or anything?). Just try your best to be good, and forget about the rest. Relax!
+
+Major cliche warning: It's hard to be a human being. Just focus on "doing" you.(Duh! JK) And try to be/do good always. Ethics and morals are real/matter.
+
+Take pride in finishing something, anything, whether it's a drink, a plate of food, or a project.
+
+Waste not, want not.
+
+If you think you need a lawyer, the answer is yes & it might already be too late.
+
+If you've thought of something once, it's in your brain's capacity to think of it again - the neural networks exist.
+
+Don't marry your first partner; chances are it is not a miracle and you are not in fact compatible. Don't hire the first person you interview; you need to compare and contrast candidates in order to gain a good perspective.
+
+Re job and work: Whatever NEEDS to happen, WILL happen. Everything else is optional.
+
+Procrastination is our only remaining middle finger (F U) to The Man! Procrastination is an art. Make it an art.
+
+The kids who don't take & eat the cookie 1st are (turn out to be) the smartest. It'll be massively painful; however, you must wait, and ultimately you shall be greatly rewarded (with your cookie).
+
+Fail fast.
+
+Walk bravely into that good night, soldier: Toss your digital and physical trash with courage, change/move your situation frequently (like a nomad), and sync up your changes - all without regret(s).
+
+Your missed opportunity is what actually becomes a memory - of regret. When you are present, it becomes unmemorable. When you miss it, you remember it, albeit with regret.
