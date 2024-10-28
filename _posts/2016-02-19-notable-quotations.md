@@ -581,3 +581,11 @@ Law is the ultimate science. --Frank Herbert, American Author, in "Dune"
 Perhaps a little more housework and a little less mouse work might do you some good. --Moira Rose, in TV show "Schitt's Creek", S06E10 "Sunrise, Sunset" (2015)
 
 You can never be worse than your problems. --Agent of Jarrett Jack, American Basketball Player
+
+Follow the three (3) R's: Respect for Self, Respect for Others, and Responsibility for All Your Actions. --Dalai Lama XIV
+
+It is not only what we do, but also what we do not do, for which we are accountable. --Brené Brown, American Academic and Podcaster
+
+Write simply. --Paul Graham, American Computer Scientist and Writer
+
+Don't encumber the earth. --George Saunders, American Writer, on Kelly Corrigan Wonders, PRX (2021-04-14)
