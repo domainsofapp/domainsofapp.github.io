@@ -589,3 +589,5 @@ It is not only what we do, but also what we do not do, for which we are accounta
 Write simply. --Paul Graham, American Computer Scientist and Writer
 
 Don't encumber the earth. --George Saunders, American Writer, on Kelly Corrigan Wonders, PRX (2021-04-14)
+
+The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. --Douglas Adams, English Author, in "The Restaurant at the End of the Universe"
