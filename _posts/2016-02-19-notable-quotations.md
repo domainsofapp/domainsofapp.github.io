@@ -591,3 +591,5 @@ Write simply. --Paul Graham, American Computer Scientist and Writer
 Don't encumber the earth. --George Saunders, American Writer, on Kelly Corrigan Wonders, PRX (2021-04-14)
 
 The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. --Douglas Adams, English Author, in "The Restaurant at the End of the Universe"
+
+I can't say I'm outraged. Other people do worse. Of course, there are many mathematicians who are more or less honest. But almost all of them are conformists. They are more or less honest, but they tolerate those who are not honest...It is not people who break ethical standards who are regarded as aliens. It is people like me who are isolated. --Grigori Perelman, Russian Mathematician
