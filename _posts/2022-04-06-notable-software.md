@@ -13,6 +13,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 ## Notable Software Programs
 - AOL Instant Messenger AIM for chatting
 - DC++ for media & software sharing
+- Carbon Dating the Web (compliments of Old Dominion University)
 - Firefox Sync (client-side encrypted! [1])
 - ICQ for chatting
 - iTunes for music sharing over a shared network (early versions)
@@ -22,6 +23,7 @@ Thanks to the authors, innovators, and others involved in creating & maintaining
 - Signal for end-to-end encrypted chat (text messaging) -> Not quite, though, b/c it is centralized (both the AWS servers and the company which rents them)
 - Tor Browser for anonymity & security (end-to-end encryption) (e.g., for social justice whistle-blowers)
 - VLC Media Player for universal media playing & viewing
+- Wayback Machine (compliments of The Internet Archive)
 - WikiLeaks for anonymous & secure (end-to-end encrypted) social justice whistle-blowing
 
 <br>
