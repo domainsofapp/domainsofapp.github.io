@@ -8,7 +8,7 @@ title: Paraphrased Philosophy
 
 <p class="meta">29 Jun 2018 - Berkeley, CA</p>
 
-NB: Rumor has it that all Wikipedia links ultimately lead to "Philosophy".
+NB: Apocrypha claims that all Wikipedia links ultimately lead to "Philosophy".
 
 ## Giorgio Agamben, Italian Philosopher
 Introduced the concept of "Homo Sacer" (Latin phrase), representing bare human rights. Homo sacer: Philosophical concept (term) relating to the reduction/stripping of the human being to her most bare/fundamental human rights without killing her (e.g., USA prisoners at Guantanamo Bay who are tortured for years and have yet to be charged with any crime or put on trial; illegal immigrants in the USA; or, sans-papiers in France - those who are uncounted by the state).
@@ -238,6 +238,9 @@ Paired with capitalism, new forms of representation (e.g., new identities) = new
 ## Parallax View
 Looking at something from radically different perspectives; the only way to break through a dialectical stalemate and make real progress as a society.
 
+## Karl Popper, Austrian-British Philosopher and Academic
+In the real world, science happens by falsifying currently held beliefs. Science is like the chipping away of falsehoods until we get to something like the truth.
+
 ## Willard Van Orman Quine, American Philosopher
 Words only have meaning insofar as we humans place meaning in them.
 
@@ -316,11 +319,20 @@ On Sigmund Freud's Fetishist Disavowal: Follows the formula, "I know very well, 
 
 On Hegel's Determinate Negation: Coffee without cream is not the same as coffee without milk.
 
+Fetish = Pure fantasy; the true horror is the actual realization of it.
+
 ## Theorem of Truth - Ideas and Paraphrasing Mine
 Theorem of truth means consistency with a given set of rules; however, the fact that it is true (the "trueness", or the quality of Truth) is not derivable from the rules themselves.
 
+## Theory-ladenness of Observation (Observation vs. Perception)
+Compliments of: Norwood Russell Hanson, Thomas Kuhn, and Paul Feyerabend
+
+Observations are some kind of interpretation that we give to them. So, "in a sense", so to speak (no pun intended), we perceive nothing. Anytime we make a scientific observation, we're not perceiving the phenomenon; it's filtered through many, many layers of observation and interpretation and analysis. So, when we say we've observed - we've detected - this particle in this particle accelerator, what does that actually mean? Well, it means there was some cluster of photons in this detector that were produced by some Cherenkov radiation, which then stimulated some photovoltaic cells on the scintillator. And there are maybe 100 layers of models and theories and additional bits of interpretation in between whatever was going on in that particle accelerator and the bits of photosensitive cells that were stimulated in the scientists' eyes as they looked at the screen and saw this thing. So, if you trace out how many levels of abstraction there are between the "perceptions" and the "scientific observations", it's huge. And it only takes one of those to be wrong or tweaked a little bit, and suddenly the model you have of the world, which is still just as consistent with your own perceptions, is completely different.
+
+Re multiverse (as example only, and not necessarily in defense of this interpretation of quantum mechanics): When you see people saying the multiverse is fundamentally unobservable, well, it's true that it's not perceivable. But most things we care about in science aren't perceivable as such. Here, David Deutsch invokes the example of dinosaurs, namely, that no one has ever seen a dinosaur. No one will ever see a dinosaur or produce a dinosaur in a laboratory. If you restrict science to only things we can directly perceive or test in the laboratory, then you can't make statements about dinosaurs. But when we look at the composition and distribution of fossils, that perceptual data is consistent with a model of the world that logically implies the existence of dinosaurs, and that's really what we mean when we say we have evidence of dinosaurs. So there's an important distinction between saying the multiverse isn't perceivable (true) vs. it's not possible on the basis of perceptions that we can have to validate a model of the world that's logically consistent with the existence of a multiverse.
+
 ## Uncanny Valley - Everyday (Common Mundane/Worldly) Examples - Ideas and Paraphrasing Mine
-Animals doing it: Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" (an absurd premise) but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
+Animals "doing it": Hearing or seeing animals (e.g., cats or dogs) go at it is incredibly awkward not because you are "violating their privacy" (an absurd premise) but because it looks like what humans sometimes do, too, and, in turn, reminds us that we are animals, which is a fact that we do not like to accept for some (likely pretentious and highfalutin) reason(s).
 
 Cover band: It is more weird when a cover band sounds just like the real band but strays off-key from time to time vs. a cover band that does their own unique variation of the original sound (and thereby always sounds "off-key", so to speak, in reference to the original).
 
