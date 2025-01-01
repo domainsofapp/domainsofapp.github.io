@@ -8,6 +8,57 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## From the Film "Endless Poetry" - Selection 4
+Alejandro,  
+poetry is an act.
+
+A thousand times, yes!  
+Poetry is an act!
+
+## From the Film "Endless Poetry" - Selection 3
+Alejandro, do you agree  
+that the language we were taught  
+transports crazy ideas?
+
+That's right, Enrique.  
+Instead of thinking straight,  
+we think crooked.
+
+## From the Film "Endless Poetry" - Selection 2
+Everything will vanish.  
+Our souls will disappear.  
+It doesn't matter.  
+Dreams vanish too,  
+and little by little  
+we dissolve.  
+Poetry,  
+like the shadow of a flying eagle,  
+leaves no trace on the land.  
+A poem reaches perfection  
+when it burns.
+
+I couldn't bear to see this work of art burn.  
+May I suggest something?  
+Let's go for a walk.
+
+Let's go!
+
+## From the Film "Endless Poetry" - Selection 1
+Where there are ears but no song  
+in this evanescent world,  
+where the Being surrenders to the undeserving,  
+I am more my footprints than my steps.
+
+Like a bird,  
+like the entrails of a tree,  
+you reached the end of a quest,  
+defeated and doomed,  
+for having silenced the soul  
+you concealed.
+
+Don't worry.  
+A harmless fit of sadness.
+
 ## Der Schwer Gefasste Entschluss (The Difficult Resolution aka The Elusive Decision)
 Muss es sein? (Must it be?)  
 Es muss sein! (It must be!)  
