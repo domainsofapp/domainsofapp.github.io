@@ -9,4 +9,5 @@
 8. Add view counter to site (for general curiosity & interest's sake).
 9. Establish a favicon ICO for the blog. (Go to site and click "F12" and click around, and you'll see the error pop up in the developer dev tools.)
 10. Relabel what is "audio" vs. "video", etc.
+11. Replace links with Internet Archive links in hopes that they'll expire at a less rapid pace.
 END
