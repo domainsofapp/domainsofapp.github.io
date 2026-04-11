@@ -31,6 +31,7 @@ Gelatus - Frozen; gel; gelatinous (ge-latin-ous, heh);
 Justitia omnibus - Justice for all  
 Liberae sunt nostrae cogitationes - Our thoughts are free (Cicero)  
 Maximus in minimis - Great in little things  
+Mea caligine tutus - Fortified by my own obscurity  
 Ne quid nimis - Nothing in excess (Terence)  
 Non scholae sed vitae discimus - Not for school but for life  
 Pactum serva - Keep the faith  
