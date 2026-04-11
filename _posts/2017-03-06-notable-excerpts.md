@@ -8,12 +8,29 @@ title: Notable Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
+## Excerpt from Into the Inferno
+There's no permanence  
+to what we are doing...  
+no permanence to the efforts  
+of human being,  
+no permanence to art,  
+no permanence to science.  
+There is something of a crust  
+that is somehow moving,  
+and it makes me fond of the volcano  
+to know that our life,  
+human life, or animals,  
+can only live and survive 
+because the volcanoes created  
+the atmosphere that we need.
+
+by Werner Herzog
+
 ## Excerpt from All the Pretty Horses
 - (Duena Alfonsa) We'll see what fate has in store for us, won't we?
 - (John Grady Cole) I thought you didn't believe in fate.  
 She waved her hand.
 - (Duena Alfonsa) It's not so much that I don't believe in it - I don't subscribe to its nomination. If fate is the law, then is fate also subject to that law? At some point we cannot escape naming responsibility - it's in our nature. Sometimes I think we are all like that myopic coiner at his press, taking the blind slugs one by one from the tray, all of us bent so jealously at our work, determined that not even chaos be outside of our own making.
-
 
 by Cormac McCarthy, American Writer and Author of Novels
 
