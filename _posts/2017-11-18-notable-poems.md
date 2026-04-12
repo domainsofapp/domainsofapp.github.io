@@ -8,6 +8,27 @@ title: Notable Poems
 
 <p class="meta">18 Nov 2017 - Berkeley, CA</p>
 
+## The Prophecy of the Seeress
+'Neath the sea the land sinketh,  
+the sun dimmeth,  
+from the heavens  
+fall the fair, bright stars;  
+gusheth forth steam and gutting fire,  
+to very heaven soar  
+the hurtling flames.  
+The fates I fathom,  
+yet farther I see:  
+of the mighty gods  
+the engulfing doom.  
+Comes the darksome dragon flying,  
+Nthhogg,  
+upward from the Nitha Fells.  
+He bears in his pinions  
+as the plains he o'erflies,  
+now he will sink.
+
+from The Royal Codex, or Codex Regius: an apocalyptic vision of the end of the pagan gods - of a huge volcanic event.
+
 ## From the Film "Endless Poetry" - Selection 4
 Alejandro,  
 poetry is an act.
