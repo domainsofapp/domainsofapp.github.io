@@ -597,3 +597,5 @@ I can't say I'm outraged. Other people do worse. Of course, there are many mathe
 Politics is the art of controlling your environment. --Dr. Hunter S. Thompson, American Journalist and Author, Motif of the Freak Power Party, and later in The Great Shark Hunt (1979)
 
 I took bipolar medication last night to have a normal conversation and turn alien into English. (My philosophical paraphrase: My brain translates alien into English.) --Kanye West, American rapper and songwriter, in the documentary, Jeen-yuhs
+
+I man a de bush doctor. --Peter Tosh, Peter Tosh, Jamaican Musician
