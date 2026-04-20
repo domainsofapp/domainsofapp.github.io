@@ -8,6 +8,11 @@ title: Notable Excerpts
 
 <p class="meta">06 Mar 2017 - Berkeley, CA</p>
 
+## Excerpt from The Rum Diary
+He talked about luck and fate and numbers coming up, yet he never ventured a nickel at the casinos because he knew the house had all the percentages. And beneath his pessimism, his bleak conviction that all the machinery was rigged against him, at the bottom of his soul was a faith that he was going to outwit it, that by carefully watching the signs he was going to know when to dodge and be spared. It was fatalism with a loophole, and all you had to do to make it work was never miss a sign. Survival by coordination, as it were. The race is not to the swift, nor the battle to the strong, but to those who can see it coming and jump aside. Like a frog evading a shillelagh in a midnight marsh.
+
+by Hunter S. Thompson
+
 ## Excerpt from Into the Inferno
 There's no permanence  
 to what we are doing...  
