@@ -93,6 +93,7 @@ Train to Busan
 
 ## Notable Actors
 Tony Leung Chiu-wai  
+Cassandra Ciangherotti  
 Klaus Kinski
 
 ## Notable Directors, Producers, & Screenwriters
