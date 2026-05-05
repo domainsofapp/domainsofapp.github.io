@@ -232,6 +232,8 @@ We manifest our will to power.
 
 In order to survive, at every moment we must exert our will to power and impose our unique selves unto the world.
 
+The Ubermensch (The Overhuman/Superhuman) is not beholden to society's morals and is wise and willful enough to carve out their own moral path.
+
 ## M. Ng, Philosopher Friend
 Paired with capitalism, new forms of representation (e.g., new identities) = new forms of materialism.
 
