@@ -58,6 +58,7 @@ Fear and Loathing in Las Vegas
 Groundhog Day  
 I'm a Cyborg, but That's OK  
 In the Mood for Love  
+Las Locuras (The Follies)  
 Last Life in the Universe  
 Leaving Las Vegas  
 Lost in Translation  
@@ -95,6 +96,7 @@ Tony Leung Chiu-wai
 Klaus Kinski
 
 ## Notable Directors, Producers, & Screenwriters
+Rodrigo Garcia  
 Werner Herzog  
 Steve James  
 Wong Kar-wai
