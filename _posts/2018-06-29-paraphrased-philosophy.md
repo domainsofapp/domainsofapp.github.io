@@ -207,6 +207,10 @@ Categorical imperative: "Act only according to that maxim whereby you [would], a
 
 Categorical imperative: Always act so that you can will the rule of your action to be a universal law. (Always act so you can will the rule of your action into universal law.)
 
+Noumenal: How the world exists on its own (reality as it is itself, independent of "intelligent" (sense) perception and experience - see Phenomenal)
+
+Phenomenal: How the world appears to us (via (sense) perception and experience - how intelligence (the human brain) processes (sense) perception)
+
 ## Søren Kierkegaard, Danish Theologian and Philosopher
 I know that God exists, but I will act as if (S)He doesn't.
 
