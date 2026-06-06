@@ -601,3 +601,5 @@ I took bipolar medication last night to have a normal conversation and turn alie
 I man a de bush doctor. --Peter Tosh, Peter Tosh, Jamaican Musician
 
 Yesterday's weirdness is tomorrow's reason why. --Hunter S. Thompson, American Journalist and Author, in The Curse of Lono, 1983
+
+Why be happy when you could be interesting? --Slavoj Žižek, Slovenian Philosopher
