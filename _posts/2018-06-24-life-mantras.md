@@ -323,3 +323,5 @@ Walk bravely into that good night, soldier: Toss your digital and physical trash
 Your missed opportunity is what actually becomes a memory - of regret. When you are present, it becomes unmemorable. When you miss it, you remember it, albeit with regret.
 
 444: Inhale 4s, hold 4s, exhale 4s. (Compliments of Rodrigo Garcia film, Las Locuras aka The Follies)
+
+Embrace the mystery, and you'll be saved. (From the film, The Barbarian Invasions)
