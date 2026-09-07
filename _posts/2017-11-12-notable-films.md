@@ -26,6 +26,10 @@ Chunking Express
 Real Genius  
 Tampopo (Ramen noodle Western)
 
+## Death
+The Barbarian Invasions  
+Cherry Blossoms (German: Hanami)
+
 ## Documentary
 Avicii: True Stories  
 Burden of Dreams (& corresponding eponymous book & extra scenes incl. "Werner Herzog Eats His Shoe")  
