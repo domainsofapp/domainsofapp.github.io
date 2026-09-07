@@ -82,6 +82,7 @@ Johann Sebastian Bach, German composer
 John Archibald Wheeler, American theoretical physicist  
 John Dewey, American philosopher  
 John McAfee, Computer programmer  
+Johnny "J", Mexican-American songwriter and record producer  
 Jonatan Aron Leandoer Håstad (Yung Lean), Swedish rapper  
 Jónsi, Icelandic musician (of Sigur Rós, Rock band)  
 Josiah Willard Gibbs, American scientist  
