@@ -607,3 +607,5 @@ Why be happy when you could be interesting? --Slavoj Žižek, Slovenian Philosop
 And another one. --DJ Khaled, American DJ and Rapper
 
 There are no inventors of anything other than the specific application you write. --John McAfee, British-American computer programmer and businessman, on Episode "The Mac is Back!" of the podcast "The Bad Crypto"
+
+(Career) Politics is the highest echelon of crime. --B.P., personal conversation (paraphrased)
